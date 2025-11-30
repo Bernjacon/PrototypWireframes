@@ -1,4 +1,5 @@
 Für den Klick-Prototypen funktioniert:
+Isabella ist zuständig für die Wireframes, ich war nur für die Funktionalität zuständig.
 Allgemeiner Ablauf unseres Spiels.
 Hauptmenü:
 
