@@ -14450,6 +14450,60 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1870712177}
   m_CullTransparentMesh: 1
+--- !u!1 &1874774019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1874774021}
+  - component: {fileID: 1874774020}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1874774020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874774019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba311c4fe382edc47866687f17a87a3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menu: {fileID: 6132643290212654602}
+  mouseSttg: {fileID: 2210578336534652964}
+  audioSttg: {fileID: 6658231192661161096}
+  b4Start: {fileID: 673899223}
+  desktopScreen: {fileID: 1035511601}
+  internetzz: {fileID: 1960770683244399351}
+  galerie: {fileID: 2048600473851473414}
+  galerieBild: {fileID: 1172079489}
+  videobox: {fileID: 742191337427957275}
+  chatbubble: {fileID: 5424426629237745929}
+--- !u!4 &1874774021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874774019}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 829.789, y: 550.3038, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1876392763
 GameObject:
   m_ObjectHideFlags: 0
@@ -25706,10 +25760,11 @@ SceneRoots:
   - {fileID: 673899224}
   - {fileID: 1035511602}
   - {fileID: 3179388207094067586}
-  - {fileID: 1853929769}
-  - {fileID: 952833040}
-  - {fileID: 100734467}
   - {fileID: 3118581596806780275}
   - {fileID: 1172079490}
   - {fileID: 4424136961516883310}
   - {fileID: 8966127483682460284}
+  - {fileID: 1853929769}
+  - {fileID: 952833040}
+  - {fileID: 100734467}
+  - {fileID: 1874774021}

@@ -1,23 +1,58 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using Unity.VisualScripting;
+using System.Security.Cryptography.X509Certificates;
 public class UiManager : MonoBehaviour
 {
-    [SerializeField] private Scene scnOnline;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private Canvas settings;
+    [SerializeField] private Canvas mainMenu;
+    [SerializeField] private Canvas mouseSttg;
+    [SerializeField] private Canvas audioSttg;
+    private void Start()
     {
-        
+        settings.enabled = false;
+        mainMenu.enabled = true; 
+        mouseSttg.enabled = false;
+        audioSttg.enabled = false;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void ExitGame()
     {
-        
+        Application.Quit();
     }
 
-    void StartGame()
+    public void StartGame()
     {
-        SceneManager.
+        SceneManager.LoadScene(1);
     }
+
+    public void OpenSettings()
+    {
+        settings.enabled=true;
+        mainMenu.enabled = false;
+        mouseSttg.enabled = false;
+        audioSttg.enabled = false;
+    }
+    
+    public void MainMenu()
+    {
+        settings.enabled = false;
+        mainMenu.enabled = true;
+        mouseSttg.enabled = false;
+        audioSttg.enabled = false;
+    }
+
+    public void MouseSettings()
+    {
+        mouseSttg.enabled=true;
+        audioSttg.enabled = false;
+    }
+
+    public void AudioSettings()
+    {
+        audioSttg.enabled = true;
+        mouseSttg.enabled = false;
+    }
+
 }
