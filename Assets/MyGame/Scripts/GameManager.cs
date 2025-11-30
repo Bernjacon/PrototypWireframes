@@ -134,6 +134,7 @@ public class GameManager : MonoBehaviour
             aktuellerIndex = 0;
         
     }
+
     public void PreviousBild()
     {
         aktuellerIndex--;
@@ -170,6 +171,8 @@ public class GameManager : MonoBehaviour
         DisableAllCanvas();
         chatbubble.enabled=true;
     }
+
+    
 
     public void OfflineMeeting()
     {

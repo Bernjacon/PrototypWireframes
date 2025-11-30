@@ -71,4 +71,6 @@ public class MeetingManager : MonoBehaviour
         dialogbox.SetActive(true);
     }
 
+    
+
 }

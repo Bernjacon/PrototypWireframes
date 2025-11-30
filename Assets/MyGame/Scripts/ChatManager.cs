@@ -31,4 +31,8 @@ public class ChatManager : MonoBehaviour
         Canvas.ForceUpdateCanvases();
         scrollRect.verticalNormalizedPosition = 0f;
     }
+    public void Abbruch()
+    {
+        inputField.text = "";
+    }
 }
