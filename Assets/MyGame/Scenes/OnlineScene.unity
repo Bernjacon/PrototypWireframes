@@ -15408,6 +15408,7 @@ GameObject:
   - component: {fileID: 1874774021}
   - component: {fileID: 1874774020}
   - component: {fileID: 1874774023}
+  - component: {fileID: 1874774024}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -15488,6 +15489,19 @@ MonoBehaviour:
   inputField: {fileID: 1580584981}
   chatBubblePrefab: {fileID: 136485380633306201, guid: fc402e53ca207ab41b61c78ac597f42e, type: 3}
   chatContainer: {fileID: 2045967446}
+--- !u!114 &1874774024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874774019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e98ac260f2bed34489544f4039ad73d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeText: {fileID: 40495104}
 --- !u!1 &1876392763
 GameObject:
   m_ObjectHideFlags: 0
