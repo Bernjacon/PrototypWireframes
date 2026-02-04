@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.Events;
 
 public class DialoguePersonScripts : MonoBehaviour
 {
@@ -13,70 +14,101 @@ public class DialoguePersonScripts : MonoBehaviour
 
     [Header("Typing")]
     public float typeSpeed = 0.03f;
-    private bool typing = false;
+    private bool isTyping = false;
     private string currentLine = "";
 
-    public int index;
+    [Header("IndexHandling")]
+    public int indexDSAArray;
+
+    [Header("Decision")]
+    public bool isWaitingForDecision;
+    public GameObject showDecisionBox;
+    
+
     public Dialogue[] dsa;
 
     void Start()
     {
         UpdateObjects();
+        showDecisionBox.SetActive(false);
     }
 
     void Update()
     {
-        if (Mouse.current.leftButton.wasPressedThisFrame)
+        if (Mouse.current.leftButton.wasPressedThisFrame && !isWaitingForDecision)
         {
-            if (typing)
+            if (isTyping)
             {
                 StopAllCoroutines();
                 dialogueText.text = currentLine;
-                typing = false;
+                isTyping = false;
             }
             else
             {
-                // Go to next line
-                index++;
-                if (index < dsa.Length)
+                if (dsa[indexDSAArray].isADecision == false)
                 {
-                    UpdateObjects();
+                    indexDSAArray++;
+                    if (indexDSAArray < dsa.Length)
+                    {
+                        UpdateObjects();
+                    }
+                    else
+                    {
+                        Debug.Log("Dialogue finished");
+                    }
                 }
-                else
+                else if (dsa[indexDSAArray].isADecision == true)
                 {
-                    Debug.Log("Dialogue finished");
+                    dsa[indexDSAArray].Decision.Invoke();
                 }
+                
             }
         }
     }
 
+    public void ActivateDecision()
+    {
+        isWaitingForDecision = true;
+        showDecisionBox.SetActive(true);
+    }
+
+    public void DecisionWasChosen(int decisionIntInput)
+    {
+        indexDSAArray = dsa[indexDSAArray].targetIndexAfterDecision[decisionIntInput];
+        UpdateObjects();
+        showDecisionBox.SetActive(false);
+        isWaitingForDecision = false;
+    }
     public void UpdateObjects()
     {
-        currentLine = dsa[index].textContents;
-        speakerImage.sprite = dsa[index].speakerVisual;
-
+        currentLine = dsa[indexDSAArray].textContents;
+        speakerImage.sprite = dsa[indexDSAArray].speakerVisual;
         StopAllCoroutines();
         StartCoroutine(TypeText(currentLine));
     }
 
     IEnumerator TypeText(string line)
     {
-        typing = true;
+        isTyping = true;
         dialogueText.text = "";
-
         foreach (char c in line)
         {
             dialogueText.text += c;
             yield return new WaitForSeconds(typeSpeed);
         }
-
-        typing = false;
+        isTyping = false;
     }
 }
 
 [Serializable]
 public class Dialogue
 {
+    [Header("Dialogue")]
     public string textContents;
     public Sprite speakerVisual;
+    [Header("Decision Event")]
+    public UnityEvent Decision;
+    public bool isADecision;
+    public int[] targetIndexAfterDecision;
 }
+
