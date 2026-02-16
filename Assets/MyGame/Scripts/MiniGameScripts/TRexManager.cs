@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.InputSystem;
 
-public class TreeRexManager : MonoBehaviour
+public class TRexManager : MonoBehaviour
 {
     public GameObject player;
     [SerializeField] int jumpforce;

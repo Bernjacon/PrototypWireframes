@@ -89,12 +89,11 @@ public class CactusSpawn : MonoBehaviour
         if (winRoutine != null)
             StopCoroutine(winRoutine);
 
-        FindAnyObjectByType<TreeRexManager>().enabled = false;
+        FindAnyObjectByType<TRexManager>().enabled = false;
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
 
         reloadSceneButton.SetActive(true);
-        Debug.Log("Death");
     }
 
     public void ReloadScene()
@@ -110,7 +109,7 @@ public class CactusSpawn : MonoBehaviour
         if (spawnRoutine != null)
             StopCoroutine(spawnRoutine);
 
-        FindAnyObjectByType<TreeRexManager>().enabled = false;
+        FindAnyObjectByType<TRexManager>().enabled = false;
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
 

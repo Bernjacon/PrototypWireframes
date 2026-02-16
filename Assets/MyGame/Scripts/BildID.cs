@@ -10,7 +10,7 @@ public class BildID : MonoBehaviour
     private void Start()
     {
         img = GetComponent<Image>();
-        gameManager = Object.FindObjectOfType<GameManager>();
-       this.img.sprite = gameManager.bild[id];
+        gameManager = FindFirstObjectByType<GameManager>();
+        this.img.sprite = gameManager.bild[id];
     }
 }

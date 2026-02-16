@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyGame/Scenes/MainMenu.unity
+    path: Assets/MyGame/Scenes/StartMenuScriptIPreImplimented_ImplimintationReady.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/MyGame/Scenes/OnlineScene.unity
@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyGame/Scenes/OfflineTreffen.unity
     guid: 524448ddb7d31e04cb61fb29285604b9
+  - enabled: 1
+    path: Assets/MyGame/Scenes/DialogueScriptPreImplimented_ImplimintationReady.unity
+    guid: c6949bcceff324a49902a1d5d58fcb60
+  - enabled: 1
+    path: Assets/MyGame/Scenes/FinalSceneAndCreditsPreImplimented_ImplimintationReady.unity
+    guid: f647ab21fdc0bd04ba115cf147a0a4d5
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
