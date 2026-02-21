@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 750ab29ac9e23094cb754f25e344f42a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7621221025793719586
+    second: QuinnBackgroundIdleSpriteSheet_0
+  - first:
+      213: 5107324813640766382
+    second: QuinnBackgroundIdleSpriteSheet_1
+  - first:
+      213: 4960429170683625852
+    second: QuinnBackgroundIdleSpriteSheet_2
+  - first:
+      213: 9177319196263242251
+    second: QuinnBackgroundIdleSpriteSheet_3
+  - first:
+      213: 8987973335749853430
+    second: QuinnBackgroundIdleSpriteSheet_4
+  - first:
+      213: -5067082084692235558
+    second: QuinnBackgroundIdleSpriteSheet_5
+  - first:
+      213: 6213363045964502425
+    second: QuinnBackgroundIdleSpriteSheet_6
+  - first:
+      213: -6543882613175348961
+    second: QuinnBackgroundIdleSpriteSheet_7
+  - first:
+      213: -6117191991144214252
+    second: QuinnBackgroundIdleSpriteSheet_8
+  - first:
+      213: 6101572224352757264
+    second: QuinnBackgroundIdleSpriteSheet_9
+  - first:
+      213: 7337704706793610876
+    second: QuinnBackgroundIdleSpriteSheet_10
+  - first:
+      213: 2998040571932712191
+    second: QuinnBackgroundIdleSpriteSheet_11
+  - first:
+      213: -7769041636957557584
+    second: QuinnBackgroundIdleSpriteSheet_12
+  - first:
+      213: -6576158327690698160
+    second: QuinnBackgroundIdleSpriteSheet_13
+  - first:
+      213: -7470629748282931360
+    second: QuinnBackgroundIdleSpriteSheet_14
+  - first:
+      213: 2508868115567676087
+    second: QuinnBackgroundIdleSpriteSheet_15
+  - first:
+      213: 2280022045232020332
+    second: QuinnBackgroundIdleSpriteSheet_16
+  - first:
+      213: -3043729166858828801
+    second: QuinnBackgroundIdleSpriteSheet_17
+  - first:
+      213: 2429038983232736788
+    second: QuinnBackgroundIdleSpriteSheet_18
+  - first:
+      213: -101827964439573224
+    second: QuinnBackgroundIdleSpriteSheet_19
+  - first:
+      213: -171893757465952109
+    second: QuinnBackgroundIdleSpriteSheet_20
+  - first:
+      213: -831643719195585717
+    second: QuinnBackgroundIdleSpriteSheet_21
+  - first:
+      213: 7915843324566496446
+    second: QuinnBackgroundIdleSpriteSheet_22
+  - first:
+      213: 1098337124965808690
+    second: QuinnBackgroundIdleSpriteSheet_23
+  - first:
+      213: 6436083943517146115
+    second: QuinnBackgroundIdleSpriteSheet_24
+  - first:
+      213: -2186739736873980110
+    second: QuinnBackgroundIdleSpriteSheet_25
+  - first:
+      213: -5316393841887969662
+    second: QuinnBackgroundIdleSpriteSheet_26
+  - first:
+      213: 8373411858026792391
+    second: QuinnBackgroundIdleSpriteSheet_27
+  - first:
+      213: 5237815698400648832
+    second: QuinnBackgroundIdleSpriteSheet_28
+  - first:
+      213: 8106521426560136221
+    second: QuinnBackgroundIdleSpriteSheet_29
+  - first:
+      213: -4084187462174570106
+    second: QuinnBackgroundIdleSpriteSheet_30
+  - first:
+      213: -2724313797671966385
+    second: QuinnBackgroundIdleSpriteSheet_31
+  - first:
+      213: -3765626303886570601
+    second: QuinnBackgroundIdleSpriteSheet_32
+  - first:
+      213: 3499520256083762058
+    second: QuinnBackgroundIdleSpriteSheet_33
+  - first:
+      213: -770225637544672885
+    second: QuinnBackgroundIdleSpriteSheet_34
+  - first:
+      213: 6658670398982834349
+    second: QuinnBackgroundIdleSpriteSheet_35
+  - first:
+      213: -1143063211811937186
+    second: QuinnBackgroundIdleSpriteSheet_36
+  - first:
+      213: -8997044979168150606
+    second: QuinnBackgroundIdleSpriteSheet_37
+  - first:
+      213: 3466259494972040707
+    second: QuinnBackgroundIdleSpriteSheet_38
+  - first:
+      213: -8178113411498531968
+    second: QuinnBackgroundIdleSpriteSheet_39
+  - first:
+      213: 8902278598870379562
+    second: QuinnBackgroundIdleSpriteSheet_40
+  - first:
+      213: -9087301382927828792
+    second: QuinnBackgroundIdleSpriteSheet_41
+  - first:
+      213: 6293380260676813794
+    second: QuinnBackgroundIdleSpriteSheet_42
+  - first:
+      213: -3158282591336222303
+    second: QuinnBackgroundIdleSpriteSheet_43
+  - first:
+      213: -4259670587154316299
+    second: QuinnBackgroundIdleSpriteSheet_44
+  - first:
+      213: 4346429933974418618
+    second: QuinnBackgroundIdleSpriteSheet_45
+  - first:
+      213: 3209040291823821364
+    second: QuinnBackgroundIdleSpriteSheet_46
+  - first:
+      213: 7051939839786999283
+    second: QuinnBackgroundIdleSpriteSheet_47
+  - first:
+      213: 8719179763073909247
+    second: QuinnBackgroundIdleSpriteSheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 8915
+        width: 251
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3c2dd42404c960800000000000000
+      internalID: 7621221025793719586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 8915
+        width: 251
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea39895bbdcd0e640800000000000000
+      internalID: 5107324813640766382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 8915
+        width: 251
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71451c9c0cf6d440800000000000000
+      internalID: 4960429170683625852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 8915
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad4ab7f236c5f70800000000000000
+      internalID: 9177319196263242251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 8915
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f08d08e022bbbc70800000000000000
+      internalID: 8987973335749853430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 8915
+        width: 251
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada6c26c0bb1ea9b0800000000000000
+      internalID: -5067082084692235558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 7835
+        width: 251
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995d04f35cc4a3650800000000000000
+      internalID: 6213363045964502425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 7835
+        width: 251
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1114dd2f657f25a0800000000000000
+      internalID: -6543882613175348961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 7835
+        width: 251
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4111cf85b4e5b1ba0800000000000000
+      internalID: -6117191991144214252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 7835
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016afeb4c932da450800000000000000
+      internalID: 6101572224352757264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 7835
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e1523dd83c4d560800000000000000
+      internalID: 7337704706793610876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 7835
+        width: 251
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc1240140e2b9920800000000000000
+      internalID: 2998040571932712191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 6755
+        width: 251
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcece71bc1de2490800000000000000
+      internalID: -7769041636957557584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 6755
+        width: 251
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052e44bc7daccb4a0800000000000000
+      internalID: -6576158327690698160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 6755
+        width: 251
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067412533ddf25890800000000000000
+      internalID: -7470629748282931360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 6755
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba07b0324a41d220800000000000000
+      internalID: 2508868115567676087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 6755
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3d1658f344af10800000000000000
+      internalID: 2280022045232020332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 6755
+        width: 251
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff342e8f27082c5d0800000000000000
+      internalID: -3043729166858828801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 5675
+        width: 251
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec92de51ea5b120800000000000000
+      internalID: 2429038983232736788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 5675
+        width: 251
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc06f710c369ef0800000000000000
+      internalID: -101827964439573224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 5675
+        width: 251
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390822fc98f4d9df0800000000000000
+      internalID: -171893757465952109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 5675
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4399a191786574f0800000000000000
+      internalID: -831643719195585717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 5675
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ee625099badd60800000000000000
+      internalID: 7915843324566496446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 5675
+        width: 251
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23af531cbc31e3f00800000000000000
+      internalID: 1098337124965808690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 4595
+        width: 250
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4fed2f30915950800000000000000
+      internalID: 6436083943517146115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 4595
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f256f8bc327a1e0800000000000000
+      internalID: -2186739736873980110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 4595
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e7130e7ff5836b0800000000000000
+      internalID: -5316393841887969662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 4595
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c50bbb78b5543470800000000000000
+      internalID: 8373411858026792391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 4595
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e922660a570b840800000000000000
+      internalID: 5237815698400648832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 4595
+        width: 251
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b53a8946208070800000000000000
+      internalID: 8106521426560136221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 3515
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890bf0642d0257c0800000000000000
+      internalID: -4084187462174570106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 3515
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f492119f80b413ad0800000000000000
+      internalID: -2724313797671966385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 3515
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b49f7e3decdbbc0800000000000000
+      internalID: -3765626303886570601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 3515
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1824b12bc09030800000000000000
+      internalID: 3499520256083762058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 3515
+        width: 250
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81404d0ddb9f45f0800000000000000
+      internalID: -770225637544672885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 3515
+        width: 251
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c7cfd279586c50800000000000000
+      internalID: 6658670398982834349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2435
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e128a0160320f0800000000000000
+      internalID: -1143063211811937186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 2435
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb78748243142380800000000000000
+      internalID: -8997044979168150606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 2435
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306222945a0aa1030800000000000000
+      internalID: 3466259494972040707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 2435
+        width: 250
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a5c68e21818e80800000000000000
+      internalID: -8178113411498531968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 2435
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c2b39283f3b8b70800000000000000
+      internalID: 8902278598870379562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 2435
+        width: 251
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8bbafe98b63e180800000000000000
+      internalID: -9087301382927828792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1355
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c81ad004965750800000000000000
+      internalID: 6293380260676813794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1355
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ba1b67b68b24d0800000000000000
+      internalID: -3158282591336222303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 1355
+        width: 250
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3cc707b2c92e4c0800000000000000
+      internalID: -4259670587154316299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 7166
+        y: 1355
+        width: 250
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab47baf1ffe915c30800000000000000
+      internalID: 4346429933974418618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 9086
+        y: 1355
+        width: 251
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4322318a42dc88c20800000000000000
+      internalID: 3209040291823821364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 11006
+        y: 1355
+        width: 251
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fddde7ebe58dd160800000000000000
+      internalID: 7051939839786999283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuinnBackgroundIdleSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 275
+        width: 251
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff18bce5ccfb00970800000000000000
+      internalID: 8719179763073909247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      QuinnBackgroundIdleSpriteSheet_0: 7621221025793719586
+      QuinnBackgroundIdleSpriteSheet_1: 5107324813640766382
+      QuinnBackgroundIdleSpriteSheet_10: 7337704706793610876
+      QuinnBackgroundIdleSpriteSheet_11: 2998040571932712191
+      QuinnBackgroundIdleSpriteSheet_12: -7769041636957557584
+      QuinnBackgroundIdleSpriteSheet_13: -6576158327690698160
+      QuinnBackgroundIdleSpriteSheet_14: -7470629748282931360
+      QuinnBackgroundIdleSpriteSheet_15: 2508868115567676087
+      QuinnBackgroundIdleSpriteSheet_16: 2280022045232020332
+      QuinnBackgroundIdleSpriteSheet_17: -3043729166858828801
+      QuinnBackgroundIdleSpriteSheet_18: 2429038983232736788
+      QuinnBackgroundIdleSpriteSheet_19: -101827964439573224
+      QuinnBackgroundIdleSpriteSheet_2: 4960429170683625852
+      QuinnBackgroundIdleSpriteSheet_20: -171893757465952109
+      QuinnBackgroundIdleSpriteSheet_21: -831643719195585717
+      QuinnBackgroundIdleSpriteSheet_22: 7915843324566496446
+      QuinnBackgroundIdleSpriteSheet_23: 1098337124965808690
+      QuinnBackgroundIdleSpriteSheet_24: 6436083943517146115
+      QuinnBackgroundIdleSpriteSheet_25: -2186739736873980110
+      QuinnBackgroundIdleSpriteSheet_26: -5316393841887969662
+      QuinnBackgroundIdleSpriteSheet_27: 8373411858026792391
+      QuinnBackgroundIdleSpriteSheet_28: 5237815698400648832
+      QuinnBackgroundIdleSpriteSheet_29: 8106521426560136221
+      QuinnBackgroundIdleSpriteSheet_3: 9177319196263242251
+      QuinnBackgroundIdleSpriteSheet_30: -4084187462174570106
+      QuinnBackgroundIdleSpriteSheet_31: -2724313797671966385
+      QuinnBackgroundIdleSpriteSheet_32: -3765626303886570601
+      QuinnBackgroundIdleSpriteSheet_33: 3499520256083762058
+      QuinnBackgroundIdleSpriteSheet_34: -770225637544672885
+      QuinnBackgroundIdleSpriteSheet_35: 6658670398982834349
+      QuinnBackgroundIdleSpriteSheet_36: -1143063211811937186
+      QuinnBackgroundIdleSpriteSheet_37: -8997044979168150606
+      QuinnBackgroundIdleSpriteSheet_38: 3466259494972040707
+      QuinnBackgroundIdleSpriteSheet_39: -8178113411498531968
+      QuinnBackgroundIdleSpriteSheet_4: 8987973335749853430
+      QuinnBackgroundIdleSpriteSheet_40: 8902278598870379562
+      QuinnBackgroundIdleSpriteSheet_41: -9087301382927828792
+      QuinnBackgroundIdleSpriteSheet_42: 6293380260676813794
+      QuinnBackgroundIdleSpriteSheet_43: -3158282591336222303
+      QuinnBackgroundIdleSpriteSheet_44: -4259670587154316299
+      QuinnBackgroundIdleSpriteSheet_45: 4346429933974418618
+      QuinnBackgroundIdleSpriteSheet_46: 3209040291823821364
+      QuinnBackgroundIdleSpriteSheet_47: 7051939839786999283
+      QuinnBackgroundIdleSpriteSheet_48: 8719179763073909247
+      QuinnBackgroundIdleSpriteSheet_5: -5067082084692235558
+      QuinnBackgroundIdleSpriteSheet_6: 6213363045964502425
+      QuinnBackgroundIdleSpriteSheet_7: -6543882613175348961
+      QuinnBackgroundIdleSpriteSheet_8: -6117191991144214252
+      QuinnBackgroundIdleSpriteSheet_9: 6101572224352757264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
