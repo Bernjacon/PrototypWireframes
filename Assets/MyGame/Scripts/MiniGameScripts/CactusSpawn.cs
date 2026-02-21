@@ -22,21 +22,30 @@ public class CactusSpawn : MonoBehaviour
     public float spawnIntervalMax;
     public float cactusLifetime;
     public GameObject reloadSceneButton;
+
+    [Header("UI")]
+    public Slider countdown;
+    public GameObject winScreen;
+
+    public bool hasntWonYet = true;
+
     private float elapsedTime = 0f;
+
     private Coroutine spawnRoutine;
     private Coroutine winRoutine;
 
-    public Slider countdown;
-    public GameObject winScreen;
-    public bool hasntWonYet = true;
-
-    private float timeLeft = 20f;
     private float totalTime = 20f;
+    private float timeLeft;
+
+    private bool countdownActive = true;
 
     private void Start()
     {
+        timeLeft = totalTime;
+
         spawnRoutine = StartCoroutine(SpawnCactusRoutine());
         winRoutine = StartCoroutine(WinCountdown());
+
         countdown.maxValue = 1f;
         countdown.value = 0f;
     }
@@ -45,10 +54,14 @@ public class CactusSpawn : MonoBehaviour
     {
         elapsedTime += Time.deltaTime;
 
+        if (!countdownActive)
+            return;
+
         if (timeLeft > 0f)
         {
             timeLeft -= Time.deltaTime;
             timeLeft = Mathf.Max(timeLeft, 0f);
+
             countdown.value = 1f - (timeLeft / totalTime);
         }
     }
@@ -83,6 +96,8 @@ public class CactusSpawn : MonoBehaviour
 
     public void Death()
     {
+        countdownActive = false;
+
         if (spawnRoutine != null)
             StopCoroutine(spawnRoutine);
 
@@ -90,6 +105,7 @@ public class CactusSpawn : MonoBehaviour
             StopCoroutine(winRoutine);
 
         FindAnyObjectByType<TRexManager>().enabled = false;
+
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
 
@@ -103,18 +119,23 @@ public class CactusSpawn : MonoBehaviour
 
     public IEnumerator WinCountdown()
     {
-        yield return new WaitForSeconds(20);
+        yield return new WaitForSeconds(totalTime);
+
+        countdownActive = false;
         hasntWonYet = false;
 
         if (spawnRoutine != null)
             StopCoroutine(spawnRoutine);
 
         FindAnyObjectByType<TRexManager>().enabled = false;
+
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
 
         winScreen.SetActive(true);
+
         yield return new WaitForSeconds(3);
+
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
