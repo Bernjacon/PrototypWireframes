@@ -11,7 +11,7 @@ public class StartMenuScript : MonoBehaviour
     [SerializeField] GameObject settingsDefault;
     [SerializeField] GameObject audioSettingsParent;
 
-    [Header("Sliders")]
+    [Header("Audio Sliders")]
     [SerializeField] Slider masterSlider;
     [SerializeField] Slider musicSlider;
     [SerializeField] Slider sfxSlider;

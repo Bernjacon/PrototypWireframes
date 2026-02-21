@@ -17,7 +17,6 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] Image speakerImage;
     [SerializeField] Sprite lastSpeakerSprite;
     [SerializeField] TMP_Text timeText;
-    [SerializeField] GameObject endGameButtonsParent;
     [SerializeField] Animator speakerAnimator;
 
     [Header("Typing")]
@@ -42,7 +41,6 @@ public class DialoguePersonScripts : MonoBehaviour
 
     void Start()
     {
-        endGameButtonsParent.SetActive(false);
 
         foreach (GameObject btn in showDecisionButtons)
         {
@@ -59,7 +57,7 @@ public class DialoguePersonScripts : MonoBehaviour
         if (!dialogueFinished && indexDSAArray >= dsa.Length)
         {
             dialogueFinished = true;
-            endGameButtonsParent.SetActive(true);
+            dsa[indexDSAArray].eventVariable.Invoke();
             return;
         }
 
@@ -75,7 +73,7 @@ public class DialoguePersonScripts : MonoBehaviour
             }
             else
             {
-                if (!dsa[indexDSAArray].isADecision)
+                if (!dsa[indexDSAArray].causesEvent)
                 {
                     indexDSAArray++;
                     if (indexDSAArray < dsa.Length)
@@ -85,7 +83,7 @@ public class DialoguePersonScripts : MonoBehaviour
                 }
                 else
                 {
-                    dsa[indexDSAArray].Decision.Invoke();
+                    dsa[indexDSAArray].eventVariable.Invoke();
                 }
             }
         }
@@ -237,11 +235,6 @@ public class DialoguePersonScripts : MonoBehaviour
         persistentAudioObjects.Clear();
     }
 
-    public void LoadCutScene(int i)
-    {
-        EndgameScript.videoClipIndex = i;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    }
 }
 
 [Serializable]
@@ -260,8 +253,8 @@ public class Dialogue
     public AudioClip[] persistentAudioClips;
     public AudioMixerGroup[] persistentAudioMixers;
 
-    [Header("Decision Event")]
-    public UnityEvent Decision;
-    public bool isADecision;
+    [Header("Event")]
+    public UnityEvent eventVariable;
+    public bool causesEvent;
     public int[] targetIndexAfterDecision;
 }

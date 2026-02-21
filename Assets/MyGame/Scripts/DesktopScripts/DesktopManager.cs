@@ -36,6 +36,5 @@ public enum GameStage
     PCLogin,
     Desktop,
     Puzzle1,
-    Puzzle2,
     End
 }
