@@ -21,6 +21,7 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] TMP_Text timeText;
     [SerializeField] Animator speakerAnimator;
     [SerializeField] Animator playerAnimator;
+    [SerializeField] Animator boxAnimator;
 
     [Header("Player Settings")]
     [SerializeField] Sprite playerVisual;
@@ -48,7 +49,6 @@ public class DialoguePersonScripts : MonoBehaviour
     private List<GameObject> persistentAudioObjects = new List<GameObject>();
 
     [SerializeField] Dialogue[] dsa;
-
 
     void Start()
     {
@@ -146,8 +146,9 @@ public class DialoguePersonScripts : MonoBehaviour
 
         currentLine = dsa[indexDSAArray].textContents;
 
-        GameObject newDisappearObj = dsa[indexDSAArray].disapearingSpeaker;
+        dialogueText.text = "";
 
+        GameObject newDisappearObj = dsa[indexDSAArray].disapearingSpeaker;
         if (newDisappearObj == null)
             newDisappearObj = lastDisappearingSpeaker;
 
@@ -165,14 +166,38 @@ public class DialoguePersonScripts : MonoBehaviour
         if (lastSpeakerSprite != null)
             speakerImage.sprite = lastSpeakerSprite;
 
-        if (speakerAnimator != null && dsa[indexDSAArray].animation != null)
-            speakerAnimator.runtimeAnimatorController = dsa[indexDSAArray].animation;
+        if (speakerAnimator != null && dsa[indexDSAArray].Speaker != null)
+            speakerAnimator.runtimeAnimatorController = dsa[indexDSAArray].Speaker;
 
-        StopAllCoroutines();
-        StartCoroutine(TypeText(currentLine));
+        if (boxAnimator != null && dsa[indexDSAArray].boxAnimation != null)
+        {
+            boxAnimator.runtimeAnimatorController = dsa[indexDSAArray].boxAnimation;
+            StartCoroutine(StartTypingAfterBoxAnimation());
+        }
+        else
+        {
+            StartCoroutine(TypeText(currentLine));
+        }
 
         PlayDialogueAudio();
         PlayPersistentAudio();
+    }
+
+    IEnumerator StartTypingAfterBoxAnimation()
+    {
+        if (boxAnimator != null)
+        {
+            AnimatorStateInfo state = boxAnimator.GetCurrentAnimatorStateInfo(0);
+
+            yield return null;
+            state = boxAnimator.GetCurrentAnimatorStateInfo(0);
+
+            float animationLength = state.length;
+
+            yield return new WaitForSeconds(animationLength);
+        }
+
+        StartCoroutine(TypeText(currentLine));
     }
 
     IEnumerator TypeText(string line)
@@ -302,7 +327,10 @@ public class Dialogue
     public string textContents;
     public Sprite speakerVisual;
     public GameObject disapearingSpeaker;
-    public RuntimeAnimatorController animation;
+    public RuntimeAnimatorController Speaker;
+
+    [Header("DialogueBoxAnimation")]
+    public RuntimeAnimatorController boxAnimation;
 
     [Header("Audio")]
     public AudioClip[] audioClips;

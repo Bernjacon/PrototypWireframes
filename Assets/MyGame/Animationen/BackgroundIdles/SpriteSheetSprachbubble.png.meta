@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ce349f86f92ef3f4090538c5039524c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2625341350049580184
+    second: SpriteSheetSprachbubble_0
+  - first:
+      213: -8278370160574807573
+    second: SpriteSheetSprachbubble_1
+  - first:
+      213: -212533466228873810
+    second: SpriteSheetSprachbubble_2
+  - first:
+      213: -2194284331674434848
+    second: SpriteSheetSprachbubble_3
+  - first:
+      213: -6535743183922910466
+    second: SpriteSheetSprachbubble_4
+  - first:
+      213: 2271095967117216202
+    second: SpriteSheetSprachbubble_5
+  - first:
+      213: -8726870031941036729
+    second: SpriteSheetSprachbubble_6
+  - first:
+      213: -4160347143566005919
+    second: SpriteSheetSprachbubble_7
+  - first:
+      213: -73635224302678130
+    second: SpriteSheetSprachbubble_8
+  - first:
+      213: 6233428265745683165
+    second: SpriteSheetSprachbubble_9
+  - first:
+      213: -1725026915505064724
+    second: SpriteSheetSprachbubble_10
+  - first:
+      213: 4515777278147206344
+    second: SpriteSheetSprachbubble_11
+  - first:
+      213: -4869844600075339391
+    second: SpriteSheetSprachbubble_12
+  - first:
+      213: 5070543471798516665
+    second: SpriteSheetSprachbubble_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_0
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3797
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b7628a3f9e09bd0800000000000000
+      internalID: -2625341350049580184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_1
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 3779
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1cebb13325d1d80800000000000000
+      internalID: -8278370160574807573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_2
+      rect:
+        serializedVersion: 2
+        x: 5991
+        y: 3728
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ab8240fdec0df0800000000000000
+      internalID: -212533466228873810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2623
+        width: 95
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20752b6065c81e0800000000000000
+      internalID: -2194284331674434848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_4
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2635
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa281bb3306c45a0800000000000000
+      internalID: -6535743183922910466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_5
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 2623
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac908d2dfbd848f10800000000000000
+      internalID: 2271095967117216202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_6
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 2601
+        width: 393
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745172161fde3e680800000000000000
+      internalID: -8726870031941036729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1497
+        width: 659
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169ef6db05a7346c0800000000000000
+      internalID: -4160347143566005919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_8
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1442
+        width: 975
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f8b7457256afef0800000000000000
+      internalID: -73635224302678130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_9
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 1391
+        width: 1277
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd296a84bf5918650800000000000000
+      internalID: 6233428265745683165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_10
+      rect:
+        serializedVersion: 2
+        x: 5991
+        y: 1382
+        width: 1477
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce43551f8297f08e0800000000000000
+      internalID: -1725026915505064724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 327
+        width: 1513
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9eb442834bae30800000000000000
+      internalID: 4515777278147206344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_12
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 338
+        width: 1508
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b7254326da6cb0800000000000000
+      internalID: -4869844600075339391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetSprachbubble_13
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 338
+        width: 1508
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbf9b63c603e5640800000000000000
+      internalID: 5070543471798516665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheetSprachbubble_0: -2625341350049580184
+      SpriteSheetSprachbubble_1: -8278370160574807573
+      SpriteSheetSprachbubble_10: -1725026915505064724
+      SpriteSheetSprachbubble_11: 4515777278147206344
+      SpriteSheetSprachbubble_12: -4869844600075339391
+      SpriteSheetSprachbubble_13: 5070543471798516665
+      SpriteSheetSprachbubble_2: -212533466228873810
+      SpriteSheetSprachbubble_3: -2194284331674434848
+      SpriteSheetSprachbubble_4: -6535743183922910466
+      SpriteSheetSprachbubble_5: 2271095967117216202
+      SpriteSheetSprachbubble_6: -8726870031941036729
+      SpriteSheetSprachbubble_7: -4160347143566005919
+      SpriteSheetSprachbubble_8: -73635224302678130
+      SpriteSheetSprachbubble_9: 6233428265745683165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
