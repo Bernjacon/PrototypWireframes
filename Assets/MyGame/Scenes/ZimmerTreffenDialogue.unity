@@ -294,7 +294,7 @@ MonoBehaviour:
   playerAnimator: {fileID: 1199489637}
   playerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
   playerAnimation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
-  typeSpeed: 0.03
+  typeSpeed: 0.01
   indexDSAArray: 0
   isWaitingForDecision: 0
   showDecisionButtons:
@@ -302,11 +302,12 @@ MonoBehaviour:
   - {fileID: 352736181}
   - {fileID: 493646609}
   dsa:
-  - textContents: Gay
+  - textContents: Freut mich das du auch kommen konntest.
     speakerVisual: {fileID: -4289915602747280147, guid: f25f34cc925b55c48b8172d159e5108d, type: 3}
     disapearingSpeaker: {fileID: 2099132686}
     animation: {fileID: 0}
-    audioClips: []
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
     persistentAudioClips: []
     persistentAudioMixers: []
@@ -315,11 +316,68 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls: []
     targetIndexAfterDecision: 
-  - textContents: What are you going to do
+  - textContents: "Hey, sch\xF6n dich kennen zu lernen."
     speakerVisual: {fileID: 0}
     disapearingSpeaker: {fileID: 494288756}
+    animation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Tja Daniel, du f\xFChrst doch was im Schilde, oder"
+    speakerVisual: {fileID: -5630020436898998187, guid: e866d0e50447ba140bd1801cacb802b8, type: 3}
+    disapearingSpeaker: {fileID: 0}
+    animation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Sonst h\xE4ttest du uns doch nicht eingeladen.."
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 273324038}
+    animation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Haha, du kennst mich schon zu gut Ben.
+    speakerVisual: {fileID: 1349777873841320467, guid: 7150920e8d3e16b43a06c0e40163ab9e, type: 3}
+    disapearingSpeaker: {fileID: 0}
+    animation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Hast recht, ich hab was vor.
+    speakerVisual: {fileID: 1492080012604503514, guid: c1fb6ec47b5e8554381f125dc978fc24, type: 3}
+    disapearingSpeaker: {fileID: 0}
     animation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
-    audioClips: []
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
     persistentAudioClips: []
     persistentAudioMixers: []
@@ -327,9 +385,9 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 175533793}
-          m_TargetAssemblyTypeName: DialoguePersonScripts, Assembly-CSharp
-          m_MethodName: ActivateDecision
+        - m_Target: {fileID: 1498806817}
+          m_TargetAssemblyTypeName: LoadingManagerScript, Assembly-CSharp
+          m_MethodName: LoadNextScene
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -339,52 +397,39 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-    targetIndexAfterDecision: 0300000004000000
-  - textContents: Hey Gays this is a longer text just to test it out who speaks and
-      how it looks like in the inspector
-    speakerVisual: {fileID: -5630020436898998187, guid: e866d0e50447ba140bd1801cacb802b8, type: 3}
-    disapearingSpeaker: {fileID: 0}
-    animation: {fileID: 0}
-    audioClips: []
-    audioMixerGroups: []
-    persistentAudioClips: []
-    persistentAudioMixers: []
-    causesEvent: 0
-    eventVariable:
-      m_PersistentCalls:
-        m_Calls: []
     targetIndexAfterDecision: 
-  - textContents: Pay
-    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
-    disapearingSpeaker: {fileID: 273324038}
-    animation: {fileID: 0}
-    audioClips: []
-    audioMixerGroups: []
-    persistentAudioClips: []
-    persistentAudioMixers: []
-    causesEvent: 0
-    eventVariable:
-      m_PersistentCalls:
-        m_Calls: []
-    targetIndexAfterDecision: 
-  - textContents: Fray
-    speakerVisual: {fileID: 1349777873841320467, guid: 7150920e8d3e16b43a06c0e40163ab9e, type: 3}
-    disapearingSpeaker: {fileID: 0}
-    animation: {fileID: 0}
-    audioClips: []
-    audioMixerGroups: []
-    persistentAudioClips: []
-    persistentAudioMixers: []
-    causesEvent: 0
-    eventVariable:
-      m_PersistentCalls:
-        m_Calls: []
-    targetIndexAfterDecision: 
-  - textContents: Final Text Test
+  - textContents: "Heute ist ein Festival in der Stadt\u2026"
     speakerVisual: {fileID: 1492080012604503514, guid: c1fb6ec47b5e8554381f125dc978fc24, type: 3}
     disapearingSpeaker: {fileID: 0}
     animation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
-    audioClips: []
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 1
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1498806817}
+          m_TargetAssemblyTypeName: LoadingManagerScript, Assembly-CSharp
+          m_MethodName: LoadNextScene
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    targetIndexAfterDecision: 
+  - textContents: "Heute ist ein Festival in der Stadt\u2026"
+    speakerVisual: {fileID: 1492080012604503514, guid: c1fb6ec47b5e8554381f125dc978fc24, type: 3}
+    disapearingSpeaker: {fileID: 0}
+    animation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
     persistentAudioClips: []
     persistentAudioMixers: []
@@ -605,7 +650,7 @@ GameObject:
   - component: {fileID: 273324041}
   - component: {fileID: 273324040}
   m_Layer: 5
-  m_Name: NPCTestForDissapear (2)
+  m_Name: Quinn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -946,7 +991,7 @@ GameObject:
   - component: {fileID: 494288759}
   - component: {fileID: 494288758}
   m_Layer: 5
-  m_Name: NPCTestForDissapear
+  m_Name: Daniel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2311,7 +2356,7 @@ GameObject:
   - component: {fileID: 1412485695}
   - component: {fileID: 1412485694}
   m_Layer: 5
-  m_Name: PlayerTestForDissapear
+  m_Name: MC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2661,7 +2706,7 @@ GameObject:
   - component: {fileID: 2099132689}
   - component: {fileID: 2099132688}
   m_Layer: 5
-  m_Name: NPCTestForDissapear (1)
+  m_Name: Ben
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
