@@ -1,6 +1,6 @@
-Read me: Implementierung Dialog Script Anleitung
+Read me: Implementierung DialoguePersonScripts Anleitung (Aktualisiert)
 
-# 1. Start
+# 1. Setup
 
 Erstelle in deiner Scene ein leeres GameObject.
 
@@ -8,9 +8,9 @@ Name z.B.:
 
 DialogueManager
 
-Ziehe das Script auf dieses GameObject.
+Ziehe das Script auf dieses GameObject:
 
-DialoguePersonScript.cs
+DialoguePersonScripts.cs
 
 # 2. UI erstellen
 
@@ -20,20 +20,24 @@ Im Canvas erstellst du folgende UI-Elemente:
 
 TMP Text
 Name: DialogueText
-Zeigt den Dialogtext an
+→ Zeigt den Dialogtext an
 
 Image
 Name: SpeakerImage
-Zeigt den aktuellen Sprecher
+→ Zeigt den aktuellen Sprecher
 
 Image
 Name: PlayerImage
-Zeigt den Spieler während Entscheidungen
-Dieses Objekt startet deaktiviert
+→ Zeigt den Spieler während Entscheidungen
+→ Dieses Objekt startet deaktiviert
+
+GameObject
+Name: PlayerBackground
+→ Hintergrund für normale Dialoganzeige (wird bei Entscheidungen deaktiviert)
 
 TMP Text
 Name: TimeText
-Zeigt die Uhrzeit an (optional)
+→ Zeigt die Uhrzeit an (optional)
 
 Buttons für Entscheidungen
 Name z.B.:
@@ -42,7 +46,7 @@ DecisionButton1
 DecisionButton2
 DecisionButton3
 
-Diese Buttons starten ebenfalls deaktiviert.
+→ Diese Buttons starten deaktiviert
 
 # 3. Referenzen im Inspector setzen
 
@@ -51,18 +55,20 @@ Wähle dein DialogueManager GameObject aus.
 Im Inspector ziehst du die UI-Elemente in die passenden Felder:
 
 Dialogue Text → DialogueText
-
 Speaker Image → SpeakerImage
-
 Player Image → PlayerImage
-
+Player Background → PlayerBackground
 Time Text → TimeText
 
 Speaker Animator → Animator vom SpeakerImage
-
 Player Animator → Animator vom PlayerImage
 
+Player Visual → Standard Player Sprite
+Player Animation → Standard Player Animator Controller
+
 Show Decision Buttons → alle Decision Buttons hinzufügen
+
+Dsa → Hier kommen alle Dialogue Elemente hinein
 
 # 4. Dialogue erstellen
 
@@ -74,59 +80,75 @@ Erhöhe die Size.
 
 Jedes Element ist eine Dialogue Line.
 
-Jede Dialogue Line hat:
+Jede Dialogue Line hat folgende Felder:
+
+## Dialogue & Animation
 
 Text Contents
-Der Text der angezeigt wird
+→ Der Text der angezeigt wird
 
 Speaker Visual
-Das Sprite des Sprechers
+→ Sprite des Sprechers
+Wenn null → letztes Speaker Sprite bleibt
 
-Player Visual
-Das Sprite des Spielers
-Wenn null → letzter Player Sprite wird weiter verwendet
+Disapearing Speaker
+→ GameObject das während dieser Line deaktiviert wird
+Wenn null → letztes verwendetes Objekt bleibt
 
 Animation
-Animation für Speaker
+→ RuntimeAnimatorController für den Speaker
+Wenn null → letzte Animation bleibt
 
-Animation Player
-Animation für Player
+## Audio
 
 Audio Clips
-Sound für diese Line
+→ Werden einmal abgespielt (stoppen automatisch beim Wechsel)
+
+Audio Mixer Groups
+→ Optional passende Mixer
+
+## Persistent Audio
 
 Persistent Audio Clips
-Sound der weiterläuft
+→ Laufen unabhängig weiter
+
+Persistent Audio Mixers
+→ Optional passende Mixer
+
+Persistent Audio kann gestoppt werden mit:
+
+StopPersistentAudio()
+
+## Event
 
 Causes Event
-Wenn aktiviert → Event wird ausgelöst
+→ Wenn aktiviert, wird das Event ausgelöst statt automatisch zur nächsten Line zu springen
 
 Event Variable
-Hier kannst du Funktionen auswählen
+→ Hier kannst du Funktionen auswählen (z.B. ActivateDecision)
 
 Target Index After Decision
-Wohin die Entscheidung führt
+→ Zielindex für Entscheidungen
 
-# 5. Normale Dialogue Line erstellen
+# 5. Normale Dialogue Line
 
 Beispiel:
 
 Text Contents: Hello there
-
 Speaker Visual setzen
-
 Causes Event deaktiviert
 
-Das System geht automatisch zur nächsten Line.
+Beim Klick:
+
+• Wenn Text noch tippt → sofort fertig anzeigen
+• Wenn fertig → springt automatisch zur nächsten Line
 
 # 6. Decision erstellen
 
 Beispiel Decision Line:
 
 Text Contents: What do you want to do
-
-Player Visual setzen
-
+Speaker Visual optional
 Causes Event aktivieren
 
 Target Index After Decision Size erhöhen
@@ -134,15 +156,13 @@ Target Index After Decision Size erhöhen
 Beispiel:
 
 Element 0 → Index 5
-
 Element 1 → Index 8
 
 Jetzt Event setzen:
 
-Event Variable
+Event Variable:
 
 DialogueManager auswählen
-
 ActivateDecision auswählen
 
 Jetzt erscheinen die Buttons.
@@ -151,80 +171,66 @@ Jetzt erscheinen die Buttons.
 
 Wähle einen Decision Button.
 
-Im Button Inspector findest du:
+Im Button Inspector:
 
 OnClick()
 
-Füge neues Event hinzu.
+Neues Event hinzufügen.
 
-Ziehe DialogueManager hinein.
+DialogueManager hineinziehen.
 
 Wähle:
 
 DialoguePersonScripts
 DecisionWasChosen(int)
 
-Setze Parameter:
+Parameter setzen:
 
 Button 1 → 0
-
 Button 2 → 1
-
 Button 3 → 2
 
-# 8. Player Image Verhalten
+# 8. Player Verhalten bei Entscheidung
 
-Wenn Entscheidung startet:
+Wenn Entscheidung aktiviert wird:
 
-PlayerImage wird aktiviert
-
-PlayerVisual wird gesetzt
-
-Wenn PlayerVisual null ist:
-
-letztes PlayerVisual wird verwendet
+• PlayerBackground wird deaktiviert
+• PlayerImage wird aktiviert
 
 Wenn Entscheidung gewählt wird:
 
-PlayerImage wird deaktiviert
+• PlayerImage wird deaktiviert
+• PlayerBackground wird aktiviert
 
-# 9. Animation Verhalten
+Danach springt das System zum Target Index.
 
-Wenn Animation gesetzt ist:
+# 9. Typing System
 
-Speaker Animator wird gesetzt
+Text wird mit typeSpeed Buchstabe für Buchstabe angezeigt.
 
-Wenn Animation Player gesetzt ist:
+Wenn währenddessen geklickt wird:
 
-Player Animator wird gesetzt
+→ Text wird sofort vollständig angezeigt.
 
-Wenn null:
+Erst beim nächsten Klick wird weitergeschaltet.
 
-letzte Animation bleibt
+# 10. Uhrzeit
 
-# 10. Events auslösen
+Das Script aktualisiert automatisch jede Sekunde:
 
-Du kannst Events verwenden für:
-
-Cutscene starten
-
-Scene laden
-
-GameObject aktivieren
-
-Audio starten
-
-alles andere
-
-Im Dialogue Element einfach gewünschte Funktion auswählen.
+TimeText zeigt die aktuelle Systemzeit im Format HH:mm.
 
 # 11. Audio Verhalten
 
-Audio Clips spielen einmal
+Audio Clips:
 
-Persistent Audio läuft weiter
+• Spielen einmal
+• Werden gestoppt wenn nächste Line beginnt
 
-Persistent Audio kann gestoppt werden mit:
+Persistent Audio:
+
+• Läuft unabhängig weiter
+• Muss manuell gestoppt werden über:
 
 StopPersistentAudio()
 
@@ -240,7 +246,6 @@ Dialogue 2
 Decision
 
 Button 0 → Dialogue 3
-
 Button 1 → Dialogue 6
 
 Dialogue 3
@@ -257,4 +262,16 @@ Ende
 
 # Fertig
 
-Das Dialogue System ist jetzt vollständig implementiert und funktionsbereit.
+Das DialoguePersonScripts System ist jetzt vollständig implementiert, unterstützt:
+
+• Typing Effekt
+• Speaker Wechsel
+• Animator Wechsel
+• Disappearing GameObjects
+• Entscheidungslogik
+• UnityEvents
+• Einmaliges Audio
+• Persistentes Audio
+• Uhrzeit Anzeige
+
+Das System ist damit produktionsbereit einsetzbar.
