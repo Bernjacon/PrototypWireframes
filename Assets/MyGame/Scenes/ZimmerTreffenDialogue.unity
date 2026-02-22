@@ -304,8 +304,8 @@ MonoBehaviour:
   - {fileID: 493646609}
   dsa:
   - textContents: Freut mich das du auch kommen konntest.
-    speakerVisual: {fileID: -4289915602747280147, guid: f25f34cc925b55c48b8172d159e5108d, type: 3}
-    disapearingSpeaker: {fileID: 2099132686}
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
     audioClips:
@@ -319,8 +319,8 @@ MonoBehaviour:
         m_Calls: []
     targetIndexAfterDecision: 
   - textContents: "Hey, sch\xF6n dich kennen zu lernen."
-    speakerVisual: {fileID: 0}
-    disapearingSpeaker: {fileID: 494288756}
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
     audioClips:
@@ -334,8 +334,8 @@ MonoBehaviour:
         m_Calls: []
     targetIndexAfterDecision: 
   - textContents: "Tja Daniel, du f\xFChrst doch was im Schilde, oder"
-    speakerVisual: {fileID: -5630020436898998187, guid: e866d0e50447ba140bd1801cacb802b8, type: 3}
-    disapearingSpeaker: {fileID: 0}
+    speakerVisual: {fileID: 0}
+    disapearingSpeaker: {fileID: 2099132686}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
     audioClips:
@@ -349,10 +349,10 @@ MonoBehaviour:
         m_Calls: []
     targetIndexAfterDecision: 
   - textContents: "Sonst h\xE4ttest du uns doch nicht eingeladen.."
-    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
-    disapearingSpeaker: {fileID: 273324038}
+    speakerVisual: {fileID: 0}
+    disapearingSpeaker: {fileID: 2099132686}
     Speaker: {fileID: 0}
-    boxAnimation: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
@@ -364,8 +364,23 @@ MonoBehaviour:
         m_Calls: []
     targetIndexAfterDecision: 
   - textContents: Haha, du kennst mich schon zu gut Ben.
-    speakerVisual: {fileID: 1349777873841320467, guid: 7150920e8d3e16b43a06c0e40163ab9e, type: 3}
-    disapearingSpeaker: {fileID: 0}
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Hast recht, ich hab was vor.
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 0}
     audioClips:
@@ -378,11 +393,461 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls: []
     targetIndexAfterDecision: 
-  - textContents: Hast recht, ich hab was vor.
-    speakerVisual: {fileID: 1492080012604503514, guid: c1fb6ec47b5e8554381f125dc978fc24, type: 3}
-    disapearingSpeaker: {fileID: 0}
+  - textContents: "Heute ist ein Festival in der Stadt\u2026"
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Hei\xDFt die meisten Leute werden dort sein und nicht auf andere
+      Orte achten."
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Was soll uns das bringen?
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Haha, naja.
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Wie w\xE4rs wenn wir einfach in den Park gehen und ein Paar Lautsprecher
+      dort zerst\xF6ren.."
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Die Polizei ist mit dem Festival besch\xE4ftigt und wir k\xF6nnen
+      endlich auf die Thematik aufmerksam machen"
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Naja also alle Polizisten werden sicher nicht auf dem Festival
+      sein, um aufzupassen.\u201C"
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Das stimmt schon aber durch die unter Besetzung wird es bestimmt
+      l\xE4nger dauern, dass sie vor Ort sein k\xF6nnen."
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Da k\xF6nntest du recht haben."
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Ich denke es ist gar keine so schlechte Idee\u2026"
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Vielleicht sogar einen Versuch wert.
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Ja, oder? Was soll schon schief gehen?
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Alsoo, ich w\xFCrd ja sagen, alles was schief gehen kann wird
+      schief gehen."
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Aber wenn nicht heute wann dann?
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Irgendwie m\xFCssen wir diese Sheeple aufwecken!"
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Wir schaun schon viel zu lange tatenlos zu!
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Du hast schon recht.
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: ... (Denkt angestrengt nach)
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Komm schon Ben.
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Ja okay, okay\u2026 ich bin dabei.\u201C"
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Super!
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Wie siehts mit dir aus *name*?
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 1
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 175533793}
+          m_TargetAssemblyTypeName: DialoguePersonScripts, Assembly-CSharp
+          m_MethodName: ActivateDecision
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    targetIndexAfterDecision: 230000001c00000023000000
+  - textContents: "Ach komm schon, lass uns nicht h\xE4ngen."
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Wird sicher lustig!
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Ja komm schon
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 175533793}
+          m_TargetAssemblyTypeName: DialoguePersonScripts, Assembly-CSharp
+          m_MethodName: ActivateDecision
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    targetIndexAfterDecision: 230000001f000000
+  - textContents: Schade, ich hatte mehr von dir erwartet...
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: "Naja, dann brechen halt nur wir auf.\u201C"
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Man sieht sich.
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 0}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Tschau.
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
@@ -394,47 +859,35 @@ MonoBehaviour:
         m_Calls:
         - m_Target: {fileID: 1498806817}
           m_TargetAssemblyTypeName: LoadingManagerScript, Assembly-CSharp
-          m_MethodName: LoadNextScene
-          m_Mode: 1
+          m_MethodName: LoadCutScene
+          m_Mode: 3
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
+            m_IntArgument: 4
             m_FloatArgument: 0
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
     targetIndexAfterDecision: 
-  - textContents: "Heute ist ein Festival in der Stadt\u2026"
-    speakerVisual: {fileID: 1492080012604503514, guid: c1fb6ec47b5e8554381f125dc978fc24, type: 3}
-    disapearingSpeaker: {fileID: 0}
+  - textContents: Super! Dann sind wir zu dritt.
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
     Speaker: {fileID: 0}
-    boxAnimation: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
     persistentAudioClips: []
     persistentAudioMixers: []
-    causesEvent: 1
+    causesEvent: 0
     eventVariable:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1498806817}
-          m_TargetAssemblyTypeName: LoadingManagerScript, Assembly-CSharp
-          m_MethodName: LoadNextScene
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
     targetIndexAfterDecision: 
-  - textContents: "Heute ist ein Festival in der Stadt\u2026"
-    speakerVisual: {fileID: 1492080012604503514, guid: c1fb6ec47b5e8554381f125dc978fc24, type: 3}
-    disapearingSpeaker: {fileID: 0}
+  - textContents: "So macht das gleich viel mehr Spa\xDF"
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 0}
     audioClips:
@@ -442,22 +895,40 @@ MonoBehaviour:
     audioMixerGroups: []
     persistentAudioClips: []
     persistentAudioMixers: []
-    causesEvent: 1
+    causesEvent: 0
     eventVariable:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1498806817}
-          m_TargetAssemblyTypeName: LoadingManagerScript, Assembly-CSharp
-          m_MethodName: LoadNextScene
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Na dann lasst uns aufbrechen.
+    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    disapearingSpeaker: {fileID: 2099132686}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
+    targetIndexAfterDecision: 
+  - textContents: Ja, auf geht's!
+    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    disapearingSpeaker: {fileID: 494288756}
+    Speaker: {fileID: 0}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
+    audioClips:
+    - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
+    audioMixerGroups: []
+    persistentAudioClips: []
+    persistentAudioMixers: []
+    causesEvent: 0
+    eventVariable:
+      m_PersistentCalls:
+        m_Calls: []
     targetIndexAfterDecision: 
 --- !u!4 &175533794
 Transform:
@@ -704,7 +1175,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -7909332608972085833, guid: 4f203a0f5cf70034e9e88428711d783d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1045,7 +1516,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1089,18 +1560,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 496772882}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 12.998586, y: 3.2804, z: 3.2804}
+  m_LocalScale: {x: 11.961564, y: 3.0186913, z: 3.0186913}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8437504508440574295}
-  m_Father: {fileID: 1064558365}
+  m_Father: {fileID: 267446529090776273}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -268}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 30.05, y: 68.748}
+  m_SizeDelta: {x: 123.07, y: 136.56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &496772884
 Animator:
@@ -1566,139 +2037,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 789938649}
   m_CullTransparentMesh: 1
---- !u!1 &827369856
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 827369857}
-  - component: {fileID: 827369860}
-  - component: {fileID: 827369859}
-  - component: {fileID: 827369858}
-  m_Layer: 5
-  m_Name: Btn_weiter(NoFunction)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &827369857
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827369856}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1130046581}
-  m_Father: {fileID: 267446529090776273}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -82}
-  m_SizeDelta: {x: 160, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &827369858
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827369856}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_WrapAround: 0
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_SelectedTrigger: Selected
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 827369859}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: MeetingManager, Assembly-CSharp
-        m_MethodName: Default
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
---- !u!114 &827369859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827369856}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &827369860
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 827369856}
-  m_CullTransparentMesh: 1
 --- !u!1 &1005824268
 GameObject:
   m_ObjectHideFlags: 0
@@ -1876,7 +2214,6 @@ RectTransform:
   - {fileID: 2099132687}
   - {fileID: 273324039}
   - {fileID: 1412485693}
-  - {fileID: 496772883}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1947,142 +2284,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!1 &1130046580
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1130046581}
-  - component: {fileID: 1130046583}
-  - component: {fileID: 1130046582}
-  m_Layer: 5
-  m_Name: Text (TMP)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1130046581
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1130046580}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 827369857}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1130046582
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1130046580}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: Weiter
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1130046583
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1130046580}
-  m_CullTransparentMesh: 1
 --- !u!1 &1165606473
 GameObject:
   m_ObjectHideFlags: 0
@@ -2510,7 +2711,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -384016712788399075, guid: 63efd880fae44e44e91d115add918770, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2860,7 +3061,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2983,8 +3184,7 @@ RectTransform:
   m_Children:
   - {fileID: 950584321323576544}
   - {fileID: 7449808056832106810}
-  - {fileID: 4973926577318794725}
-  - {fileID: 827369857}
+  - {fileID: 496772883}
   m_Father: {fileID: 1064558365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -3931,8 +4131,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15
-  m_fontSizeBase: 15
+  m_fontSize: 13
+  m_fontSizeBase: 13
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4832,14 +5032,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!222 &4463218529342743072
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5137371691050700800}
-  m_CullTransparentMesh: 1
 --- !u!114 &4495755188503852050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4989,25 +5181,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &4973926577318794725
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5137371691050700800}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 267446529090776273}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.0017089844, y: 159.43219}
-  m_SizeDelta: {x: 1203.9688, y: 318.86438}
-  m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &5003494475399576759
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5062,24 +5235,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3173605547748912092}
   m_CullTransparentMesh: 1
---- !u!1 &5137371691050700800
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4973926577318794725}
-  - component: {fileID: 4463218529342743072}
-  - component: {fileID: 6580908097075527466}
-  m_Layer: 5
-  m_Name: Textbox
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
 --- !u!1 &5235160670109332925
 GameObject:
   m_ObjectHideFlags: 0
@@ -5598,36 +5753,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &6580908097075527466
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5137371691050700800}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!224 &6630298146908384818
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6301,8 +6426,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.40254688, y: -2.9750366}
-  m_SizeDelta: {x: 535.0916, y: 126.52}
+  m_AnchoredPosition: {x: 4.3, y: -13.6}
+  m_SizeDelta: {x: 412.953, y: 84.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8438715170790544585
 GameObject:
