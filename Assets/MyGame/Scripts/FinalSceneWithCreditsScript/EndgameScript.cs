@@ -20,7 +20,6 @@ public class EndgameScript : MonoBehaviour
 
     void Start()
     {
-        // Only article is visible at start
         articleParent.SetActive(true);
 
         creditsObject.SetActive(false);

@@ -5,38 +5,22 @@ using System.Collections;
 
 public class LoadingManagerScript : MonoBehaviour
 {
-    public static bool callBlackScreenBrunnen = false;
-
-    public GameObject gameMangerObject;
-
     [Header("Black Screen")]
     public Image blackScreenImage;
     public float fadeDuration = 2f;
 
     void Start()
     {
-        if (callBlackScreenBrunnen)
-        {
-            callBlackScreenBrunnen = false;
-            BlackScreenBrunnen();
-        }
-    }
 
-
-    public void LoadCutScene()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void LoadNextScene()
     {
-        callBlackScreenBrunnen = true;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     public void BlackScreenBrunnen()
     {
-        gameMangerObject.SetActive(false);
         StartCoroutine(FadeBlackScreen());
     }
 
@@ -55,6 +39,5 @@ public class LoadingManagerScript : MonoBehaviour
 
         blackScreenImage.color = new Color(color.r, color.g, color.b, 0f);
         blackScreenImage.gameObject.SetActive(false);
-        gameMangerObject.SetActive(true);
     }
 }

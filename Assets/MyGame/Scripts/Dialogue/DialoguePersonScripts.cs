@@ -353,7 +353,7 @@ public class DialoguePersonScripts : MonoBehaviour
         yield return new WaitUntil(() => Mouse.current != null);
         yield return new WaitUntil(() => Mouse.current.leftButton.wasPressedThisFrame);
 
-        lmsa.LoadCutScene();
+        lmsa.LoadNextScene();
     }
 }
 
