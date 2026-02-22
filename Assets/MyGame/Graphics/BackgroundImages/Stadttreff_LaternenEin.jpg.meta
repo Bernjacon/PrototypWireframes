@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 282be9664f8309c4ea90d0cb7a487057
+guid: 5ded6af2c9fa3b041a4a4bae8ce5a974
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5855130201787488108
-    second: StadttreffV02_0
+      213: -3069045239116196541
+    second: Stadttreff_LaternenEin_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StadttreffV02_0
+      name: Stadttreff_LaternenEin_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 498abc07a166ebea0800000000000000
-      internalID: -5855130201787488108
+      spriteID: 34510e29d9f8865d0800000000000000
+      internalID: -3069045239116196541
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      StadttreffV02_0: -5855130201787488108
+      Stadttreff_LaternenEin_0: -3069045239116196541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
