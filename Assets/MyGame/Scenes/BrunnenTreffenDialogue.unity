@@ -482,6 +482,18 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+        - m_Target: {fileID: 1438984043}
+          m_TargetAssemblyTypeName: LoadingManagerScript, Assembly-CSharp
+          m_MethodName: BlackScreenBrunnen
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
     decisionButtonTexts: []
     targetIndexAfterDecision: 
 --- !u!4 &175533794
@@ -2155,7 +2167,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1577573cf1037db4880a23814329f2fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameMangerObject: {fileID: 175533792}
   blackScreenImage: {fileID: 1684840050}
   fadeDuration: 2
 --- !u!4 &1438984044
