@@ -1,18 +1,10 @@
 using UnityEngine;
-using UnityEngine.Video;
 using UnityEngine.SceneManagement;
 using TMPro;
 using UnityEngine.InputSystem;
 
 public class EndgameScript : MonoBehaviour
 {
-    public static int videoClipIndex;
-
-    [Header("Video")]
-    [SerializeField] VideoPlayer videoPlayer;
-    [SerializeField] VideoClip[] videoClips;
-    [SerializeField] GameObject videoPlayerGameObject;
-
     [Header("Credits")]
     [SerializeField] GameObject creditsObject;
     [SerializeField] TMP_Text infoText;
@@ -20,27 +12,52 @@ public class EndgameScript : MonoBehaviour
     [Header("Return")]
     [SerializeField] float holdDuration = 1.5f;
 
-    bool cutsceneFinished;
+    [SerializeField] GameObject articleParent;
+
+    bool creditsStarted = false;
+    bool cutsceneFinished = false;
     float holdTimer;
 
     void Start()
     {
+        // Only article is visible at start
+        articleParent.SetActive(true);
+
         creditsObject.SetActive(false);
         infoText.gameObject.SetActive(false);
-        videoPlayer.loopPointReached += HandleVideoFinished;
-        if (videoClipIndex >= 0 && videoClipIndex < videoClips.Length)
-            videoPlayer.clip = videoClips[videoClipIndex];
-        videoPlayer.Play();
+
+        creditsStarted = false;
+        cutsceneFinished = false;
+        holdTimer = 0f;
     }
-    void HandleVideoFinished(VideoPlayer _)
-    {
-        videoPlayer.loopPointReached -= HandleVideoFinished;
-        creditsObject.SetActive(true);
-        infoText.gameObject.SetActive(true);
-        videoPlayerGameObject.SetActive(false);
-        cutsceneFinished = true;
-    }
+
     void Update()
+    {
+        HandleMouseStart();
+        HandleReturnHold();
+    }
+
+    void HandleMouseStart()
+    {
+        if (creditsStarted)
+            return;
+
+        if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
+        {
+            creditsStarted = true;
+
+            // Switch from article to credits
+            articleParent.SetActive(false);
+            creditsObject.SetActive(true);
+
+            // Show info text
+            infoText.gameObject.SetActive(true);
+
+            cutsceneFinished = true;
+        }
+    }
+
+    void HandleReturnHold()
     {
         if (!cutsceneFinished)
             return;
@@ -48,13 +65,15 @@ public class EndgameScript : MonoBehaviour
         if (Keyboard.current != null && Keyboard.current.enterKey.isPressed)
         {
             holdTimer += Time.deltaTime;
+
             if (holdTimer >= holdDuration)
+            {
                 SceneManager.LoadScene(0);
+            }
         }
         else
         {
             holdTimer = 0f;
         }
     }
-
 }

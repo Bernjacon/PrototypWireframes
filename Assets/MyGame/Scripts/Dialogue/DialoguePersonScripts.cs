@@ -41,12 +41,15 @@ public class DialoguePersonScripts : MonoBehaviour
     [Header("Decision")]
     [SerializeField] bool isWaitingForDecision;
     [SerializeField] GameObject[] showDecisionButtons;
+    TMP_Text[] decisionButtonTextUI;
     int buttonIndex;
     bool dialogueFinished = false;
 
     [Header("Audio")]
     private List<GameObject> dialogueAudioObjects = new List<GameObject>();
     private List<GameObject> persistentAudioObjects = new List<GameObject>();
+
+    public LoadingManagerScript lmsa;
 
     [SerializeField] Dialogue[] dsa;
 
@@ -112,16 +115,31 @@ public class DialoguePersonScripts : MonoBehaviour
 
         if (playerImage != null)
         {
-            playerBackground.gameObject.SetActive(false);
+            playerBackground.SetActive(false);
             playerImage.gameObject.SetActive(true);
         }
 
-        buttonIndex = dsa[indexDSAArray].targetIndexAfterDecision.Length;
+        Dialogue currentDialogue = dsa[indexDSAArray];
+
+        int buttonCount = currentDialogue.targetIndexAfterDecision.Length;
 
         for (int i = 0; i < showDecisionButtons.Length; i++)
-            showDecisionButtons[i].SetActive(i < buttonIndex);
-    }
+        {
+            bool active = i < buttonCount;
+            showDecisionButtons[i].SetActive(active);
 
+            if (active &&
+                currentDialogue.decisionButtonTexts != null &&
+                i < currentDialogue.decisionButtonTexts.Length)
+            {
+                TMP_Text textComponent =
+                    showDecisionButtons[i].GetComponentInChildren<TMP_Text>();
+
+                if (textComponent != null)
+                    textComponent.text = currentDialogue.decisionButtonTexts[i];
+            }
+        }
+    }
     public void DecisionWasChosen(int decisionIntInput)
     {
         isWaitingForDecision = false;
@@ -144,7 +162,7 @@ public class DialoguePersonScripts : MonoBehaviour
 
         StopAndClearDialogueAudio();
 
-        currentLine = dsa[indexDSAArray].textContents;
+        currentLine = ReplaceVariables(dsa[indexDSAArray].textContents);
 
         dialogueText.text = "";
 
@@ -213,7 +231,11 @@ public class DialoguePersonScripts : MonoBehaviour
 
         isTyping = false;
     }
-
+    string ReplaceVariables(string input)
+    {
+        input = input.Replace("{playerName}", LoginScript.PlayerName);
+        return input;
+    }
     IEnumerator UpdateClock()
     {
         while (true)
@@ -318,6 +340,21 @@ public class DialoguePersonScripts : MonoBehaviour
 
         persistentAudioObjects.Clear();
     }
+
+    public void PrepareNextScene()
+    {
+        StartCoroutine(WaitForClickThenLoad());
+    }
+
+    IEnumerator WaitForClickThenLoad()
+    {
+        yield return null;
+
+        yield return new WaitUntil(() => Mouse.current != null);
+        yield return new WaitUntil(() => Mouse.current.leftButton.wasPressedThisFrame);
+
+        lmsa.LoadCutScene();
+    }
 }
 
 [Serializable]
@@ -343,5 +380,8 @@ public class Dialogue
     [Header("Event")]
     public bool causesEvent;
     public UnityEvent eventVariable;
+
+    [Header("Decision")]
+    public string[] decisionButtonTexts;
     public int[] targetIndexAfterDecision;
 }

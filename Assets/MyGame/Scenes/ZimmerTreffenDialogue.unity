@@ -317,6 +317,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Hey, sch\xF6n dich kennen zu lernen."
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -332,6 +333,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Tja Daniel, du f\xFChrst doch was im Schilde, oder"
     speakerVisual: {fileID: 0}
@@ -347,6 +349,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Sonst h\xE4ttest du uns doch nicht eingeladen.."
     speakerVisual: {fileID: 0}
@@ -362,6 +365,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Haha, du kennst mich schon zu gut Ben.
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -377,6 +381,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Hast recht, ich hab was vor.
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -392,6 +397,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Heute ist ein Festival in der Stadt\u2026"
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -407,6 +413,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Hei\xDFt die meisten Leute werden dort sein und nicht auf andere
       Orte achten."
@@ -423,6 +430,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Was soll uns das bringen?
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -438,6 +446,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Haha, naja.
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -453,6 +462,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Wie w\xE4rs wenn wir einfach in den Park gehen und ein Paar Lautsprecher
       dort zerst\xF6ren.."
@@ -469,6 +479,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Die Polizei ist mit dem Festival besch\xE4ftigt und wir k\xF6nnen
       endlich auf die Thematik aufmerksam machen"
@@ -485,6 +496,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Naja also alle Polizisten werden sicher nicht auf dem Festival
       sein, um aufzupassen.\u201C"
@@ -501,6 +513,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Das stimmt schon aber durch die unter Besetzung wird es bestimmt
       l\xE4nger dauern, dass sie vor Ort sein k\xF6nnen."
@@ -517,6 +530,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Da k\xF6nntest du recht haben."
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -532,6 +546,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Ich denke es ist gar keine so schlechte Idee\u2026"
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -547,6 +562,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Vielleicht sogar einen Versuch wert.
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -562,6 +578,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Ja, oder? Was soll schon schief gehen?
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -577,6 +594,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Alsoo, ich w\xFCrd ja sagen, alles was schief gehen kann wird
       schief gehen."
@@ -593,6 +611,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Aber wenn nicht heute wann dann?
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -608,6 +627,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Irgendwie m\xFCssen wir diese Sheeple aufwecken!"
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -623,6 +643,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Wir schaun schon viel zu lange tatenlos zu!
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -638,6 +659,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Du hast schon recht.
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -653,6 +675,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: ... (Denkt angestrengt nach)
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -668,6 +691,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Komm schon Ben.
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -683,6 +707,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Ja okay, okay\u2026 ich bin dabei.\u201C"
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -698,6 +723,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Super!
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -713,6 +739,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Wie siehts mit dir aus *name*?
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -740,6 +767,7 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+    decisionButtonTexts: []
     targetIndexAfterDecision: 230000001c00000023000000
   - textContents: "Ach komm schon, lass uns nicht h\xE4ngen."
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -755,6 +783,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Wird sicher lustig!
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -770,6 +799,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Ja komm schon
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -797,6 +827,7 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+    decisionButtonTexts: []
     targetIndexAfterDecision: 230000001f000000
   - textContents: Schade, ich hatte mehr von dir erwartet...
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -812,6 +843,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Naja, dann brechen halt nur wir auf.\u201C"
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -827,6 +859,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Man sieht sich.
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -842,6 +875,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Tschau.
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -869,6 +903,7 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Super! Dann sind wir zu dritt.
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -884,6 +919,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "So macht das gleich viel mehr Spa\xDF"
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -899,6 +935,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Na dann lasst uns aufbrechen.
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
@@ -914,6 +951,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: Ja, auf geht's!
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
@@ -929,6 +967,7 @@ MonoBehaviour:
     eventVariable:
       m_PersistentCalls:
         m_Calls: []
+    decisionButtonTexts: []
     targetIndexAfterDecision: 
 --- !u!4 &175533794
 Transform:

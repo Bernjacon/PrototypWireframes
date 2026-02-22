@@ -14,7 +14,7 @@ public class LoginScript : MonoBehaviour
     [SerializeField] private DesktopManager desktopManager;
 
     [SerializeField] private static string playerName;
-    [SerializeField] public static string PlayerName => playerName;
+    [SerializeField] public static string PlayerName => playerName = "Test Name";
 
     private void Awake()
     {

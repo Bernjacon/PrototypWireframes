@@ -8,7 +8,6 @@ public class LoadingManagerScript : MonoBehaviour
     public static bool callBlackScreenBrunnen = false;
 
     public GameObject gameMangerObject;
-    public GameObject activateCutsceneDecisionParent;
 
     [Header("Black Screen")]
     public Image blackScreenImage;
@@ -23,14 +22,9 @@ public class LoadingManagerScript : MonoBehaviour
         }
     }
 
-    public void ActivateCutsceneParents()
-    {
-        activateCutsceneDecisionParent.SetActive(true);
-    }
 
-    public void LoadCutScene(int i)
+    public void LoadCutScene()
     {
-        EndgameScript.videoClipIndex = i;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
