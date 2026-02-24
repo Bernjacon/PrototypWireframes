@@ -7,9 +7,10 @@ public class StartMenuScript : MonoBehaviour
 {
     [Header("Panels")]
     [SerializeField] GameObject mainScreenParent;
-    [SerializeField] GameObject settingsParent;
-    [SerializeField] GameObject settingsDefault;
-    [SerializeField] GameObject audioSettingsParent;
+    [SerializeField] GameObject settings;
+    [SerializeField] GameObject settingsGraphic;
+    [SerializeField] GameObject menuGraphics;
+    [SerializeField] GameObject audioSettings;
 
     [Header("Audio Sliders")]
     [SerializeField] Slider masterSlider;
@@ -21,6 +22,12 @@ public class StartMenuScript : MonoBehaviour
 
     private void Start()
     {
+        mainScreenParent.SetActive(true);
+        settings.SetActive(false);
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(false);
+        audioSettings.SetActive(false);
+
         masterSlider.value = PlayerPrefs.GetFloat("MasterVolume", 0f);
         musicSlider.value = PlayerPrefs.GetFloat("MusicVolume", 0f);
         sfxSlider.value = PlayerPrefs.GetFloat("SfxVolume", 0f);
@@ -51,29 +58,36 @@ public class StartMenuScript : MonoBehaviour
     public void OpenSettings()
     {
         mainScreenParent.SetActive(false);
-        settingsParent.SetActive(true);
-        settingsDefault.SetActive(true);
-        audioSettingsParent.SetActive(false);
+        settings.SetActive(true);
+        settingsGraphic.SetActive(true);
+        menuGraphics.SetActive(false);
+        audioSettings.SetActive(false);
     }
 
     public void BackToMainScreen()
     {
         mainScreenParent.SetActive(true);
-        settingsParent.SetActive(false);
-        settingsDefault.SetActive(false);
-        audioSettingsParent.SetActive(false);
+        settings.SetActive(false);
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(false);
+        audioSettings.SetActive(false);
     }
 
     public void OpenAudioSettings()
     {
-        settingsDefault.SetActive(false);
-        audioSettingsParent.SetActive(true);
+        
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(true);
+        audioSettings.SetActive(true);
     }
 
+
+    //Warum gibt es diese Funktion wenn es doch bereits eine Open Settings Funktion gibt?? -LG Jana
     public void BackToSettings()
     {
-        settingsDefault.SetActive(true);
-        audioSettingsParent.SetActive(false);
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(true);
+        audioSettings.SetActive(true);
     }
 
     public void StartGame()
