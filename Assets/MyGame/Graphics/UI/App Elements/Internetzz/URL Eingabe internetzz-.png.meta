@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: c5e34e2e00d5b5041a41040bdf65b402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7821162047343877649
+    second: URL Eingabe internetzz-_0
+  - first:
+      213: -6348626760086149033
+    second: URL Eingabe internetzz-_1
+  - first:
+      213: 1060638357051119381
+    second: URL Eingabe internetzz-_2
+  - first:
+      213: 7179275273975179995
+    second: URL Eingabe internetzz-_3
+  - first:
+      213: 4263161077817783108
+    second: URL Eingabe internetzz-_4
+  - first:
+      213: -3936651063593772074
+    second: URL Eingabe internetzz-_5
+  - first:
+      213: -701071690160396917
+    second: URL Eingabe internetzz-_6
+  - first:
+      213: -7504902039597063125
+    second: URL Eingabe internetzz-_7
+  - first:
+      213: -7101081076510331964
+    second: URL Eingabe internetzz-_8
+  - first:
+      213: 5037456182103500884
+    second: URL Eingabe internetzz-_9
+  - first:
+      213: 3055603487087994439
+    second: URL Eingabe internetzz-_10
+  - first:
+      213: -2337688201292170650
+    second: URL Eingabe internetzz-_11
+  - first:
+      213: -2755771584710676904
+    second: URL Eingabe internetzz-_12
+  - first:
+      213: 8711550682385229708
+    second: URL Eingabe internetzz-_13
+  - first:
+      213: 798499764373950013
+    second: URL Eingabe internetzz-_14
+  - first:
+      213: -7724629007202536846
+    second: URL Eingabe internetzz-_15
+  - first:
+      213: 5002674085177337054
+    second: URL Eingabe internetzz-_16
+  - first:
+      213: -3032304219334036543
+    second: URL Eingabe internetzz-_17
+  - first:
+      213: 8741618171191805322
+    second: URL Eingabe internetzz-_18
+  - first:
+      213: 8284835829779502134
+    second: URL Eingabe internetzz-_19
+  - first:
+      213: -7880723875619076670
+    second: URL Eingabe internetzz-_20
+  - first:
+      213: 8076790733746088506
+    second: URL Eingabe internetzz-_21
+  - first:
+      213: 4005976379368688652
+    second: URL Eingabe internetzz-_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed2ba91795a8c60800000000000000
+      internalID: 7821162047343877649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758a681299525e7a0800000000000000
+      internalID: -6348626760086149033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179f2b57f428be00800000000000000
+      internalID: 1060638357051119381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 19
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda290203d8e1a360800000000000000
+      internalID: 7179275273975179995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b99fb96ac92b30800000000000000
+      internalID: 4263161077817783108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 18
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db54d507b43e59c0800000000000000
+      internalID: -3936651063593772074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8528e1230b4546f0800000000000000
+      internalID: -701071690160396917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2466bf8b5b39d790800000000000000
+      internalID: -7504902039597063125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_8
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb6a515264e37d90800000000000000
+      internalID: -7101081076510331964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_9
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 14
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458efd145b3a8e540800000000000000
+      internalID: 5037456182103500884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 19
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7462356ae2fa76a20800000000000000
+      internalID: 3055603487087994439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66abb5e67fcde8fd0800000000000000
+      internalID: -2337688201292170650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e643b285881c9d0800000000000000
+      internalID: -2755771584710676904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87226a9035a5e870800000000000000
+      internalID: 8711550682385229708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e0eb81e47d41b00800000000000000
+      internalID: 798499764373950013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 19
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b30448da9cc490800000000000000
+      internalID: -7724629007202536846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed42c0e33911d6540800000000000000
+      internalID: 5002674085177337054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33dabd0671be5d0800000000000000
+      internalID: -3032304219334036543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 19
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ccff5967705970800000000000000
+      internalID: 8741618171191805322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6349f60da46a9f270800000000000000
+      internalID: 8284835829779502134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c509c4936b02a290800000000000000
+      internalID: -7880723875619076670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 19
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a2a123166861070800000000000000
+      internalID: 8076790733746088506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: URL Eingabe internetzz-_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 19
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c40eeda46189730800000000000000
+      internalID: 4005976379368688652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      URL Eingabe internetzz-_0: 7821162047343877649
+      URL Eingabe internetzz-_1: -6348626760086149033
+      URL Eingabe internetzz-_10: 3055603487087994439
+      URL Eingabe internetzz-_11: -2337688201292170650
+      URL Eingabe internetzz-_12: -2755771584710676904
+      URL Eingabe internetzz-_13: 8711550682385229708
+      URL Eingabe internetzz-_14: 798499764373950013
+      URL Eingabe internetzz-_15: -7724629007202536846
+      URL Eingabe internetzz-_16: 5002674085177337054
+      URL Eingabe internetzz-_17: -3032304219334036543
+      URL Eingabe internetzz-_18: 8741618171191805322
+      URL Eingabe internetzz-_19: 8284835829779502134
+      URL Eingabe internetzz-_2: 1060638357051119381
+      URL Eingabe internetzz-_20: -7880723875619076670
+      URL Eingabe internetzz-_21: 8076790733746088506
+      URL Eingabe internetzz-_22: 4005976379368688652
+      URL Eingabe internetzz-_3: 7179275273975179995
+      URL Eingabe internetzz-_4: 4263161077817783108
+      URL Eingabe internetzz-_5: -3936651063593772074
+      URL Eingabe internetzz-_6: -701071690160396917
+      URL Eingabe internetzz-_7: -7504902039597063125
+      URL Eingabe internetzz-_8: -7101081076510331964
+      URL Eingabe internetzz-_9: 5037456182103500884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

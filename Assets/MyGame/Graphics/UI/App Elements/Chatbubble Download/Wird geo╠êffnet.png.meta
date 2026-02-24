@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 16fe53bd79281084fa057047943a8e19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6026241094963552621
+    second: "Wird geo\u2560\xEAffnet_0"
+  - first:
+      213: -7050111811807750905
+    second: "Wird geo\u2560\xEAffnet_1"
+  - first:
+      213: -6468485875510484942
+    second: "Wird geo\u2560\xEAffnet_2"
+  - first:
+      213: 2769418221701582781
+    second: "Wird geo\u2560\xEAffnet_3"
+  - first:
+      213: 8020331392442548496
+    second: "Wird geo\u2560\xEAffnet_4"
+  - first:
+      213: 2173205973046930335
+    second: "Wird geo\u2560\xEAffnet_5"
+  - first:
+      213: -8665380171825951993
+    second: "Wird geo\u2560\xEAffnet_6"
+  - first:
+      213: -5330472472480145451
+    second: "Wird geo\u2560\xEAffnet_7"
+  - first:
+      213: 1336009068504430853
+    second: "Wird geo\u2560\xEAffnet_8"
+  - first:
+      213: 3579651744842310472
+    second: "Wird geo\u2560\xEAffnet_9"
+  - first:
+      213: -7942055404579747634
+    second: "Wird geo\u2560\xEAffnet_10"
+  - first:
+      213: 4652777367059975329
+    second: "Wird geo\u2560\xEAffnet_11"
+  - first:
+      213: -1878011116454809168
+    second: "Wird geo\u2560\xEAffnet_12"
+  - first:
+      213: -5895181762857850626
+    second: "Wird geo\u2560\xEAffnet_13"
+  - first:
+      213: 8040874908495499926
+    second: "Wird geo\u2560\xEAffnet_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_0"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 27
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e924f85281a350800000000000000
+      internalID: 6026241094963552621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_1"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 86
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705d96609a8f82e90800000000000000
+      internalID: -7050111811807750905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_2"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 26
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230e0932e525b36a0800000000000000
+      internalID: -6468485875510484942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_3"
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 87
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf440b1333fe6620800000000000000
+      internalID: 2769418221701582781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_4"
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 87
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011c37b68e0fd4f60800000000000000
+      internalID: 8020331392442548496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_5"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 27
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b283f7157c82e10800000000000000
+      internalID: 2173205973046930335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_6"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 27
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc99615a26eb780800000000000000
+      internalID: -8665380171825951993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_7"
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 26
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df92d0478b5606b0800000000000000
+      internalID: -5330472472480145451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_8"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 27
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50938e85b257a8210800000000000000
+      internalID: 1336009068504430853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_9"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 27
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843eeeecb4a7da130800000000000000
+      internalID: 3579651744842310472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_10"
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 6
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec88d8730b628c190800000000000000
+      internalID: -7942055404579747634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_11"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 26
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac46962d5cf19040800000000000000
+      internalID: 4652777367059975329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_12"
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 26
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1f977f6d6ffe5e0800000000000000
+      internalID: -1878011116454809168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_13"
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 27
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef82f72bb6b103ea0800000000000000
+      internalID: -5895181762857850626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Wird geo\u2560\xEAffnet_14"
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 26
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d93c702de69f60800000000000000
+      internalID: 8040874908495499926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Wird geo\u2560\xEAffnet_0": 6026241094963552621
+      "Wird geo\u2560\xEAffnet_1": -7050111811807750905
+      "Wird geo\u2560\xEAffnet_10": -7942055404579747634
+      "Wird geo\u2560\xEAffnet_11": 4652777367059975329
+      "Wird geo\u2560\xEAffnet_12": -1878011116454809168
+      "Wird geo\u2560\xEAffnet_13": -5895181762857850626
+      "Wird geo\u2560\xEAffnet_14": 8040874908495499926
+      "Wird geo\u2560\xEAffnet_2": -6468485875510484942
+      "Wird geo\u2560\xEAffnet_3": 2769418221701582781
+      "Wird geo\u2560\xEAffnet_4": 8020331392442548496
+      "Wird geo\u2560\xEAffnet_5": 2173205973046930335
+      "Wird geo\u2560\xEAffnet_6": -8665380171825951993
+      "Wird geo\u2560\xEAffnet_7": -5330472472480145451
+      "Wird geo\u2560\xEAffnet_8": 1336009068504430853
+      "Wird geo\u2560\xEAffnet_9": 3579651744842310472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 93c910f8e63513b49ae963545d39c449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5039931569126581284
+    second: "Beru\u2560\xEAhre um zu starten_0"
+  - first:
+      213: 8038667491273600169
+    second: "Beru\u2560\xEAhre um zu starten_1"
+  - first:
+      213: 1437162376811455153
+    second: "Beru\u2560\xEAhre um zu starten_2"
+  - first:
+      213: 1534439227715439692
+    second: "Beru\u2560\xEAhre um zu starten_3"
+  - first:
+      213: 2864573210020528920
+    second: "Beru\u2560\xEAhre um zu starten_4"
+  - first:
+      213: -2762563369858932128
+    second: "Beru\u2560\xEAhre um zu starten_5"
+  - first:
+      213: 8730000523452782888
+    second: "Beru\u2560\xEAhre um zu starten_6"
+  - first:
+      213: -5621825292976479897
+    second: "Beru\u2560\xEAhre um zu starten_7"
+  - first:
+      213: 9183645033475035172
+    second: "Beru\u2560\xEAhre um zu starten_8"
+  - first:
+      213: 6423860597319421606
+    second: "Beru\u2560\xEAhre um zu starten_9"
+  - first:
+      213: -6517529067241398957
+    second: "Beru\u2560\xEAhre um zu starten_10"
+  - first:
+      213: 4921480509942732802
+    second: "Beru\u2560\xEAhre um zu starten_11"
+  - first:
+      213: 16443067456935169
+    second: "Beru\u2560\xEAhre um zu starten_12"
+  - first:
+      213: 2083304045963298500
+    second: "Beru\u2560\xEAhre um zu starten_13"
+  - first:
+      213: -2401840041130987436
+    second: "Beru\u2560\xEAhre um zu starten_14"
+  - first:
+      213: 2555867247483125411
+    second: "Beru\u2560\xEAhre um zu starten_15"
+  - first:
+      213: 8779283758312752379
+    second: "Beru\u2560\xEAhre um zu starten_16"
+  - first:
+      213: 8107101536583207458
+    second: "Beru\u2560\xEAhre um zu starten_17"
+  - first:
+      213: 645323693850291620
+    second: "Beru\u2560\xEAhre um zu starten_18"
+  - first:
+      213: -6916184777678626417
+    second: "Beru\u2560\xEAhre um zu starten_19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_0"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 39
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42421163f0f61f540800000000000000
+      internalID: 5039931569126581284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_1"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 135
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ace7dc1e751f8f60800000000000000
+      internalID: 8038667491273600169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_2"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 135
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2276a3193d1f310800000000000000
+      internalID: 1437162376811455153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_3"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 39
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c4769095c6b4510800000000000000
+      internalID: 1534439227715439692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_4"
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 37
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813cf58482201c720800000000000000
+      internalID: 2864573210020528920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_5"
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 37
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0626d06704769a9d0800000000000000
+      internalID: -2762563369858932128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_6"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 37
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8299069f831372970800000000000000
+      internalID: 8730000523452782888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_7"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 39
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761a4d68ea34bf1b0800000000000000
+      internalID: -5621825292976479897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_8"
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 37
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205f8b308cd27f70800000000000000
+      internalID: 9183645033475035172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_9"
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 39
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4add9d23262950800000000000000
+      internalID: 6423860597319421606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_10"
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 37
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d1bcd38d51d85a0800000000000000
+      internalID: -6517529067241398957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_11"
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 37
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208152cd27c9c4440800000000000000
+      internalID: 4921480509942732802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_12"
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 39
+        width: 151
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d9caf1ea6a3000800000000000000
+      internalID: 16443067456935169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_13"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 39
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c6c2fdf169ec10800000000000000
+      internalID: 2083304045963298500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_14"
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 37
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f3154533faaed0800000000000000
+      internalID: -2401840041130987436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_15"
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 37
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae794358b3487320800000000000000
+      internalID: 2555867247483125411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_16"
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 37
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48694401846d970800000000000000
+      internalID: 8779283758312752379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_17"
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 39
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ac01ee4e5328070800000000000000
+      internalID: 8107101536583207458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_18"
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 37
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ade6110b76a4f800800000000000000
+      internalID: 645323693850291620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beru\u2560\xEAhre um zu starten_19"
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 39
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8160859696c400a0800000000000000
+      internalID: -6916184777678626417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Beru\u2560\xEAhre um zu starten_0": 5039931569126581284
+      "Beru\u2560\xEAhre um zu starten_1": 8038667491273600169
+      "Beru\u2560\xEAhre um zu starten_10": -6517529067241398957
+      "Beru\u2560\xEAhre um zu starten_11": 4921480509942732802
+      "Beru\u2560\xEAhre um zu starten_12": 16443067456935169
+      "Beru\u2560\xEAhre um zu starten_13": 2083304045963298500
+      "Beru\u2560\xEAhre um zu starten_14": -2401840041130987436
+      "Beru\u2560\xEAhre um zu starten_15": 2555867247483125411
+      "Beru\u2560\xEAhre um zu starten_16": 8779283758312752379
+      "Beru\u2560\xEAhre um zu starten_17": 8107101536583207458
+      "Beru\u2560\xEAhre um zu starten_18": 645323693850291620
+      "Beru\u2560\xEAhre um zu starten_19": -6916184777678626417
+      "Beru\u2560\xEAhre um zu starten_2": 1437162376811455153
+      "Beru\u2560\xEAhre um zu starten_3": 1534439227715439692
+      "Beru\u2560\xEAhre um zu starten_4": 2864573210020528920
+      "Beru\u2560\xEAhre um zu starten_5": -2762563369858932128
+      "Beru\u2560\xEAhre um zu starten_6": 8730000523452782888
+      "Beru\u2560\xEAhre um zu starten_7": -5621825292976479897
+      "Beru\u2560\xEAhre um zu starten_8": 9183645033475035172
+      "Beru\u2560\xEAhre um zu starten_9": 6423860597319421606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

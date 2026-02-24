@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: ba9161902a8fd6d48b96631886aa40de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6441660991534478261
+    second: Erstelle Konto_0
+  - first:
+      213: -7400501130590912869
+    second: Erstelle Konto_1
+  - first:
+      213: -8587581530321455152
+    second: Erstelle Konto_2
+  - first:
+      213: 5631915703149768074
+    second: Erstelle Konto_3
+  - first:
+      213: -4369950846387608379
+    second: Erstelle Konto_4
+  - first:
+      213: -2244316602133815855
+    second: Erstelle Konto_5
+  - first:
+      213: -491915940019581274
+    second: Erstelle Konto_6
+  - first:
+      213: 2586790337474434935
+    second: Erstelle Konto_7
+  - first:
+      213: 2996144500745390821
+    second: Erstelle Konto_8
+  - first:
+      213: 1021177563201932510
+    second: Erstelle Konto_9
+  - first:
+      213: 8976452949942453413
+    second: Erstelle Konto_10
+  - first:
+      213: 33114704732964924
+    second: Erstelle Konto_11
+  - first:
+      213: 3656844019852580122
+    second: Erstelle Konto_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Erstelle Konto_0
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 39
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b337ebda80656950800000000000000
+      internalID: 6441660991534478261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 39
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e70476e632c4990800000000000000
+      internalID: -7400501130590912869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 37
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7fb7dd818c2d880800000000000000
+      internalID: -8587581530321455152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 37
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8daf2b2e75982e40800000000000000
+      internalID: 5631915703149768074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_4
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 37
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42623bbd0da53c0800000000000000
+      internalID: -4369950846387608379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_5
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 39
+        width: 33
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd5d46f0f59ad0e0800000000000000
+      internalID: -2244316602133815855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_6
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 39
+        width: 34
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aec7cf0f0d5c29f0800000000000000
+      internalID: -491915940019581274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 37
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77793954b1026e320800000000000000
+      internalID: 2586790337474434935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_8
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 39
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea4ba69c81749920800000000000000
+      internalID: 2996144500745390821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 37
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc00435593fb2e00800000000000000
+      internalID: 1021177563201932510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 39
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c3501664c29c70800000000000000
+      internalID: 8976452949942453413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_11
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 37
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38437406a5a57000800000000000000
+      internalID: 33114704732964924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erstelle Konto_12
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 37
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a151352e248bfb230800000000000000
+      internalID: 3656844019852580122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Erstelle Konto_0: 6441660991534478261
+      Erstelle Konto_1: -7400501130590912869
+      Erstelle Konto_10: 8976452949942453413
+      Erstelle Konto_11: 33114704732964924
+      Erstelle Konto_12: 3656844019852580122
+      Erstelle Konto_2: -8587581530321455152
+      Erstelle Konto_3: 5631915703149768074
+      Erstelle Konto_4: -4369950846387608379
+      Erstelle Konto_5: -2244316602133815855
+      Erstelle Konto_6: -491915940019581274
+      Erstelle Konto_7: 2586790337474434935
+      Erstelle Konto_8: 2996144500745390821
+      Erstelle Konto_9: 1021177563201932510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

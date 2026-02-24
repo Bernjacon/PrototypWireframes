@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4e5e7b06c4c0e0e429465f1de4583b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 745346537431593945
+    second: Nachrichten Port_0
+  - first:
+      213: 6262059064135666900
+    second: Nachrichten Port_1
+  - first:
+      213: -7632964356616938604
+    second: Nachrichten Port_2
+  - first:
+      213: 4988924947371761657
+    second: Nachrichten Port_3
+  - first:
+      213: -1776895771119689284
+    second: Nachrichten Port_4
+  - first:
+      213: -6739645912781001427
+    second: Nachrichten Port_5
+  - first:
+      213: 5715672825724104071
+    second: Nachrichten Port_6
+  - first:
+      213: 8359749025380069430
+    second: Nachrichten Port_7
+  - first:
+      213: 992193479405594395
+    second: Nachrichten Port_8
+  - first:
+      213: 5911416860976550529
+    second: Nachrichten Port_9
+  - first:
+      213: 5030416790629093591
+    second: Nachrichten Port_10
+  - first:
+      213: 4376994364254758404
+    second: Nachrichten Port_11
+  - first:
+      213: 8676299784400982440
+    second: Nachrichten Port_12
+  - first:
+      213: 6123235554029016930
+    second: Nachrichten Port_13
+  - first:
+      213: -3368283544758562245
+    second: Nachrichten Port_14
+  - first:
+      213: -7801306225817682352
+    second: Nachrichten Port_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nachrichten Port_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d37d2e0ab0085a00800000000000000
+      internalID: 745346537431593945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 19
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc42508a8d47e650800000000000000
+      internalID: 6262059064135666900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b11acdb53421690800000000000000
+      internalID: -7632964356616938604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 19
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff9d23aec83c3540800000000000000
+      internalID: 4988924947371761657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb16487e5b23757e0800000000000000
+      internalID: -1776895771119689284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 19
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d66c020c7f772a0800000000000000
+      internalID: -6739645912781001427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d63ade626225f40800000000000000
+      internalID: 5715672825724104071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630723d527bc30470800000000000000
+      internalID: 8359749025380069430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17ed6076baf4cd00800000000000000
+      internalID: 992193479405594395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 19
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18213c5a052990250800000000000000
+      internalID: 5911416860976550529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 19
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09b953b61afc540800000000000000
+      internalID: 5030416790629093591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406aa491f253ebc30800000000000000
+      internalID: 4376994364254758404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 18
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1d4065fa8686870800000000000000
+      internalID: 8676299784400982440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26711f94b4a1af450800000000000000
+      internalID: 6123235554029016930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 18
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325fd346f37141d0800000000000000
+      internalID: -3368283544758562245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nachrichten Port_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 19
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ef71a12513cb390800000000000000
+      internalID: -7801306225817682352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nachrichten Port_0: 745346537431593945
+      Nachrichten Port_1: 6262059064135666900
+      Nachrichten Port_10: 5030416790629093591
+      Nachrichten Port_11: 4376994364254758404
+      Nachrichten Port_12: 8676299784400982440
+      Nachrichten Port_13: 6123235554029016930
+      Nachrichten Port_14: -3368283544758562245
+      Nachrichten Port_15: -7801306225817682352
+      Nachrichten Port_2: -7632964356616938604
+      Nachrichten Port_3: 4988924947371761657
+      Nachrichten Port_4: -1776895771119689284
+      Nachrichten Port_5: -6739645912781001427
+      Nachrichten Port_6: 5715672825724104071
+      Nachrichten Port_7: 8359749025380069430
+      Nachrichten Port_8: 992193479405594395
+      Nachrichten Port_9: 5911416860976550529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

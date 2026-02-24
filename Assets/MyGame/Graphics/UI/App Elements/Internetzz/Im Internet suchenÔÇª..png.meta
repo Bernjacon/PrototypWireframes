@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 50e948ad142623c47ba3130148c9c7e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5863772879470716182
+    second: "Im Internet suchen\xD4\xC7\xAA._0"
+  - first:
+      213: 7492571776053443864
+    second: "Im Internet suchen\xD4\xC7\xAA._1"
+  - first:
+      213: -5267065164897966736
+    second: "Im Internet suchen\xD4\xC7\xAA._2"
+  - first:
+      213: 5138915638584695598
+    second: "Im Internet suchen\xD4\xC7\xAA._3"
+  - first:
+      213: -8648714047883500
+    second: "Im Internet suchen\xD4\xC7\xAA._4"
+  - first:
+      213: 2504367357984672491
+    second: "Im Internet suchen\xD4\xC7\xAA._5"
+  - first:
+      213: 8897246702466876876
+    second: "Im Internet suchen\xD4\xC7\xAA._6"
+  - first:
+      213: -3573458996076351831
+    second: "Im Internet suchen\xD4\xC7\xAA._7"
+  - first:
+      213: 7394356959844240323
+    second: "Im Internet suchen\xD4\xC7\xAA._8"
+  - first:
+      213: 3911686247072812810
+    second: "Im Internet suchen\xD4\xC7\xAA._9"
+  - first:
+      213: 306429382697097172
+    second: "Im Internet suchen\xD4\xC7\xAA._10"
+  - first:
+      213: 6232236643420249011
+    second: "Im Internet suchen\xD4\xC7\xAA._11"
+  - first:
+      213: -3965136800230530327
+    second: "Im Internet suchen\xD4\xC7\xAA._12"
+  - first:
+      213: 2931659555169338854
+    second: "Im Internet suchen\xD4\xC7\xAA._13"
+  - first:
+      213: 5362028111594838389
+    second: "Im Internet suchen\xD4\xC7\xAA._14"
+  - first:
+      213: -1620974188477744431
+    second: "Im Internet suchen\xD4\xC7\xAA._15"
+  - first:
+      213: -648056046471147859
+    second: "Im Internet suchen\xD4\xC7\xAA._16"
+  - first:
+      213: -1464062765036269525
+    second: "Im Internet suchen\xD4\xC7\xAA._17"
+  - first:
+      213: 837927992254364652
+    second: "Im Internet suchen\xD4\xC7\xAA._18"
+  - first:
+      213: 5106745757524668128
+    second: "Im Internet suchen\xD4\xC7\xAA._19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._0"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615eb64cd5e406150800000000000000
+      internalID: 5863772879470716182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._1"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d78cd3556faf760800000000000000
+      internalID: 7492571776053443864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._2"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0752c6d7320a7e6b0800000000000000
+      internalID: -5267065164897966736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._3"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b5a80db88115740800000000000000
+      internalID: 5138915638584695598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._4"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41779675a0641eff0800000000000000
+      internalID: -8648714047883500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._5"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 18
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea82c7e7dc41c220800000000000000
+      internalID: 2504367357984672491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._6"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 19
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5cd8b7cbe597b70800000000000000
+      internalID: 8897246702466876876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._7"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee17fd9f5886ec0800000000000000
+      internalID: -3573458996076351831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._8"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb04fd5a780e9660800000000000000
+      internalID: 7394356959844240323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._9"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f4e8daae9194630800000000000000
+      internalID: 3911686247072812810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._10"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7176866e7a04400800000000000000
+      internalID: 306429382697097172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._11"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 18
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb9c37153a5d7650800000000000000
+      internalID: 6232236643420249011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._12"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22e60a61109f8c0800000000000000
+      internalID: -3965136800230530327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._13"
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 19
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e58f3435d85fa820800000000000000
+      internalID: 2931659555169338854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._14"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 18
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579d4438820c96a40800000000000000
+      internalID: 5362028111594838389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._15"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf4b950942189e0800000000000000
+      internalID: -1620974188477744431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._16"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae0b839574a107f0800000000000000
+      internalID: -648056046471147859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._17"
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2013211caa9eabe0800000000000000
+      internalID: -1464062765036269525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._18"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb7da5c11be0ab00800000000000000
+      internalID: 837927992254364652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Im Internet suchen\xD4\xC7\xAA._19"
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eead73b53eced640800000000000000
+      internalID: 5106745757524668128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Im Internet suchen\xD4\xC7\xAA._0": 5863772879470716182
+      "Im Internet suchen\xD4\xC7\xAA._1": 7492571776053443864
+      "Im Internet suchen\xD4\xC7\xAA._10": 306429382697097172
+      "Im Internet suchen\xD4\xC7\xAA._11": 6232236643420249011
+      "Im Internet suchen\xD4\xC7\xAA._12": -3965136800230530327
+      "Im Internet suchen\xD4\xC7\xAA._13": 2931659555169338854
+      "Im Internet suchen\xD4\xC7\xAA._14": 5362028111594838389
+      "Im Internet suchen\xD4\xC7\xAA._15": -1620974188477744431
+      "Im Internet suchen\xD4\xC7\xAA._16": -648056046471147859
+      "Im Internet suchen\xD4\xC7\xAA._17": -1464062765036269525
+      "Im Internet suchen\xD4\xC7\xAA._18": 837927992254364652
+      "Im Internet suchen\xD4\xC7\xAA._19": 5106745757524668128
+      "Im Internet suchen\xD4\xC7\xAA._2": -5267065164897966736
+      "Im Internet suchen\xD4\xC7\xAA._3": 5138915638584695598
+      "Im Internet suchen\xD4\xC7\xAA._4": -8648714047883500
+      "Im Internet suchen\xD4\xC7\xAA._5": 2504367357984672491
+      "Im Internet suchen\xD4\xC7\xAA._6": 8897246702466876876
+      "Im Internet suchen\xD4\xC7\xAA._7": -3573458996076351831
+      "Im Internet suchen\xD4\xC7\xAA._8": 7394356959844240323
+      "Im Internet suchen\xD4\xC7\xAA._9": 3911686247072812810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

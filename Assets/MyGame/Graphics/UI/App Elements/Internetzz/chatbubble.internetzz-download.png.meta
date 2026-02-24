@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 47baf3927c51d234a873cfce3df23359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -236801486265520006
+    second: chatbubble.internetzz-download_0
+  - first:
+      213: 5994356825410956534
+    second: chatbubble.internetzz-download_1
+  - first:
+      213: -4519993330615381073
+    second: chatbubble.internetzz-download_2
+  - first:
+      213: 1010486573013583811
+    second: chatbubble.internetzz-download_3
+  - first:
+      213: -6929383969498033910
+    second: chatbubble.internetzz-download_4
+  - first:
+      213: 1896481861704519405
+    second: chatbubble.internetzz-download_5
+  - first:
+      213: -1519473584783327105
+    second: chatbubble.internetzz-download_6
+  - first:
+      213: 5746094614781020633
+    second: chatbubble.internetzz-download_7
+  - first:
+      213: 8395872877933694812
+    second: chatbubble.internetzz-download_8
+  - first:
+      213: -1268022812266412062
+    second: chatbubble.internetzz-download_9
+  - first:
+      213: -4566490549903468573
+    second: chatbubble.internetzz-download_10
+  - first:
+      213: -4100352566751007260
+    second: chatbubble.internetzz-download_11
+  - first:
+      213: -5298144918519018318
+    second: chatbubble.internetzz-download_12
+  - first:
+      213: 7885949974172920540
+    second: chatbubble.internetzz-download_13
+  - first:
+      213: -5592486717912784765
+    second: chatbubble.internetzz-download_14
+  - first:
+      213: -8623172600270905086
+    second: chatbubble.internetzz-download_15
+  - first:
+      213: 6458917370115135591
+    second: chatbubble.internetzz-download_16
+  - first:
+      213: -4670637657493944371
+    second: chatbubble.internetzz-download_17
+  - first:
+      213: 4368474165140084353
+    second: chatbubble.internetzz-download_18
+  - first:
+      213: -4851042591893713598
+    second: chatbubble.internetzz-download_19
+  - first:
+      213: -1320658977893199158
+    second: chatbubble.internetzz-download_20
+  - first:
+      213: -2444625028850197660
+    second: chatbubble.internetzz-download_21
+  - first:
+      213: -1221197486769927088
+    second: chatbubble.internetzz-download_22
+  - first:
+      213: -1823807574617436985
+    second: chatbubble.internetzz-download_23
+  - first:
+      213: 3328282427237356386
+    second: chatbubble.internetzz-download_24
+  - first:
+      213: -6437493151413524593
+    second: chatbubble.internetzz-download_25
+  - first:
+      213: -6199898766308513321
+    second: chatbubble.internetzz-download_26
+  - first:
+      213: 4347477505309455400
+    second: chatbubble.internetzz-download_27
+  - first:
+      213: -3750104050942289939
+    second: chatbubble.internetzz-download_28
+  - first:
+      213: 2763545733237858392
+    second: chatbubble.internetzz-download_29
+  - first:
+      213: 5769812740331105906
+    second: chatbubble.internetzz-download_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70fbd88d46b6bcf0800000000000000
+      internalID: -236801486265520006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcee83f5cb303350800000000000000
+      internalID: 5994356825410956534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa319858302c541c0800000000000000
+      internalID: -4519993330615381073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 18
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7c6c23f28f50e00800000000000000
+      internalID: 1010486573013583811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 18
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0198c14ef1e5df90800000000000000
+      internalID: -6929383969498033910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 19
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee8ed98438a15a10800000000000000
+      internalID: 1896481861704519405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70866d33deb9eae0800000000000000
+      internalID: -1519473584783327105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9cec7ab9a3ebf40800000000000000
+      internalID: 5746094614781020633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_8
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f039436e1248470800000000000000
+      internalID: 8395872877933694812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_9
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 14
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7c4c378f3176ee0800000000000000
+      internalID: -1268022812266412062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_10
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 18
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e753d60a0190a0c0800000000000000
+      internalID: -4566490549903468573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 19
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ede1fca01f9817c0800000000000000
+      internalID: -4100352566751007260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_12
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 18
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc022374453976b0800000000000000
+      internalID: -5298144918519018318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae31f48b5807d60800000000000000
+      internalID: 7885949974172920540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e7b7d5fe7362b0800000000000000
+      internalID: -5592486717912784765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201a8f32536545880800000000000000
+      internalID: -8623172600270905086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7681057902fa2a950800000000000000
+      internalID: 6458917370115135591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c28eebcf8e2fb0800000000000000
+      internalID: -4670637657493944371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 19
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18655a7ab10ff9c30800000000000000
+      internalID: 4368474165140084353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d82efe672adacb0800000000000000
+      internalID: -4851042591893713598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2de3128a31cade0800000000000000
+      internalID: -1320658977893199158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_21
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 19
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bda5a0d72f21ed0800000000000000
+      internalID: -2444625028850197660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8a702b5f6d0fe0800000000000000
+      internalID: -1221197486769927088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc2408ca880b6e0800000000000000
+      internalID: -1823807574617436985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 19
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26358abcb3f603e20800000000000000
+      internalID: 3328282427237356386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_25
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 19
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87acf9061e69a6a0800000000000000
+      internalID: -6437493151413524593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_26
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 18
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d96cc6abe885f9a0800000000000000
+      internalID: -6199898766308513321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_27
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 19
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b8f4d1c7555c30800000000000000
+      internalID: 4347477505309455400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_28
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7d4dc0c34f4fbc0800000000000000
+      internalID: -3750104050942289939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_29
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 18
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506036d3361a5620800000000000000
+      internalID: 2763545733237858392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatbubble.internetzz-download_30
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 18
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e65f71e1e721050800000000000000
+      internalID: 5769812740331105906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chatbubble.internetzz-download_0: -236801486265520006
+      chatbubble.internetzz-download_1: 5994356825410956534
+      chatbubble.internetzz-download_10: -4566490549903468573
+      chatbubble.internetzz-download_11: -4100352566751007260
+      chatbubble.internetzz-download_12: -5298144918519018318
+      chatbubble.internetzz-download_13: 7885949974172920540
+      chatbubble.internetzz-download_14: -5592486717912784765
+      chatbubble.internetzz-download_15: -8623172600270905086
+      chatbubble.internetzz-download_16: 6458917370115135591
+      chatbubble.internetzz-download_17: -4670637657493944371
+      chatbubble.internetzz-download_18: 4368474165140084353
+      chatbubble.internetzz-download_19: -4851042591893713598
+      chatbubble.internetzz-download_2: -4519993330615381073
+      chatbubble.internetzz-download_20: -1320658977893199158
+      chatbubble.internetzz-download_21: -2444625028850197660
+      chatbubble.internetzz-download_22: -1221197486769927088
+      chatbubble.internetzz-download_23: -1823807574617436985
+      chatbubble.internetzz-download_24: 3328282427237356386
+      chatbubble.internetzz-download_25: -6437493151413524593
+      chatbubble.internetzz-download_26: -6199898766308513321
+      chatbubble.internetzz-download_27: 4347477505309455400
+      chatbubble.internetzz-download_28: -3750104050942289939
+      chatbubble.internetzz-download_29: 2763545733237858392
+      chatbubble.internetzz-download_3: 1010486573013583811
+      chatbubble.internetzz-download_30: 5769812740331105906
+      chatbubble.internetzz-download_4: -6929383969498033910
+      chatbubble.internetzz-download_5: 1896481861704519405
+      chatbubble.internetzz-download_6: -1519473584783327105
+      chatbubble.internetzz-download_7: 5746094614781020633
+      chatbubble.internetzz-download_8: 8395872877933694812
+      chatbubble.internetzz-download_9: -1268022812266412062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

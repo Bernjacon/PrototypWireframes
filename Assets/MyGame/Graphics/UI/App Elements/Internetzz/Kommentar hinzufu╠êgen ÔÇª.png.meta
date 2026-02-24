@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 3f0d5e5bd0ba92a44b3650f6915e4d94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5656946155492899355
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_0"
+  - first:
+      213: 972149151056745324
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_1"
+  - first:
+      213: -7519506832608643616
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_2"
+  - first:
+      213: -9057345526790285470
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_3"
+  - first:
+      213: 6448649869954090587
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_4"
+  - first:
+      213: -3485789183332106059
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_5"
+  - first:
+      213: -4857647458290749514
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_6"
+  - first:
+      213: -8275933114628417625
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_7"
+  - first:
+      213: 5739352283538527839
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_8"
+  - first:
+      213: -3785303330879459033
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_9"
+  - first:
+      213: -2844367938560929131
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_10"
+  - first:
+      213: 9059378930549516394
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_11"
+  - first:
+      213: -2219691224597181757
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_12"
+  - first:
+      213: 2789427042497431919
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_13"
+  - first:
+      213: -2845453607517763424
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_14"
+  - first:
+      213: 3971113456235498585
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_15"
+  - first:
+      213: -6227072797962663863
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_16"
+  - first:
+      213: -6132955789536385960
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_17"
+  - first:
+      213: -6918101837437268682
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_18"
+  - first:
+      213: -1963353819523155143
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_19"
+  - first:
+      213: 4274158042282452518
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_20"
+  - first:
+      213: -6480449885934100572
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_21"
+  - first:
+      213: 5975071012556739476
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_22"
+  - first:
+      213: -2714966332186364286
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_23"
+  - first:
+      213: -2289580322966801491
+    second: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a7aaf7e82818e40800000000000000
+      internalID: 5656946155492899355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_1"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 18
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c635f619084cd7d00800000000000000
+      internalID: 972149151056745324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_2"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 19
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53d34306855a790800000000000000
+      internalID: -7519506832608643616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_3"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26711b33b38dd4280800000000000000
+      internalID: -9057345526790285470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_4"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 19
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b568b7be3e43e7950800000000000000
+      internalID: 6448649869954090587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_5"
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 67
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0479dc43dff9fc0800000000000000
+      internalID: -3485789183332106059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_6"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 67
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2084af5b269cb0800000000000000
+      internalID: -4857647458290749514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_7"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a75ea51eaaf52d80800000000000000
+      internalID: -8275933114628417625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_8"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5614255e7646af40800000000000000
+      internalID: 5739352283538527839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_9"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 19
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721b3db0da6e77bc0800000000000000
+      internalID: -3785303330879459033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_10"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592d0931e66c688d0800000000000000
+      internalID: -2844367938560929131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_11"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ef01832169bd70800000000000000
+      internalID: 9059378930549516394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_12"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca45d677921231e0800000000000000
+      internalID: -2219691224597181757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_13"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f698deabd1906b620800000000000000
+      internalID: 2789427042497431919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_14"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 19
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8cc03150be288d0800000000000000
+      internalID: -2845453607517763424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_15"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc0b906aa3c1730800000000000000
+      internalID: 3971113456235498585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_16"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 19
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94800fe584ef499a0800000000000000
+      internalID: -6227072797962663863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_17"
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 18
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542285043d53eaa0800000000000000
+      internalID: -6132955789536385960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_18"
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 18
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d03935807fdff90800000000000000
+      internalID: -6918101837437268682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_19"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7aea7a14c0c4e0800000000000000
+      internalID: -1963353819523155143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_20"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 18
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626ef10181cd05b30800000000000000
+      internalID: 4274158042282452518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_21"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 19
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af5d24e921d016a0800000000000000
+      internalID: -6480449885934100572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_22"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939d2bbd67bbe250800000000000000
+      internalID: 5975071012556739476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_23"
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f2e06180825ad0800000000000000
+      internalID: -2714966332186364286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_24"
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f6d4b3d6c930e0800000000000000
+      internalID: -2289580322966801491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_0": 5656946155492899355
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_1": 972149151056745324
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_10": -2844367938560929131
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_11": 9059378930549516394
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_12": -2219691224597181757
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_13": 2789427042497431919
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_14": -2845453607517763424
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_15": 3971113456235498585
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_16": -6227072797962663863
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_17": -6132955789536385960
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_18": -6918101837437268682
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_19": -1963353819523155143
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_2": -7519506832608643616
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_20": 4274158042282452518
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_21": -6480449885934100572
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_22": 5975071012556739476
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_23": -2714966332186364286
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_24": -2289580322966801491
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_3": -9057345526790285470
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_4": 6448649869954090587
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_5": -3485789183332106059
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_6": -4857647458290749514
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_7": -8275933114628417625
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_8": 5739352283538527839
+      "Kommentar hinzufu\u2560\xEAgen \xD4\xC7\xAA_9": -3785303330879459033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

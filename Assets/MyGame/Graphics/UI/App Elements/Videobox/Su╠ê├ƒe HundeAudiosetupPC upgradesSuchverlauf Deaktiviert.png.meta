@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: eb38b1ead44ed2e4ead2d82d6f2687d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5833959809906489935
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_0"
+  - first:
+      213: -5964426939878549642
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_1"
+  - first:
+      213: -7804424500051382289
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_2"
+  - first:
+      213: 4373290279050098532
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_3"
+  - first:
+      213: 1128335768268185224
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_4"
+  - first:
+      213: 2383550915168088338
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_5"
+  - first:
+      213: -5688031627580882039
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_6"
+  - first:
+      213: 716377193206220905
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_7"
+  - first:
+      213: -6716093224982624619
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_8"
+  - first:
+      213: -4089225461640138050
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_9"
+  - first:
+      213: 6364335953312098463
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_10"
+  - first:
+      213: 7455900667146484764
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_11"
+  - first:
+      213: 547199731987035359
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_12"
+  - first:
+      213: 4513405611740855664
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_13"
+  - first:
+      213: 2768702721709391948
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_14"
+  - first:
+      213: 1072025404228483587
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_15"
+  - first:
+      213: 369770004053466468
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_16"
+  - first:
+      213: 54039245088317211
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_17"
+  - first:
+      213: 4720131458093152601
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_18"
+  - first:
+      213: -6909443351416319524
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_19"
+  - first:
+      213: -8783186461226567208
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_20"
+  - first:
+      213: 5785767332999718566
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_21"
+  - first:
+      213: 6936467964844696291
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_22"
+  - first:
+      213: -3976406474591194577
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_23"
+  - first:
+      213: 7810947955311224004
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_24"
+  - first:
+      213: 3481609955930509724
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_25"
+  - first:
+      213: -9105136593617633341
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_26"
+  - first:
+      213: -6183833281358612764
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_27"
+  - first:
+      213: 8468999622891052249
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_28"
+  - first:
+      213: 5186619349841090321
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_29"
+  - first:
+      213: -806734616821785874
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_30"
+  - first:
+      213: -1093605898761644423
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_31"
+  - first:
+      213: 5385202480945613145
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_32"
+  - first:
+      213: 5603248483360244639
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_33"
+  - first:
+      213: 8553514981721591722
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_34"
+  - first:
+      213: 6731451391653898809
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_35"
+  - first:
+      213: -4136269414193468282
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_36"
+  - first:
+      213: 7921158469985224994
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_37"
+  - first:
+      213: -2799373433946833211
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_38"
+  - first:
+      213: -4814785231226132797
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_39"
+  - first:
+      213: -1630080233483446283
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_40"
+  - first:
+      213: -4011009965141935128
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_41"
+  - first:
+      213: -5405368310149679970
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_42"
+  - first:
+      213: 2235328513271768002
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_43"
+  - first:
+      213: -8227951359512773764
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_44"
+  - first:
+      213: 5494172519127983053
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_45"
+  - first:
+      213: 2282960761707218235
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_46"
+  - first:
+      213: -5322418141280382503
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_47"
+  - first:
+      213: 7961103064570524963
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_48"
+  - first:
+      213: 9149240244622824589
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_49"
+  - first:
+      213: -8055621361124086146
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_50"
+  - first:
+      213: 500851440354820841
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_51"
+  - first:
+      213: 8005486059455344701
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_52"
+  - first:
+      213: 2539607589515696451
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_53"
+  - first:
+      213: -2209176501606051205
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_54"
+  - first:
+      213: -8512373164778811477
+    second: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_55"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_0"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b54e98667c990fa0800000000000000
+      internalID: -5833959809906489935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_1"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 353
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677d4cf8c491a3da0800000000000000
+      internalID: -5964426939878549642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_2"
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 353
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe41e444d11b390800000000000000
+      internalID: -7804424500051382289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_3"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 306
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467337e865c01bc30800000000000000
+      internalID: 4373290279050098532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_4"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 307
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e1efe2767a8af00800000000000000
+      internalID: 1128335768268185224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_5"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 306
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211b6a2cde2141120800000000000000
+      internalID: 2383550915168088338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_6"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 306
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983cad60f5d0011b0800000000000000
+      internalID: -5688031627580882039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_7"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 306
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688f3ef24511f900800000000000000
+      internalID: 716377193206220905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_8"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 306
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c0869bc4abc2a0800000000000000
+      internalID: -6716093224982624619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_9"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 307
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f478bb172047c0800000000000000
+      internalID: -4089225461640138050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_10"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 306
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f982a6074d9a25850800000000000000
+      internalID: 6364335953312098463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3dd9572ea87760800000000000000
+      internalID: 7455900667146484764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_12"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 210
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b64ec14b089700800000000000000
+      internalID: 547199731987035359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_13"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d7117ad76d2ae30800000000000000
+      internalID: 4513405611740855664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_14"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 210
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c404528c4786c6620800000000000000
+      internalID: 2768702721709391948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_15"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 210
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30abb31ec6990ee00800000000000000
+      internalID: 1072025404228483587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_16"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 211
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d933c0cdfa12500800000000000000
+      internalID: 369770004053466468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_17"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f5b67386cffb000800000000000000
+      internalID: 54039245088317211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_18"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 210
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959f9c48d86418140800000000000000
+      internalID: 4720131458093152601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_19"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 210
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1552331e9bc10a0800000000000000
+      internalID: -6909443351416319524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_20"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 210
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f196e27adb1680800000000000000
+      internalID: -8783186461226567208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_21"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 196
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6e18c2cbc2b4050800000000000000
+      internalID: 5785767332999718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_22"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 115
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e170fcd8434060800000000000000
+      internalID: 6936467964844696291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_23"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 114
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22bd671167f0d8c0800000000000000
+      internalID: -3976406474591194577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_24"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 114
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a36bf7cf066c60800000000000000
+      internalID: 7810947955311224004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_25"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9193bdfec9215030800000000000000
+      internalID: 3481609955930509724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_26"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 99
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfb20a528e04a180800000000000000
+      internalID: -9105136593617633341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_27"
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 115
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6b16ad46c9e2aa0800000000000000
+      internalID: -6183833281358612764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_28"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 114
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc965d494ee78570800000000000000
+      internalID: 8468999622891052249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_29"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117127c91d29af740800000000000000
+      internalID: 5186619349841090321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_30"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 114
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9358e327edc4f0800000000000000
+      internalID: -806734616821785874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_31"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 114
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765a00ba3bb2d0f0800000000000000
+      internalID: -1093605898761644423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_32"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959c058df151cba40800000000000000
+      internalID: 5385202480945613145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_33"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 19
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f930feeeeccb2cd40800000000000000
+      internalID: 5603248483360244639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_34"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 19
+        width: 7
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4f72be8034b670800000000000000
+      internalID: 8553514981721591722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_35"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 19
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae65e306bea6d50800000000000000
+      internalID: 6731451391653898809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_36"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c6fa7f1e40996c0800000000000000
+      internalID: -4136269414193468282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_37"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 19
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229cb0d09ab9ded60800000000000000
+      internalID: 7921158469985224994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_38"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 18
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cefeeb81b0a629d0800000000000000
+      internalID: -2799373433946833211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_39"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c628fe87527e2db0800000000000000
+      internalID: -4814785231226132797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_40"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f755d70aaac069e0800000000000000
+      internalID: -1630080233483446283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_41"
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 18
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb92d10b70658c0800000000000000
+      internalID: -4011009965141935128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_42"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 18
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ff5929264cf4b0800000000000000
+      internalID: -5405368310149679970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_43"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3add5807b750f10800000000000000
+      internalID: 2235328513271768002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_44"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7c0305d170dd80800000000000000
+      internalID: -8227951359512773764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_45"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 18
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32659fbc83f3c40800000000000000
+      internalID: 5494172519127983053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_46"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 19
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35c6b597b4beaf10800000000000000
+      internalID: 2282960761707218235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_47"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 18
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d153ee56e8f226b0800000000000000
+      internalID: -5322418141280382503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_48"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 18
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325fff7be058b7e60800000000000000
+      internalID: 7961103064570524963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_49"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 18
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8493791781a8fe70800000000000000
+      internalID: 9149240244622824589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_50"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 18
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e66257d0fa43090800000000000000
+      internalID: -8055621361124086146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_51"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 19
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2879b3bb163f600800000000000000
+      internalID: 500851440354820841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_52"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d307d2cf723391f60800000000000000
+      internalID: 8005486059455344701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_53"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 19
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34918f1b5af7e3320800000000000000
+      internalID: 2539607589515696451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_54"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 18
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7291af2dad6751e0800000000000000
+      internalID: -2209176501606051205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_55"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 19
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf8ac505b9fdd980800000000000000
+      internalID: -8512373164778811477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_0": -5833959809906489935
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_1": -5964426939878549642
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_10": 6364335953312098463
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_11": 7455900667146484764
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_12": 547199731987035359
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_13": 4513405611740855664
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_14": 2768702721709391948
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_15": 1072025404228483587
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_16": 369770004053466468
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_17": 54039245088317211
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_18": 4720131458093152601
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_19": -6909443351416319524
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_2": -7804424500051382289
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_20": -8783186461226567208
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_21": 5785767332999718566
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_22": 6936467964844696291
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_23": -3976406474591194577
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_24": 7810947955311224004
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_25": 3481609955930509724
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_26": -9105136593617633341
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_27": -6183833281358612764
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_28": 8468999622891052249
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_29": 5186619349841090321
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_3": 4373290279050098532
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_30": -806734616821785874
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_31": -1093605898761644423
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_32": 5385202480945613145
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_33": 5603248483360244639
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_34": 8553514981721591722
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_35": 6731451391653898809
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_36": -4136269414193468282
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_37": 7921158469985224994
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_38": -2799373433946833211
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_39": -4814785231226132797
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_4": 1128335768268185224
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_40": -1630080233483446283
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_41": -4011009965141935128
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_42": -5405368310149679970
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_43": 2235328513271768002
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_44": -8227951359512773764
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_45": 5494172519127983053
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_46": 2282960761707218235
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_47": -5322418141280382503
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_48": 7961103064570524963
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_49": 9149240244622824589
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_5": 2383550915168088338
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_50": -8055621361124086146
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_51": 500851440354820841
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_52": 8005486059455344701
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_53": 2539607589515696451
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_54": -2209176501606051205
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_55": -8512373164778811477
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_6": -5688031627580882039
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_7": 716377193206220905
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_8": -6716093224982624619
+      "Su\u2560\xEA\u251C\u0192e HundeAudiosetupPC upgradesSuchverlauf Deaktiviert_9": -4089225461640138050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
