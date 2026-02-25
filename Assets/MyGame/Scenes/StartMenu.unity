@@ -155,6 +155,9 @@ MonoBehaviour:
   menuGraphics: {fileID: 5012056451696906398}
   audioSettings: {fileID: 2409526415704175667}
   audioBTTN: {fileID: 1376376662783410632}
+  bttnvisual:
+  - {fileID: 4086895658025638556, guid: 6fb480819178ae3459e4b11ac54ff784, type: 3}
+  - {fileID: -5042991611647629662, guid: 29013fa418e0f3d4f8dd53d46e9c94dd, type: 3}
   masterSlider: {fileID: 3119402407425907003}
   musicSlider: {fileID: 8470825075331575259}
   sfxSlider: {fileID: 177690635854422243}
@@ -900,8 +903,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 83714860}
-        m_TargetAssemblyTypeName: UiManager, Assembly-CSharp
-        m_MethodName: BackToMainScreen
+        m_TargetAssemblyTypeName: StartMenuScript, Assembly-CSharp
+        m_MethodName: Back
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1331,7 +1334,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8073374312419567352}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 83714860}
+        m_TargetAssemblyTypeName: StartMenuScript, Assembly-CSharp
+        m_MethodName: ResetSetting
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &2122215516139805136
 CanvasRenderer:
   m_ObjectHideFlags: 0

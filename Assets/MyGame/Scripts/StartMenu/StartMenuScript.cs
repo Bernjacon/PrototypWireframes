@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
+using UnityEngine.EventSystems;
 
 public class StartMenuScript : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class StartMenuScript : MonoBehaviour
     [SerializeField] GameObject menuGraphics;
     [SerializeField] GameObject audioSettings;
     [SerializeField] GameObject audioBTTN;
+    [SerializeField] Sprite[] bttnvisual;
 
     [Header("Audio Sliders")]
     [SerializeField] Slider masterSlider;
@@ -63,25 +65,47 @@ public class StartMenuScript : MonoBehaviour
         settingsGraphic.SetActive(true);
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
-        audioBTTN.SetActive(true);
     }
 
-    public void BackToMainScreen()
+
+    public void Back()
     {
-        mainScreenParent.SetActive(true);
-        settings.SetActive(false);
-        settingsGraphic.SetActive(false);
-        menuGraphics.SetActive(false);
-        audioSettings.SetActive(false);
+        if (audioSettings.activeSelf)
+        {
+            audioSettings.SetActive(false);
+            menuGraphics.SetActive(false);
+
+    if (audioBTTN != null && bttnvisual.Length > 0)
+    {
+        Image img = audioBTTN.GetComponent<Image>();
+        if (img != null)
+            img.sprite = bttnvisual[0];
+    }
+        }
+        else
+        {
+            mainScreenParent.SetActive(true);
+            settings.SetActive(false);
+            settingsGraphic.SetActive(false);
+            menuGraphics.SetActive(false);
+            audioSettings.SetActive(false);
+        }
     }
 
     public void OpenAudioSettings()
     {
-        audioBTTN.SetActive(false);
         settingsGraphic.SetActive(false);
         menuGraphics.SetActive(true);
         audioSettings.SetActive(true);
+
+        if (audioBTTN != null && bttnvisual.Length > 1)
+        {
+            Image img = audioBTTN.GetComponent<Image>();
+            if (img != null)
+                img.sprite = bttnvisual[1];
+        }
     }
+
 
     public void ResetSetting()
     {

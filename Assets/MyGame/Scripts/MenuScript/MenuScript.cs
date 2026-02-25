@@ -1,52 +1,42 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
+using UnityEngine.EventSystems;
 
 public class MenuScript : MonoBehaviour
 {
-    [Header("Menu Root")]
-    [SerializeField] GameObject menuParent;
-
-    [Header("Deactivate When Menu Opens")]
+    [Header("Panels")]
+    [SerializeField] GameObject menu;
+    [SerializeField] GameObject settingsGraphic;
+    [SerializeField] GameObject menuGraphics;
+    [SerializeField] GameObject audioSettings;
+    [SerializeField] GameObject audioBTTN;
+    [SerializeField] Sprite[] bttnvisual;
     [SerializeField] GameObject[] deactivateGameManagers;
 
-    [Header("Panels")]
-    [SerializeField] GameObject mainScreenParent;
-    [SerializeField] GameObject settingsParent;
-    [SerializeField] GameObject settingsDefault;
-    [SerializeField] GameObject audioSettingsParent;
-
-    [Header("Sliders")]
+    [Header("Audio Sliders")]
     [SerializeField] Slider masterSlider;
     [SerializeField] Slider musicSlider;
     [SerializeField] Slider sfxSlider;
 
     [Header("Audio Mixer")]
     [SerializeField] AudioMixer audioMixer;
-    public void OpenMenu()
+
+    private void Start()
     {
-        menuParent.SetActive(true);
+        menu.SetActive(false);
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(false);
+        audioSettings.SetActive(false);
 
-        foreach (GameObject go in deactivateGameManagers)
-        {
-            if (go != null)
-                go.SetActive(false);
-        }
+        masterSlider.value = PlayerPrefs.GetFloat("MasterVolume", 0f);
+        musicSlider.value = PlayerPrefs.GetFloat("MusicVolume", 0f);
+        sfxSlider.value = PlayerPrefs.GetFloat("SfxVolume", 0f);
 
-        mainScreenParent.SetActive(true);
-        settingsParent.SetActive(false);
-        settingsDefault.SetActive(false);
-        audioSettingsParent.SetActive(false);
-    }
-    public void BackToGame()
-    {
-        menuParent.SetActive(false);
-
-        foreach (GameObject go in deactivateGameManagers)
-        {
-            if (go != null)
-                go.SetActive(true);
-        }
+        SetMasterVolume(masterSlider.value);
+        SetMusicVolume(musicSlider.value);
+        SetSfxVolume(sfxSlider.value);
     }
 
     public void SetMasterVolume(float value)
@@ -67,31 +57,70 @@ public class MenuScript : MonoBehaviour
         PlayerPrefs.SetFloat("SfxVolume", value);
     }
 
-    public void OpenSettings()
+    public void OpenMenu()
     {
-        mainScreenParent.SetActive(false);
-        settingsParent.SetActive(true);
-        settingsDefault.SetActive(true);
-        audioSettingsParent.SetActive(false);
+        menu.SetActive(true);
+        settingsGraphic.SetActive(true);
+        menuGraphics.SetActive(false);
+        audioSettings.SetActive(false);
+        foreach (GameObject go in deactivateGameManagers)
+            if (go != null) go.SetActive(false);
     }
 
-    public void BackToMainScreen()
+
+    public void Back()
     {
-        mainScreenParent.SetActive(true);
-        settingsParent.SetActive(false);
-        settingsDefault.SetActive(false);
-        audioSettingsParent.SetActive(false);
+        if (audioSettings.activeSelf)
+        {
+            audioSettings.SetActive(false);
+            menuGraphics.SetActive(false);
+
+            if (audioBTTN != null && bttnvisual.Length > 0)
+            {
+                Image img = audioBTTN.GetComponent<Image>();
+                if (img != null)
+                    img.sprite = bttnvisual[0];
+            }
+        }
+        else
+        {
+            menu.SetActive(false);
+            settingsGraphic.SetActive(false);
+            menuGraphics.SetActive(false);
+            audioSettings.SetActive(false);
+            foreach (GameObject go in deactivateGameManagers)
+                if (go != null) go.SetActive(true);
+        }
     }
 
     public void OpenAudioSettings()
     {
-        settingsDefault.SetActive(false);
-        audioSettingsParent.SetActive(true);
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(true);
+        audioSettings.SetActive(true);
+
+        if (audioBTTN != null && bttnvisual.Length > 1)
+        {
+            Image img = audioBTTN.GetComponent<Image>();
+            if (img != null)
+                img.sprite = bttnvisual[1];
+        }
     }
 
-    public void BackToSettings()
+
+    public void ResetSetting()
     {
-        settingsDefault.SetActive(true);
-        audioSettingsParent.SetActive(false);
+        masterSlider.value = 0f;
+        musicSlider.value = 0f;
+        sfxSlider.value = 0f;
+
+        SetMasterVolume(0f);
+        SetMusicVolume(0f);
+        SetSfxVolume(0f);
+    }
+
+    public void BackToStartMenu()
+    {
+        SceneManager.LoadScene(0);
     }
 }

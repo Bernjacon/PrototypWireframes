@@ -12,45 +12,57 @@ using UnityEngine.Animations;
 
 public class DialoguePersonScripts : MonoBehaviour
 {
-    [Header("UI")]
+    [Header("UI - Dialogue")]
     [SerializeField] TMP_Text dialogueText;
+    [SerializeField] TMP_Text timeText;
+
     [SerializeField] Image speakerImage;
     [SerializeField] Image playerImage;
     [SerializeField] GameObject playerBackground;
 
-    [SerializeField] TMP_Text timeText;
     [SerializeField] Animator speakerAnimator;
     [SerializeField] Animator playerAnimator;
     [SerializeField] Animator boxAnimator;
+
 
     [Header("Player Settings")]
     [SerializeField] Sprite playerVisual;
     [SerializeField] RuntimeAnimatorController playerAnimation;
 
-    Sprite lastSpeakerSprite;
-    GameObject lastDisappearingSpeaker;
 
     [Header("Typing")]
     [SerializeField] float typeSpeed = 0.03f;
-    bool isTyping = false;
-    string currentLine = "";
+    private bool isTyping = false;
+    private string currentLine = "";
 
-    [Header("IndexHandling")]
+
+    [Header("Dialogue State")]
     [SerializeField] int indexDSAArray;
+    private bool dialogueFinished = false;
+
+    private Sprite lastSpeakerSprite;
+    private GameObject lastDisappearingSpeaker;
+
 
     [Header("Decision")]
     [SerializeField] bool isWaitingForDecision;
     [SerializeField] GameObject[] showDecisionButtons;
-    TMP_Text[] decisionButtonTextUI;
-    int buttonIndex;
-    bool dialogueFinished = false;
+
+    private TMP_Text[] decisionButtonTextUI;
+    private int buttonIndex;
+
+
+    [Header("Clock")]
+    private DateTime simulatedTime;
+
 
     [Header("Audio")]
     private List<GameObject> dialogueAudioObjects = new List<GameObject>();
     private List<GameObject> persistentAudioObjects = new List<GameObject>();
 
-    public LoadingManagerScript lmsa;
 
+    [Header("External")]
+    public LoadingManagerScript lmsa;
     [SerializeField] Dialogue[] dsa;
 
     void Start()
@@ -69,6 +81,7 @@ public class DialoguePersonScripts : MonoBehaviour
             playerImage.sprite = playerVisual;
 
         UpdateObjects();
+        simulatedTime = DateTime.Today.AddHours(15);
         StartCoroutine(UpdateClock());
     }
 
@@ -240,7 +253,8 @@ public class DialoguePersonScripts : MonoBehaviour
     {
         while (true)
         {
-            timeText.text = DateTime.Now.ToString("HH:mm");
+            timeText.text = simulatedTime.ToString("HH:mm");
+            simulatedTime = simulatedTime.AddSeconds(1);
             yield return new WaitForSeconds(1f);
         }
     }
