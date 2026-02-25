@@ -11,6 +11,7 @@ public class StartMenuScript : MonoBehaviour
     [SerializeField] GameObject settingsGraphic;
     [SerializeField] GameObject menuGraphics;
     [SerializeField] GameObject audioSettings;
+    [SerializeField] GameObject audioBTTN;
 
     [Header("Audio Sliders")]
     [SerializeField] Slider masterSlider;
@@ -62,6 +63,7 @@ public class StartMenuScript : MonoBehaviour
         settingsGraphic.SetActive(true);
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
+        audioBTTN.SetActive(true);
     }
 
     public void BackToMainScreen()
@@ -75,19 +77,21 @@ public class StartMenuScript : MonoBehaviour
 
     public void OpenAudioSettings()
     {
-        
+        audioBTTN.SetActive(false);
         settingsGraphic.SetActive(false);
         menuGraphics.SetActive(true);
         audioSettings.SetActive(true);
     }
 
-
-    //Warum gibt es diese Funktion wenn es doch bereits eine Open Settings Funktion gibt?? -LG Jana
-    public void BackToSettings()
+    public void ResetSetting()
     {
-        settingsGraphic.SetActive(false);
-        menuGraphics.SetActive(true);
-        audioSettings.SetActive(true);
+        masterSlider.value = 0f;
+        musicSlider.value = 0f;
+        sfxSlider.value = 0f;
+
+        SetMasterVolume(0f);
+        SetMusicVolume(0f);
+        SetSfxVolume(0f);
     }
 
     public void StartGame()
