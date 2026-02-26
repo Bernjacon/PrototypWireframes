@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 9619ba2fa58a6fa40b23219d436ef445
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6392322190737342348
+    second: DanielDialog_0
+  - first:
+      213: -3441375364641951166
+    second: DanielDialog_1
+  - first:
+      213: 3993569058667108404
+    second: DanielDialog_2
+  - first:
+      213: 7443332900898998836
+    second: DanielDialog_3
+  - first:
+      213: -3486292012907056506
+    second: DanielDialog_4
+  - first:
+      213: 5843342546727007927
+    second: DanielDialog_5
+  - first:
+      213: 6268721426712948666
+    second: DanielDialog_6
+  - first:
+      213: 6801569506807830291
+    second: DanielDialog_7
+  - first:
+      213: 5998404423268027931
+    second: DanielDialog_8
+  - first:
+      213: -5160060127665073268
+    second: DanielDialog_9
+  - first:
+      213: 5875827766521081726
+    second: DanielDialog_10
+  - first:
+      213: 5181202612516930708
+    second: DanielDialog_11
+  - first:
+      213: -5563580680436690298
+    second: DanielDialog_12
+  - first:
+      213: -7397006280220088242
+    second: DanielDialog_13
+  - first:
+      213: -2902180853349448100
+    second: DanielDialog_14
+  - first:
+      213: 2655585941626999938
+    second: DanielDialog_15
+  - first:
+      213: 910556595080490756
+    second: DanielDialog_16
+  - first:
+      213: 6313089280226490778
+    second: DanielDialog_17
+  - first:
+      213: 8853829155843171321
+    second: DanielDialog_18
+  - first:
+      213: 237678760257436603
+    second: DanielDialog_19
+  - first:
+      213: -8556915002563359999
+    second: DanielDialog_20
+  - first:
+      213: 986038840433813855
+    second: DanielDialog_21
+  - first:
+      213: -3309939760796513481
+    second: DanielDialog_22
+  - first:
+      213: -3978770383798931766
+    second: DanielDialog_23
+  - first:
+      213: 5585442747947078376
+    second: DanielDialog_24
+  - first:
+      213: 4482294266699245936
+    second: DanielDialog_25
+  - first:
+      213: 4795669933366645738
+    second: DanielDialog_26
+  - first:
+      213: 4812157937496319757
+    second: DanielDialog_27
+  - first:
+      213: -7435230794118468008
+    second: DanielDialog_28
+  - first:
+      213: 1560376962764100352
+    second: DanielDialog_29
+  - first:
+      213: -8101695804623299449
+    second: DanielDialog_30
+  - first:
+      213: -1122685245568442767
+    second: DanielDialog_31
+  - first:
+      213: -397428955597457029
+    second: DanielDialog_32
+  - first:
+      213: 8727671034269884201
+    second: DanielDialog_33
+  - first:
+      213: -963448074244373448
+    second: DanielDialog_34
+  - first:
+      213: -9131111272515605439
+    second: DanielDialog_35
+  - first:
+      213: -4593763779174138870
+    second: DanielDialog_36
+  - first:
+      213: 4725885767136873701
+    second: DanielDialog_37
+  - first:
+      213: -403861746514885277
+    second: DanielDialog_38
+  - first:
+      213: 3918626304698905959
+    second: DanielDialog_39
+  - first:
+      213: -4916463873915213388
+    second: DanielDialog_40
+  - first:
+      213: -5906984143387601825
+    second: DanielDialog_41
+  - first:
+      213: 4774128746781390125
+    second: DanielDialog_42
+  - first:
+      213: -9116682837745192528
+    second: DanielDialog_43
+  - first:
+      213: -8192556560278560529
+    second: DanielDialog_44
+  - first:
+      213: 6741810005007150232
+    second: DanielDialog_45
+  - first:
+      213: -8490500617719618941
+    second: DanielDialog_46
+  - first:
+      213: -1114799218940634336
+    second: DanielDialog_47
+  - first:
+      213: 7481505064289933570
+    second: DanielDialog_48
+  - first:
+      213: -8577409479193112583
+    second: DanielDialog_49
+  - first:
+      213: -7095946967437713576
+    second: DanielDialog_50
+  - first:
+      213: 1257929866741292475
+    second: DanielDialog_51
+  - first:
+      213: -309698915631514303
+    second: DanielDialog_52
+  - first:
+      213: -3332849861301280016
+    second: DanielDialog_53
+  - first:
+      213: 2971383535399133688
+    second: DanielDialog_54
+  - first:
+      213: -784381797247129142
+    second: DanielDialog_55
+  - first:
+      213: -8288289370916276444
+    second: DanielDialog_56
+  - first:
+      213: 2097296516064628732
+    second: DanielDialog_57
+  - first:
+      213: 3242472183959316442
+    second: DanielDialog_58
+  - first:
+      213: -5718164165586563668
+    second: DanielDialog_59
+  - first:
+      213: -8884186212138264474
+    second: DanielDialog_60
+  - first:
+      213: -2038031511015335242
+    second: DanielDialog_61
+  - first:
+      213: 5843854555263857041
+    second: DanielDialog_62
+  - first:
+      213: -5940118904661984150
+    second: DanielDialog_63
+  - first:
+      213: -8083339255697622901
+    second: DanielDialog_64
+  - first:
+      213: 4744583886187048551
+    second: DanielDialog_65
+  - first:
+      213: 7997884999195937536
+    second: DanielDialog_66
+  - first:
+      213: 1753664978202574962
+    second: DanielDialog_67
+  - first:
+      213: 985135532345392363
+    second: DanielDialog_68
+  - first:
+      213: -4086464719966742509
+    second: DanielDialog_69
+  - first:
+      213: 431255295262695984
+    second: DanielDialog_70
+  - first:
+      213: -5447579691206308455
+    second: DanielDialog_71
+  - first:
+      213: 6801922929491931079
+    second: DanielDialog_72
+  - first:
+      213: -115493087248759918
+    second: DanielDialog_73
+  - first:
+      213: 2953425024899590501
+    second: DanielDialog_74
+  - first:
+      213: -930244733415451060
+    second: DanielDialog_75
+  - first:
+      213: 7608962980811008569
+    second: DanielDialog_76
+  - first:
+      213: -4931905508079512967
+    second: DanielDialog_77
+  - first:
+      213: -1777264769367662799
+    second: DanielDialog_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielDialog_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8666
+        width: 390
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700143e5d8e947a0800000000000000
+      internalID: -6392322190737342348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_1
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 8666
+        width: 390
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427cbbc657cd30d0800000000000000
+      internalID: -3441375364641951166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_2
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 8666
+        width: 391
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43818d766e10c6730800000000000000
+      internalID: 3993569058667108404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_3
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 8666
+        width: 391
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a001f36d70c4760800000000000000
+      internalID: 7443332900898998836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_4
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 8666
+        width: 391
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b46ba2e33e9fc0800000000000000
+      internalID: -3486292012907056506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_5
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 8666
+        width: 390
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f69e3619b71150800000000000000
+      internalID: 5843342546727007927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_6
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 8666
+        width: 390
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfea1bace8fef650800000000000000
+      internalID: 6268721426712948666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_7
+      rect:
+        serializedVersion: 2
+        x: 7851
+        y: 8666
+        width: 389
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317d8602e67046e50800000000000000
+      internalID: 6801569506807830291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_8
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 8666
+        width: 390
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec504ca0d9e3350800000000000000
+      internalID: 5998404423268027931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7586
+        width: 389
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ddde27a8c368b0800000000000000
+      internalID: -5160060127665073268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_10
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 7586
+        width: 389
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fadd0e8322b8150800000000000000
+      internalID: 5875827766521081726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_11
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 7586
+        width: 389
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494c56c235457e740800000000000000
+      internalID: 5181202612516930708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_12
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 7586
+        width: 388
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682585729d03ac2b0800000000000000
+      internalID: -5563580680436690298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_13
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 7586
+        width: 389
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48e52aaafd885990800000000000000
+      internalID: -7397006280220088242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_14
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 7586
+        width: 388
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c568a2ae3e169b7d0800000000000000
+      internalID: -2902180853349448100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_15
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 7586
+        width: 387
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284d23118598ad420800000000000000
+      internalID: 2655585941626999938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_16
+      rect:
+        serializedVersion: 2
+        x: 7856
+        y: 7586
+        width: 387
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f69ad1662f2ac00800000000000000
+      internalID: 910556595080490756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_17
+      rect:
+        serializedVersion: 2
+        x: 8937
+        y: 7586
+        width: 386
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99f93f80499c9750800000000000000
+      internalID: 6313089280226490778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6506
+        width: 387
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3670825be1fda70800000000000000
+      internalID: 8853829155843171321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_19
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 6506
+        width: 387
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbbccbb2976c4300800000000000000
+      internalID: 237678760257436603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_20
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 6506
+        width: 386
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b0003442bbf3980800000000000000
+      internalID: -8556915002563359999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_21
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 6506
+        width: 386
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59abc2e91d1fad00800000000000000
+      internalID: 986038840433813855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_22
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 6506
+        width: 387
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b48c9035bb012d0800000000000000
+      internalID: -3309939760796513481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_23
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 6506
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acee1d69a6198c8c0800000000000000
+      internalID: -3978770383798931766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_24
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 6506
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2daa8169a738d40800000000000000
+      internalID: 5585442747947078376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_25
+      rect:
+        serializedVersion: 2
+        x: 7858
+        y: 6506
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e06923ee443e30800000000000000
+      internalID: 4482294266699245936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_26
+      rect:
+        serializedVersion: 2
+        x: 8938
+        y: 6506
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae317565564ad8240800000000000000
+      internalID: 4795669933366645738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_27
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5426
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076b83f52838c240800000000000000
+      internalID: 4812157937496319757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_28
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 5426
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee58d7cf0c0d890800000000000000
+      internalID: -7435230794118468008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_29
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 5426
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d145949297a510800000000000000
+      internalID: 1560376962764100352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_30
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 5426
+        width: 387
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd72f179ef09f80800000000000000
+      internalID: -8101695804623299449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_31
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 5426
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e1257a7bb6b60f0800000000000000
+      internalID: -1122685245568442767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_32
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 5426
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79b826787c0c7af0800000000000000
+      internalID: -397428955597457029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_33
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 5426
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f5f12809aee1970800000000000000
+      internalID: 8727671034269884201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_34
+      rect:
+        serializedVersion: 2
+        x: 7858
+        y: 5426
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834412fb41521a2f0800000000000000
+      internalID: -963448074244373448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_35
+      rect:
+        serializedVersion: 2
+        x: 8938
+        y: 5426
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c64252da6c74180800000000000000
+      internalID: -9131111272515605439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4346
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf4408e2caf30c0800000000000000
+      internalID: -4593763779174138870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_37
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 4346
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec844ff018b59140800000000000000
+      internalID: 4725885767136873701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_38
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 4346
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3658c9c91e1356af0800000000000000
+      internalID: -403861746514885277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_39
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 4346
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7657413ccd1c16630800000000000000
+      internalID: 3918626304698905959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_40
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 4346
+        width: 388
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b92e3cb72635cbb0800000000000000
+      internalID: -4916463873915213388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_41
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 4346
+        width: 389
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545487d73d260ea0800000000000000
+      internalID: -5906984143387601825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_42
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 4346
+        width: 389
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b2effccc114240800000000000000
+      internalID: 4774128746781390125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_43
+      rect:
+        serializedVersion: 2
+        x: 7858
+        y: 4346
+        width: 389
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b13c46e2490b7180800000000000000
+      internalID: -9116682837745192528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_44
+      rect:
+        serializedVersion: 2
+        x: 8938
+        y: 4346
+        width: 389
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ec46e6313e4e80800000000000000
+      internalID: -8192556560278560529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3266
+        width: 389
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c20abda78bf8d50800000000000000
+      internalID: 6741810005007150232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_46
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3266
+        width: 390
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382669b3caeab2a80800000000000000
+      internalID: -8490500617719618941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_47
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 3266
+        width: 390
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b192f44007780f0800000000000000
+      internalID: -1114799218940634336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_48
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 3266
+        width: 390
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209994e9735a3d760800000000000000
+      internalID: 7481505064289933570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_49
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 3266
+        width: 390
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff40a3168be6f880800000000000000
+      internalID: -8577409479193112583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_50
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 3266
+        width: 390
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f5ddc34d1268d90800000000000000
+      internalID: -7095946967437713576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_51
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 3266
+        width: 391
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd187b8c80157110800000000000000
+      internalID: 1257929866741292475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_52
+      rect:
+        serializedVersion: 2
+        x: 7858
+        y: 3266
+        width: 391
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14db5722a7ab3bbf0800000000000000
+      internalID: -309698915631514303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_53
+      rect:
+        serializedVersion: 2
+        x: 8937
+        y: 3266
+        width: 392
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f26d6795b65fb1d0800000000000000
+      internalID: -3332849861301280016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2186
+        width: 392
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e8e615997c3920800000000000000
+      internalID: 2971383535399133688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_55
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2186
+        width: 392
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac96dc649e05d15f0800000000000000
+      internalID: -784381797247129142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_56
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2186
+        width: 393
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427b3eafab41afc80800000000000000
+      internalID: -8288289370916276444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_57
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 2186
+        width: 392
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff42b4c1181b1d10800000000000000
+      internalID: 2097296516064628732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_58
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 2186
+        width: 393
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7eafe95439ffc20800000000000000
+      internalID: 3242472183959316442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_59
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 2186
+        width: 393
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad48deccfff4a0b0800000000000000
+      internalID: -5718164165586563668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_60
+      rect:
+        serializedVersion: 2
+        x: 6774
+        y: 2186
+        width: 394
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685313e5b705b480800000000000000
+      internalID: -8884186212138264474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_61
+      rect:
+        serializedVersion: 2
+        x: 7853
+        y: 2186
+        width: 394
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bad0e0832577b3e0800000000000000
+      internalID: -2038031511015335242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_62
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 2186
+        width: 395
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191fc8581ca891150800000000000000
+      internalID: 5843854555263857041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_63
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1106
+        width: 394
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3a0c0455709da0800000000000000
+      internalID: -5940118904661984150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_64
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1106
+        width: 395
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b883c2936c532df80800000000000000
+      internalID: -8083339255697622901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_65
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1106
+        width: 394
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ea83718e528d140800000000000000
+      internalID: 4744583886187048551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_66
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1106
+        width: 395
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bcf7b38023efe60800000000000000
+      internalID: 7997884999195937536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_67
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 1106
+        width: 394
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cec0a105465810800000000000000
+      internalID: 1753664978202574962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_68
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 1106
+        width: 395
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becff051c87ebad00800000000000000
+      internalID: 985135532345392363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_69
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 1106
+        width: 394
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318573bfcf5f947c0800000000000000
+      internalID: -4086464719966742509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_70
+      rect:
+        serializedVersion: 2
+        x: 7849
+        y: 1106
+        width: 394
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032a3a9f7602cf500800000000000000
+      internalID: 431255295262695984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_71
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 1106
+        width: 393
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d0404222f4664b0800000000000000
+      internalID: -5447579691206308455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 26
+        width: 393
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf63f1cdd8456e50800000000000000
+      internalID: 6801922929491931079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_73
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 26
+        width: 392
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293468826afa56ef0800000000000000
+      internalID: -115493087248759918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_74
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 26
+        width: 392
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569a3e7896cacf820800000000000000
+      internalID: 2953425024899590501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_75
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 26
+        width: 391
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c461896f75b1713f0800000000000000
+      internalID: -930244733415451060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_76
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 26
+        width: 391
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a665c5487789960800000000000000
+      internalID: 7608962980811008569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_77
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 26
+        width: 391
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972d02d121a5e8bb0800000000000000
+      internalID: -4931905508079512967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielDialog_78
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 26
+        width: 391
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f160ecb13e557e0800000000000000
+      internalID: -1777264769367662799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanielDialog_0: -6392322190737342348
+      DanielDialog_1: -3441375364641951166
+      DanielDialog_10: 5875827766521081726
+      DanielDialog_11: 5181202612516930708
+      DanielDialog_12: -5563580680436690298
+      DanielDialog_13: -7397006280220088242
+      DanielDialog_14: -2902180853349448100
+      DanielDialog_15: 2655585941626999938
+      DanielDialog_16: 910556595080490756
+      DanielDialog_17: 6313089280226490778
+      DanielDialog_18: 8853829155843171321
+      DanielDialog_19: 237678760257436603
+      DanielDialog_2: 3993569058667108404
+      DanielDialog_20: -8556915002563359999
+      DanielDialog_21: 986038840433813855
+      DanielDialog_22: -3309939760796513481
+      DanielDialog_23: -3978770383798931766
+      DanielDialog_24: 5585442747947078376
+      DanielDialog_25: 4482294266699245936
+      DanielDialog_26: 4795669933366645738
+      DanielDialog_27: 4812157937496319757
+      DanielDialog_28: -7435230794118468008
+      DanielDialog_29: 1560376962764100352
+      DanielDialog_3: 7443332900898998836
+      DanielDialog_30: -8101695804623299449
+      DanielDialog_31: -1122685245568442767
+      DanielDialog_32: -397428955597457029
+      DanielDialog_33: 8727671034269884201
+      DanielDialog_34: -963448074244373448
+      DanielDialog_35: -9131111272515605439
+      DanielDialog_36: -4593763779174138870
+      DanielDialog_37: 4725885767136873701
+      DanielDialog_38: -403861746514885277
+      DanielDialog_39: 3918626304698905959
+      DanielDialog_4: -3486292012907056506
+      DanielDialog_40: -4916463873915213388
+      DanielDialog_41: -5906984143387601825
+      DanielDialog_42: 4774128746781390125
+      DanielDialog_43: -9116682837745192528
+      DanielDialog_44: -8192556560278560529
+      DanielDialog_45: 6741810005007150232
+      DanielDialog_46: -8490500617719618941
+      DanielDialog_47: -1114799218940634336
+      DanielDialog_48: 7481505064289933570
+      DanielDialog_49: -8577409479193112583
+      DanielDialog_5: 5843342546727007927
+      DanielDialog_50: -7095946967437713576
+      DanielDialog_51: 1257929866741292475
+      DanielDialog_52: -309698915631514303
+      DanielDialog_53: -3332849861301280016
+      DanielDialog_54: 2971383535399133688
+      DanielDialog_55: -784381797247129142
+      DanielDialog_56: -8288289370916276444
+      DanielDialog_57: 2097296516064628732
+      DanielDialog_58: 3242472183959316442
+      DanielDialog_59: -5718164165586563668
+      DanielDialog_6: 6268721426712948666
+      DanielDialog_60: -8884186212138264474
+      DanielDialog_61: -2038031511015335242
+      DanielDialog_62: 5843854555263857041
+      DanielDialog_63: -5940118904661984150
+      DanielDialog_64: -8083339255697622901
+      DanielDialog_65: 4744583886187048551
+      DanielDialog_66: 7997884999195937536
+      DanielDialog_67: 1753664978202574962
+      DanielDialog_68: 985135532345392363
+      DanielDialog_69: -4086464719966742509
+      DanielDialog_7: 6801569506807830291
+      DanielDialog_70: 431255295262695984
+      DanielDialog_71: -5447579691206308455
+      DanielDialog_72: 6801922929491931079
+      DanielDialog_73: -115493087248759918
+      DanielDialog_74: 2953425024899590501
+      DanielDialog_75: -930244733415451060
+      DanielDialog_76: 7608962980811008569
+      DanielDialog_77: -4931905508079512967
+      DanielDialog_78: -1777264769367662799
+      DanielDialog_8: 5998404423268027931
+      DanielDialog_9: -5160060127665073268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

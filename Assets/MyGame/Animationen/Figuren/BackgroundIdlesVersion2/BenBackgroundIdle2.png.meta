@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 88621ba3e7d70eb418eebf560c249b02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9066803971172749626
+    second: BenBackgroundIdle2_0
+  - first:
+      213: 7114155816468084355
+    second: BenBackgroundIdle2_1
+  - first:
+      213: 6199833451576486361
+    second: BenBackgroundIdle2_2
+  - first:
+      213: -8312653729001141942
+    second: BenBackgroundIdle2_3
+  - first:
+      213: 3036713092910794727
+    second: BenBackgroundIdle2_4
+  - first:
+      213: 4894326994918016912
+    second: BenBackgroundIdle2_5
+  - first:
+      213: -2610190056751863875
+    second: BenBackgroundIdle2_6
+  - first:
+      213: -837691178460476232
+    second: BenBackgroundIdle2_7
+  - first:
+      213: 5652467184256674330
+    second: BenBackgroundIdle2_8
+  - first:
+      213: -6861495899449566623
+    second: BenBackgroundIdle2_9
+  - first:
+      213: -1603900878706040773
+    second: BenBackgroundIdle2_10
+  - first:
+      213: -6672038603128740913
+    second: BenBackgroundIdle2_11
+  - first:
+      213: 4575635162802737509
+    second: BenBackgroundIdle2_12
+  - first:
+      213: -7049710154201706470
+    second: BenBackgroundIdle2_13
+  - first:
+      213: 1943185082475708600
+    second: BenBackgroundIdle2_14
+  - first:
+      213: 7584615655870811340
+    second: BenBackgroundIdle2_15
+  - first:
+      213: 3535302886488633554
+    second: BenBackgroundIdle2_16
+  - first:
+      213: 6933511990135148323
+    second: BenBackgroundIdle2_17
+  - first:
+      213: -3986644396099333636
+    second: BenBackgroundIdle2_18
+  - first:
+      213: 6026687490546612144
+    second: BenBackgroundIdle2_19
+  - first:
+      213: 3844160854483879633
+    second: BenBackgroundIdle2_20
+  - first:
+      213: 8368494705642410518
+    second: BenBackgroundIdle2_21
+  - first:
+      213: 2556688017458467845
+    second: BenBackgroundIdle2_22
+  - first:
+      213: -2652981937841901221
+    second: BenBackgroundIdle2_23
+  - first:
+      213: 8843849216728448828
+    second: BenBackgroundIdle2_24
+  - first:
+      213: -549791400872586243
+    second: BenBackgroundIdle2_25
+  - first:
+      213: -8816887988557247861
+    second: BenBackgroundIdle2_26
+  - first:
+      213: -2355260813939336757
+    second: BenBackgroundIdle2_27
+  - first:
+      213: 2232593411379550130
+    second: BenBackgroundIdle2_28
+  - first:
+      213: -1202242471657593955
+    second: BenBackgroundIdle2_29
+  - first:
+      213: 9193012698028793115
+    second: BenBackgroundIdle2_30
+  - first:
+      213: -2191414115073735845
+    second: BenBackgroundIdle2_31
+  - first:
+      213: -8178206512600570747
+    second: BenBackgroundIdle2_32
+  - first:
+      213: 3145730469685669752
+    second: BenBackgroundIdle2_33
+  - first:
+      213: 8639994550468916127
+    second: BenBackgroundIdle2_34
+  - first:
+      213: 8587632372647160529
+    second: BenBackgroundIdle2_35
+  - first:
+      213: 7065991970579613629
+    second: BenBackgroundIdle2_36
+  - first:
+      213: 7788171035345151563
+    second: BenBackgroundIdle2_37
+  - first:
+      213: -7204306887761904411
+    second: BenBackgroundIdle2_38
+  - first:
+      213: -6326772106430860868
+    second: BenBackgroundIdle2_39
+  - first:
+      213: 7227516913549448001
+    second: BenBackgroundIdle2_40
+  - first:
+      213: 3592370011357697106
+    second: BenBackgroundIdle2_41
+  - first:
+      213: -7105553397983990963
+    second: BenBackgroundIdle2_42
+  - first:
+      213: 7599298669283442586
+    second: BenBackgroundIdle2_43
+  - first:
+      213: -5801973777051558381
+    second: BenBackgroundIdle2_44
+  - first:
+      213: 236479120870010598
+    second: BenBackgroundIdle2_45
+  - first:
+      213: -9208077761249791409
+    second: BenBackgroundIdle2_46
+  - first:
+      213: 4724149612473523290
+    second: BenBackgroundIdle2_47
+  - first:
+      213: 1603814465287758553
+    second: BenBackgroundIdle2_48
+  - first:
+      213: -4182714833392619616
+    second: BenBackgroundIdle2_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7611
+        width: 562
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a315add7c22c3dd70800000000000000
+      internalID: 9066803971172749626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_1
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 7611
+        width: 561
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386fb5dc50f8ab260800000000000000
+      internalID: 7114155816468084355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_2
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 7611
+        width: 561
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9ecc31dab3a0650800000000000000
+      internalID: 6199833451576486361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_3
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 7611
+        width: 561
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498f0ec97583ac80800000000000000
+      internalID: -8312653729001141942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_4
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 7611
+        width: 559
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7c9b30872942a20800000000000000
+      internalID: 3036713092910794727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_5
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 7611
+        width: 559
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09781ba78742ce340800000000000000
+      internalID: 4894326994918016912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_6
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 7611
+        width: 557
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db76c0709fdb6cbd0800000000000000
+      internalID: -2610190056751863875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6531
+        width: 557
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc826cbf4cef54f0800000000000000
+      internalID: -837691178460476232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_8
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 6531
+        width: 555
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aeb2eb4f8917e40800000000000000
+      internalID: 5652467184256674330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_9
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 6531
+        width: 554
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a528d45d117c0a0800000000000000
+      internalID: -6861495899449566623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_10
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 6531
+        width: 552
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302acd06accdb9e0800000000000000
+      internalID: -1603900878706040773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_11
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 6531
+        width: 552
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc361dc8d382863a0800000000000000
+      internalID: -6672038603128740913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_12
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 6531
+        width: 550
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d4a410fbef7f30800000000000000
+      internalID: 4575635162802737509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_13
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 6531
+        width: 548
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d75937f56a2e90800000000000000
+      internalID: -7049710154201706470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5451
+        width: 547
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b08dcd798497fa10800000000000000
+      internalID: 1943185082475708600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_15
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 5451
+        width: 545
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccccb0601c7f14960800000000000000
+      internalID: 7584615655870811340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_16
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 5451
+        width: 544
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d071929e3bef0130800000000000000
+      internalID: 3535302886488633554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_17
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 5451
+        width: 543
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fcae17b68c83060800000000000000
+      internalID: 6933511990135148323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_18
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 5451
+        width: 541
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf192bc3b089ca8c0800000000000000
+      internalID: -3986644396099333636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_19
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 5451
+        width: 540
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b73256875813a350800000000000000
+      internalID: 6026687490546612144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_20
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 5451
+        width: 540
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d649fe0ee3395530800000000000000
+      internalID: 3844160854483879633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4371
+        width: 538
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129d8ab89dd22470800000000000000
+      internalID: 8368494705642410518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_22
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 4371
+        width: 538
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5041c1ab43e2b7320800000000000000
+      internalID: 2556688017458467845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_23
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 4371
+        width: 537
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f76fcbf6be2bd0800000000000000
+      internalID: -2652981937841901221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_24
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 4371
+        width: 536
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f3732810aabba70800000000000000
+      internalID: 8843849216728448828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_25
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 4371
+        width: 536
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3dc6242afbe58f0800000000000000
+      internalID: -549791400872586243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_26
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 4371
+        width: 536
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a03a9961f14a580800000000000000
+      internalID: -8816887988557247861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_27
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 4371
+        width: 537
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99fb7b4ce605fd0800000000000000
+      internalID: -2355260813939336757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3291
+        width: 538
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d72df0e3cbfe10800000000000000
+      internalID: 2232593411379550130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_29
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 3291
+        width: 538
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9326fe77d6c05fe0800000000000000
+      internalID: -1202242471657593955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_30
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3291
+        width: 540
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d59a99754249f70800000000000000
+      internalID: 9193012698028793115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_31
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 3291
+        width: 540
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53c04319788691e0800000000000000
+      internalID: -2191414115073735845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_32
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 3291
+        width: 541
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58428acb18c218e80800000000000000
+      internalID: -8178206512600570747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_33
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 3291
+        width: 543
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87facb40231e7ab20800000000000000
+      internalID: 3145730469685669752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_34
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 3291
+        width: 544
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b20a544d67e770800000000000000
+      internalID: 8639994550468916127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2211
+        width: 545
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6749c4266d2770800000000000000
+      internalID: 8587632372647160529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_36
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2211
+        width: 547
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7092092427f0260800000000000000
+      internalID: 7065991970579613629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_37
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 2211
+        width: 548
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46ebbb0b44251c60800000000000000
+      internalID: 7788171035345151563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_38
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 2211
+        width: 550
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec3d0e3e09250c90800000000000000
+      internalID: -7204306887761904411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_39
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 2211
+        width: 552
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b6553a4ac238a0800000000000000
+      internalID: -6326772106430860868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_40
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 2211
+        width: 552
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431e30075c4d4460800000000000000
+      internalID: 7227516913549448001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_41
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 2211
+        width: 554
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254ddbcfd79aad130800000000000000
+      internalID: 3592370011357697106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1131
+        width: 555
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2894d4d0046d90800000000000000
+      internalID: -7105553397983990963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_43
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1131
+        width: 557
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ffcbc70e1267960800000000000000
+      internalID: 7599298669283442586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_44
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1131
+        width: 557
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed5b6079f3b7fa0800000000000000
+      internalID: -5801973777051558381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_45
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1131
+        width: 559
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee04ce184284300800000000000000
+      internalID: 236479120870010598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_46
+      rect:
+        serializedVersion: 2
+        x: 4567
+        y: 1131
+        width: 559
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4238880016563080800000000000000
+      internalID: -9208077761249791409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_47
+      rect:
+        serializedVersion: 2
+        x: 5647
+        y: 1131
+        width: 561
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c984dfa0d8f8140800000000000000
+      internalID: 4724149612473523290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_48
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 1131
+        width: 561
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d22c1142c4e14610800000000000000
+      internalID: 1603814465287758553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenBackgroundIdle2_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 51
+        width: 561
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af20ee150304f5c0800000000000000
+      internalID: -4182714833392619616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BenBackgroundIdle2_0: 9066803971172749626
+      BenBackgroundIdle2_1: 7114155816468084355
+      BenBackgroundIdle2_10: -1603900878706040773
+      BenBackgroundIdle2_11: -6672038603128740913
+      BenBackgroundIdle2_12: 4575635162802737509
+      BenBackgroundIdle2_13: -7049710154201706470
+      BenBackgroundIdle2_14: 1943185082475708600
+      BenBackgroundIdle2_15: 7584615655870811340
+      BenBackgroundIdle2_16: 3535302886488633554
+      BenBackgroundIdle2_17: 6933511990135148323
+      BenBackgroundIdle2_18: -3986644396099333636
+      BenBackgroundIdle2_19: 6026687490546612144
+      BenBackgroundIdle2_2: 6199833451576486361
+      BenBackgroundIdle2_20: 3844160854483879633
+      BenBackgroundIdle2_21: 8368494705642410518
+      BenBackgroundIdle2_22: 2556688017458467845
+      BenBackgroundIdle2_23: -2652981937841901221
+      BenBackgroundIdle2_24: 8843849216728448828
+      BenBackgroundIdle2_25: -549791400872586243
+      BenBackgroundIdle2_26: -8816887988557247861
+      BenBackgroundIdle2_27: -2355260813939336757
+      BenBackgroundIdle2_28: 2232593411379550130
+      BenBackgroundIdle2_29: -1202242471657593955
+      BenBackgroundIdle2_3: -8312653729001141942
+      BenBackgroundIdle2_30: 9193012698028793115
+      BenBackgroundIdle2_31: -2191414115073735845
+      BenBackgroundIdle2_32: -8178206512600570747
+      BenBackgroundIdle2_33: 3145730469685669752
+      BenBackgroundIdle2_34: 8639994550468916127
+      BenBackgroundIdle2_35: 8587632372647160529
+      BenBackgroundIdle2_36: 7065991970579613629
+      BenBackgroundIdle2_37: 7788171035345151563
+      BenBackgroundIdle2_38: -7204306887761904411
+      BenBackgroundIdle2_39: -6326772106430860868
+      BenBackgroundIdle2_4: 3036713092910794727
+      BenBackgroundIdle2_40: 7227516913549448001
+      BenBackgroundIdle2_41: 3592370011357697106
+      BenBackgroundIdle2_42: -7105553397983990963
+      BenBackgroundIdle2_43: 7599298669283442586
+      BenBackgroundIdle2_44: -5801973777051558381
+      BenBackgroundIdle2_45: 236479120870010598
+      BenBackgroundIdle2_46: -9208077761249791409
+      BenBackgroundIdle2_47: 4724149612473523290
+      BenBackgroundIdle2_48: 1603814465287758553
+      BenBackgroundIdle2_49: -4182714833392619616
+      BenBackgroundIdle2_5: 4894326994918016912
+      BenBackgroundIdle2_6: -2610190056751863875
+      BenBackgroundIdle2_7: -837691178460476232
+      BenBackgroundIdle2_8: 5652467184256674330
+      BenBackgroundIdle2_9: -6861495899449566623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

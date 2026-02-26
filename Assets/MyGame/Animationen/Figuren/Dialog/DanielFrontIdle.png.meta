@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 14f4748260e0ff4489f5237d2d809a16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2084144033752099283
+    second: DanielFrontIdle_0
+  - first:
+      213: 1612644348896063157
+    second: DanielFrontIdle_1
+  - first:
+      213: 7262050074307988468
+    second: DanielFrontIdle_2
+  - first:
+      213: -8009046336976880285
+    second: DanielFrontIdle_3
+  - first:
+      213: 3866487862572975598
+    second: DanielFrontIdle_4
+  - first:
+      213: -4221784616961863231
+    second: DanielFrontIdle_5
+  - first:
+      213: 6409225203389714277
+    second: DanielFrontIdle_6
+  - first:
+      213: -8330932782528775271
+    second: DanielFrontIdle_7
+  - first:
+      213: -3465306153126165730
+    second: DanielFrontIdle_8
+  - first:
+      213: 1891368600534757287
+    second: DanielFrontIdle_9
+  - first:
+      213: 938336190907319269
+    second: DanielFrontIdle_10
+  - first:
+      213: 977900738098449407
+    second: DanielFrontIdle_11
+  - first:
+      213: -9117584151178409829
+    second: DanielFrontIdle_12
+  - first:
+      213: -797175820611937569
+    second: DanielFrontIdle_13
+  - first:
+      213: -362249821603243949
+    second: DanielFrontIdle_14
+  - first:
+      213: -2377519488903323105
+    second: DanielFrontIdle_15
+  - first:
+      213: 5174888910738860320
+    second: DanielFrontIdle_16
+  - first:
+      213: -6150481239940589350
+    second: DanielFrontIdle_17
+  - first:
+      213: -4122278699507319910
+    second: DanielFrontIdle_18
+  - first:
+      213: -7440655372093260163
+    second: DanielFrontIdle_19
+  - first:
+      213: -1764066749062596050
+    second: DanielFrontIdle_20
+  - first:
+      213: -3432725922939442519
+    second: DanielFrontIdle_21
+  - first:
+      213: 3379857223365806380
+    second: DanielFrontIdle_22
+  - first:
+      213: -2626537386305857225
+    second: DanielFrontIdle_23
+  - first:
+      213: 2531715392251085903
+    second: DanielFrontIdle_24
+  - first:
+      213: 2772561625237313247
+    second: DanielFrontIdle_25
+  - first:
+      213: 5716890468001937606
+    second: DanielFrontIdle_26
+  - first:
+      213: 3523374235590144846
+    second: DanielFrontIdle_27
+  - first:
+      213: 4163853143915699216
+    second: DanielFrontIdle_28
+  - first:
+      213: 8620476996075619778
+    second: DanielFrontIdle_29
+  - first:
+      213: -8424885676552503305
+    second: DanielFrontIdle_30
+  - first:
+      213: 6012821225640781840
+    second: DanielFrontIdle_31
+  - first:
+      213: 8324030280397900191
+    second: DanielFrontIdle_32
+  - first:
+      213: 4258235089809946949
+    second: DanielFrontIdle_33
+  - first:
+      213: -3609901277578580301
+    second: DanielFrontIdle_34
+  - first:
+      213: 8997473050405128594
+    second: DanielFrontIdle_35
+  - first:
+      213: -8947752769827061342
+    second: DanielFrontIdle_36
+  - first:
+      213: 8190026010307219246
+    second: DanielFrontIdle_37
+  - first:
+      213: 1433143487367812006
+    second: DanielFrontIdle_38
+  - first:
+      213: 2199371725736958927
+    second: DanielFrontIdle_39
+  - first:
+      213: 2049240625879514147
+    second: DanielFrontIdle_40
+  - first:
+      213: 8846217149743955112
+    second: DanielFrontIdle_41
+  - first:
+      213: -8938259618595679684
+    second: DanielFrontIdle_42
+  - first:
+      213: -3510161637212035955
+    second: DanielFrontIdle_43
+  - first:
+      213: -6742240341109019177
+    second: DanielFrontIdle_44
+  - first:
+      213: -4265287246653786511
+    second: DanielFrontIdle_45
+  - first:
+      213: 1119863983036760249
+    second: DanielFrontIdle_46
+  - first:
+      213: 5201244427613069455
+    second: DanielFrontIdle_47
+  - first:
+      213: 881024721764893790
+    second: DanielFrontIdle_48
+  - first:
+      213: -706375963190298057
+    second: DanielFrontIdle_49
+  - first:
+      213: -1994939795313081951
+    second: DanielFrontIdle_50
+  - first:
+      213: -4263974499902428025
+    second: DanielFrontIdle_51
+  - first:
+      213: 1433455757812612677
+    second: DanielFrontIdle_52
+  - first:
+      213: -6689289209593445693
+    second: DanielFrontIdle_53
+  - first:
+      213: 4150969057666324413
+    second: DanielFrontIdle_54
+  - first:
+      213: -6109200838177853445
+    second: DanielFrontIdle_55
+  - first:
+      213: 1546082102327650486
+    second: DanielFrontIdle_56
+  - first:
+      213: -3633170094772364757
+    second: DanielFrontIdle_57
+  - first:
+      213: 6568188785945173601
+    second: DanielFrontIdle_58
+  - first:
+      213: 8550976662851898675
+    second: DanielFrontIdle_59
+  - first:
+      213: -4442920249185169073
+    second: DanielFrontIdle_60
+  - first:
+      213: -11269493460076613
+    second: DanielFrontIdle_61
+  - first:
+      213: -7817743325063897004
+    second: DanielFrontIdle_62
+  - first:
+      213: -5714445624848128279
+    second: DanielFrontIdle_63
+  - first:
+      213: -3555286629340414931
+    second: DanielFrontIdle_64
+  - first:
+      213: -452348928642391103
+    second: DanielFrontIdle_65
+  - first:
+      213: -6412390524122983551
+    second: DanielFrontIdle_66
+  - first:
+      213: -74508670165998856
+    second: DanielFrontIdle_67
+  - first:
+      213: 2636753563156917915
+    second: DanielFrontIdle_68
+  - first:
+      213: 6540794740719588235
+    second: DanielFrontIdle_69
+  - first:
+      213: 3179737660778967701
+    second: DanielFrontIdle_70
+  - first:
+      213: 7768050741231130852
+    second: DanielFrontIdle_71
+  - first:
+      213: 7609656517701798380
+    second: DanielFrontIdle_72
+  - first:
+      213: -6050908564622648908
+    second: DanielFrontIdle_73
+  - first:
+      213: 7798562468265043869
+    second: DanielFrontIdle_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielFrontIdle_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8666
+        width: 381
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d92b88d4fd5cec10800000000000000
+      internalID: 2084144033752099283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 8666
+        width: 381
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beadfcbd73416610800000000000000
+      internalID: 1612644348896063157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 8666
+        width: 381
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb0a3c011cf7c460800000000000000
+      internalID: 7262050074307988468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 8666
+        width: 380
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d79de4ac62ad090800000000000000
+      internalID: -8009046336976880285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 8666
+        width: 380
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58509b93688a530800000000000000
+      internalID: 3866487862572975598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_5
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 8666
+        width: 380
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c197c342453965c0800000000000000
+      internalID: -4221784616961863231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_6
+      rect:
+        serializedVersion: 2
+        x: 6780
+        y: 8665
+        width: 380
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f468d6d5422f850800000000000000
+      internalID: 6409225203389714277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_7
+      rect:
+        serializedVersion: 2
+        x: 7860
+        y: 8665
+        width: 380
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b37b106c4926c80800000000000000
+      internalID: -8330932782528775271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_8
+      rect:
+        serializedVersion: 2
+        x: 8940
+        y: 8665
+        width: 380
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1380f8e962c8efc0800000000000000
+      internalID: -3465306153126165730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7585
+        width: 380
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afa336a8bd7f3a10800000000000000
+      internalID: 1891368600534757287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 7585
+        width: 380
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38cea4bc3a50d00800000000000000
+      internalID: 938336190907319269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 7585
+        width: 379
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb43f74a83329d00800000000000000
+      internalID: 977900738098449407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 7585
+        width: 379
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9887438585d77180800000000000000
+      internalID: -9117584151178409829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_13
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 7585
+        width: 379
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda15e490dcdfe4f0800000000000000
+      internalID: -797175820611937569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_14
+      rect:
+        serializedVersion: 2
+        x: 5701
+        y: 7585
+        width: 379
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d36fd4b709faf0800000000000000
+      internalID: -362249821603243949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_15
+      rect:
+        serializedVersion: 2
+        x: 6781
+        y: 7585
+        width: 379
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1269591f9a510fd0800000000000000
+      internalID: -2377519488903323105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_16
+      rect:
+        serializedVersion: 2
+        x: 7862
+        y: 7585
+        width: 378
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029a2bceb06e0d740800000000000000
+      internalID: 5174888910738860320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_17
+      rect:
+        serializedVersion: 2
+        x: 8942
+        y: 7585
+        width: 378
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad813af16e915aaa0800000000000000
+      internalID: -6150481239940589350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 6505
+        width: 378
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bf4b21d59bac6c0800000000000000
+      internalID: -4122278699507319910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 6505
+        width: 378
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e77428c5b7db890800000000000000
+      internalID: -7440655372093260163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_20
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 6505
+        width: 377
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abb0e53a6c487e0800000000000000
+      internalID: -1764066749062596050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_21
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 6505
+        width: 377
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6befd5f18c50d0800000000000000
+      internalID: -3432725922939442519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_22
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 6505
+        width: 377
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c146cc3aa7ee20800000000000000
+      internalID: 3379857223365806380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_23
+      rect:
+        serializedVersion: 2
+        x: 5703
+        y: 6505
+        width: 377
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739d4f3c92aac8bd0800000000000000
+      internalID: -2626537386305857225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_24
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 6505
+        width: 376
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44c3835cb5722320800000000000000
+      internalID: 2531715392251085903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_25
+      rect:
+        serializedVersion: 2
+        x: 7864
+        y: 6505
+        width: 376
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd65626cb1e1a7620800000000000000
+      internalID: 2772561625237313247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_26
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 6505
+        width: 376
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8721d5799765f40800000000000000
+      internalID: 5716890468001937606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5425
+        width: 376
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e433d1b133a85e030800000000000000
+      internalID: 3523374235590144846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 5425
+        width: 376
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1df39f5af8c930800000000000000
+      internalID: 4163853143915699216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 5425
+        width: 376
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58389972612a770800000000000000
+      internalID: 8620476996075619778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_30
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 5425
+        width: 375
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbfc73d1bc41b80800000000000000
+      internalID: -8424885676552503305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_31
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 5425
+        width: 375
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0186f342c05d17350800000000000000
+      internalID: 6012821225640781840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_32
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 5425
+        width: 375
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9946baff65e48370800000000000000
+      internalID: 8324030280397900191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_33
+      rect:
+        serializedVersion: 2
+        x: 6785
+        y: 5425
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b93ac04a481b30800000000000000
+      internalID: 4258235089809946949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_34
+      rect:
+        serializedVersion: 2
+        x: 7865
+        y: 5425
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be23b30aed07edc0800000000000000
+      internalID: -3609901277578580301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_35
+      rect:
+        serializedVersion: 2
+        x: 8945
+        y: 5425
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994c8591127ddc70800000000000000
+      internalID: 8997473050405128594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1c078534233d380800000000000000
+      internalID: -8947752769827061342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f42958341d8a170800000000000000
+      internalID: 8190026010307219246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_38
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a319bc986c83e310800000000000000
+      internalID: 1433143487367812006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_39
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbd6998eecb58e10800000000000000
+      internalID: 2199371725736958927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_40
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf8dced7d507c10800000000000000
+      internalID: 2049240625879514147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_41
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf470e0a314ca70800000000000000
+      internalID: 8846217149743955112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_42
+      rect:
+        serializedVersion: 2
+        x: 6785
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32d26bdb3ce4f380800000000000000
+      internalID: -8938259618595679684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_43
+      rect:
+        serializedVersion: 2
+        x: 7865
+        y: 4345
+        width: 375
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e5cda696694fc0800000000000000
+      internalID: -3510161637212035955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_44
+      rect:
+        serializedVersion: 2
+        x: 8945
+        y: 4345
+        width: 375
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd63e5b120ce62a0800000000000000
+      internalID: -6742240341109019177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_45
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3265
+        width: 375
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176723ef8d7aec4c0800000000000000
+      internalID: -4265287246653786511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3265
+        width: 375
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b009a9fb5e8a8f00800000000000000
+      internalID: 1119863983036760249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3265
+        width: 376
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806bd1ef388e2840800000000000000
+      internalID: 5201244427613069455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_48
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 3265
+        width: 376
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54422b01570a3c00800000000000000
+      internalID: 881024721764893790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_49
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 3265
+        width: 376
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73afa24ddc27236f0800000000000000
+      internalID: -706375963190298057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_50
+      rect:
+        serializedVersion: 2
+        x: 5704
+        y: 3265
+        width: 376
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c21863dc8054e0800000000000000
+      internalID: -1994939795313081951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_51
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 3265
+        width: 376
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cedf9a8c153d4c0800000000000000
+      internalID: -4263974499902428025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_52
+      rect:
+        serializedVersion: 2
+        x: 7863
+        y: 3265
+        width: 377
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb8adba68a4e310800000000000000
+      internalID: 1433455757812612677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_53
+      rect:
+        serializedVersion: 2
+        x: 8943
+        y: 3265
+        width: 377
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2445eb7eeda23a0800000000000000
+      internalID: -6689289209593445693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2185
+        width: 377
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d6db7d543b9930800000000000000
+      internalID: 4150969057666324413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2185
+        width: 377
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe3e2a432c73ba0800000000000000
+      internalID: -6109200838177853445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_56
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 2185
+        width: 378
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b824d60b79c47510800000000000000
+      internalID: 1546082102327650486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_57
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 2185
+        width: 378
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a55845c03649dc0800000000000000
+      internalID: -3633170094772364757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_58
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 2185
+        width: 378
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e57fba6e4e62b50800000000000000
+      internalID: 6568188785945173601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_59
+      rect:
+        serializedVersion: 2
+        x: 5702
+        y: 2185
+        width: 378
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d41f748fb2ba670800000000000000
+      internalID: 8550976662851898675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_60
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 2185
+        width: 378
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f419deda2939752c0800000000000000
+      internalID: -4442920249185169073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_61
+      rect:
+        serializedVersion: 2
+        x: 7861
+        y: 2185
+        width: 379
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb773859476f7dff0800000000000000
+      internalID: -11269493460076613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_62
+      rect:
+        serializedVersion: 2
+        x: 8941
+        y: 2185
+        width: 379
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450a264bddbc18390800000000000000
+      internalID: -7817743325063897004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1105
+        width: 379
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e664aa0bf532b0b0800000000000000
+      internalID: -5714445624848128279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1105
+        width: 379
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf777b5a519aec0800000000000000
+      internalID: -3555286629340414931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_65
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1105
+        width: 380
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3edb9cb0fe8b9f0800000000000000
+      internalID: -452348928642391103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_66
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1105
+        width: 380
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839198eacc9207a0800000000000000
+      internalID: -6412390524122983551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_67
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 1105
+        width: 380
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2a11e52ca47fef0800000000000000
+      internalID: -74508670165998856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_68
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 1105
+        width: 380
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea6344561a79420800000000000000
+      internalID: 2636753563156917915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_69
+      rect:
+        serializedVersion: 2
+        x: 6780
+        y: 1105
+        width: 380
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83955d792295ca50800000000000000
+      internalID: 6540794740719588235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_70
+      rect:
+        serializedVersion: 2
+        x: 7860
+        y: 1106
+        width: 380
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59279a53e82b02c20800000000000000
+      internalID: 3179737660778967701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_71
+      rect:
+        serializedVersion: 2
+        x: 8940
+        y: 1106
+        width: 380
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89a440ef8adcb60800000000000000
+      internalID: 7768050741231130852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 380
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90a50094eea9960800000000000000
+      internalID: 7609656517701798380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_73
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 26
+        width: 381
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b95c4538bad60ca0800000000000000
+      internalID: -6050908564622648908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielFrontIdle_74
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 26
+        width: 381
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97a1af0f3f0a3c60800000000000000
+      internalID: 7798562468265043869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanielFrontIdle_0: 2084144033752099283
+      DanielFrontIdle_1: 1612644348896063157
+      DanielFrontIdle_10: 938336190907319269
+      DanielFrontIdle_11: 977900738098449407
+      DanielFrontIdle_12: -9117584151178409829
+      DanielFrontIdle_13: -797175820611937569
+      DanielFrontIdle_14: -362249821603243949
+      DanielFrontIdle_15: -2377519488903323105
+      DanielFrontIdle_16: 5174888910738860320
+      DanielFrontIdle_17: -6150481239940589350
+      DanielFrontIdle_18: -4122278699507319910
+      DanielFrontIdle_19: -7440655372093260163
+      DanielFrontIdle_2: 7262050074307988468
+      DanielFrontIdle_20: -1764066749062596050
+      DanielFrontIdle_21: -3432725922939442519
+      DanielFrontIdle_22: 3379857223365806380
+      DanielFrontIdle_23: -2626537386305857225
+      DanielFrontIdle_24: 2531715392251085903
+      DanielFrontIdle_25: 2772561625237313247
+      DanielFrontIdle_26: 5716890468001937606
+      DanielFrontIdle_27: 3523374235590144846
+      DanielFrontIdle_28: 4163853143915699216
+      DanielFrontIdle_29: 8620476996075619778
+      DanielFrontIdle_3: -8009046336976880285
+      DanielFrontIdle_30: -8424885676552503305
+      DanielFrontIdle_31: 6012821225640781840
+      DanielFrontIdle_32: 8324030280397900191
+      DanielFrontIdle_33: 4258235089809946949
+      DanielFrontIdle_34: -3609901277578580301
+      DanielFrontIdle_35: 8997473050405128594
+      DanielFrontIdle_36: -8947752769827061342
+      DanielFrontIdle_37: 8190026010307219246
+      DanielFrontIdle_38: 1433143487367812006
+      DanielFrontIdle_39: 2199371725736958927
+      DanielFrontIdle_4: 3866487862572975598
+      DanielFrontIdle_40: 2049240625879514147
+      DanielFrontIdle_41: 8846217149743955112
+      DanielFrontIdle_42: -8938259618595679684
+      DanielFrontIdle_43: -3510161637212035955
+      DanielFrontIdle_44: -6742240341109019177
+      DanielFrontIdle_45: -4265287246653786511
+      DanielFrontIdle_46: 1119863983036760249
+      DanielFrontIdle_47: 5201244427613069455
+      DanielFrontIdle_48: 881024721764893790
+      DanielFrontIdle_49: -706375963190298057
+      DanielFrontIdle_5: -4221784616961863231
+      DanielFrontIdle_50: -1994939795313081951
+      DanielFrontIdle_51: -4263974499902428025
+      DanielFrontIdle_52: 1433455757812612677
+      DanielFrontIdle_53: -6689289209593445693
+      DanielFrontIdle_54: 4150969057666324413
+      DanielFrontIdle_55: -6109200838177853445
+      DanielFrontIdle_56: 1546082102327650486
+      DanielFrontIdle_57: -3633170094772364757
+      DanielFrontIdle_58: 6568188785945173601
+      DanielFrontIdle_59: 8550976662851898675
+      DanielFrontIdle_6: 6409225203389714277
+      DanielFrontIdle_60: -4442920249185169073
+      DanielFrontIdle_61: -11269493460076613
+      DanielFrontIdle_62: -7817743325063897004
+      DanielFrontIdle_63: -5714445624848128279
+      DanielFrontIdle_64: -3555286629340414931
+      DanielFrontIdle_65: -452348928642391103
+      DanielFrontIdle_66: -6412390524122983551
+      DanielFrontIdle_67: -74508670165998856
+      DanielFrontIdle_68: 2636753563156917915
+      DanielFrontIdle_69: 6540794740719588235
+      DanielFrontIdle_7: -8330932782528775271
+      DanielFrontIdle_70: 3179737660778967701
+      DanielFrontIdle_71: 7768050741231130852
+      DanielFrontIdle_72: 7609656517701798380
+      DanielFrontIdle_73: -6050908564622648908
+      DanielFrontIdle_74: 7798562468265043869
+      DanielFrontIdle_8: -3465306153126165730
+      DanielFrontIdle_9: 1891368600534757287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

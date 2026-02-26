@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 93e105c1786e22947969aab1bfd5a7a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1024197153861189546
+    second: MCFrontIdle_0
+  - first:
+      213: 2271664568286129226
+    second: MCFrontIdle_1
+  - first:
+      213: -8099150298282962101
+    second: MCFrontIdle_2
+  - first:
+      213: 6813049600418543658
+    second: MCFrontIdle_3
+  - first:
+      213: -1390654273383588214
+    second: MCFrontIdle_4
+  - first:
+      213: -336538882144602952
+    second: MCFrontIdle_5
+  - first:
+      213: 8381533608592748813
+    second: MCFrontIdle_6
+  - first:
+      213: -4726945407602063860
+    second: MCFrontIdle_7
+  - first:
+      213: 5196026196846806985
+    second: MCFrontIdle_8
+  - first:
+      213: -8023084361589526007
+    second: MCFrontIdle_9
+  - first:
+      213: 5600717276534267022
+    second: MCFrontIdle_10
+  - first:
+      213: -8077844743815968404
+    second: MCFrontIdle_11
+  - first:
+      213: -9040422438338422253
+    second: MCFrontIdle_12
+  - first:
+      213: -7907255451127551502
+    second: MCFrontIdle_13
+  - first:
+      213: -5435506595470670056
+    second: MCFrontIdle_14
+  - first:
+      213: 4712188315039011344
+    second: MCFrontIdle_15
+  - first:
+      213: -4691264923418362111
+    second: MCFrontIdle_16
+  - first:
+      213: -6572888448963068165
+    second: MCFrontIdle_17
+  - first:
+      213: 8017641790280612654
+    second: MCFrontIdle_18
+  - first:
+      213: 3944036266852524353
+    second: MCFrontIdle_19
+  - first:
+      213: -7614420218298411766
+    second: MCFrontIdle_20
+  - first:
+      213: -3194115884220296815
+    second: MCFrontIdle_21
+  - first:
+      213: -2058941444801721372
+    second: MCFrontIdle_22
+  - first:
+      213: -8715389390713622876
+    second: MCFrontIdle_23
+  - first:
+      213: 5741010829496183717
+    second: MCFrontIdle_24
+  - first:
+      213: -5369363277665798184
+    second: MCFrontIdle_25
+  - first:
+      213: 3769342141037501850
+    second: MCFrontIdle_26
+  - first:
+      213: 2512795236616436717
+    second: MCFrontIdle_27
+  - first:
+      213: -5379327290354837197
+    second: MCFrontIdle_28
+  - first:
+      213: 2944661588105635759
+    second: MCFrontIdle_29
+  - first:
+      213: 6854607133254287402
+    second: MCFrontIdle_30
+  - first:
+      213: 1536115468019308047
+    second: MCFrontIdle_31
+  - first:
+      213: -1953652811452381328
+    second: MCFrontIdle_32
+  - first:
+      213: -786905248057748057
+    second: MCFrontIdle_33
+  - first:
+      213: 2239706520354007878
+    second: MCFrontIdle_34
+  - first:
+      213: 6057581062911275229
+    second: MCFrontIdle_35
+  - first:
+      213: -2218159475034687317
+    second: MCFrontIdle_36
+  - first:
+      213: -1246909522758838724
+    second: MCFrontIdle_37
+  - first:
+      213: -6568913256911626251
+    second: MCFrontIdle_38
+  - first:
+      213: 5342705435827223193
+    second: MCFrontIdle_39
+  - first:
+      213: -2344651876091815065
+    second: MCFrontIdle_40
+  - first:
+      213: 5299632787315640517
+    second: MCFrontIdle_41
+  - first:
+      213: -44728181759860863
+    second: MCFrontIdle_42
+  - first:
+      213: -5450952130496754844
+    second: MCFrontIdle_43
+  - first:
+      213: 4837509393368234656
+    second: MCFrontIdle_44
+  - first:
+      213: -5742955406890305275
+    second: MCFrontIdle_45
+  - first:
+      213: 8119841072783321729
+    second: MCFrontIdle_46
+  - first:
+      213: 6667581887117416549
+    second: MCFrontIdle_47
+  - first:
+      213: 7060144561534045870
+    second: MCFrontIdle_48
+  - first:
+      213: -3091167592051954407
+    second: MCFrontIdle_49
+  - first:
+      213: 5279116922791330275
+    second: MCFrontIdle_50
+  - first:
+      213: 5554506147468185194
+    second: MCFrontIdle_51
+  - first:
+      213: -5282605030364167877
+    second: MCFrontIdle_52
+  - first:
+      213: -5940168059542718549
+    second: MCFrontIdle_53
+  - first:
+      213: -1978486346693828841
+    second: MCFrontIdle_54
+  - first:
+      213: -486942705323107734
+    second: MCFrontIdle_55
+  - first:
+      213: 3566217377692960256
+    second: MCFrontIdle_56
+  - first:
+      213: 8058694775497186369
+    second: MCFrontIdle_57
+  - first:
+      213: -7418087596761710978
+    second: MCFrontIdle_58
+  - first:
+      213: -3307846836151474593
+    second: MCFrontIdle_59
+  - first:
+      213: -1139678513946848612
+    second: MCFrontIdle_60
+  - first:
+      213: -8645031702782162536
+    second: MCFrontIdle_61
+  - first:
+      213: 8572145541588160697
+    second: MCFrontIdle_62
+  - first:
+      213: -1339396614919857469
+    second: MCFrontIdle_63
+  - first:
+      213: 9067487780131277075
+    second: MCFrontIdle_64
+  - first:
+      213: -163968486512646906
+    second: MCFrontIdle_65
+  - first:
+      213: 202109923798034607
+    second: MCFrontIdle_66
+  - first:
+      213: -7481553097165840682
+    second: MCFrontIdle_67
+  - first:
+      213: -7328304431637355457
+    second: MCFrontIdle_68
+  - first:
+      213: 1552357984659967646
+    second: MCFrontIdle_69
+  - first:
+      213: 8946345244590383322
+    second: MCFrontIdle_70
+  - first:
+      213: -305872968006864290
+    second: MCFrontIdle_71
+  - first:
+      213: 1578475445713929859
+    second: MCFrontIdle_72
+  - first:
+      213: 8119546136577477712
+    second: MCFrontIdle_73
+  - first:
+      213: -2599076265914736284
+    second: MCFrontIdle_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCFrontIdle_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8697
+        width: 468
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65043207d1259c1f0800000000000000
+      internalID: -1024197153861189546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 8697
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c298993e2968f10800000000000000
+      internalID: 2271664568286129226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 8697
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43585007b90a9f80800000000000000
+      internalID: -8099150298282962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 8697
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a287016b380dc8e50800000000000000
+      internalID: 6813049600418543658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 8697
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e979d6e4763bce0800000000000000
+      internalID: -1390654273383588214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_5
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 8697
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f9a47baf545bf0800000000000000
+      internalID: -336538882144602952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_6
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 8697
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d013b25e860315470800000000000000
+      internalID: 8381533608592748813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_7
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 8696
+        width: 470
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06073b3234866eb0800000000000000
+      internalID: -4726945407602063860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_8
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 8696
+        width: 470
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78daadb4efb1840800000000000000
+      internalID: 5196026196846806985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7616
+        width: 470
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902f670084748a090800000000000000
+      internalID: -8023084361589526007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7616
+        width: 471
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cd73b60beb9bd40800000000000000
+      internalID: 5600717276534267022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 7616
+        width: 471
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c716f00bb5ef80800000000000000
+      internalID: -8077844743815968404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 7616
+        width: 471
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a1e57c0b7f98280800000000000000
+      internalID: -9040422438338422253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_13
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 7616
+        width: 471
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f96547cf09c34290800000000000000
+      internalID: -7907255451127551502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_14
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 7616
+        width: 471
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8178daacc833194b0800000000000000
+      internalID: -5435506595470670056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_15
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 7616
+        width: 472
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01295a86e4e056140800000000000000
+      internalID: 4712188315039011344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_16
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 7616
+        width: 472
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff564586745eeb0800000000000000
+      internalID: -4691264923418362111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_17
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 7616
+        width: 472
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb943c7c868c4a0800000000000000
+      internalID: -6572888448963068165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6536
+        width: 472
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bb00e9ab2644f60800000000000000
+      internalID: 8017641790280612654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 6536
+        width: 474
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141a00b96180cb630800000000000000
+      internalID: 3944036266852524353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_20
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 6536
+        width: 474
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0555c58725245690800000000000000
+      internalID: -7614420218298411766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_21
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 6536
+        width: 474
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191dd95c6883ca3d0800000000000000
+      internalID: -3194115884220296815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_22
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 6536
+        width: 474
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb83492aab2d63e0800000000000000
+      internalID: -2058941444801721372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_23
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 6536
+        width: 475
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6e477687bc0780800000000000000
+      internalID: -8715389390713622876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_24
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 6536
+        width: 475
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab6ac7aeea2caf40800000000000000
+      internalID: 5741010829496183717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_25
+      rect:
+        serializedVersion: 2
+        x: 7823
+        y: 6536
+        width: 475
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7f3bc0c803c75b0800000000000000
+      internalID: -5369363277665798184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_26
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 6536
+        width: 475
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5379d4b46f4430800000000000000
+      internalID: 3769342141037501850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5456
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf0df44fd3fd220800000000000000
+      internalID: 2512795236616436717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 5456
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d5df845ac855b0800000000000000
+      internalID: -5379327290354837197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 5456
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa726c6ec1a8dd820800000000000000
+      internalID: 2944661588105635759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_30
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 5456
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200b74ded4702f50800000000000000
+      internalID: 6854607133254287402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_31
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 5456
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06164521e0615510800000000000000
+      internalID: 1536115468019308047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_32
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 5456
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07700fe6e1b33e4e0800000000000000
+      internalID: -1953652811452381328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_33
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 5456
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a590a998d95415f0800000000000000
+      internalID: -786905248057748057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_34
+      rect:
+        serializedVersion: 2
+        x: 7823
+        y: 5456
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ba3dab639051f10800000000000000
+      internalID: 2239706520354007878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_35
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 5456
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b5fcd1e9d01450800000000000000
+      internalID: 6057581062911275229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4376
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f363b5b38731e0800000000000000
+      internalID: -2218159475034687317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 4376
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3658ec356612bee0800000000000000
+      internalID: -1246909522758838724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_38
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 4376
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff9d69423886d4a0800000000000000
+      internalID: -6568913256911626251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_39
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 4376
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ab70a794a152a40800000000000000
+      internalID: 5342705435827223193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_40
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 4376
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b189b8a8f167fd0800000000000000
+      internalID: -2344651876091815065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_41
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 4376
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c846fff0f31c8940800000000000000
+      internalID: 5299632787315640517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_42
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 4376
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f11c6a4f7116ff0800000000000000
+      internalID: -44728181759860863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_43
+      rect:
+        serializedVersion: 2
+        x: 7823
+        y: 4376
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b051eeae35a54b0800000000000000
+      internalID: -5450952130496754844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_44
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4376
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa345db929422340800000000000000
+      internalID: 4837509393368234656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_45
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3296
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f4632c7cec40b0800000000000000
+      internalID: -5742955406890305275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3296
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a60e75f687fa070800000000000000
+      internalID: 8119841072783321729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 3296
+        width: 477
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56856746662088c50800000000000000
+      internalID: 6667581887117416549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_48
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3296
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae842d821caaf160800000000000000
+      internalID: 7060144561534045870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_49
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 3296
+        width: 476
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d2b86e377f915d0800000000000000
+      internalID: -3091167592051954407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_50
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 3296
+        width: 476
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e10bbe0fd0334940800000000000000
+      internalID: 5279116922791330275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_51
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 3296
+        width: 476
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e809e79e1951d40800000000000000
+      internalID: 5554506147468185194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_52
+      rect:
+        serializedVersion: 2
+        x: 7823
+        y: 3296
+        width: 475
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31c37c96ba60b6b0800000000000000
+      internalID: -5282605030364167877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_53
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 3296
+        width: 475
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7b5d84f98409da0800000000000000
+      internalID: -5940168059542718549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2216
+        width: 475
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f9a5076210b84e0800000000000000
+      internalID: -1978486346693828841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2216
+        width: 475
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a9f3f70380e39f0800000000000000
+      internalID: -486942705323107734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_56
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2216
+        width: 473
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c6357fcfbd7130800000000000000
+      internalID: 3566217377692960256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_57
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2216
+        width: 473
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c5ec6933c36df60800000000000000
+      internalID: 8058694775497186369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_58
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 2216
+        width: 473
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e794a22a8ad0990800000000000000
+      internalID: -7418087596761710978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_59
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 2216
+        width: 472
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56aac704da2812d0800000000000000
+      internalID: -3307846836151474593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_60
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 2216
+        width: 472
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c929d0a0e6c0f20f0800000000000000
+      internalID: -1139678513946848612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_61
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 2216
+        width: 472
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899cdab387da60880800000000000000
+      internalID: -8645031702782162536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_62
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 2216
+        width: 472
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b09f41f3f066f670800000000000000
+      internalID: 8572145541588160697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1136
+        width: 471
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca575a00e1896de0800000000000000
+      internalID: -1339396614919857469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1136
+        width: 471
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3198beb281036dd70800000000000000
+      internalID: 9067487780131277075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_65
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 1136
+        width: 471
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6052e0fb78779bdf0800000000000000
+      internalID: -163968486512646906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_66
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1136
+        width: 471
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa82095a7e90ec200800000000000000
+      internalID: 202109923798034607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_67
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 1136
+        width: 470
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded43bd81f2c2890800000000000000
+      internalID: -7481553097165840682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_68
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 1136
+        width: 470
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a55a42f1ac4a90800000000000000
+      internalID: -7328304431637355457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_69
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 1136
+        width: 470
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e06efbc551b8510800000000000000
+      internalID: 1552357984659967646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_70
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 1137
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a0d5a99dc72c70800000000000000
+      internalID: 8946345244590383322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_71
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 1137
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e527e8bf72251cbf0800000000000000
+      internalID: -305872968006864290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38684740e0fd7e510800000000000000
+      internalID: 1578475445713929859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_73
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 57
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8818213c6ea070800000000000000
+      internalID: 8119546136577477712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCFrontIdle_74
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 57
+        width: 470
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e00a18e93eebd0800000000000000
+      internalID: -2599076265914736284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MCFrontIdle_0: -1024197153861189546
+      MCFrontIdle_1: 2271664568286129226
+      MCFrontIdle_10: 5600717276534267022
+      MCFrontIdle_11: -8077844743815968404
+      MCFrontIdle_12: -9040422438338422253
+      MCFrontIdle_13: -7907255451127551502
+      MCFrontIdle_14: -5435506595470670056
+      MCFrontIdle_15: 4712188315039011344
+      MCFrontIdle_16: -4691264923418362111
+      MCFrontIdle_17: -6572888448963068165
+      MCFrontIdle_18: 8017641790280612654
+      MCFrontIdle_19: 3944036266852524353
+      MCFrontIdle_2: -8099150298282962101
+      MCFrontIdle_20: -7614420218298411766
+      MCFrontIdle_21: -3194115884220296815
+      MCFrontIdle_22: -2058941444801721372
+      MCFrontIdle_23: -8715389390713622876
+      MCFrontIdle_24: 5741010829496183717
+      MCFrontIdle_25: -5369363277665798184
+      MCFrontIdle_26: 3769342141037501850
+      MCFrontIdle_27: 2512795236616436717
+      MCFrontIdle_28: -5379327290354837197
+      MCFrontIdle_29: 2944661588105635759
+      MCFrontIdle_3: 6813049600418543658
+      MCFrontIdle_30: 6854607133254287402
+      MCFrontIdle_31: 1536115468019308047
+      MCFrontIdle_32: -1953652811452381328
+      MCFrontIdle_33: -786905248057748057
+      MCFrontIdle_34: 2239706520354007878
+      MCFrontIdle_35: 6057581062911275229
+      MCFrontIdle_36: -2218159475034687317
+      MCFrontIdle_37: -1246909522758838724
+      MCFrontIdle_38: -6568913256911626251
+      MCFrontIdle_39: 5342705435827223193
+      MCFrontIdle_4: -1390654273383588214
+      MCFrontIdle_40: -2344651876091815065
+      MCFrontIdle_41: 5299632787315640517
+      MCFrontIdle_42: -44728181759860863
+      MCFrontIdle_43: -5450952130496754844
+      MCFrontIdle_44: 4837509393368234656
+      MCFrontIdle_45: -5742955406890305275
+      MCFrontIdle_46: 8119841072783321729
+      MCFrontIdle_47: 6667581887117416549
+      MCFrontIdle_48: 7060144561534045870
+      MCFrontIdle_49: -3091167592051954407
+      MCFrontIdle_5: -336538882144602952
+      MCFrontIdle_50: 5279116922791330275
+      MCFrontIdle_51: 5554506147468185194
+      MCFrontIdle_52: -5282605030364167877
+      MCFrontIdle_53: -5940168059542718549
+      MCFrontIdle_54: -1978486346693828841
+      MCFrontIdle_55: -486942705323107734
+      MCFrontIdle_56: 3566217377692960256
+      MCFrontIdle_57: 8058694775497186369
+      MCFrontIdle_58: -7418087596761710978
+      MCFrontIdle_59: -3307846836151474593
+      MCFrontIdle_6: 8381533608592748813
+      MCFrontIdle_60: -1139678513946848612
+      MCFrontIdle_61: -8645031702782162536
+      MCFrontIdle_62: 8572145541588160697
+      MCFrontIdle_63: -1339396614919857469
+      MCFrontIdle_64: 9067487780131277075
+      MCFrontIdle_65: -163968486512646906
+      MCFrontIdle_66: 202109923798034607
+      MCFrontIdle_67: -7481553097165840682
+      MCFrontIdle_68: -7328304431637355457
+      MCFrontIdle_69: 1552357984659967646
+      MCFrontIdle_7: -4726945407602063860
+      MCFrontIdle_70: 8946345244590383322
+      MCFrontIdle_71: -305872968006864290
+      MCFrontIdle_72: 1578475445713929859
+      MCFrontIdle_73: 8119546136577477712
+      MCFrontIdle_74: -2599076265914736284
+      MCFrontIdle_8: 5196026196846806985
+      MCFrontIdle_9: -8023084361589526007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

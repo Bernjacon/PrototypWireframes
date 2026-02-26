@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: b0e2279f61a5f0441ba2d21447e22e9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3402829716218074685
+    second: MCBackgroundIdleVer2 _0
+  - first:
+      213: -1260940026042528578
+    second: MCBackgroundIdleVer2 _1
+  - first:
+      213: -5637048771446098780
+    second: MCBackgroundIdleVer2 _2
+  - first:
+      213: 566574651646454206
+    second: MCBackgroundIdleVer2 _3
+  - first:
+      213: -5238078611287015538
+    second: MCBackgroundIdleVer2 _4
+  - first:
+      213: -1921179631444764901
+    second: MCBackgroundIdleVer2 _5
+  - first:
+      213: -4855929301735504644
+    second: MCBackgroundIdleVer2 _6
+  - first:
+      213: 4065612974333320938
+    second: MCBackgroundIdleVer2 _7
+  - first:
+      213: -3249321532957114909
+    second: MCBackgroundIdleVer2 _8
+  - first:
+      213: 3130103936947429600
+    second: MCBackgroundIdleVer2 _9
+  - first:
+      213: -3688495607720450995
+    second: MCBackgroundIdleVer2 _10
+  - first:
+      213: 5513239409483098501
+    second: MCBackgroundIdleVer2 _11
+  - first:
+      213: -3737056792648106594
+    second: MCBackgroundIdleVer2 _12
+  - first:
+      213: 4530555019819561850
+    second: MCBackgroundIdleVer2 _13
+  - first:
+      213: 3141389805845375409
+    second: MCBackgroundIdleVer2 _14
+  - first:
+      213: 4819523802922494814
+    second: MCBackgroundIdleVer2 _15
+  - first:
+      213: -2479411448313532406
+    second: MCBackgroundIdleVer2 _16
+  - first:
+      213: 3145321100662948361
+    second: MCBackgroundIdleVer2 _17
+  - first:
+      213: -338774051825981174
+    second: MCBackgroundIdleVer2 _18
+  - first:
+      213: -1554144115420635142
+    second: MCBackgroundIdleVer2 _19
+  - first:
+      213: 933636253220391660
+    second: MCBackgroundIdleVer2 _20
+  - first:
+      213: -7579189033676625311
+    second: MCBackgroundIdleVer2 _21
+  - first:
+      213: -8030868500335719765
+    second: MCBackgroundIdleVer2 _22
+  - first:
+      213: -8478307882040499080
+    second: MCBackgroundIdleVer2 _23
+  - first:
+      213: 7183617650358167940
+    second: MCBackgroundIdleVer2 _24
+  - first:
+      213: 4511653169300958835
+    second: MCBackgroundIdleVer2 _25
+  - first:
+      213: 4895832620744931987
+    second: MCBackgroundIdleVer2 _26
+  - first:
+      213: -2228086967986441579
+    second: MCBackgroundIdleVer2 _27
+  - first:
+      213: -1941801778895863388
+    second: MCBackgroundIdleVer2 _28
+  - first:
+      213: -2867712116473714547
+    second: MCBackgroundIdleVer2 _29
+  - first:
+      213: 7505893962174207743
+    second: MCBackgroundIdleVer2 _30
+  - first:
+      213: 8549000850466116492
+    second: MCBackgroundIdleVer2 _31
+  - first:
+      213: -461160238855456545
+    second: MCBackgroundIdleVer2 _32
+  - first:
+      213: 3740985450225765534
+    second: MCBackgroundIdleVer2 _33
+  - first:
+      213: 8307635617247325476
+    second: MCBackgroundIdleVer2 _34
+  - first:
+      213: 5827084829960704447
+    second: MCBackgroundIdleVer2 _35
+  - first:
+      213: 4359499330622665691
+    second: MCBackgroundIdleVer2 _36
+  - first:
+      213: 6894191582756612152
+    second: MCBackgroundIdleVer2 _37
+  - first:
+      213: -5664051055725435048
+    second: MCBackgroundIdleVer2 _38
+  - first:
+      213: -6506277165297779458
+    second: MCBackgroundIdleVer2 _39
+  - first:
+      213: -1386026451324981248
+    second: MCBackgroundIdleVer2 _40
+  - first:
+      213: -3720560631722651668
+    second: MCBackgroundIdleVer2 _41
+  - first:
+      213: -3118479115569643683
+    second: MCBackgroundIdleVer2 _42
+  - first:
+      213: -5857154470448421337
+    second: MCBackgroundIdleVer2 _43
+  - first:
+      213: 2117862729881555897
+    second: MCBackgroundIdleVer2 _44
+  - first:
+      213: 8323519643906402688
+    second: MCBackgroundIdleVer2 _45
+  - first:
+      213: 264216593786303615
+    second: MCBackgroundIdleVer2 _46
+  - first:
+      213: -2248668241957775890
+    second: MCBackgroundIdleVer2 _47
+  - first:
+      213: -7373037726924561748
+    second: MCBackgroundIdleVer2 _48
+  - first:
+      213: 2993532364351579168
+    second: MCBackgroundIdleVer2 _49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7591
+        width: 598
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9adade668b6c0d0800000000000000
+      internalID: -3402829716218074685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _1
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 7591
+        width: 599
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc9a02abd308ee0800000000000000
+      internalID: -1260940026042528578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _2
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 7591
+        width: 600
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4376c320e25c1b0800000000000000
+      internalID: -5637048771446098780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _3
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 7591
+        width: 601
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a022d4a0ecd700800000000000000
+      internalID: 566574651646454206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _4
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 7591
+        width: 604
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f7aac614b9e47b0800000000000000
+      internalID: -5238078611287015538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _5
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 7591
+        width: 603
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d406dd499655e0800000000000000
+      internalID: -1921179631444764901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _6
+      rect:
+        serializedVersion: 2
+        x: 6708
+        y: 7591
+        width: 603
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405a327064c9cb0800000000000000
+      internalID: -4855929301735504644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6511
+        width: 603
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee5b59a575fb6830800000000000000
+      internalID: 4065612974333320938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _8
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 6511
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed301b084718e2d0800000000000000
+      internalID: -3249321532957114909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _9
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 6511
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0adc752fc507b20800000000000000
+      internalID: 3130103936947429600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _10
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 6511
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44eb3a89c4dfccc0800000000000000
+      internalID: -3688495607720450995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _11
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 6511
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ace35806f28c40800000000000000
+      internalID: 5513239409483098501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _12
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 6511
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dbfb895ae432cc0800000000000000
+      internalID: -3737056792648106594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _13
+      rect:
+        serializedVersion: 2
+        x: 6708
+        y: 6511
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7335bf59c3cfde30800000000000000
+      internalID: 4530555019819561850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5431
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b962767265789b20800000000000000
+      internalID: 3141389805845375409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _15
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 5431
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b2cb32d5362e240800000000000000
+      internalID: 4819523802922494814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _16
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 5431
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a003c3b9c6c579dd0800000000000000
+      internalID: -2479411448313532406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _17
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 5431
+        width: 601
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024e8d50ec66ab20800000000000000
+      internalID: 3145321100662948361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _18
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 5431
+        width: 600
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09eac57bce6c4bf0800000000000000
+      internalID: -338774051825981174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _19
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 5431
+        width: 599
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affd69649229e6ae0800000000000000
+      internalID: -1554144115420635142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _20
+      rect:
+        serializedVersion: 2
+        x: 6713
+        y: 5431
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceac0a6c931f4fc00800000000000000
+      internalID: 933636253220391660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2b2aeabf41d690800000000000000
+      internalID: -7579189033676625311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _22
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa8d97f5af9c8090800000000000000
+      internalID: -8030868500335719765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _23
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874e49ab6eff65a80800000000000000
+      internalID: -8478307882040499080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _24
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48923db413651b360800000000000000
+      internalID: 7183617650358167940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _25
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ee2f957ac9c9e30800000000000000
+      internalID: 4511653169300958835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _26
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a754f44dd71f340800000000000000
+      internalID: 4895832620744931987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _27
+      rect:
+        serializedVersion: 2
+        x: 6713
+        y: 4351
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592bd7025be3411e0800000000000000
+      internalID: -2228086967986441579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3271
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1c0b8f1955d05e0800000000000000
+      internalID: -1941801778895863388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _29
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 3271
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88208b1607d338d0800000000000000
+      internalID: -2867712116473714547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _30
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 3271
+        width: 598
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff694296aca4a2860800000000000000
+      internalID: 7505893962174207743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _31
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3271
+        width: 599
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839b8c9af624a670800000000000000
+      internalID: 8549000850466116492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _32
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 3271
+        width: 600
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87c72c431a999f0800000000000000
+      internalID: -461160238855456545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _33
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 3271
+        width: 601
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c8c964276aae330800000000000000
+      internalID: 3740985450225765534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _34
+      rect:
+        serializedVersion: 2
+        x: 6707
+        y: 3271
+        width: 604
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de8610496aa4370800000000000000
+      internalID: 8307635617247325476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb110e597c6fdd050800000000000000
+      internalID: 5827084829960704447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _36
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd331582b8d008c30800000000000000
+      internalID: 4359499330622665691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _37
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83822bfa7b61daf50800000000000000
+      internalID: 6894191582756612152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _38
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572fc1039f3561b0800000000000000
+      internalID: -5664051055725435048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _39
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcb030d36f05b5a0800000000000000
+      internalID: -6506277165297779458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _40
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ba773948d3cce0800000000000000
+      internalID: -1386026451324981248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _41
+      rect:
+        serializedVersion: 2
+        x: 6708
+        y: 2191
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4edc51d9ed5cc0800000000000000
+      internalID: -3720560631722651668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1111
+        width: 603
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f3ffc44cfe8b4d0800000000000000
+      internalID: -3118479115569643683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _43
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1111
+        width: 603
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a45aaa0537bea0800000000000000
+      internalID: -5857154470448421337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _44
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1111
+        width: 603
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b311a19ee8246d10800000000000000
+      internalID: 2117862729881555897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _45
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1111
+        width: 603
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e6082405138370800000000000000
+      internalID: 8323519643906402688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _46
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 1111
+        width: 603
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f747568979faaa300800000000000000
+      internalID: 264216593786303615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _47
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1111
+        width: 601
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5976cd5202bc0e0800000000000000
+      internalID: -2248668241957775890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _48
+      rect:
+        serializedVersion: 2
+        x: 6711
+        y: 1111
+        width: 600
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2ab1b5045bda990800000000000000
+      internalID: -7373037726924561748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleVer2 _49
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 599
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024afc033d92b8920800000000000000
+      internalID: 2993532364351579168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MCBackgroundIdleVer2 _0: -3402829716218074685
+      MCBackgroundIdleVer2 _1: -1260940026042528578
+      MCBackgroundIdleVer2 _10: -3688495607720450995
+      MCBackgroundIdleVer2 _11: 5513239409483098501
+      MCBackgroundIdleVer2 _12: -3737056792648106594
+      MCBackgroundIdleVer2 _13: 4530555019819561850
+      MCBackgroundIdleVer2 _14: 3141389805845375409
+      MCBackgroundIdleVer2 _15: 4819523802922494814
+      MCBackgroundIdleVer2 _16: -2479411448313532406
+      MCBackgroundIdleVer2 _17: 3145321100662948361
+      MCBackgroundIdleVer2 _18: -338774051825981174
+      MCBackgroundIdleVer2 _19: -1554144115420635142
+      MCBackgroundIdleVer2 _2: -5637048771446098780
+      MCBackgroundIdleVer2 _20: 933636253220391660
+      MCBackgroundIdleVer2 _21: -7579189033676625311
+      MCBackgroundIdleVer2 _22: -8030868500335719765
+      MCBackgroundIdleVer2 _23: -8478307882040499080
+      MCBackgroundIdleVer2 _24: 7183617650358167940
+      MCBackgroundIdleVer2 _25: 4511653169300958835
+      MCBackgroundIdleVer2 _26: 4895832620744931987
+      MCBackgroundIdleVer2 _27: -2228086967986441579
+      MCBackgroundIdleVer2 _28: -1941801778895863388
+      MCBackgroundIdleVer2 _29: -2867712116473714547
+      MCBackgroundIdleVer2 _3: 566574651646454206
+      MCBackgroundIdleVer2 _30: 7505893962174207743
+      MCBackgroundIdleVer2 _31: 8549000850466116492
+      MCBackgroundIdleVer2 _32: -461160238855456545
+      MCBackgroundIdleVer2 _33: 3740985450225765534
+      MCBackgroundIdleVer2 _34: 8307635617247325476
+      MCBackgroundIdleVer2 _35: 5827084829960704447
+      MCBackgroundIdleVer2 _36: 4359499330622665691
+      MCBackgroundIdleVer2 _37: 6894191582756612152
+      MCBackgroundIdleVer2 _38: -5664051055725435048
+      MCBackgroundIdleVer2 _39: -6506277165297779458
+      MCBackgroundIdleVer2 _4: -5238078611287015538
+      MCBackgroundIdleVer2 _40: -1386026451324981248
+      MCBackgroundIdleVer2 _41: -3720560631722651668
+      MCBackgroundIdleVer2 _42: -3118479115569643683
+      MCBackgroundIdleVer2 _43: -5857154470448421337
+      MCBackgroundIdleVer2 _44: 2117862729881555897
+      MCBackgroundIdleVer2 _45: 8323519643906402688
+      MCBackgroundIdleVer2 _46: 264216593786303615
+      MCBackgroundIdleVer2 _47: -2248668241957775890
+      MCBackgroundIdleVer2 _48: -7373037726924561748
+      MCBackgroundIdleVer2 _49: 2993532364351579168
+      MCBackgroundIdleVer2 _5: -1921179631444764901
+      MCBackgroundIdleVer2 _6: -4855929301735504644
+      MCBackgroundIdleVer2 _7: 4065612974333320938
+      MCBackgroundIdleVer2 _8: -3249321532957114909
+      MCBackgroundIdleVer2 _9: 3130103936947429600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

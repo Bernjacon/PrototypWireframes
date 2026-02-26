@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: f7901b0373cbd3f4c8f16c2205d825cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1379471125480659402
+    second: BenDialog_0
+  - first:
+      213: -8301775793418097382
+    second: BenDialog_1
+  - first:
+      213: 196660705706353065
+    second: BenDialog_2
+  - first:
+      213: 6511937564861721510
+    second: BenDialog_3
+  - first:
+      213: 8051580142988148796
+    second: BenDialog_4
+  - first:
+      213: -3645231679096683331
+    second: BenDialog_5
+  - first:
+      213: -4988168737277833433
+    second: BenDialog_6
+  - first:
+      213: -158216910544073664
+    second: BenDialog_7
+  - first:
+      213: 2042772810375266161
+    second: BenDialog_8
+  - first:
+      213: -6656996334644675674
+    second: BenDialog_9
+  - first:
+      213: -3515311864962596849
+    second: BenDialog_10
+  - first:
+      213: -6409660721337313256
+    second: BenDialog_11
+  - first:
+      213: 3596540057739694555
+    second: BenDialog_12
+  - first:
+      213: 7226312801431635476
+    second: BenDialog_13
+  - first:
+      213: 2285252632493206023
+    second: BenDialog_14
+  - first:
+      213: -9219817532091715450
+    second: BenDialog_15
+  - first:
+      213: -2814750825284385886
+    second: BenDialog_16
+  - first:
+      213: 4837325196493269374
+    second: BenDialog_17
+  - first:
+      213: 6946432816896271040
+    second: BenDialog_18
+  - first:
+      213: -1806310768299801451
+    second: BenDialog_19
+  - first:
+      213: 2115757806460376291
+    second: BenDialog_20
+  - first:
+      213: 6342582484486072884
+    second: BenDialog_21
+  - first:
+      213: -8677265987902445164
+    second: BenDialog_22
+  - first:
+      213: -5739221114800875406
+    second: BenDialog_23
+  - first:
+      213: 7509689522708595036
+    second: BenDialog_24
+  - first:
+      213: 3242809695819784201
+    second: BenDialog_25
+  - first:
+      213: 4401978107667372618
+    second: BenDialog_26
+  - first:
+      213: 6132988276174494243
+    second: BenDialog_27
+  - first:
+      213: 8411486711148592382
+    second: BenDialog_28
+  - first:
+      213: -2100624723820719553
+    second: BenDialog_29
+  - first:
+      213: -3462430323253516994
+    second: BenDialog_30
+  - first:
+      213: -4955075529793711981
+    second: BenDialog_31
+  - first:
+      213: -6285589643910545557
+    second: BenDialog_32
+  - first:
+      213: 2831252779749030597
+    second: BenDialog_33
+  - first:
+      213: -1314510987967462229
+    second: BenDialog_34
+  - first:
+      213: -5208124875860865041
+    second: BenDialog_35
+  - first:
+      213: -985168320885157844
+    second: BenDialog_36
+  - first:
+      213: -4102919878246557095
+    second: BenDialog_37
+  - first:
+      213: 2332120911608426514
+    second: BenDialog_38
+  - first:
+      213: 542757020293996671
+    second: BenDialog_39
+  - first:
+      213: 5978374516475756290
+    second: BenDialog_40
+  - first:
+      213: -7923456061440331182
+    second: BenDialog_41
+  - first:
+      213: -5293944463114160911
+    second: BenDialog_42
+  - first:
+      213: 1896481115845623986
+    second: BenDialog_43
+  - first:
+      213: -3238661547258954589
+    second: BenDialog_44
+  - first:
+      213: 350422592105531384
+    second: BenDialog_45
+  - first:
+      213: -607064282925789974
+    second: BenDialog_46
+  - first:
+      213: 586804528857291311
+    second: BenDialog_47
+  - first:
+      213: 3772766659481674420
+    second: BenDialog_48
+  - first:
+      213: -6215480341238767441
+    second: BenDialog_49
+  - first:
+      213: 4522296732058212685
+    second: BenDialog_50
+  - first:
+      213: 1875839050463107431
+    second: BenDialog_51
+  - first:
+      213: -45329023466337189
+    second: BenDialog_52
+  - first:
+      213: 163249273193903774
+    second: BenDialog_53
+  - first:
+      213: 3268358020392811736
+    second: BenDialog_54
+  - first:
+      213: 4497989225871490050
+    second: BenDialog_55
+  - first:
+      213: -6241709677311500051
+    second: BenDialog_56
+  - first:
+      213: -3539734016688902104
+    second: BenDialog_57
+  - first:
+      213: -2086185589305775543
+    second: BenDialog_58
+  - first:
+      213: 7678403190649895162
+    second: BenDialog_59
+  - first:
+      213: 8174391019632379972
+    second: BenDialog_60
+  - first:
+      213: 5026904031955814561
+    second: BenDialog_61
+  - first:
+      213: -8641857224345839427
+    second: BenDialog_62
+  - first:
+      213: 2679580581812349507
+    second: BenDialog_63
+  - first:
+      213: 1377461842464703411
+    second: BenDialog_64
+  - first:
+      213: 1872938782002761223
+    second: BenDialog_65
+  - first:
+      213: 7011010169395835146
+    second: BenDialog_66
+  - first:
+      213: -6785597578944503664
+    second: BenDialog_67
+  - first:
+      213: 1466596212889375149
+    second: BenDialog_68
+  - first:
+      213: -904857983343676981
+    second: BenDialog_69
+  - first:
+      213: 7784083715781289577
+    second: BenDialog_70
+  - first:
+      213: 8676717776801658131
+    second: BenDialog_71
+  - first:
+      213: -5614642172789632980
+    second: BenDialog_72
+  - first:
+      213: 6458445044970219263
+    second: BenDialog_73
+  - first:
+      213: 375308424351311567
+    second: BenDialog_74
+  - first:
+      213: -1159878562482677229
+    second: BenDialog_75
+  - first:
+      213: 520673809297544967
+    second: BenDialog_76
+  - first:
+      213: -1567846773011837924
+    second: BenDialog_77
+  - first:
+      213: -8466890339714060665
+    second: BenDialog_78
+  - first:
+      213: 6374478917558137923
+    second: BenDialog_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BenDialog_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8695
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9de2c0eadd42310800000000000000
+      internalID: 1379471125480659402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_1
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 8695
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da06c86ea2acc80800000000000000
+      internalID: -8301775793418097382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_2
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 8695
+        width: 430
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1a7e0beddaab200800000000000000
+      internalID: 196660705706353065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_3
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abea19a6bc0f5a50800000000000000
+      internalID: 6511937564861721510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_4
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30c56f1b75fcbf60800000000000000
+      internalID: 8051580142988148796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_5
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40173e919896dc0800000000000000
+      internalID: -3645231679096683331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_6
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f88de36f676cab0800000000000000
+      internalID: -4988168737277833433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_7
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c8f81ee86edcdf0800000000000000
+      internalID: -158216910544073664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_8
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7e374c03695c10800000000000000
+      internalID: 2042772810375266161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 7615
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab3d6a9a199d93a0800000000000000
+      internalID: -6656996334644675674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_10
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 7615
+        width: 428
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004036db7a173fc0800000000000000
+      internalID: -3515311864962596849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_11
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 7615
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8185ae5a88f4c07a0800000000000000
+      internalID: -6409660721337313256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_12
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 7615
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19902902a79e130800000000000000
+      internalID: 3596540057739694555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_13
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 7615
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416c03dc435094460800000000000000
+      internalID: 7226312801431635476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_14
+      rect:
+        serializedVersion: 2
+        x: 5691
+        y: 7615
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa8c55929d6bf10800000000000000
+      internalID: 2285252632493206023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_15
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 7615
+        width: 426
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68031c1adc0ac0080800000000000000
+      internalID: -9219817532091715450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_16
+      rect:
+        serializedVersion: 2
+        x: 7852
+        y: 7615
+        width: 425
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3cfaf990fffe8d0800000000000000
+      internalID: -2814750825284385886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_17
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 7615
+        width: 425
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79270013a1a12340800000000000000
+      internalID: 4837325196493269374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 6535
+        width: 425
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e73bd7dfa66060800000000000000
+      internalID: 6946432816896271040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_19
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 6535
+        width: 424
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594078d2de1bee6e0800000000000000
+      internalID: -1806310768299801451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_20
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 6535
+        width: 424
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e494d4e38eac5d10800000000000000
+      internalID: 2115757806460376291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_21
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 6535
+        width: 423
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a286a4a21650850800000000000000
+      internalID: 6342582484486072884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_22
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 6535
+        width: 423
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ee71ee88249780800000000000000
+      internalID: -8677265987902445164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_23
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 6535
+        width: 422
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2785fd4cdc03a50b0800000000000000
+      internalID: -5739221114800875406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_24
+      rect:
+        serializedVersion: 2
+        x: 6774
+        y: 6535
+        width: 422
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51c48635d6c73860800000000000000
+      internalID: 7509689522708595036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_25
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 6535
+        width: 421
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900e789bc36c00d20800000000000000
+      internalID: 3242809695819784201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_26
+      rect:
+        serializedVersion: 2
+        x: 8934
+        y: 6535
+        width: 421
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5f8824c7f61d30800000000000000
+      internalID: 4401978107667372618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5455
+        width: 420
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a140dd750cc1550800000000000000
+      internalID: 6132988276174494243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_28
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 5455
+        width: 420
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3eea099a9bb470800000000000000
+      internalID: 8411486711148592382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_29
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 5455
+        width: 420
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32534a71f419d2e0800000000000000
+      internalID: -2100624723820719553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_30
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 5455
+        width: 420
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35eeea37f9f2ffc0800000000000000
+      internalID: -3462430323253516994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_31
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 5455
+        width: 419
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905a6b0f090c3bb0800000000000000
+      internalID: -4955075529793711981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_32
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 5455
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f76d6758915c8a0800000000000000
+      internalID: -6285589643910545557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_33
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 5455
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca374e0761aa4720800000000000000
+      internalID: 2831252779749030597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_34
+      rect:
+        serializedVersion: 2
+        x: 7856
+        y: 5455
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40ad4983be1cde0800000000000000
+      internalID: -1314510987967462229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_35
+      rect:
+        serializedVersion: 2
+        x: 8936
+        y: 5455
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef007ce40609b7b0800000000000000
+      internalID: -5208124875860865041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c201cadb1aaf352f0800000000000000
+      internalID: -985168320885157844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_37
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9933eb108f07c0800000000000000
+      internalID: -4102919878246557095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_38
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2103eadec9b5d5020800000000000000
+      internalID: 2332120911608426514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_39
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7029f162a2488700800000000000000
+      internalID: 542757020293996671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_40
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ff8cca2f377f250800000000000000
+      internalID: 5978374516475756290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_41
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252fe6041ba3a0290800000000000000
+      internalID: -7923456061440331182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_42
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f43f6f2f812886b0800000000000000
+      internalID: -5293944463114160911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_43
+      rect:
+        serializedVersion: 2
+        x: 7856
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b00731e687a15a10800000000000000
+      internalID: 1896481115845623986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_44
+      rect:
+        serializedVersion: 2
+        x: 8936
+        y: 4375
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acb9ef5b76fd03d0800000000000000
+      internalID: -3238661547258954589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3295
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7c8bbad73fcd400800000000000000
+      internalID: 350422592105531384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_46
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 3295
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec816440464397f0800000000000000
+      internalID: -607064282925789974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_47
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 3295
+        width: 418
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a11272c9fb42800800000000000000
+      internalID: 586804528857291311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_48
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 3295
+        width: 419
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a7dea94f8b5430800000000000000
+      internalID: 3772766659481674420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_49
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 3295
+        width: 420
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa02a088f8d2eb9a0800000000000000
+      internalID: -6215480341238767441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_50
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 3295
+        width: 420
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d495d3beaec62ce30800000000000000
+      internalID: 4522296732058212685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_51
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 3295
+        width: 420
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d8a28da1580a10800000000000000
+      internalID: 1875839050463107431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_52
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 3295
+        width: 421
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c064a4e75fe5ff0800000000000000
+      internalID: -45329023466337189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_53
+      rect:
+        serializedVersion: 2
+        x: 8934
+        y: 3295
+        width: 421
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96309a595af34200800000000000000
+      internalID: 163249273193903774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2215
+        width: 422
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcff449d4a8b5d20800000000000000
+      internalID: 3268358020392811736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_55
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2215
+        width: 422
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cba9b9e511c6e30800000000000000
+      internalID: 4497989225871490050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_56
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 2215
+        width: 423
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0eab45e1ef069a0800000000000000
+      internalID: -6241709677311500051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_57
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2215
+        width: 423
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82034e78aa650eec0800000000000000
+      internalID: -3539734016688902104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_58
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 2215
+        width: 424
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae3e572416c03e0800000000000000
+      internalID: -2086185589305775543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_59
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 2215
+        width: 425
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b9ec150b2f8a60800000000000000
+      internalID: 7678403190649895162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_60
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 2215
+        width: 425
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c4549255417170800000000000000
+      internalID: 8174391019632379972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_61
+      rect:
+        serializedVersion: 2
+        x: 7852
+        y: 2215
+        width: 425
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a884b8559623c540800000000000000
+      internalID: 5026904031955814561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_62
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 2215
+        width: 426
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8193714a4f11880800000000000000
+      internalID: -8641857224345839427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1135
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aa5f59758cf2520800000000000000
+      internalID: 2679580581812349507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_64
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1135
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b383c36f3abd1310800000000000000
+      internalID: 1377461842464703411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_65
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1135
+        width: 427
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec35326e30ef910800000000000000
+      internalID: 1872938782002761223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_66
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 1135
+        width: 428
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a017d776a9c1c4160800000000000000
+      internalID: 7011010169395835146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_67
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090234e14f6b4d1a0800000000000000
+      internalID: -6785597578944503664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_68
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1543a3c756a5410800000000000000
+      internalID: 1466596212889375149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_69
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1bf92557c4173f0800000000000000
+      internalID: -904857983343676981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_70
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966eb0dc5ee960c60800000000000000
+      internalID: 7784083715781289577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_71
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3157496c8d4e96870800000000000000
+      internalID: 8676717776801658131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 55
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2052f501b8c412b0800000000000000
+      internalID: -5614642172789632980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_73
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 55
+        width: 430
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e4d2dc8101a950800000000000000
+      internalID: 6458445044970219263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_74
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6eba2060d553500800000000000000
+      internalID: 375308424351311567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_75
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a11acb79847efe0800000000000000
+      internalID: -1159878562482677229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_76
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7079707221ec93700800000000000000
+      internalID: 520673809297544967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_77
+      rect:
+        serializedVersion: 2
+        x: 5689
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0360baa3ed3ae0800000000000000
+      internalID: -1567846773011837924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_78
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e282578109f7a80800000000000000
+      internalID: -8466890339714060665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenDialog_79
+      rect:
+        serializedVersion: 2
+        x: 7849
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f4455dc2b67850800000000000000
+      internalID: 6374478917558137923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BenDialog_0: 1379471125480659402
+      BenDialog_1: -8301775793418097382
+      BenDialog_10: -3515311864962596849
+      BenDialog_11: -6409660721337313256
+      BenDialog_12: 3596540057739694555
+      BenDialog_13: 7226312801431635476
+      BenDialog_14: 2285252632493206023
+      BenDialog_15: -9219817532091715450
+      BenDialog_16: -2814750825284385886
+      BenDialog_17: 4837325196493269374
+      BenDialog_18: 6946432816896271040
+      BenDialog_19: -1806310768299801451
+      BenDialog_2: 196660705706353065
+      BenDialog_20: 2115757806460376291
+      BenDialog_21: 6342582484486072884
+      BenDialog_22: -8677265987902445164
+      BenDialog_23: -5739221114800875406
+      BenDialog_24: 7509689522708595036
+      BenDialog_25: 3242809695819784201
+      BenDialog_26: 4401978107667372618
+      BenDialog_27: 6132988276174494243
+      BenDialog_28: 8411486711148592382
+      BenDialog_29: -2100624723820719553
+      BenDialog_3: 6511937564861721510
+      BenDialog_30: -3462430323253516994
+      BenDialog_31: -4955075529793711981
+      BenDialog_32: -6285589643910545557
+      BenDialog_33: 2831252779749030597
+      BenDialog_34: -1314510987967462229
+      BenDialog_35: -5208124875860865041
+      BenDialog_36: -985168320885157844
+      BenDialog_37: -4102919878246557095
+      BenDialog_38: 2332120911608426514
+      BenDialog_39: 542757020293996671
+      BenDialog_4: 8051580142988148796
+      BenDialog_40: 5978374516475756290
+      BenDialog_41: -7923456061440331182
+      BenDialog_42: -5293944463114160911
+      BenDialog_43: 1896481115845623986
+      BenDialog_44: -3238661547258954589
+      BenDialog_45: 350422592105531384
+      BenDialog_46: -607064282925789974
+      BenDialog_47: 586804528857291311
+      BenDialog_48: 3772766659481674420
+      BenDialog_49: -6215480341238767441
+      BenDialog_5: -3645231679096683331
+      BenDialog_50: 4522296732058212685
+      BenDialog_51: 1875839050463107431
+      BenDialog_52: -45329023466337189
+      BenDialog_53: 163249273193903774
+      BenDialog_54: 3268358020392811736
+      BenDialog_55: 4497989225871490050
+      BenDialog_56: -6241709677311500051
+      BenDialog_57: -3539734016688902104
+      BenDialog_58: -2086185589305775543
+      BenDialog_59: 7678403190649895162
+      BenDialog_6: -4988168737277833433
+      BenDialog_60: 8174391019632379972
+      BenDialog_61: 5026904031955814561
+      BenDialog_62: -8641857224345839427
+      BenDialog_63: 2679580581812349507
+      BenDialog_64: 1377461842464703411
+      BenDialog_65: 1872938782002761223
+      BenDialog_66: 7011010169395835146
+      BenDialog_67: -6785597578944503664
+      BenDialog_68: 1466596212889375149
+      BenDialog_69: -904857983343676981
+      BenDialog_7: -158216910544073664
+      BenDialog_70: 7784083715781289577
+      BenDialog_71: 8676717776801658131
+      BenDialog_72: -5614642172789632980
+      BenDialog_73: 6458445044970219263
+      BenDialog_74: 375308424351311567
+      BenDialog_75: -1159878562482677229
+      BenDialog_76: 520673809297544967
+      BenDialog_77: -1567846773011837924
+      BenDialog_78: -8466890339714060665
+      BenDialog_79: 6374478917558137923
+      BenDialog_8: 2042772810375266161
+      BenDialog_9: -6656996334644675674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

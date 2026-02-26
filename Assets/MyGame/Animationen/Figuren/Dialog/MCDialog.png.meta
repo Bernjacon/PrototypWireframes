@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 626c97380a726254280b4af768745fb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5865430038358146778
+    second: MCDialog_0
+  - first:
+      213: 4743355719975687069
+    second: MCDialog_1
+  - first:
+      213: 2396557749999226632
+    second: MCDialog_2
+  - first:
+      213: -6947495212699741201
+    second: MCDialog_3
+  - first:
+      213: 2384444517230811411
+    second: MCDialog_4
+  - first:
+      213: -130932455443384681
+    second: MCDialog_5
+  - first:
+      213: -8887999143815971906
+    second: MCDialog_6
+  - first:
+      213: 4487809889707685562
+    second: MCDialog_7
+  - first:
+      213: -5148310754393783159
+    second: MCDialog_8
+  - first:
+      213: 7396859810183937818
+    second: MCDialog_9
+  - first:
+      213: -840523676656277914
+    second: MCDialog_10
+  - first:
+      213: -9214387115377233424
+    second: MCDialog_11
+  - first:
+      213: -1946589191662263839
+    second: MCDialog_12
+  - first:
+      213: -4500797616402503237
+    second: MCDialog_13
+  - first:
+      213: 8189312260088879862
+    second: MCDialog_14
+  - first:
+      213: -5500607912491865646
+    second: MCDialog_15
+  - first:
+      213: -998292424303933770
+    second: MCDialog_16
+  - first:
+      213: -3957539162265961328
+    second: MCDialog_17
+  - first:
+      213: 4363795237788723415
+    second: MCDialog_18
+  - first:
+      213: 8493288095084324799
+    second: MCDialog_19
+  - first:
+      213: -1079502640417373094
+    second: MCDialog_20
+  - first:
+      213: 7513868660052157439
+    second: MCDialog_21
+  - first:
+      213: 4503152312198285829
+    second: MCDialog_22
+  - first:
+      213: -1582345617394554574
+    second: MCDialog_23
+  - first:
+      213: 8923586287278542336
+    second: MCDialog_24
+  - first:
+      213: -4534596113488438579
+    second: MCDialog_25
+  - first:
+      213: -3103539595928234351
+    second: MCDialog_26
+  - first:
+      213: -8498346907349658664
+    second: MCDialog_27
+  - first:
+      213: -4617362638707353776
+    second: MCDialog_28
+  - first:
+      213: 1392285831685437858
+    second: MCDialog_29
+  - first:
+      213: -8299753676900496446
+    second: MCDialog_30
+  - first:
+      213: -5890951745035866515
+    second: MCDialog_31
+  - first:
+      213: -7635675973819876883
+    second: MCDialog_32
+  - first:
+      213: 2415538272087684087
+    second: MCDialog_33
+  - first:
+      213: -4607140158875195254
+    second: MCDialog_34
+  - first:
+      213: -8591371852643499571
+    second: MCDialog_35
+  - first:
+      213: -379518423954762421
+    second: MCDialog_36
+  - first:
+      213: -3853447492537014075
+    second: MCDialog_37
+  - first:
+      213: -1015715185491624080
+    second: MCDialog_38
+  - first:
+      213: -1892508836576457740
+    second: MCDialog_39
+  - first:
+      213: 7559778251151495289
+    second: MCDialog_40
+  - first:
+      213: 7226684892341546436
+    second: MCDialog_41
+  - first:
+      213: -2833724046927150407
+    second: MCDialog_42
+  - first:
+      213: 8047988306370159021
+    second: MCDialog_43
+  - first:
+      213: 6790026917266697737
+    second: MCDialog_44
+  - first:
+      213: -2949407376952263823
+    second: MCDialog_45
+  - first:
+      213: 6741296653105020015
+    second: MCDialog_46
+  - first:
+      213: 8375644359387750057
+    second: MCDialog_47
+  - first:
+      213: 7008677755043332850
+    second: MCDialog_48
+  - first:
+      213: -7012511993635938087
+    second: MCDialog_49
+  - first:
+      213: 2547314202502402294
+    second: MCDialog_50
+  - first:
+      213: 4189259701295089437
+    second: MCDialog_51
+  - first:
+      213: 181624525097788286
+    second: MCDialog_52
+  - first:
+      213: 4407847143131978531
+    second: MCDialog_53
+  - first:
+      213: 2460216812343995726
+    second: MCDialog_54
+  - first:
+      213: -7957799685967307223
+    second: MCDialog_55
+  - first:
+      213: -168700074739248141
+    second: MCDialog_56
+  - first:
+      213: 7098264080774283968
+    second: MCDialog_57
+  - first:
+      213: 6337158905373857018
+    second: MCDialog_58
+  - first:
+      213: -3174122271692078113
+    second: MCDialog_59
+  - first:
+      213: 8645436218557214258
+    second: MCDialog_60
+  - first:
+      213: -4535432508895209657
+    second: MCDialog_61
+  - first:
+      213: -7306263168503126471
+    second: MCDialog_62
+  - first:
+      213: 1291243414714108227
+    second: MCDialog_63
+  - first:
+      213: 5741443201177503693
+    second: MCDialog_64
+  - first:
+      213: 1749703545730357942
+    second: MCDialog_65
+  - first:
+      213: 264656799452763200
+    second: MCDialog_66
+  - first:
+      213: -1636758133097545781
+    second: MCDialog_67
+  - first:
+      213: 151079333127746356
+    second: MCDialog_68
+  - first:
+      213: -4645785113547685476
+    second: MCDialog_69
+  - first:
+      213: -9053597097303241346
+    second: MCDialog_70
+  - first:
+      213: -2958099843575658137
+    second: MCDialog_71
+  - first:
+      213: 2634457318823567234
+    second: MCDialog_72
+  - first:
+      213: -2714337883388885682
+    second: MCDialog_73
+  - first:
+      213: -3501110798918884953
+    second: MCDialog_74
+  - first:
+      213: -1206415190917885802
+    second: MCDialog_75
+  - first:
+      213: 4765452139000321366
+    second: MCDialog_76
+  - first:
+      213: -7927233006864931585
+    second: MCDialog_77
+  - first:
+      213: -6977332500955802268
+    second: MCDialog_78
+  - first:
+      213: 7488920697326519598
+    second: MCDialog_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCDialog_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8697
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3e332b81366150800000000000000
+      internalID: 5865430038358146778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_1
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 8697
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93d77c55e8c3d140800000000000000
+      internalID: 4743355719975687069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_2
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 8697
+        width: 470
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc96c7398424120800000000000000
+      internalID: 2396557749999226632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_3
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 8697
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31e48d9e9859f90800000000000000
+      internalID: -6947495212699741201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_4
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 8697
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3199b24b7af371120800000000000000
+      internalID: 2384444517230811411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_5
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 8697
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7963abf10a5de2ef0800000000000000
+      internalID: -130932455443384681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_6
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 8696
+        width: 469
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb7fdc8edb77a480800000000000000
+      internalID: -8887999143815971906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_7
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 8696
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f2873157e74e30800000000000000
+      internalID: 4487809889707685562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_8
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 8696
+        width: 468
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984090355a68d88b0800000000000000
+      internalID: -5148310754393783159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7616
+        width: 468
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f706f9ecce6a660800000000000000
+      internalID: 7396859810183937818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7616
+        width: 468
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666e89b5b2cd554f0800000000000000
+      internalID: -840523676656277914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_11
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 7616
+        width: 467
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f00d0dbbef1080800000000000000
+      internalID: -9214387115377233424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_12
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 7616
+        width: 467
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e12b5391735cf4e0800000000000000
+      internalID: -1946589191662263839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_13
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 7616
+        width: 466
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb967640a64f981c0800000000000000
+      internalID: -4500797616402503237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_14
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 7616
+        width: 466
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa59599c1846a170800000000000000
+      internalID: 8189312260088879862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_15
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 7616
+        width: 466
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9283f3f3ae9a3b0800000000000000
+      internalID: -5500607912491865646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_16
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 7616
+        width: 465
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6866b445a5522f0800000000000000
+      internalID: -998292424303933770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_17
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 7616
+        width: 465
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb070991ff319c0800000000000000
+      internalID: -3957539162265961328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6536
+        width: 464
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d820fcf5a05f8c30800000000000000
+      internalID: 4363795237788723415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6536
+        width: 464
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb72e8ae5883ed570800000000000000
+      internalID: 8493288095084324799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_20
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 6536
+        width: 463
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5483d76116d401f0800000000000000
+      internalID: -1079502640417373094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_21
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 6536
+        width: 463
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff369537cbf964860800000000000000
+      internalID: 7513868660052157439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_22
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 6536
+        width: 462
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ace025b296e7e30800000000000000
+      internalID: 4503152312198285829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_23
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 6536
+        width: 462
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392d4b6b016a0ae0800000000000000
+      internalID: -1582345617394554574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_24
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 6536
+        width: 461
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec8c7f272f6db70800000000000000
+      internalID: 8923586287278542336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_25
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 6536
+        width: 461
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca97af2cd0e111c0800000000000000
+      internalID: -4534596113488438579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_26
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 6536
+        width: 460
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19696564e230ee4d0800000000000000
+      internalID: -3103539595928234351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5456
+        width: 460
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35261938ecf0a80800000000000000
+      internalID: -8498346907349658664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5455
+        width: 459
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05710b8d425dbefb0800000000000000
+      internalID: -4617362638707353776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_29
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 5455
+        width: 460
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97b675694625310800000000000000
+      internalID: 1392285831685437858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_30
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 5455
+        width: 459
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb8a1d310a51dc80800000000000000
+      internalID: -8299753676900496446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_31
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 5455
+        width: 459
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6b2879922f3ea0800000000000000
+      internalID: -5890951745035866515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_32
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 5455
+        width: 459
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de93b784821a80690800000000000000
+      internalID: -7635675973819876883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_33
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 5455
+        width: 458
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b529a247b58120800000000000000
+      internalID: 2415538272087684087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_34
+      rect:
+        serializedVersion: 2
+        x: 7823
+        y: 5455
+        width: 458
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88aec76f662010c0800000000000000
+      internalID: -4607140158875195254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_35
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 5455
+        width: 458
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc105eda1d055c880800000000000000
+      internalID: -8591371852643499571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4375
+        width: 458
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d572110eabbaf0800000000000000
+      internalID: -379518423954762421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_37
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 4375
+        width: 458
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c826b60cedc58ac0800000000000000
+      internalID: -3853447492537014075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_38
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 4375
+        width: 457
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f3dc79b6477e1f0800000000000000
+      internalID: -1015715185491624080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_39
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 4375
+        width: 457
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb82957d357cb5e0800000000000000
+      internalID: -1892508836576457740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_40
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 4375
+        width: 457
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970db98144ab9e860800000000000000
+      internalID: 7559778251151495289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_41
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 4375
+        width: 457
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd23b7fe975a4460800000000000000
+      internalID: 7226684892341546436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_42
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 4375
+        width: 457
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2cc673ef69ca8d0800000000000000
+      internalID: -2833724046927150407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_43
+      rect:
+        serializedVersion: 2
+        x: 7823
+        y: 4375
+        width: 458
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1e0bd79b230bf60800000000000000
+      internalID: 8047988306370159021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_44
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4375
+        width: 458
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea50391850b3e50800000000000000
+      internalID: 6790026917266697737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_45
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3295
+        width: 458
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf7d60e999117d0800000000000000
+      internalID: -2949407376952263823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_46
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3295
+        width: 458
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cbaddc695ed8d50800000000000000
+      internalID: 6741296653105020015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_47
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 3295
+        width: 459
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae9f463b244c3470800000000000000
+      internalID: 8375644359387750057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_48
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3295
+        width: 459
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f24a8ed843d34160800000000000000
+      internalID: 7008677755043332850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_49
+      rect:
+        serializedVersion: 2
+        x: 4583
+        y: 3295
+        width: 460
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0e924ee7d8eae90800000000000000
+      internalID: -7012511993635938087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_50
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 3295
+        width: 460
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0967b55c0e95320800000000000000
+      internalID: 2547314202502402294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_51
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 3295
+        width: 460
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178d8fa08d332a30800000000000000
+      internalID: 4189259701295089437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_52
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 3296
+        width: 460
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e3f41b82458200800000000000000
+      internalID: 181624525097788286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_53
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 3296
+        width: 461
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b1a967f91db2d30800000000000000
+      internalID: 4407847143131978531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2216
+        width: 461
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d2532f722742220800000000000000
+      internalID: 2460216812343995726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_55
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2216
+        width: 462
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e143c0957309190800000000000000
+      internalID: -7957799685967307223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_56
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2216
+        width: 462
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d5930d28a8adf0800000000000000
+      internalID: -168700074739248141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_57
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2216
+        width: 463
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c24770c299128260800000000000000
+      internalID: 7098264080774283968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_58
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 2216
+        width: 463
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41300e27c12f750800000000000000
+      internalID: 6337158905373857018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_59
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 2216
+        width: 464
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd343227c9043f3d0800000000000000
+      internalID: -3174122271692078113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_60
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 2216
+        width: 465
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e266f6f62caf770800000000000000
+      internalID: 8645436218557214258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_61
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 2216
+        width: 465
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747da84b928ee01c0800000000000000
+      internalID: -4535432508895209657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_62
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 2216
+        width: 466
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e9d5cb50fa9a90800000000000000
+      internalID: -7306263168503126471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1136
+        width: 466
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c89c5b0b6be110800000000000000
+      internalID: 1291243414714108227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1136
+        width: 467
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc744480c24bdaf40800000000000000
+      internalID: 5741443201177503693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_65
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 1136
+        width: 467
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6badf71ca12384810800000000000000
+      internalID: 1749703545730357942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_66
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1136
+        width: 468
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04416c6f4ff3ca300800000000000000
+      internalID: 264656799452763200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_67
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 1136
+        width: 468
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3d7d56211949e0800000000000000
+      internalID: -1636758133097545781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_68
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 1136
+        width: 468
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4337bff5addb81200800000000000000
+      internalID: 151079333127746356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_69
+      rect:
+        serializedVersion: 2
+        x: 6744
+        y: 1136
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91413cbd0bd68fb0800000000000000
+      internalID: -4645785113547685476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_70
+      rect:
+        serializedVersion: 2
+        x: 7824
+        y: 1136
+        width: 469
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d8bb378692b5280800000000000000
+      internalID: -9053597097303241346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_71
+      rect:
+        serializedVersion: 2
+        x: 8904
+        y: 1137
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769c88d6dd7b2f6d0800000000000000
+      internalID: -2958099843575658137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f186839f87f8420800000000000000
+      internalID: 2634457318823567234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_73
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 57
+        width: 470
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454834831cb45ad0800000000000000
+      internalID: -2714337883388885682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_74
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e72f274e896fc0800000000000000
+      internalID: -3501110798918884953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_75
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69054b596c3f14fe0800000000000000
+      internalID: -1206415190917885802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_76
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6555d33d879422240800000000000000
+      internalID: 4765452139000321366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_77
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4601e949fccf190800000000000000
+      internalID: -7927233006864931585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_78
+      rect:
+        serializedVersion: 2
+        x: 6745
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ddb0de098b2f90800000000000000
+      internalID: -6977332500955802268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCDialog_79
+      rect:
+        serializedVersion: 2
+        x: 7825
+        y: 57
+        width: 469
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c73b32bdfde760800000000000000
+      internalID: 7488920697326519598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MCDialog_0: 5865430038358146778
+      MCDialog_1: 4743355719975687069
+      MCDialog_10: -840523676656277914
+      MCDialog_11: -9214387115377233424
+      MCDialog_12: -1946589191662263839
+      MCDialog_13: -4500797616402503237
+      MCDialog_14: 8189312260088879862
+      MCDialog_15: -5500607912491865646
+      MCDialog_16: -998292424303933770
+      MCDialog_17: -3957539162265961328
+      MCDialog_18: 4363795237788723415
+      MCDialog_19: 8493288095084324799
+      MCDialog_2: 2396557749999226632
+      MCDialog_20: -1079502640417373094
+      MCDialog_21: 7513868660052157439
+      MCDialog_22: 4503152312198285829
+      MCDialog_23: -1582345617394554574
+      MCDialog_24: 8923586287278542336
+      MCDialog_25: -4534596113488438579
+      MCDialog_26: -3103539595928234351
+      MCDialog_27: -8498346907349658664
+      MCDialog_28: -4617362638707353776
+      MCDialog_29: 1392285831685437858
+      MCDialog_3: -6947495212699741201
+      MCDialog_30: -8299753676900496446
+      MCDialog_31: -5890951745035866515
+      MCDialog_32: -7635675973819876883
+      MCDialog_33: 2415538272087684087
+      MCDialog_34: -4607140158875195254
+      MCDialog_35: -8591371852643499571
+      MCDialog_36: -379518423954762421
+      MCDialog_37: -3853447492537014075
+      MCDialog_38: -1015715185491624080
+      MCDialog_39: -1892508836576457740
+      MCDialog_4: 2384444517230811411
+      MCDialog_40: 7559778251151495289
+      MCDialog_41: 7226684892341546436
+      MCDialog_42: -2833724046927150407
+      MCDialog_43: 8047988306370159021
+      MCDialog_44: 6790026917266697737
+      MCDialog_45: -2949407376952263823
+      MCDialog_46: 6741296653105020015
+      MCDialog_47: 8375644359387750057
+      MCDialog_48: 7008677755043332850
+      MCDialog_49: -7012511993635938087
+      MCDialog_5: -130932455443384681
+      MCDialog_50: 2547314202502402294
+      MCDialog_51: 4189259701295089437
+      MCDialog_52: 181624525097788286
+      MCDialog_53: 4407847143131978531
+      MCDialog_54: 2460216812343995726
+      MCDialog_55: -7957799685967307223
+      MCDialog_56: -168700074739248141
+      MCDialog_57: 7098264080774283968
+      MCDialog_58: 6337158905373857018
+      MCDialog_59: -3174122271692078113
+      MCDialog_6: -8887999143815971906
+      MCDialog_60: 8645436218557214258
+      MCDialog_61: -4535432508895209657
+      MCDialog_62: -7306263168503126471
+      MCDialog_63: 1291243414714108227
+      MCDialog_64: 5741443201177503693
+      MCDialog_65: 1749703545730357942
+      MCDialog_66: 264656799452763200
+      MCDialog_67: -1636758133097545781
+      MCDialog_68: 151079333127746356
+      MCDialog_69: -4645785113547685476
+      MCDialog_7: 4487809889707685562
+      MCDialog_70: -9053597097303241346
+      MCDialog_71: -2958099843575658137
+      MCDialog_72: 2634457318823567234
+      MCDialog_73: -2714337883388885682
+      MCDialog_74: -3501110798918884953
+      MCDialog_75: -1206415190917885802
+      MCDialog_76: 4765452139000321366
+      MCDialog_77: -7927233006864931585
+      MCDialog_78: -6977332500955802268
+      MCDialog_79: 7488920697326519598
+      MCDialog_8: -5148310754393783159
+      MCDialog_9: 7396859810183937818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: b8dfd7018023b7f49962030cb083290f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1464776416504813138
+    second: BenFrontIdle_0
+  - first:
+      213: 4826504443359276101
+    second: BenFrontIdle_1
+  - first:
+      213: -4450406043502038163
+    second: BenFrontIdle_2
+  - first:
+      213: -2619822001013642333
+    second: BenFrontIdle_3
+  - first:
+      213: -7690297731466064790
+    second: BenFrontIdle_4
+  - first:
+      213: -6907279315132672755
+    second: BenFrontIdle_5
+  - first:
+      213: 2790710092756688205
+    second: BenFrontIdle_6
+  - first:
+      213: -2431820570368297307
+    second: BenFrontIdle_7
+  - first:
+      213: -6672914087719786654
+    second: BenFrontIdle_8
+  - first:
+      213: 3398961463563739285
+    second: BenFrontIdle_9
+  - first:
+      213: 4577195182246206085
+    second: BenFrontIdle_10
+  - first:
+      213: -3910985239055127300
+    second: BenFrontIdle_11
+  - first:
+      213: 1380684569667993313
+    second: BenFrontIdle_12
+  - first:
+      213: 8620658149782462311
+    second: BenFrontIdle_13
+  - first:
+      213: 3338104165200796014
+    second: BenFrontIdle_14
+  - first:
+      213: -7179598364518850833
+    second: BenFrontIdle_15
+  - first:
+      213: 7063156120161535824
+    second: BenFrontIdle_16
+  - first:
+      213: 8454285310671552292
+    second: BenFrontIdle_17
+  - first:
+      213: 4657246665677735147
+    second: BenFrontIdle_18
+  - first:
+      213: 5149179269378895352
+    second: BenFrontIdle_19
+  - first:
+      213: -6310694048220499607
+    second: BenFrontIdle_20
+  - first:
+      213: 3767988999427873951
+    second: BenFrontIdle_21
+  - first:
+      213: -1624033856533984690
+    second: BenFrontIdle_22
+  - first:
+      213: 1834214429316196029
+    second: BenFrontIdle_23
+  - first:
+      213: -2104003483782207980
+    second: BenFrontIdle_24
+  - first:
+      213: 9191417763243948995
+    second: BenFrontIdle_25
+  - first:
+      213: 4772161604640949899
+    second: BenFrontIdle_26
+  - first:
+      213: -6202494332876418628
+    second: BenFrontIdle_27
+  - first:
+      213: -7339017818917897280
+    second: BenFrontIdle_28
+  - first:
+      213: -7632936536026628960
+    second: BenFrontIdle_29
+  - first:
+      213: -4058628592723277450
+    second: BenFrontIdle_30
+  - first:
+      213: -2490055334018238884
+    second: BenFrontIdle_31
+  - first:
+      213: -750523789346292310
+    second: BenFrontIdle_32
+  - first:
+      213: -4624156341759220960
+    second: BenFrontIdle_33
+  - first:
+      213: -3830185202151751742
+    second: BenFrontIdle_34
+  - first:
+      213: 8855757669825532268
+    second: BenFrontIdle_35
+  - first:
+      213: -5063991436138603407
+    second: BenFrontIdle_36
+  - first:
+      213: 8254615654400292178
+    second: BenFrontIdle_37
+  - first:
+      213: -6381616891513808821
+    second: BenFrontIdle_38
+  - first:
+      213: 8399730644556058613
+    second: BenFrontIdle_39
+  - first:
+      213: 3579635889013318413
+    second: BenFrontIdle_40
+  - first:
+      213: -2275951121409886201
+    second: BenFrontIdle_41
+  - first:
+      213: -7047575400545458034
+    second: BenFrontIdle_42
+  - first:
+      213: -8507535082479516584
+    second: BenFrontIdle_43
+  - first:
+      213: -8205302569422013852
+    second: BenFrontIdle_44
+  - first:
+      213: 2597495748699593423
+    second: BenFrontIdle_45
+  - first:
+      213: 3951400760804513367
+    second: BenFrontIdle_46
+  - first:
+      213: -8001848322443536780
+    second: BenFrontIdle_47
+  - first:
+      213: 4618513350644789275
+    second: BenFrontIdle_48
+  - first:
+      213: 7422807469664736885
+    second: BenFrontIdle_49
+  - first:
+      213: -505387257162016637
+    second: BenFrontIdle_50
+  - first:
+      213: -8272265323015564918
+    second: BenFrontIdle_51
+  - first:
+      213: -6911525137978248905
+    second: BenFrontIdle_52
+  - first:
+      213: 4489823447947498097
+    second: BenFrontIdle_53
+  - first:
+      213: 9045336148150109053
+    second: BenFrontIdle_54
+  - first:
+      213: 727001131370246794
+    second: BenFrontIdle_55
+  - first:
+      213: -9172127412929004923
+    second: BenFrontIdle_56
+  - first:
+      213: -6634317365955574137
+    second: BenFrontIdle_57
+  - first:
+      213: -402690086037211357
+    second: BenFrontIdle_58
+  - first:
+      213: -1253784669264253157
+    second: BenFrontIdle_59
+  - first:
+      213: 6665464780768632544
+    second: BenFrontIdle_60
+  - first:
+      213: -2006306036682790742
+    second: BenFrontIdle_61
+  - first:
+      213: 7787946566167918536
+    second: BenFrontIdle_62
+  - first:
+      213: -1773992014454972090
+    second: BenFrontIdle_63
+  - first:
+      213: -8722982868332685836
+    second: BenFrontIdle_64
+  - first:
+      213: -8750919220301545846
+    second: BenFrontIdle_65
+  - first:
+      213: -3376565356156956520
+    second: BenFrontIdle_66
+  - first:
+      213: -9030068693772070033
+    second: BenFrontIdle_67
+  - first:
+      213: 2432412181735718686
+    second: BenFrontIdle_68
+  - first:
+      213: -1098071347484213628
+    second: BenFrontIdle_69
+  - first:
+      213: 2342581133768057331
+    second: BenFrontIdle_70
+  - first:
+      213: -963152581692747151
+    second: BenFrontIdle_71
+  - first:
+      213: -7118678888066623559
+    second: BenFrontIdle_72
+  - first:
+      213: -2176108795641916683
+    second: BenFrontIdle_73
+  - first:
+      213: 8268657949143960053
+    second: BenFrontIdle_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BenFrontIdle_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8695
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256932dd36ee35410800000000000000
+      internalID: 1464776416504813138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 8695
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c264528303bf240800000000000000
+      internalID: 4826504443359276101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 8695
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d633fce584bfc32c0800000000000000
+      internalID: -4450406043502038163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_3
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab24de35c584abd0800000000000000
+      internalID: -2619822001013642333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_4
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c09fa45f2964590800000000000000
+      internalID: -7690297731466064790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_5
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 8695
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d051d192f0a6420a0800000000000000
+      internalID: -6907279315132672755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_6
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 8695
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d1cd52b089ab620800000000000000
+      internalID: 2790710092756688205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_7
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 8695
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b5b95310704ed0800000000000000
+      internalID: -2431820570368297307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_8
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 8695
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26723c8edfb0563a0800000000000000
+      internalID: -6672914087719786654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 7615
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59065f051798b2f20800000000000000
+      internalID: 3398961463563739285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 7615
+        width: 428
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a1a6964c6758f30800000000000000
+      internalID: 4577195182246206085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 7615
+        width: 428
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca25875a369b9c0800000000000000
+      internalID: -3910985239055127300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 7616
+        width: 428
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7ce90d4d292310800000000000000
+      internalID: 1380684569667993313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_13
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 7616
+        width: 428
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f1cdbb9eab2a770800000000000000
+      internalID: 8620658149782462311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_14
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 7616
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699b0e5d04535e20800000000000000
+      internalID: 3338104165200796014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_15
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 7616
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feed0ec9351fc5c90800000000000000
+      internalID: -7179598364518850833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_16
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 7616
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057ca5fa11f550260800000000000000
+      internalID: 7063156120161535824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_17
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 7616
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f716482b7a35570800000000000000
+      internalID: 8454285310671552292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 6536
+        width: 426
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40813da2dd1a040800000000000000
+      internalID: 4657246665677735147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 6536
+        width: 426
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6224934f857740800000000000000
+      internalID: 5149179269378895352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_20
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 6536
+        width: 426
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96135a9d239eb68a0800000000000000
+      internalID: -6310694048220499607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_21
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 6536
+        width: 424
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5a7408069a4430800000000000000
+      internalID: 3767988999427873951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_22
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 6536
+        width: 424
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a851edfc54679e0800000000000000
+      internalID: -1624033856533984690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_23
+      rect:
+        serializedVersion: 2
+        x: 5691
+        y: 6536
+        width: 424
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a94d2e40747910800000000000000
+      internalID: 1834214429316196029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_24
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 6536
+        width: 424
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4162afe9af31dc2e0800000000000000
+      internalID: -2104003483782207980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_25
+      rect:
+        serializedVersion: 2
+        x: 7851
+        y: 6536
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbfe58e1c97e8f70800000000000000
+      internalID: 9191417763243948995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_26
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 6536
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c16702bf1a3240800000000000000
+      internalID: 4772161604640949899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5456
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1178734405ce9a0800000000000000
+      internalID: -6202494332876418628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 5456
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbf22f6d22962a90800000000000000
+      internalID: -7339017818917897280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 5456
+        width: 423
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac380959ac521690800000000000000
+      internalID: -7632936536026628960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_30
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 5456
+        width: 423
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6794c776ccadca7c0800000000000000
+      internalID: -4058628592723277450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_31
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 5456
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56b6c8dddb817dd0800000000000000
+      internalID: -2490055334018238884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_32
+      rect:
+        serializedVersion: 2
+        x: 5691
+        y: 5456
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadb88c079a9595f0800000000000000
+      internalID: -750523789346292310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_33
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 5456
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02362979e42b3dfb0800000000000000
+      internalID: -4624156341759220960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_34
+      rect:
+        serializedVersion: 2
+        x: 7851
+        y: 5456
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf79c11ad278dac0800000000000000
+      internalID: -3830185202151751742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_35
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 5456
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6154ee4ea8f5ea70800000000000000
+      internalID: 8855757669825532268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4376
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c96577e9619b9b0800000000000000
+      internalID: -5063991436138603407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 4376
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25578ede3394e8270800000000000000
+      internalID: 8254615654400292178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_38
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 4376
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48dfa89f31ff67a0800000000000000
+      internalID: -6381616891513808821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_39
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 4376
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff0abd7486d19470800000000000000
+      internalID: 8399730644556058613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_40
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 4376
+        width: 422
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e0e510eb6da130800000000000000
+      internalID: 3579635889013318413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_41
+      rect:
+        serializedVersion: 2
+        x: 5691
+        y: 4376
+        width: 423
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708363a73823a60e0800000000000000
+      internalID: -2275951121409886201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_42
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 4376
+        width: 423
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e4ba438bf13e90800000000000000
+      internalID: -7047575400545458034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_43
+      rect:
+        serializedVersion: 2
+        x: 7851
+        y: 4376
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85482a6dae92fe980800000000000000
+      internalID: -8507535082479516584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_44
+      rect:
+        serializedVersion: 2
+        x: 8931
+        y: 4376
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a300369c8e02e80800000000000000
+      internalID: -8205302569422013852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3296
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca93de0f982c0420800000000000000
+      internalID: 2597495748699593423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 3296
+        width: 423
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75616f87e0236d630800000000000000
+      internalID: 3951400760804513367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_47
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 3296
+        width: 424
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476923aa859b3f090800000000000000
+      internalID: -8001848322443536780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_48
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 3296
+        width: 424
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10f4972c61481040800000000000000
+      internalID: 4618513350644789275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_49
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 3296
+        width: 424
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5769b71e01c130760800000000000000
+      internalID: 7422807469664736885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_50
+      rect:
+        serializedVersion: 2
+        x: 5691
+        y: 3296
+        width: 424
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38859de97f08cf8f0800000000000000
+      internalID: -505387257162016637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_51
+      rect:
+        serializedVersion: 2
+        x: 6771
+        y: 3296
+        width: 424
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8110ed5482033d80800000000000000
+      internalID: -8272265323015564918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_52
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 3296
+        width: 426
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bf9e71845510a0800000000000000
+      internalID: -6911525137978248905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_53
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 3296
+        width: 426
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172512743ae0f4e30800000000000000
+      internalID: 4489823447947498097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2216
+        width: 426
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73cc707d4d778d70800000000000000
+      internalID: 9045336148150109053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_55
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2216
+        width: 426
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8271aa5da3d61a00800000000000000
+      internalID: 727001131370246794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_56
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2216
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a7eb5c6be06b080800000000000000
+      internalID: -9172127412929004923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_57
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 2216
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786430b718b2ee3a0800000000000000
+      internalID: -6634317365955574137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_58
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 2216
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3273e23108b596af0800000000000000
+      internalID: -402690086037211357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_59
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 2216
+        width: 427
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6ca37c79a99ee0800000000000000
+      internalID: -1253784669264253157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_60
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 2216
+        width: 428
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee579827ec708c50800000000000000
+      internalID: 6665464780768632544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_61
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 2216
+        width: 428
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8eccc1a4b2824e0800000000000000
+      internalID: -2006306036682790742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_62
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 2216
+        width: 428
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7792eb328541c60800000000000000
+      internalID: 7787946566167918536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_63
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1135
+        width: 428
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641280079a38167e0800000000000000
+      internalID: -1773992014454972090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_64
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1135
+        width: 428
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5563f2c4db1f680800000000000000
+      internalID: -8722982868332685836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_65
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1135
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb9cf555d7e8680800000000000000
+      internalID: -8750919220301545846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_66
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1135
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890df59c2b70421d0800000000000000
+      internalID: -3376565356156956520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_67
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 1135
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63175acd50cea280800000000000000
+      internalID: -9030068693772070033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_68
+      rect:
+        serializedVersion: 2
+        x: 5690
+        y: 1135
+        width: 429
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb0b7edf9a1c120800000000000000
+      internalID: 2432412181735718686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_69
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e3b236dedd2c0f0800000000000000
+      internalID: -1098071347484213628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_70
+      rect:
+        serializedVersion: 2
+        x: 7850
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1e6cf2125828020800000000000000
+      internalID: 2342581133768057331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_71
+      rect:
+        serializedVersion: 2
+        x: 8930
+        y: 1135
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17214b774d132a2f0800000000000000
+      internalID: -963152581692747151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 55
+        width: 429
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b757b6844f553d90800000000000000
+      internalID: -7118678888066623559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_73
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f219237498ecc1e0800000000000000
+      internalID: -2176108795641916683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenFrontIdle_74
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 55
+        width: 431
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f98fe3789c20c270800000000000000
+      internalID: 8268657949143960053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BenFrontIdle_0: 1464776416504813138
+      BenFrontIdle_1: 4826504443359276101
+      BenFrontIdle_10: 4577195182246206085
+      BenFrontIdle_11: -3910985239055127300
+      BenFrontIdle_12: 1380684569667993313
+      BenFrontIdle_13: 8620658149782462311
+      BenFrontIdle_14: 3338104165200796014
+      BenFrontIdle_15: -7179598364518850833
+      BenFrontIdle_16: 7063156120161535824
+      BenFrontIdle_17: 8454285310671552292
+      BenFrontIdle_18: 4657246665677735147
+      BenFrontIdle_19: 5149179269378895352
+      BenFrontIdle_2: -4450406043502038163
+      BenFrontIdle_20: -6310694048220499607
+      BenFrontIdle_21: 3767988999427873951
+      BenFrontIdle_22: -1624033856533984690
+      BenFrontIdle_23: 1834214429316196029
+      BenFrontIdle_24: -2104003483782207980
+      BenFrontIdle_25: 9191417763243948995
+      BenFrontIdle_26: 4772161604640949899
+      BenFrontIdle_27: -6202494332876418628
+      BenFrontIdle_28: -7339017818917897280
+      BenFrontIdle_29: -7632936536026628960
+      BenFrontIdle_3: -2619822001013642333
+      BenFrontIdle_30: -4058628592723277450
+      BenFrontIdle_31: -2490055334018238884
+      BenFrontIdle_32: -750523789346292310
+      BenFrontIdle_33: -4624156341759220960
+      BenFrontIdle_34: -3830185202151751742
+      BenFrontIdle_35: 8855757669825532268
+      BenFrontIdle_36: -5063991436138603407
+      BenFrontIdle_37: 8254615654400292178
+      BenFrontIdle_38: -6381616891513808821
+      BenFrontIdle_39: 8399730644556058613
+      BenFrontIdle_4: -7690297731466064790
+      BenFrontIdle_40: 3579635889013318413
+      BenFrontIdle_41: -2275951121409886201
+      BenFrontIdle_42: -7047575400545458034
+      BenFrontIdle_43: -8507535082479516584
+      BenFrontIdle_44: -8205302569422013852
+      BenFrontIdle_45: 2597495748699593423
+      BenFrontIdle_46: 3951400760804513367
+      BenFrontIdle_47: -8001848322443536780
+      BenFrontIdle_48: 4618513350644789275
+      BenFrontIdle_49: 7422807469664736885
+      BenFrontIdle_5: -6907279315132672755
+      BenFrontIdle_50: -505387257162016637
+      BenFrontIdle_51: -8272265323015564918
+      BenFrontIdle_52: -6911525137978248905
+      BenFrontIdle_53: 4489823447947498097
+      BenFrontIdle_54: 9045336148150109053
+      BenFrontIdle_55: 727001131370246794
+      BenFrontIdle_56: -9172127412929004923
+      BenFrontIdle_57: -6634317365955574137
+      BenFrontIdle_58: -402690086037211357
+      BenFrontIdle_59: -1253784669264253157
+      BenFrontIdle_6: 2790710092756688205
+      BenFrontIdle_60: 6665464780768632544
+      BenFrontIdle_61: -2006306036682790742
+      BenFrontIdle_62: 7787946566167918536
+      BenFrontIdle_63: -1773992014454972090
+      BenFrontIdle_64: -8722982868332685836
+      BenFrontIdle_65: -8750919220301545846
+      BenFrontIdle_66: -3376565356156956520
+      BenFrontIdle_67: -9030068693772070033
+      BenFrontIdle_68: 2432412181735718686
+      BenFrontIdle_69: -1098071347484213628
+      BenFrontIdle_7: -2431820570368297307
+      BenFrontIdle_70: 2342581133768057331
+      BenFrontIdle_71: -963152581692747151
+      BenFrontIdle_72: -7118678888066623559
+      BenFrontIdle_73: -2176108795641916683
+      BenFrontIdle_74: 8268657949143960053
+      BenFrontIdle_8: -6672914087719786654
+      BenFrontIdle_9: 3398961463563739285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

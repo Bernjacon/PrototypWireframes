@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: a5fdf6b31bac5764b9ca39f1b130cdb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4979923244271074461
+    second: DanielBackgroundIdle2_0
+  - first:
+      213: -6182807336482122915
+    second: DanielBackgroundIdle2_1
+  - first:
+      213: -1580925029372508079
+    second: DanielBackgroundIdle2_2
+  - first:
+      213: 2215092062975335908
+    second: DanielBackgroundIdle2_3
+  - first:
+      213: -1165391253455635746
+    second: DanielBackgroundIdle2_4
+  - first:
+      213: -959418968010229042
+    second: DanielBackgroundIdle2_5
+  - first:
+      213: 2127369060168051948
+    second: DanielBackgroundIdle2_6
+  - first:
+      213: 1123415554019604229
+    second: DanielBackgroundIdle2_7
+  - first:
+      213: 4098534075595633023
+    second: DanielBackgroundIdle2_8
+  - first:
+      213: 3344395289706026723
+    second: DanielBackgroundIdle2_9
+  - first:
+      213: 8055607840819669067
+    second: DanielBackgroundIdle2_10
+  - first:
+      213: 7660852408906596011
+    second: DanielBackgroundIdle2_11
+  - first:
+      213: 4020792867273847996
+    second: DanielBackgroundIdle2_12
+  - first:
+      213: 6843116527786497218
+    second: DanielBackgroundIdle2_13
+  - first:
+      213: 931609080901919516
+    second: DanielBackgroundIdle2_14
+  - first:
+      213: 269641451928062919
+    second: DanielBackgroundIdle2_15
+  - first:
+      213: -9133919269621257478
+    second: DanielBackgroundIdle2_16
+  - first:
+      213: -8955324382638894417
+    second: DanielBackgroundIdle2_17
+  - first:
+      213: -6680520180740855592
+    second: DanielBackgroundIdle2_18
+  - first:
+      213: -8712049411084134105
+    second: DanielBackgroundIdle2_19
+  - first:
+      213: 2031241452582865720
+    second: DanielBackgroundIdle2_20
+  - first:
+      213: -27041973075909758
+    second: DanielBackgroundIdle2_21
+  - first:
+      213: 6062108808116574003
+    second: DanielBackgroundIdle2_22
+  - first:
+      213: 5540132072454408359
+    second: DanielBackgroundIdle2_23
+  - first:
+      213: 1087558931632702502
+    second: DanielBackgroundIdle2_24
+  - first:
+      213: -2678707262903286368
+    second: DanielBackgroundIdle2_25
+  - first:
+      213: -4164195322766789012
+    second: DanielBackgroundIdle2_26
+  - first:
+      213: -9144010506952715680
+    second: DanielBackgroundIdle2_27
+  - first:
+      213: 8188500385242908408
+    second: DanielBackgroundIdle2_28
+  - first:
+      213: 3943961892645123658
+    second: DanielBackgroundIdle2_29
+  - first:
+      213: -8607975038075900978
+    second: DanielBackgroundIdle2_30
+  - first:
+      213: -4630428947284779627
+    second: DanielBackgroundIdle2_31
+  - first:
+      213: 9019277000922484776
+    second: DanielBackgroundIdle2_32
+  - first:
+      213: -9006630203054978772
+    second: DanielBackgroundIdle2_33
+  - first:
+      213: -7805479701213185247
+    second: DanielBackgroundIdle2_34
+  - first:
+      213: -3814069937059809440
+    second: DanielBackgroundIdle2_35
+  - first:
+      213: -6000474399529974679
+    second: DanielBackgroundIdle2_36
+  - first:
+      213: -8005891390380064359
+    second: DanielBackgroundIdle2_37
+  - first:
+      213: 8074171664509016440
+    second: DanielBackgroundIdle2_38
+  - first:
+      213: -25673631946468140
+    second: DanielBackgroundIdle2_39
+  - first:
+      213: -7572583596126432515
+    second: DanielBackgroundIdle2_40
+  - first:
+      213: 2125903462216516988
+    second: DanielBackgroundIdle2_41
+  - first:
+      213: -572730517982340426
+    second: DanielBackgroundIdle2_42
+  - first:
+      213: 3183553993016360650
+    second: DanielBackgroundIdle2_43
+  - first:
+      213: -3296613060223555684
+    second: DanielBackgroundIdle2_44
+  - first:
+      213: -1910402683573260298
+    second: DanielBackgroundIdle2_45
+  - first:
+      213: 608314925331665122
+    second: DanielBackgroundIdle2_46
+  - first:
+      213: -5793478460575415063
+    second: DanielBackgroundIdle2_47
+  - first:
+      213: 7451221198797455801
+    second: DanielBackgroundIdle2_48
+  - first:
+      213: 6545102301006758461
+    second: DanielBackgroundIdle2_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7602
+        width: 679
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cfc7f4ecd3c1540800000000000000
+      internalID: 4979923244271074461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_1
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 7602
+        width: 679
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53dd424c71423aa0800000000000000
+      internalID: -6182807336482122915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_2
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 7602
+        width: 680
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1584ab7df0d6f0ae0800000000000000
+      internalID: -1580925029372508079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_3
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 7601
+        width: 680
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed9e66ce769dbe10800000000000000
+      internalID: 2215092062975335908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_4
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 7601
+        width: 682
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edafd6954d2b3dfe0800000000000000
+      internalID: -1165391253455635746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_5
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 7600
+        width: 683
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca7af428857fa2f0800000000000000
+      internalID: -959418968010229042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_6
+      rect:
+        serializedVersion: 2
+        x: 6676
+        y: 7600
+        width: 685
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec297193eee58d10800000000000000
+      internalID: 2127369060168051948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6520
+        width: 685
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507bc788e7c279f00800000000000000
+      internalID: 1123415554019604229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_8
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 6520
+        width: 688
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7136bbd60be0e830800000000000000
+      internalID: 4098534075595633023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_9
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 6520
+        width: 689
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6da6febcda96e20800000000000000
+      internalID: 3344395289706026723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_10
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 6520
+        width: 691
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4868e996a44bcf60800000000000000
+      internalID: 8055607840819669067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_11
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 6520
+        width: 692
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb29d4da0d05a60800000000000000
+      internalID: 7660852408906596011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_12
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 6520
+        width: 694
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb438494fc9bcc730800000000000000
+      internalID: 4020792867273847996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_13
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 6520
+        width: 695
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c49153c932a7fe50800000000000000
+      internalID: 6843116527786497218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 5439
+        width: 697
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13efa0f58dbdec00800000000000000
+      internalID: 931609080901919516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_15
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 5439
+        width: 698
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb84eec875fdb300800000000000000
+      internalID: 269641451928062919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_16
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 5439
+        width: 700
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa212f51dccd3180800000000000000
+      internalID: -9133919269621257478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_17
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 5439
+        width: 700
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa21a6cdbeb48b380800000000000000
+      internalID: -8955324382638894417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5439
+        width: 701
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8ec106a460a43a0800000000000000
+      internalID: -6680520180740855592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_19
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 5439
+        width: 701
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729dda21835981780800000000000000
+      internalID: -8712049411084134105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_20
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 5439
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0042d65b603c10800000000000000
+      internalID: 2031241452582865720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283e8c0087def9ff0800000000000000
+      internalID: -27041973075909758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_22
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371e81b7dfe02450800000000000000
+      internalID: 6062108808116574003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_23
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c46b54c082ec40800000000000000
+      internalID: 5540132072454408359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_24
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62445401619c71f00800000000000000
+      internalID: 1087558931632702502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_25
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50461dfe153dad0800000000000000
+      internalID: -2678707262903286368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_26
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667423ba6ec536c0800000000000000
+      internalID: -4164195322766789012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_27
+      rect:
+        serializedVersion: 2
+        x: 6659
+        y: 4359
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d4a614e2f91180800000000000000
+      internalID: -9144010506952715680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3279
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68d8147b563a170800000000000000
+      internalID: 8188500385242908408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_29
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 3279
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463ac20274cbb630800000000000000
+      internalID: 3943961892645123658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_30
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 3279
+        width: 702
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6e045f445a8880800000000000000
+      internalID: -8607975038075900978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_31
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 3279
+        width: 701
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d976fc7696dbfb0800000000000000
+      internalID: -4630428947284779627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_32
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3279
+        width: 701
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d5da65a8ea2d70800000000000000
+      internalID: 9019277000922484776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_33
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 3279
+        width: 700
+        height: 980
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c298a9bac85020380800000000000000
+      internalID: -9006630203054978772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_34
+      rect:
+        serializedVersion: 2
+        x: 6661
+        y: 3279
+        width: 700
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7aa3219d5da390800000000000000
+      internalID: -7805479701213185247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2199
+        width: 698
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067bd0d9993b11bc0800000000000000
+      internalID: -3814069937059809440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_36
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2199
+        width: 697
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c03453580abca0800000000000000
+      internalID: -6000474399529974679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_37
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2200
+        width: 695
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991c90e823c55e090800000000000000
+      internalID: -8005891390380064359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_38
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 2200
+        width: 694
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879959e99583d0070800000000000000
+      internalID: 8074171664509016440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_39
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 2200
+        width: 692
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d49cbfb7f9c4aff0800000000000000
+      internalID: -25673631946468140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_40
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 2200
+        width: 691
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21fe03757c8e690800000000000000
+      internalID: -7572583596126432515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_41
+      rect:
+        serializedVersion: 2
+        x: 6672
+        y: 2200
+        width: 689
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7540347fe9b08d10800000000000000
+      internalID: 2125903462216516988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1120
+        width: 688
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba13abd0a04d08f0800000000000000
+      internalID: -572730517982340426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_43
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1120
+        width: 685
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace340d4d714e2c20800000000000000
+      internalID: 3183553993016360650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_44
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 1120
+        width: 685
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97267f43e31042d0800000000000000
+      internalID: -3296613060223555684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_45
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1120
+        width: 683
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa9ab81e2ec75e0800000000000000
+      internalID: -1910402683573260298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_46
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1121
+        width: 682
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e056fb933b217800800000000000000
+      internalID: 608314925331665122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_47
+      rect:
+        serializedVersion: 2
+        x: 5601
+        y: 1121
+        width: 680
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e48687090e699fa0800000000000000
+      internalID: -5793478460575415063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_48
+      rect:
+        serializedVersion: 2
+        x: 6681
+        y: 1122
+        width: 680
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ce29b33e086760800000000000000
+      internalID: 7451221198797455801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielBackgroundIdle2_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 42
+        width: 679
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3289168ddfd4da50800000000000000
+      internalID: 6545102301006758461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanielBackgroundIdle2_0: 4979923244271074461
+      DanielBackgroundIdle2_1: -6182807336482122915
+      DanielBackgroundIdle2_10: 8055607840819669067
+      DanielBackgroundIdle2_11: 7660852408906596011
+      DanielBackgroundIdle2_12: 4020792867273847996
+      DanielBackgroundIdle2_13: 6843116527786497218
+      DanielBackgroundIdle2_14: 931609080901919516
+      DanielBackgroundIdle2_15: 269641451928062919
+      DanielBackgroundIdle2_16: -9133919269621257478
+      DanielBackgroundIdle2_17: -8955324382638894417
+      DanielBackgroundIdle2_18: -6680520180740855592
+      DanielBackgroundIdle2_19: -8712049411084134105
+      DanielBackgroundIdle2_2: -1580925029372508079
+      DanielBackgroundIdle2_20: 2031241452582865720
+      DanielBackgroundIdle2_21: -27041973075909758
+      DanielBackgroundIdle2_22: 6062108808116574003
+      DanielBackgroundIdle2_23: 5540132072454408359
+      DanielBackgroundIdle2_24: 1087558931632702502
+      DanielBackgroundIdle2_25: -2678707262903286368
+      DanielBackgroundIdle2_26: -4164195322766789012
+      DanielBackgroundIdle2_27: -9144010506952715680
+      DanielBackgroundIdle2_28: 8188500385242908408
+      DanielBackgroundIdle2_29: 3943961892645123658
+      DanielBackgroundIdle2_3: 2215092062975335908
+      DanielBackgroundIdle2_30: -8607975038075900978
+      DanielBackgroundIdle2_31: -4630428947284779627
+      DanielBackgroundIdle2_32: 9019277000922484776
+      DanielBackgroundIdle2_33: -9006630203054978772
+      DanielBackgroundIdle2_34: -7805479701213185247
+      DanielBackgroundIdle2_35: -3814069937059809440
+      DanielBackgroundIdle2_36: -6000474399529974679
+      DanielBackgroundIdle2_37: -8005891390380064359
+      DanielBackgroundIdle2_38: 8074171664509016440
+      DanielBackgroundIdle2_39: -25673631946468140
+      DanielBackgroundIdle2_4: -1165391253455635746
+      DanielBackgroundIdle2_40: -7572583596126432515
+      DanielBackgroundIdle2_41: 2125903462216516988
+      DanielBackgroundIdle2_42: -572730517982340426
+      DanielBackgroundIdle2_43: 3183553993016360650
+      DanielBackgroundIdle2_44: -3296613060223555684
+      DanielBackgroundIdle2_45: -1910402683573260298
+      DanielBackgroundIdle2_46: 608314925331665122
+      DanielBackgroundIdle2_47: -5793478460575415063
+      DanielBackgroundIdle2_48: 7451221198797455801
+      DanielBackgroundIdle2_49: 6545102301006758461
+      DanielBackgroundIdle2_5: -959418968010229042
+      DanielBackgroundIdle2_6: 2127369060168051948
+      DanielBackgroundIdle2_7: 1123415554019604229
+      DanielBackgroundIdle2_8: 4098534075595633023
+      DanielBackgroundIdle2_9: 3344395289706026723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
