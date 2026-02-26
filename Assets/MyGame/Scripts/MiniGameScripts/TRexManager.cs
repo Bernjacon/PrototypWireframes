@@ -7,6 +7,7 @@ public class TRexManager : MonoBehaviour
     public GameObject player;
     [SerializeField] int jumpforce;
     [SerializeField] bool isGrounded;
+    public Animator dinoAnimator;
     public void Update()
     {
         if (Keyboard.current.spaceKey.wasPressedThisFrame && isGrounded)
@@ -20,6 +21,7 @@ public class TRexManager : MonoBehaviour
         if (other.gameObject.tag == "GroundCollider")
         {
             isGrounded = true;
+            dinoAnimator.SetTrigger("Run");
         }
     }
 
@@ -28,6 +30,7 @@ public class TRexManager : MonoBehaviour
         if(other.gameObject.tag == "GroundCollider")
         {
             isGrounded = false;
+            dinoAnimator.SetTrigger("Jump");
         }
     }
 }
