@@ -21,7 +21,7 @@ public class TRexManager : MonoBehaviour
         if (other.gameObject.tag == "GroundCollider")
         {
             isGrounded = true;
-            dinoAnimator.SetTrigger("Run");
+            dinoAnimator.speed = 1f;
         }
     }
 
@@ -30,7 +30,7 @@ public class TRexManager : MonoBehaviour
         if(other.gameObject.tag == "GroundCollider")
         {
             isGrounded = false;
-            dinoAnimator.SetTrigger("Jump");
+            dinoAnimator.speed = 0f;
         }
     }
 }
