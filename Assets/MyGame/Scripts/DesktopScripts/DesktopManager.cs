@@ -1,16 +1,20 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.Audio;
 
 public class DesktopManager : MonoBehaviour
 {
-    [SerializeField] private GameObject desktopRootParent;
-    [SerializeField] private GameObject[] apps;
+    [SerializeField] GameObject desktopRootParent;
+    [SerializeField] GameObject[] apps;
+    [SerializeField] GameflowActionYield[] gay;
+    [SerializeField] int gayIndex;
 
     public void LoginFinished()
     {
-        desktopRootParent.SetActive(true);
-
-        for (int i = 0; i < apps.Length; i++)
-            apps[i].SetActive(false);
+        gay[gayIndex].OnEnter?.Invoke();
     }
 
     public void OpenWindow(int index)
@@ -21,20 +25,15 @@ public class DesktopManager : MonoBehaviour
         bool isAlreadyOpen = apps[index].activeSelf;
 
         for (int i = 0; i < apps.Length; i++)
-            apps[i].SetActive(false); // close all first
+            apps[i].SetActive(false);
 
-        // if it wasn’t open before, open it
         if (!isAlreadyOpen)
             apps[index].SetActive(true);
     }
 }
-
-public enum GameStage
+[Serializable]
+public class GameflowActionYield
 {
-    None,
-    Intro,
-    PCLogin,
-    Desktop,
-    Puzzle1,
-    End
+    public UnityEvent OnEnter;
+    public UnityEvent OnExit;
 }

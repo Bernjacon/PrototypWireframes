@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CactusMove : MonoBehaviour
 {
-    public float speed = 300f; // pixels per second
+    public float speed = 300f;
 
     void Update()
     {

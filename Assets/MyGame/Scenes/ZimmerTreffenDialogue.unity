@@ -347,7 +347,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &175533793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -361,10 +361,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 2660526283142039313}
+  timeText: {fileID: 1271166824}
   speakerImage: {fileID: 260204978}
   playerImage: {fileID: 1199489638}
   playerBackground: {fileID: 1412485692}
-  timeText: {fileID: 1271166824}
   speakerAnimator: {fileID: 260204981}
   playerAnimator: {fileID: 1199489637}
   boxAnimator: {fileID: 496772884}
@@ -399,7 +399,7 @@ MonoBehaviour:
     speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
     disapearingSpeaker: {fileID: 2099132686}
     Speaker: {fileID: 0}
-    boxAnimation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
+    boxAnimation: {fileID: 9100000, guid: baa6a34eefe353f4f9d2902483955a13, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
@@ -3970,6 +3970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1498806818}
   - component: {fileID: 1498806817}
+  - component: {fileID: 1498806819}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -4006,6 +4007,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1498806819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1498806816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a2a5ab6534ab4f4bbd36343678b0bae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waitingPeiod: 2.5
+  toActivate:
+  - {fileID: 3749513939269074051}
+  - {fileID: 175533792}
 --- !u!1 &1566439783
 GameObject:
   m_ObjectHideFlags: 0
@@ -4566,7 +4583,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &4222470810994553269 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7705181072435348960, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}

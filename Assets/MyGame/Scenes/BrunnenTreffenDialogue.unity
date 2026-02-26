@@ -272,7 +272,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &175533793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -286,10 +286,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 2660526283142039313}
+  timeText: {fileID: 0}
   speakerImage: {fileID: 260204978}
   playerImage: {fileID: 0}
   playerBackground: {fileID: 0}
-  timeText: {fileID: 0}
   speakerAnimator: {fileID: 260204981}
   playerAnimator: {fileID: 0}
   boxAnimator: {fileID: 0}
@@ -2062,6 +2062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   blackScreenImage: {fileID: 1684840050}
   fadeDuration: 2
+  gameManagerObj: {fileID: 175533792}
 --- !u!4 &1438984044
 Transform:
   m_ObjectHideFlags: 0

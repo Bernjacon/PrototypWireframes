@@ -9,11 +9,6 @@ public class LoadingManagerScript : MonoBehaviour
     public Image blackScreenImage;
     public float fadeDuration = 2f;
 
-    void Start()
-    {
-
-    }
-
     public void LoadNextScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);

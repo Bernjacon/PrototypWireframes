@@ -24,7 +24,6 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] Animator playerAnimator;
     [SerializeField] Animator boxAnimator;
 
-
     [Header("Player Settings")]
     [SerializeField] Sprite playerVisual;
     [SerializeField] RuntimeAnimatorController playerAnimation;
@@ -48,10 +47,6 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] bool isWaitingForDecision;
     [SerializeField] GameObject[] showDecisionButtons;
 
-    private TMP_Text[] decisionButtonTextUI;
-    private int buttonIndex;
-
-
     [Header("Clock")]
     private DateTime simulatedTime;
 
@@ -64,7 +59,10 @@ public class DialoguePersonScripts : MonoBehaviour
     [Header("External")]
     public LoadingManagerScript lmsa;
     [SerializeField] Dialogue[] dsa;
-
+    void ActivateScript()
+    {
+        enabled = true;
+    }
     void Start()
     {
         foreach (GameObject btn in showDecisionButtons)
@@ -87,7 +85,8 @@ public class DialoguePersonScripts : MonoBehaviour
 
     void Update()
     {
-        if (dialogueFinished) return;
+        if (dialogueFinished) 
+            return;
 
         if (indexDSAArray >= dsa.Length)
         {
