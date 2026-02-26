@@ -272,7 +272,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &175533793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -293,6 +293,9 @@ MonoBehaviour:
   speakerAnimator: {fileID: 260204981}
   playerAnimator: {fileID: 0}
   boxAnimator: {fileID: 0}
+  menuBlocker: {fileID: 0}
+  uiCamera: {fileID: 0}
+  hasClock: 0
   playerVisual: {fileID: 0}
   playerAnimation: {fileID: 0}
   typeSpeed: 0.03
@@ -330,10 +333,22 @@ MonoBehaviour:
     audioMixerGroups: []
     persistentAudioClips: []
     persistentAudioMixers: []
-    causesEvent: 0
+    causesEvent: 1
     eventVariable:
       m_PersistentCalls:
-        m_Calls: []
+        m_Calls:
+        - m_Target: {fileID: 175533793}
+          m_TargetAssemblyTypeName: DialoguePersonScripts, Assembly-CSharp
+          m_MethodName: PauseDialogueForSeconds
+          m_Mode: 4
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 3
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
     decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Warte.. H\xF6rst du das??"
@@ -433,6 +448,7 @@ MonoBehaviour:
           m_CallState: 2
     decisionButtonTexts: []
     targetIndexAfterDecision: 
+  dialogueBoxRoot: {fileID: 3749513939269074051}
 --- !u!4 &175533794
 Transform:
   m_ObjectHideFlags: 0
@@ -2062,7 +2078,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   blackScreenImage: {fileID: 1684840050}
   fadeDuration: 2
-  gameManagerObj: {fileID: 175533792}
 --- !u!4 &1438984044
 Transform:
   m_ObjectHideFlags: 0

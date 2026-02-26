@@ -3,9 +3,12 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
 using UnityEngine.EventSystems;
+using System.Collections;
 
 public class MenuScript : MonoBehaviour
 {
+    [SerializeField] public static bool SuppressClick;
+
     [Header("Panels")]
     [SerializeField] GameObject menu;
     [SerializeField] GameObject settingsGraphic;
@@ -59,17 +62,21 @@ public class MenuScript : MonoBehaviour
 
     public void OpenMenu()
     {
+        SuppressClickForOneFrame();
+
         menu.SetActive(true);
         settingsGraphic.SetActive(true);
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
-        foreach (GameObject go in deactivateGameManagers)
-            if (go != null) go.SetActive(false);
-    }
 
+        deactivateGameManagers[0].SetActive(false);
+        deactivateGameManagers[1].GetComponent<DialoguePersonScripts>().enabled = false;
+    }
 
     public void Back()
     {
+        SuppressClickForOneFrame();
+
         if (audioSettings.activeSelf)
         {
             audioSettings.SetActive(false);
@@ -88,13 +95,16 @@ public class MenuScript : MonoBehaviour
             settingsGraphic.SetActive(false);
             menuGraphics.SetActive(false);
             audioSettings.SetActive(false);
-            foreach (GameObject go in deactivateGameManagers)
-                if (go != null) go.SetActive(true);
+
+            deactivateGameManagers[0].SetActive(true);
+            deactivateGameManagers[1].GetComponent<DialoguePersonScripts>().enabled = true;
         }
     }
 
     public void OpenAudioSettings()
     {
+        SuppressClickForOneFrame();
+
         settingsGraphic.SetActive(false);
         menuGraphics.SetActive(true);
         audioSettings.SetActive(true);
@@ -107,9 +117,10 @@ public class MenuScript : MonoBehaviour
         }
     }
 
-
     public void ResetSetting()
     {
+        SuppressClickForOneFrame();
+
         masterSlider.value = 0f;
         musicSlider.value = 0f;
         sfxSlider.value = 0f;
@@ -121,6 +132,19 @@ public class MenuScript : MonoBehaviour
 
     public void BackToStartMenu()
     {
+        SuppressClickForOneFrame();
         SceneManager.LoadScene(0);
+    }
+
+    void SuppressClickForOneFrame()
+    {
+        SuppressClick = true;
+        StartCoroutine(ClearClickSuppression());
+    }
+
+    IEnumerator ClearClickSuppression()
+    {
+        yield return null;
+        SuppressClick = false;
     }
 }

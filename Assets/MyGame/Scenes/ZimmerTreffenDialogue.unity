@@ -368,6 +368,8 @@ MonoBehaviour:
   speakerAnimator: {fileID: 260204981}
   playerAnimator: {fileID: 1199489637}
   boxAnimator: {fileID: 496772884}
+  menuBlocker: {fileID: 2107420862}
+  uiCamera: {fileID: 171816147}
   playerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
   playerAnimation: {fileID: 9100000, guid: 0e88705e6e8c1be489ec595d33b9e5a2, type: 2}
   typeSpeed: 0.01
@@ -3166,6 +3168,7 @@ RectTransform:
   - {fileID: 1193212734}
   - {fileID: 1451770469}
   - {fileID: 865415452}
+  - {fileID: 2107420862}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4328,6 +4331,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2099132686}
   m_CullTransparentMesh: 1
+--- !u!1 &2107420861
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2107420862}
+  - component: {fileID: 2107420863}
+  m_Layer: 5
+  m_Name: BlockContinue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2107420862
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2107420861}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 3.2, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1064558365}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -756.8, y: -489}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &2107420863
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2107420861}
+  m_CullTransparentMesh: 1
 --- !u!224 &267446529090776273
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4440,6 +4487,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 8640484873930221886}
+    - target: {fileID: 1160918889488047424, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 8640484873930221886}
+    - target: {fileID: 1160918889488047424, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetMusicVolume
+      objectReference: {fileID: 0}
+    - target: {fileID: 1160918889488047424, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MenuScript, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 1633012074187758139, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
       propertyPath: m_Camera
       value: 
@@ -4448,6 +4507,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 8640484873930221886}
+    - target: {fileID: 5154390420124491585, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 8640484873930221886}
+    - target: {fileID: 5154390420124491585, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetSfxVolume
+      objectReference: {fileID: 0}
+    - target: {fileID: 5154390420124491585, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MenuScript, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 5815501449892007833, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -4456,6 +4527,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 8640484873930221886}
+    - target: {fileID: 7164018146373166161, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 8640484873930221886}
+    - target: {fileID: 7164018146373166161, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetMasterVolume
+      objectReference: {fileID: 0}
+    - target: {fileID: 7164018146373166161, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MenuScript, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 8993089680937550243, guid: c8c6e7ea4200d5c4ba6c5ec01dfe4403, type: 3}
       propertyPath: m_Name
       value: MenuFinal
@@ -4700,11 +4783,11 @@ PrefabInstance:
     - target: {fileID: 6580012708886538986, guid: 55bc1a27696a3194cb8e8b94cf9aa65b, type: 3}
       propertyPath: 'deactivateGameManagers.Array.data[0]'
       value: 
-      objectReference: {fileID: 175533792}
+      objectReference: {fileID: 1064558364}
     - target: {fileID: 6580012708886538986, guid: 55bc1a27696a3194cb8e8b94cf9aa65b, type: 3}
       propertyPath: 'deactivateGameManagers.Array.data[1]'
       value: 
-      objectReference: {fileID: 1064558364}
+      objectReference: {fileID: 175533792}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

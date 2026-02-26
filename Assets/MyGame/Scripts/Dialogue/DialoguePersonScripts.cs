@@ -24,6 +24,10 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] Animator playerAnimator;
     [SerializeField] Animator boxAnimator;
 
+    [SerializeField] RectTransform menuBlocker;
+    [SerializeField] Camera uiCamera;
+    [SerializeField] bool hasClock = true;
+
     [Header("Player Settings")]
     [SerializeField] Sprite playerVisual;
     [SerializeField] RuntimeAnimatorController playerAnimation;
@@ -59,9 +63,45 @@ public class DialoguePersonScripts : MonoBehaviour
     [Header("External")]
     public LoadingManagerScript lmsa;
     [SerializeField] Dialogue[] dsa;
+
+    [Header("Pause Dialogue")]
+    [SerializeField] GameObject dialogueBoxRoot;
+    private bool isPausedTemporarily = false;
     void ActivateScript()
     {
         enabled = true;
+    }
+
+    public void PauseDialogueForSeconds(float seconds)
+    {
+        if (!gameObject.activeInHierarchy)
+            return;
+
+        StartCoroutine(PauseDialogueCoroutine(seconds));
+    }
+
+    IEnumerator PauseDialogueCoroutine(float seconds)
+    {
+        isPausedTemporarily = true;
+        isWaitingForDecision = true;
+
+        StopCoroutine(nameof(TypeText));
+        isTyping = false;
+
+        if (dialogueBoxRoot != null)
+            dialogueBoxRoot.SetActive(false);
+
+
+        yield return new WaitForSeconds(seconds);
+        indexDSAArray++;
+        UpdateObjects();
+        if (dialogueBoxRoot != null)
+            dialogueBoxRoot.SetActive(true);
+
+        isWaitingForDecision = false;
+        isPausedTemporarily = false;
+
+        StartCoroutine(TypeText(currentLine));
     }
     void Start()
     {
@@ -85,7 +125,10 @@ public class DialoguePersonScripts : MonoBehaviour
 
     void Update()
     {
-        if (dialogueFinished) 
+        if (MenuScript.SuppressClick)
+            return;
+
+        if (dialogueFinished || isPausedTemporarily)
             return;
 
         if (indexDSAArray >= dsa.Length)
@@ -94,7 +137,7 @@ public class DialoguePersonScripts : MonoBehaviour
             return;
         }
 
-        if (Mouse.current.leftButton.wasPressedThisFrame && !isWaitingForDecision)
+        if (Mouse.current.leftButton.wasPressedThisFrame && !isWaitingForDecision && !IsPointerOverMenu())
         {
             if (isTyping)
             {
@@ -230,6 +273,17 @@ public class DialoguePersonScripts : MonoBehaviour
         StartCoroutine(TypeText(currentLine));
     }
 
+    bool IsPointerOverMenu()
+    {
+        if (menuBlocker == null || Mouse.current == null)
+            return false;
+
+        return RectTransformUtility.RectangleContainsScreenPoint(
+            menuBlocker,
+            Mouse.current.position.ReadValue(),
+            uiCamera
+        );
+    }
     IEnumerator TypeText(string line)
     {
         isTyping = true;
@@ -250,7 +304,7 @@ public class DialoguePersonScripts : MonoBehaviour
     }
     IEnumerator UpdateClock()
     {
-        while (true)
+        while (hasClock)
         {
             timeText.text = simulatedTime.ToString("HH:mm");
             simulatedTime = simulatedTime.AddSeconds(1);
