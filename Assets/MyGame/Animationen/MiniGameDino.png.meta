@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9ac730f4c8bc6dc43b5a60e288dcb6cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5551487000422211081
+    second: MiniGameDino_0
+  - first:
+      213: -1644649200686612855
+    second: MiniGameDino_1
+  - first:
+      213: 3553714293681768146
+    second: MiniGameDino_2
+  - first:
+      213: -8804111319475819101
+    second: MiniGameDino_3
+  - first:
+      213: -1442376650557318367
+    second: MiniGameDino_4
+  - first:
+      213: 2660356304920598031
+    second: MiniGameDino_5
+  - first:
+      213: 8051648103919725904
+    second: MiniGameDino_6
+  - first:
+      213: -3919144116689771741
+    second: MiniGameDino_7
+  - first:
+      213: 1117247281943311983
+    second: MiniGameDino_8
+  - first:
+      213: -4269432841838361723
+    second: MiniGameDino_9
+  - first:
+      213: 7102452292609711354
+    second: MiniGameDino_10
+  - first:
+      213: 8283420906034751333
+    second: MiniGameDino_11
+  - first:
+      213: -6478581320476381323
+    second: MiniGameDino_12
+  - first:
+      213: 4053100069591574253
+    second: MiniGameDino_13
+  - first:
+      213: 7932112636963163443
+    second: MiniGameDino_14
+  - first:
+      213: -2685177013424027753
+    second: MiniGameDino_15
+  - first:
+      213: 3151314533974293601
+    second: MiniGameDino_16
+  - first:
+      213: -1236495499694382666
+    second: MiniGameDino_17
+  - first:
+      213: 7424017820863350431
+    second: MiniGameDino_18
+  - first:
+      213: 4949064322775934987
+    second: MiniGameDino_19
+  - first:
+      213: 7936297728896141676
+    second: MiniGameDino_20
+  - first:
+      213: -4420068601498926794
+    second: MiniGameDino_21
+  - first:
+      213: 4578423800122995626
+    second: MiniGameDino_22
+  - first:
+      213: 5389830241902246113
+    second: MiniGameDino_23
+  - first:
+      213: -3941983808927762660
+    second: MiniGameDino_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniGameDino_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4363
+        width: 609
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5d5b8308da0d40800000000000000
+      internalID: 5551487000422211081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_1
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 4361
+        width: 609
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eb1f404480d29e0800000000000000
+      internalID: -1644649200686612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_2
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 4357
+        width: 609
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6412c5254515130800000000000000
+      internalID: 3553714293681768146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_3
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 4351
+        width: 609
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ade5afa66381d580800000000000000
+      internalID: -8804111319475819101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_4
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 4346
+        width: 609
+        height: 1013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b963f0416abfbe0800000000000000
+      internalID: -1442376650557318367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3263
+        width: 609
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0653c2d6fb7be420800000000000000
+      internalID: 2660356304920598031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_6
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3262
+        width: 609
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d25928a433dbf60800000000000000
+      internalID: 8051648103919725904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_7
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 3259
+        width: 609
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e42db0376c99c0800000000000000
+      internalID: -3919144116689771741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_8
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 3259
+        width: 609
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667086cb72418f00800000000000000
+      internalID: 1117247281943311983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_9
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 3262
+        width: 609
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58386d5637defb4c0800000000000000
+      internalID: -4269432841838361723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2187
+        width: 609
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc192fcabaf09260800000000000000
+      internalID: 7102452292609711354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_11
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2193
+        width: 609
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567ee353d6f94f270800000000000000
+      internalID: 8283420906034751333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_12
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 2197
+        width: 609
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f26803d947716a0800000000000000
+      internalID: -6478581320476381323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_13
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 2199
+        width: 609
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ed1ff9018f3830800000000000000
+      internalID: 4053100069591574253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_14
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 2197
+        width: 609
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d839cca66841e60800000000000000
+      internalID: 7932112636963163443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1112
+        width: 609
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79701d3abb55cbad0800000000000000
+      internalID: -2685177013424027753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_16
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1105
+        width: 609
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c301d4fd7bbbb20800000000000000
+      internalID: 3151314533974293601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_17
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1100
+        width: 609
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e85ee4e517dee0800000000000000
+      internalID: -1236495499694382666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_18
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1099
+        width: 609
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96cababfd8670760800000000000000
+      internalID: 7424017820863350431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_19
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1100
+        width: 609
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086e91c7cb9ea440800000000000000
+      internalID: 4949064322775934987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 609
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6908927cb4632e60800000000000000
+      internalID: 7936297728896141676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_21
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 25
+        width: 609
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318cc48603c8a2c0800000000000000
+      internalID: -4420068601498926794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_22
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 30
+        width: 609
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3768d4034d98f30800000000000000
+      internalID: 4578423800122995626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_23
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 36
+        width: 609
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8bd386c068cca40800000000000000
+      internalID: 5389830241902246113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGameDino_24
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 40
+        width: 609
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f48e7c924b49c0800000000000000
+      internalID: -3941983808927762660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MiniGameDino_0: 5551487000422211081
+      MiniGameDino_1: -1644649200686612855
+      MiniGameDino_10: 7102452292609711354
+      MiniGameDino_11: 8283420906034751333
+      MiniGameDino_12: -6478581320476381323
+      MiniGameDino_13: 4053100069591574253
+      MiniGameDino_14: 7932112636963163443
+      MiniGameDino_15: -2685177013424027753
+      MiniGameDino_16: 3151314533974293601
+      MiniGameDino_17: -1236495499694382666
+      MiniGameDino_18: 7424017820863350431
+      MiniGameDino_19: 4949064322775934987
+      MiniGameDino_2: 3553714293681768146
+      MiniGameDino_20: 7936297728896141676
+      MiniGameDino_21: -4420068601498926794
+      MiniGameDino_22: 4578423800122995626
+      MiniGameDino_23: 5389830241902246113
+      MiniGameDino_24: -3941983808927762660
+      MiniGameDino_3: -8804111319475819101
+      MiniGameDino_4: -1442376650557318367
+      MiniGameDino_5: 2660356304920598031
+      MiniGameDino_6: 8051648103919725904
+      MiniGameDino_7: -3919144116689771741
+      MiniGameDino_8: 1117247281943311983
+      MiniGameDino_9: -4269432841838361723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

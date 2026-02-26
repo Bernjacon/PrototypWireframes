@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f12a841ee8d5700449f19c8a9153214c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2822091987903395634
+    second: BenSprachbubble_0
+  - first:
+      213: 217082623599207664
+    second: BenSprachbubble_1
+  - first:
+      213: -4311425087555669306
+    second: BenSprachbubble_2
+  - first:
+      213: 7752383256749120729
+    second: BenSprachbubble_3
+  - first:
+      213: -8500957570840536156
+    second: BenSprachbubble_4
+  - first:
+      213: 5619567533610767400
+    second: BenSprachbubble_5
+  - first:
+      213: 5502715364196005471
+    second: BenSprachbubble_6
+  - first:
+      213: -7124104488777304973
+    second: BenSprachbubble_7
+  - first:
+      213: 1108439021187511378
+    second: BenSprachbubble_8
+  - first:
+      213: -3089048910270222984
+    second: BenSprachbubble_9
+  - first:
+      213: -704428024472010524
+    second: BenSprachbubble_10
+  - first:
+      213: 9033721870821228832
+    second: BenSprachbubble_11
+  - first:
+      213: -360495519131476348
+    second: BenSprachbubble_12
+  - first:
+      213: 4162666183490216461
+    second: BenSprachbubble_13
+  - first:
+      213: 4988527081493534726
+    second: BenSprachbubble_14
+  - first:
+      213: 1350017851638025797
+    second: BenSprachbubble_15
+  - first:
+      213: 5095531899153521210
+    second: BenSprachbubble_16
+  - first:
+      213: -4158685270933647743
+    second: BenSprachbubble_17
+  - first:
+      213: -1930019978818643034
+    second: BenSprachbubble_18
+  - first:
+      213: -5954655727012617113
+    second: BenSprachbubble_19
+  - first:
+      213: -5455621479450266686
+    second: BenSprachbubble_20
+  - first:
+      213: -6283583910578853492
+    second: BenSprachbubble_21
+  - first:
+      213: -1221565692211433776
+    second: BenSprachbubble_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BenSprachbubble_0
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3760
+        width: 158
+        height: 1168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237357ef5b51a2720800000000000000
+      internalID: 2822091987903395634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_1
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 4913
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f46a8afe7b330300800000000000000
+      internalID: 217082623599207664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_2
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 4889
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2798cc9bdba24c0800000000000000
+      internalID: -4311425087555669306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_3
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 4873
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc97358f7ff59b60800000000000000
+      internalID: 7752383256749120729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3777
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd16b1128860a80800000000000000
+      internalID: -8500957570840536156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_5
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 3721
+        width: 226
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241038e5e6bcfd40800000000000000
+      internalID: 5619567533610767400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_6
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 3671
+        width: 367
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56bcf618729d5c40800000000000000
+      internalID: 5502715364196005471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_7
+      rect:
+        serializedVersion: 2
+        x: 7795
+        y: 3614
+        width: 1066
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b9ab66b8122d90800000000000000
+      internalID: -7124104488777304973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2512
+        width: 1615
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2543011ca67f16f00800000000000000
+      internalID: 1108439021187511378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_9
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2527
+        width: 1688
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d2981f16e7125d0800000000000000
+      internalID: -3089048910270222984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_10
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 2535
+        width: 1709
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e00487a17e5936f0800000000000000
+      internalID: -704428024472010524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_11
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 2517
+        width: 1703
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0210af5cd2a3e5d70800000000000000
+      internalID: 9033721870821228832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_12
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 2509
+        width: 1703
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e5c0f3c334ffaf0800000000000000
+      internalID: -360495519131476348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1424
+        width: 1721
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d022771d6d2c4c930800000000000000
+      internalID: 4162666183490216461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_14
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1424
+        width: 1721
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60896d443feca3540800000000000000
+      internalID: 4988527081493534726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_15
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1424
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0257551a3cb210800000000000000
+      internalID: 1350017851638025797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_16
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 1424
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a97b6d347f6b640800000000000000
+      internalID: 5095531899153521210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_17
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 1424
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ec95d97c16946c0800000000000000
+      internalID: -4158685270933647743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab9b111e013735e0800000000000000
+      internalID: -1930019978818643034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_19
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764eaa75a20dc5da0800000000000000
+      internalID: -5954655727012617113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_20
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c330686b2db944b0800000000000000
+      internalID: -5455621479450266686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_21
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896695a9b93cc8a0800000000000000
+      internalID: -6283583910578853492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_22
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deeeed99702c0fe0800000000000000
+      internalID: -1221565692211433776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BenSprachbubble_0: 2822091987903395634
+      BenSprachbubble_1: 217082623599207664
+      BenSprachbubble_10: -704428024472010524
+      BenSprachbubble_11: 9033721870821228832
+      BenSprachbubble_12: -360495519131476348
+      BenSprachbubble_13: 4162666183490216461
+      BenSprachbubble_14: 4988527081493534726
+      BenSprachbubble_15: 1350017851638025797
+      BenSprachbubble_16: 5095531899153521210
+      BenSprachbubble_17: -4158685270933647743
+      BenSprachbubble_18: -1930019978818643034
+      BenSprachbubble_19: -5954655727012617113
+      BenSprachbubble_2: -4311425087555669306
+      BenSprachbubble_20: -5455621479450266686
+      BenSprachbubble_21: -6283583910578853492
+      BenSprachbubble_22: -1221565692211433776
+      BenSprachbubble_3: 7752383256749120729
+      BenSprachbubble_4: -8500957570840536156
+      BenSprachbubble_5: 5619567533610767400
+      BenSprachbubble_6: 5502715364196005471
+      BenSprachbubble_7: -7124104488777304973
+      BenSprachbubble_8: 1108439021187511378
+      BenSprachbubble_9: -3089048910270222984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

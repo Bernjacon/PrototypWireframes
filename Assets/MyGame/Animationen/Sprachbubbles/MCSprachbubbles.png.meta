@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: db0a1d2f576b921458cc4e775c959262
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -309303294559544266
+    second: MCSprachbubbles_0
+  - first:
+      213: -29217137213911402
+    second: MCSprachbubbles_1
+  - first:
+      213: -1930511197312921691
+    second: MCSprachbubbles_2
+  - first:
+      213: -1303145205960788043
+    second: MCSprachbubbles_3
+  - first:
+      213: 1575239367865898700
+    second: MCSprachbubbles_4
+  - first:
+      213: 773450519627769236
+    second: MCSprachbubbles_5
+  - first:
+      213: 6769428525829719146
+    second: MCSprachbubbles_6
+  - first:
+      213: -8735410259481398577
+    second: MCSprachbubbles_7
+  - first:
+      213: -9127130493467161396
+    second: MCSprachbubbles_8
+  - first:
+      213: 1670086820369328045
+    second: MCSprachbubbles_9
+  - first:
+      213: -7106661147375957927
+    second: MCSprachbubbles_10
+  - first:
+      213: -7045395574787496874
+    second: MCSprachbubbles_11
+  - first:
+      213: 6044751210319919829
+    second: MCSprachbubbles_12
+  - first:
+      213: -1522898284691242569
+    second: MCSprachbubbles_13
+  - first:
+      213: 6151254923338294455
+    second: MCSprachbubbles_14
+  - first:
+      213: 9122368970578218609
+    second: MCSprachbubbles_15
+  - first:
+      213: 8663416882619748401
+    second: MCSprachbubbles_16
+  - first:
+      213: -5610669525623055493
+    second: MCSprachbubbles_17
+  - first:
+      213: -7654333704409829042
+    second: MCSprachbubbles_18
+  - first:
+      213: -5650906937234631953
+    second: MCSprachbubbles_19
+  - first:
+      213: 2302950793699756885
+    second: MCSprachbubbles_20
+  - first:
+      213: 5441399243511763092
+    second: MCSprachbubbles_21
+  - first:
+      213: 6727825137324291990
+    second: MCSprachbubbles_22
+  - first:
+      213: -5746292232306419451
+    second: MCSprachbubbles_23
+  - first:
+      213: 6423858935577080340
+    second: MCSprachbubbles_24
+  - first:
+      213: 8320908354565938418
+    second: MCSprachbubbles_25
+  - first:
+      213: -7684577494778019310
+    second: MCSprachbubbles_26
+  - first:
+      213: -9018542043384559229
+    second: MCSprachbubbles_27
+  - first:
+      213: -3326244983343648710
+    second: MCSprachbubbles_28
+  - first:
+      213: 6980441959893570826
+    second: MCSprachbubbles_29
+  - first:
+      213: 2707346532241944140
+    second: MCSprachbubbles_30
+  - first:
+      213: 6384638137779119300
+    second: MCSprachbubbles_31
+  - first:
+      213: 8588193729639785368
+    second: MCSprachbubbles_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCSprachbubbles_0
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 5013
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c9be7da4225bbf0800000000000000
+      internalID: -309303294559544266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_1
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 5002
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ec2032b23389ff0800000000000000
+      internalID: -29217137213911402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_2
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 5002
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afcf395b427535e0800000000000000
+      internalID: -1930511197312921691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_3
+      rect:
+        serializedVersion: 2
+        x: 5273
+        y: 5010
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b734fbe65c4aede0800000000000000
+      internalID: -1303145205960788043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 3910
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69bddebdf5cd510800000000000000
+      internalID: 1575239367865898700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_5
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3876
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49521c15629dbba00800000000000000
+      internalID: 773450519627769236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_6
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 3825
+        width: 158
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a640a76d067d1fd50800000000000000
+      internalID: 6769428525829719146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_7
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 3847
+        width: 242
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2fe44b6a695c680800000000000000
+      internalID: -8735410259481398577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_8
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 3840
+        width: 591
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc014e7c2be55180800000000000000
+      internalID: -9127130493467161396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_9
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 3817
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ec285d175d2710800000000000000
+      internalID: 1670086820369328045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_10
+      rect:
+        serializedVersion: 2
+        x: 5294
+        y: 3800
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580693d651106d90800000000000000
+      internalID: -7106661147375957927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2749
+        width: 867
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654aea68d0ab93e90800000000000000
+      internalID: -7045395574787496874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_12
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2730
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3bb6033543e350800000000000000
+      internalID: 6044751210319919829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_13
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2738
+        width: 913
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14de724149ddae0800000000000000
+      internalID: -1522898284691242569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_14
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2708
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a37413c5ad5550800000000000000
+      internalID: 6151254923338294455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_15
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2671
+        width: 931
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4c511f3a299e70800000000000000
+      internalID: 9122368970578218609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_16
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 2739
+        width: 926
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1301ca501c3aa3870800000000000000
+      internalID: 8663416882619748401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_17
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 2637
+        width: 150
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd0250bc5e222b0800000000000000
+      internalID: -5610669525623055493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_18
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 2637
+        width: 933
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e413a5cdc0856c590800000000000000
+      internalID: -7654333704409829042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_19
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 2629
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d6539412f391b0800000000000000
+      internalID: -5650906937234631953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1545
+        width: 934
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b8da99b89b5ff10800000000000000
+      internalID: 2302950793699756885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1512
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490199e38cbb38b40800000000000000
+      internalID: 5441399243511763092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1515
+        width: 937
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697782d11590e5d50800000000000000
+      internalID: 6727825137324291990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_23
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1499
+        width: 933
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5091acde8a11140b0800000000000000
+      internalID: -5746292232306419451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_24
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 1471
+        width: 952
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4127a46baa1262950800000000000000
+      internalID: 6423858935577080340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_25
+      rect:
+        serializedVersion: 2
+        x: 4390
+        y: 1444
+        width: 948
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9b7aff0ec97370800000000000000
+      internalID: 8320908354565938418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 328
+        width: 948
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2128bceab75ea5590800000000000000
+      internalID: -7684577494778019310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_27
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 253
+        width: 948
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38943283bc3b7d280800000000000000
+      internalID: -9018542043384559229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_28
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 413
+        width: 948
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3070e39fcdc6d1d0800000000000000
+      internalID: -3326244983343648710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_29
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 196
+        width: 877
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0510b28af28fd060800000000000000
+      internalID: 6980441959893570826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_30
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 413
+        width: 948
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eaa22b35d629520800000000000000
+      internalID: 2707346532241944140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_31
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 184
+        width: 926
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c46cbd1f8aca9850800000000000000
+      internalID: 6384638137779119300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCSprachbubbles_32
+      rect:
+        serializedVersion: 2
+        x: 4390
+        y: 180
+        width: 948
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893aa65e1b46f2770800000000000000
+      internalID: 8588193729639785368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MCSprachbubbles_0: -309303294559544266
+      MCSprachbubbles_1: -29217137213911402
+      MCSprachbubbles_10: -7106661147375957927
+      MCSprachbubbles_11: -7045395574787496874
+      MCSprachbubbles_12: 6044751210319919829
+      MCSprachbubbles_13: -1522898284691242569
+      MCSprachbubbles_14: 6151254923338294455
+      MCSprachbubbles_15: 9122368970578218609
+      MCSprachbubbles_16: 8663416882619748401
+      MCSprachbubbles_17: -5610669525623055493
+      MCSprachbubbles_18: -7654333704409829042
+      MCSprachbubbles_19: -5650906937234631953
+      MCSprachbubbles_2: -1930511197312921691
+      MCSprachbubbles_20: 2302950793699756885
+      MCSprachbubbles_21: 5441399243511763092
+      MCSprachbubbles_22: 6727825137324291990
+      MCSprachbubbles_23: -5746292232306419451
+      MCSprachbubbles_24: 6423858935577080340
+      MCSprachbubbles_25: 8320908354565938418
+      MCSprachbubbles_26: -7684577494778019310
+      MCSprachbubbles_27: -9018542043384559229
+      MCSprachbubbles_28: -3326244983343648710
+      MCSprachbubbles_29: 6980441959893570826
+      MCSprachbubbles_3: -1303145205960788043
+      MCSprachbubbles_30: 2707346532241944140
+      MCSprachbubbles_31: 6384638137779119300
+      MCSprachbubbles_32: 8588193729639785368
+      MCSprachbubbles_4: 1575239367865898700
+      MCSprachbubbles_5: 773450519627769236
+      MCSprachbubbles_6: 6769428525829719146
+      MCSprachbubbles_7: -8735410259481398577
+      MCSprachbubbles_8: -9127130493467161396
+      MCSprachbubbles_9: 1670086820369328045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

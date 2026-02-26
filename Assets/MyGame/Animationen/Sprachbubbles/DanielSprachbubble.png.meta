@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: ddd281e75a579de438d4765d6873f2a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2319207104193628300
+    second: DanielSprachbubble_0
+  - first:
+      213: -710129433545787035
+    second: DanielSprachbubble_1
+  - first:
+      213: 7485385401710039348
+    second: DanielSprachbubble_2
+  - first:
+      213: -8136106871912685135
+    second: DanielSprachbubble_3
+  - first:
+      213: -6645624957035659951
+    second: DanielSprachbubble_4
+  - first:
+      213: -2993451215929446053
+    second: DanielSprachbubble_5
+  - first:
+      213: -3223169240228533163
+    second: DanielSprachbubble_6
+  - first:
+      213: 2335610312141960754
+    second: DanielSprachbubble_7
+  - first:
+      213: -5993451684836830991
+    second: DanielSprachbubble_8
+  - first:
+      213: 6079941068391609130
+    second: DanielSprachbubble_9
+  - first:
+      213: 900269555163896704
+    second: DanielSprachbubble_10
+  - first:
+      213: -3819263422333306492
+    second: DanielSprachbubble_11
+  - first:
+      213: -6442200422223531170
+    second: DanielSprachbubble_12
+  - first:
+      213: -527177386680485130
+    second: DanielSprachbubble_13
+  - first:
+      213: -1355166604772394830
+    second: DanielSprachbubble_14
+  - first:
+      213: -5912746116700852565
+    second: DanielSprachbubble_15
+  - first:
+      213: 6995196913730672937
+    second: DanielSprachbubble_16
+  - first:
+      213: 3839972997875522878
+    second: DanielSprachbubble_17
+  - first:
+      213: -8677063678977386838
+    second: DanielSprachbubble_18
+  - first:
+      213: 6017574312363784550
+    second: DanielSprachbubble_19
+  - first:
+      213: -5321146223600263612
+    second: DanielSprachbubble_20
+  - first:
+      213: 8674384726734213876
+    second: DanielSprachbubble_21
+  - first:
+      213: 4955974460320708000
+    second: DanielSprachbubble_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielSprachbubble_0
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3760
+        width: 158
+        height: 1168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c880606d29a7f2020800000000000000
+      internalID: 2319207104193628300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_1
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 4913
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56934f8ea0d1526f0800000000000000
+      internalID: -710129433545787035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_2
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 4889
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43152d31d5e61e760800000000000000
+      internalID: 7485385401710039348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_3
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 4873
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1a70d28edb61f80800000000000000
+      internalID: -8136106871912685135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3777
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d3b65cf4ff5c3a0800000000000000
+      internalID: -6645624957035659951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_5
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 3721
+        width: 226
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517016aaff1576d0800000000000000
+      internalID: -2993451215929446053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_6
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 3671
+        width: 367
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c663137a00543d0800000000000000
+      internalID: -3223169240228533163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_7
+      rect:
+        serializedVersion: 2
+        x: 7795
+        y: 3614
+        width: 1066
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f5fc4431c96020800000000000000
+      internalID: 2335610312141960754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2512
+        width: 1615
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f095d2827bf2dca0800000000000000
+      internalID: -5993451684836830991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_9
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2527
+        width: 1688
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a237ac4503a406450800000000000000
+      internalID: 6079941068391609130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_10
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 2535
+        width: 1709
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b94adf3666e7c00800000000000000
+      internalID: 900269555163896704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_11
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 2517
+        width: 1703
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893e2817204ffac0800000000000000
+      internalID: -3819263422333306492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_12
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 2509
+        width: 1703
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53be7529d4b896a0800000000000000
+      internalID: -6442200422223531170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1424
+        width: 1721
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7a4db5f61fa8f0800000000000000
+      internalID: -527177386680485130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_14
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1424
+        width: 1721
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b117272b713de0800000000000000
+      internalID: -1355166604772394830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_15
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1424
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea9f2ebb4b1fda0800000000000000
+      internalID: -5912746116700852565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_16
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 1424
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92953d8e78ee31160800000000000000
+      internalID: 6995196913730672937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_17
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 1424
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d5675b8135a4530800000000000000
+      internalID: 3839972997875522878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6db199e80e49780800000000000000
+      internalID: -8677063678977386838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_19
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66975f164f7b28350800000000000000
+      internalID: 6017574312363784550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_20
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e1568c3bd7726b0800000000000000
+      internalID: -5321146223600263612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_21
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2111a33fa916870800000000000000
+      internalID: 8674384726734213876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_22
+      rect:
+        serializedVersion: 2
+        x: 7790
+        y: 344
+        width: 1721
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f257838827c440800000000000000
+      internalID: 4955974460320708000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DanielSprachbubble_0: 2319207104193628300
+      DanielSprachbubble_1: -710129433545787035
+      DanielSprachbubble_10: 900269555163896704
+      DanielSprachbubble_11: -3819263422333306492
+      DanielSprachbubble_12: -6442200422223531170
+      DanielSprachbubble_13: -527177386680485130
+      DanielSprachbubble_14: -1355166604772394830
+      DanielSprachbubble_15: -5912746116700852565
+      DanielSprachbubble_16: 6995196913730672937
+      DanielSprachbubble_17: 3839972997875522878
+      DanielSprachbubble_18: -8677063678977386838
+      DanielSprachbubble_19: 6017574312363784550
+      DanielSprachbubble_2: 7485385401710039348
+      DanielSprachbubble_20: -5321146223600263612
+      DanielSprachbubble_21: 8674384726734213876
+      DanielSprachbubble_22: 4955974460320708000
+      DanielSprachbubble_3: -8136106871912685135
+      DanielSprachbubble_4: -6645624957035659951
+      DanielSprachbubble_5: -2993451215929446053
+      DanielSprachbubble_6: -3223169240228533163
+      DanielSprachbubble_7: 2335610312141960754
+      DanielSprachbubble_8: -5993451684836830991
+      DanielSprachbubble_9: 6079941068391609130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
