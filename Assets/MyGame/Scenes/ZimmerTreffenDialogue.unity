@@ -456,7 +456,7 @@ MonoBehaviour:
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
     boxVisual: {fileID: 0}
     disapearingSpeaker: {fileID: 494288756}
-    Speaker: {fileID: 0}
+    Speaker: {fileID: 9100000, guid: 51c928bc3f8141c4fa867eeb19248351, type: 2}
     boxAnimation: {fileID: 9100000, guid: 03e38fb84d333304a92459edd51a482f, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
@@ -3456,7 +3456,7 @@ Animator:
   m_GameObject: {fileID: 1199489635}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0b6d5584f3c06484e9974299a8a1a185, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
