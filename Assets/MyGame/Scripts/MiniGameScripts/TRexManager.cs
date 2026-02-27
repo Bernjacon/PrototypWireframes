@@ -21,7 +21,7 @@ public class TRexManager : MonoBehaviour
         if (other.gameObject.tag == "GroundCollider")
         {
             isGrounded = true;
-            dinoAnimator.speed = 1f;
+            dinoAnimator.speed = 4f;
         }
     }
 

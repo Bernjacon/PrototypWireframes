@@ -362,8 +362,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueText: {fileID: 2660526283142039313}
   timeText: {fileID: 1271166824}
-  speakerImage: {fileID: 260204978}
-  playerImage: {fileID: 1199489638}
+  speakerImage: {fileID: 260204982}
+  playerImage: {fileID: 0}
   playerBackground: {fileID: 1412485692}
   speakerAnimator: {fileID: 260204981}
   playerAnimator: {fileID: 1199489637}
@@ -380,12 +380,13 @@ MonoBehaviour:
   - {fileID: 1005824268}
   - {fileID: 352736181}
   - {fileID: 493646609}
+  dialogueBoxRoot: {fileID: 3749513939269074051}
   lmsa: {fileID: 1498806817}
   dsa:
   - textContents: Freut mich das du auch kommen konntest.
-    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
     disapearingSpeaker: {fileID: 494288756}
-    Speaker: {fileID: 0}
+    Speaker: {fileID: 9100000, guid: 51c928bc3f8141c4fa867eeb19248351, type: 2}
     boxAnimation: {fileID: 9100000, guid: 03e38fb84d333304a92459edd51a482f, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
@@ -399,9 +400,9 @@ MonoBehaviour:
     decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Hey, sch\xF6n dich kennen zu lernen."
-    speakerVisual: {fileID: -4687645564452050167, guid: 1ec8fbfbf899a3e4aaf9ae2b44274adb, type: 3}
+    speakerVisual: {fileID: 1379471125480659402, guid: f7901b0373cbd3f4c8f16c2205d825cd, type: 3}
     disapearingSpeaker: {fileID: 2099132686}
-    Speaker: {fileID: 0}
+    Speaker: {fileID: 9100000, guid: 0b6d5584f3c06484e9974299a8a1a185, type: 2}
     boxAnimation: {fileID: 9100000, guid: 6439eaf1df7fe044f965d5a1bdf220c4, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
@@ -1065,7 +1066,6 @@ MonoBehaviour:
           m_CallState: 2
     decisionButtonTexts: []
     targetIndexAfterDecision: 
-  dialogueBoxRoot: {fileID: 0}
 --- !u!4 &175533794
 Transform:
   m_ObjectHideFlags: 0
@@ -1472,7 +1472,6 @@ GameObject:
   m_Component:
   - component: {fileID: 260204980}
   - component: {fileID: 260204979}
-  - component: {fileID: 260204978}
   - component: {fileID: 260204981}
   - component: {fileID: 260204982}
   m_Layer: 5
@@ -1482,36 +1481,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &260204978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 260204977}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &260204979
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1527,17 +1496,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 260204977}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8132, y: 1.8132, z: 1.8132}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.9205013}
+  m_LocalScale: {x: 102.618774, y: 102.61878, z: 102.61878}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 401762321}
-  m_Father: {fileID: 1064558365}
+  m_Father: {fileID: 267446529090776273}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -610, y: -140}
+  m_AnchoredPosition: {x: -853.96454, y: 182.20364}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &260204981
@@ -1605,7 +1574,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_Sprite: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1812,7 +1781,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &401762321
 Transform:
   m_ObjectHideFlags: 0
@@ -2205,7 +2174,6 @@ GameObject:
   - component: {fileID: 496772886}
   - component: {fileID: 496772888}
   - component: {fileID: 496772884}
-  - component: {fileID: 496772887}
   m_Layer: 5
   m_Name: TextBox
   m_TagString: Untagged
@@ -2222,7 +2190,7 @@ RectTransform:
   m_GameObject: {fileID: 496772882}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 11.961564, y: 3.0186913, z: 3.0186913}
+  m_LocalScale: {x: 75.044304, y: 69.83618, z: 18.938625}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8437504508440574295}
@@ -2230,7 +2198,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -136.94, y: 0}
+  m_AnchoredPosition: {x: -136.94, y: -0.000071085}
   m_SizeDelta: {x: 116.7, y: 112.55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &496772884
@@ -2263,40 +2231,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 496772882}
   m_CullTransparentMesh: 1
---- !u!328 &496772887
-VideoPlayer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 496772882}
-  m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: bf787ffeed132cc49a7c5f517a18b674, type: 3}
-  m_TargetCameraAlpha: 1
-  m_TargetCamera3DLayout: 0
-  m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 0}
-  m_TimeReference: 0
-  m_TargetMaterialRenderer: {fileID: 0}
-  m_TargetMaterialProperty: <noninit>
-  m_RenderMode: 2
-  m_AspectRatio: 2
-  m_DataSource: 0
-  m_TimeUpdateMode: 2
-  m_PlaybackSpeed: 1
-  m_AudioOutputMode: 2
-  m_TargetAudioSources: []
-  m_DirectAudioVolumes: []
-  m_Url: 
-  m_EnabledAudioTracks: 
-  m_DirectAudioMutes: 
-  m_ControlledAudioTrackCount: 0
-  m_PlayOnAwake: 1
-  m_SkipOnDrop: 1
-  m_Looping: 0
-  m_WaitForFirstFrame: 1
-  m_FrameReadyEventEnabled: 0
-  m_VideoShaders: []
 --- !u!212 &496772888
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2340,7 +2274,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 2319207104193628300, guid: ddd281e75a579de438d4765d6873f2a2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3510,7 +3444,6 @@ RectTransform:
   - {fileID: 190934894}
   - {fileID: 860238774}
   - {fileID: 267446529090776273}
-  - {fileID: 260204980}
   - {fileID: 1199489636}
   - {fileID: 1808421123}
   - {fileID: 1794917718}
@@ -4902,6 +4835,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 496772883}
+  - {fileID: 260204980}
   m_Father: {fileID: 1064558365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -5326,14 +5260,14 @@ RectTransform:
   m_GameObject: {fileID: 8438715170790544585}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1828456, y: 0.7245257, z: 0.7245257}
+  m_LocalScale: {x: 0.029144375, y: 0.031317852, z: 0.11548459}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 496772883}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.3, y: -13.6}
+  m_AnchoredPosition: {x: 0.6853943, y: -0.5878639}
   m_SizeDelta: {x: 412.953, y: 84.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8438715170790544585

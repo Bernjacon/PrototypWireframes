@@ -104,6 +104,7 @@ public class CactusSpawn : MonoBehaviour
         if (winRoutine != null)
             StopCoroutine(winRoutine);
 
+        FindAnyObjectByType<TRexManager>().dinoAnimator.speed = 0f;
         FindAnyObjectByType<TRexManager>().enabled = false;
 
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))

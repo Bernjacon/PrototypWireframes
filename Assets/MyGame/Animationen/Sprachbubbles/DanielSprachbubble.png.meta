@@ -169,10 +169,10 @@ TextureImporter:
       name: DanielSprachbubble_0
       rect:
         serializedVersion: 2
-        x: 2041
-        y: 3760
-        width: 158
-        height: 1168
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: DanielSprachbubble_1
       rect:
         serializedVersion: 2
-        x: 3981
-        y: 4913
-        width: 21
-        height: 16
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: DanielSprachbubble_2
       rect:
         serializedVersion: 2
-        x: 5895
-        y: 4889
-        width: 41
-        height: 44
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: DanielSprachbubble_3
       rect:
         serializedVersion: 2
-        x: 7814
-        y: 4873
-        width: 66
-        height: 65
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: DanielSprachbubble_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 3777
-        width: 106
-        height: 98
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: DanielSprachbubble_5
       rect:
         serializedVersion: 2
-        x: 3953
-        y: 3721
-        width: 226
-        height: 161
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: DanielSprachbubble_6
       rect:
         serializedVersion: 2
-        x: 5869
-        y: 3671
-        width: 367
-        height: 215
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: DanielSprachbubble_7
       rect:
         serializedVersion: 2
-        x: 7795
-        y: 3614
-        width: 1066
-        height: 275
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,10 +345,10 @@ TextureImporter:
       name: DanielSprachbubble_8
       rect:
         serializedVersion: 2
-        x: 110
-        y: 2512
-        width: 1615
-        height: 315
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: DanielSprachbubble_9
       rect:
         serializedVersion: 2
-        x: 2026
-        y: 2527
-        width: 1688
-        height: 341
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: DanielSprachbubble_10
       rect:
         serializedVersion: 2
-        x: 3945
-        y: 2535
-        width: 1709
-        height: 347
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,10 +411,10 @@ TextureImporter:
       name: DanielSprachbubble_11
       rect:
         serializedVersion: 2
-        x: 5870
-        y: 2517
-        width: 1703
-        height: 364
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,10 +433,10 @@ TextureImporter:
       name: DanielSprachbubble_12
       rect:
         serializedVersion: 2
-        x: 7790
-        y: 2509
-        width: 1703
-        height: 372
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: DanielSprachbubble_13
       rect:
         serializedVersion: 2
-        x: 110
-        y: 1424
-        width: 1721
-        height: 377
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: DanielSprachbubble_14
       rect:
         serializedVersion: 2
-        x: 2030
-        y: 1424
-        width: 1721
-        height: 391
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: DanielSprachbubble_15
       rect:
         serializedVersion: 2
-        x: 3950
-        y: 1424
-        width: 1721
-        height: 401
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: DanielSprachbubble_16
       rect:
         serializedVersion: 2
-        x: 5870
-        y: 1424
-        width: 1721
-        height: 401
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: DanielSprachbubble_17
       rect:
         serializedVersion: 2
-        x: 7790
-        y: 1424
-        width: 1721
-        height: 401
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,10 +565,10 @@ TextureImporter:
       name: DanielSprachbubble_18
       rect:
         serializedVersion: 2
-        x: 110
-        y: 344
-        width: 1721
-        height: 401
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: DanielSprachbubble_19
       rect:
         serializedVersion: 2
-        x: 2030
-        y: 344
-        width: 1721
-        height: 401
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: DanielSprachbubble_20
       rect:
         serializedVersion: 2
-        x: 3950
-        y: 344
-        width: 1721
-        height: 401
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: DanielSprachbubble_21
       rect:
         serializedVersion: 2
-        x: 5870
-        y: 344
-        width: 1721
-        height: 401
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: DanielSprachbubble_22
       rect:
         serializedVersion: 2
-        x: 7790
-        y: 344
-        width: 1721
-        height: 401
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,11 +671,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: DanielSprachbubble_23
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67345e884da3b040be96b1ac30a0840
+      internalID: 1106498370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 21d0713ed660c3942ad967042b7905ee
     internalID: 0
     vertices: []
     indices: 
@@ -683,7 +705,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       DanielSprachbubble_0: 2319207104193628300
       DanielSprachbubble_1: -710129433545787035
@@ -701,6 +725,7 @@ TextureImporter:
       DanielSprachbubble_20: -5321146223600263612
       DanielSprachbubble_21: 8674384726734213876
       DanielSprachbubble_22: 4955974460320708000
+      DanielSprachbubble_23: 1106498370
       DanielSprachbubble_3: -8136106871912685135
       DanielSprachbubble_4: -6645624957035659951
       DanielSprachbubble_5: -2993451215929446053

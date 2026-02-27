@@ -16,8 +16,8 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] TMP_Text dialogueText;
     [SerializeField] TMP_Text timeText;
 
-    [SerializeField] Image speakerImage;
-    [SerializeField] Image playerImage;
+    [SerializeField] SpriteRenderer speakerImage;
+    [SerializeField] SpriteRenderer playerImage;
     [SerializeField] GameObject playerBackground;
 
     [SerializeField] Animator speakerAnimator;
@@ -59,14 +59,16 @@ public class DialoguePersonScripts : MonoBehaviour
     private List<GameObject> dialogueAudioObjects = new List<GameObject>();
     private List<GameObject> persistentAudioObjects = new List<GameObject>();
 
+    [Header("Pause Dialogue")]
+    [SerializeField] GameObject dialogueBoxRoot;
+    private bool isPausedTemporarily = false;
 
     [Header("External")]
     public LoadingManagerScript lmsa;
     [SerializeField] Dialogue[] dsa;
 
-    [Header("Pause Dialogue")]
-    [SerializeField] GameObject dialogueBoxRoot;
-    private bool isPausedTemporarily = false;
+
+
     void ActivateScript()
     {
         enabled = true;
