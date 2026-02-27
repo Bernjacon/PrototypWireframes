@@ -6,7 +6,7 @@ using System.Collections;
 public class LoadingManagerScript : MonoBehaviour
 {
     [Header("Black Screen")]
-    public Image blackScreenImage;
+    public SpriteRenderer blackScreenImage;
     public float fadeDuration = 2f;
 
     public void LoadNextScene()
