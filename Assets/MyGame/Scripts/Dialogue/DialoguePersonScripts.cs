@@ -18,6 +18,7 @@ public class DialoguePersonScripts : MonoBehaviour
 
     [SerializeField] SpriteRenderer speakerImage;
     [SerializeField] SpriteRenderer playerImage;
+    [SerializeField] SpriteRenderer boxSpriteRenderer;
     [SerializeField] GameObject playerBackground;
 
     [SerializeField] Animator speakerAnimator;
@@ -32,20 +33,18 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] Sprite playerVisual;
     [SerializeField] RuntimeAnimatorController playerAnimation;
 
-
     [Header("Typing")]
     [SerializeField] float typeSpeed = 0.03f;
     private bool isTyping = false;
     private string currentLine = "";
-
 
     [Header("Dialogue State")]
     [SerializeField] int indexDSAArray;
     private bool dialogueFinished = false;
 
     private Sprite lastSpeakerSprite;
+    private Sprite lastBoxSprite;
     private GameObject lastDisappearingSpeaker;
-
 
     [Header("Decision")]
     [SerializeField] bool isWaitingForDecision;
@@ -53,7 +52,6 @@ public class DialoguePersonScripts : MonoBehaviour
 
     [Header("Clock")]
     private DateTime simulatedTime;
-
 
     [Header("Audio")]
     private List<GameObject> dialogueAudioObjects = new List<GameObject>();
@@ -66,8 +64,6 @@ public class DialoguePersonScripts : MonoBehaviour
     [Header("External")]
     public LoadingManagerScript lmsa;
     [SerializeField] Dialogue[] dsa;
-
-
 
     void ActivateScript()
     {
@@ -93,10 +89,11 @@ public class DialoguePersonScripts : MonoBehaviour
         if (dialogueBoxRoot != null)
             dialogueBoxRoot.SetActive(false);
 
-
         yield return new WaitForSeconds(seconds);
+
         indexDSAArray++;
         UpdateObjects();
+
         if (dialogueBoxRoot != null)
             dialogueBoxRoot.SetActive(true);
 
@@ -105,6 +102,7 @@ public class DialoguePersonScripts : MonoBehaviour
 
         StartCoroutine(TypeText(currentLine));
     }
+
     void Start()
     {
         foreach (GameObject btn in showDecisionButtons)
@@ -120,7 +118,14 @@ public class DialoguePersonScripts : MonoBehaviour
         if (playerImage != null && playerVisual != null)
             playerImage.sprite = playerVisual;
 
+        if (speakerImage != null)
+            lastSpeakerSprite = speakerImage.sprite;
+
+        if (boxSpriteRenderer != null)
+            lastBoxSprite = boxSpriteRenderer.sprite;
+
         UpdateObjects();
+
         simulatedTime = DateTime.Today.AddHours(15);
         StartCoroutine(UpdateClock());
     }
@@ -177,7 +182,6 @@ public class DialoguePersonScripts : MonoBehaviour
         }
 
         Dialogue currentDialogue = dsa[indexDSAArray];
-
         int buttonCount = currentDialogue.targetIndexAfterDecision.Length;
 
         for (int i = 0; i < showDecisionButtons.Length; i++)
@@ -197,6 +201,7 @@ public class DialoguePersonScripts : MonoBehaviour
             }
         }
     }
+
     public void DecisionWasChosen(int decisionIntInput)
     {
         isWaitingForDecision = false;
@@ -224,6 +229,7 @@ public class DialoguePersonScripts : MonoBehaviour
         dialogueText.text = "";
 
         GameObject newDisappearObj = dsa[indexDSAArray].disapearingSpeaker;
+
         if (newDisappearObj == null)
             newDisappearObj = lastDisappearingSpeaker;
 
@@ -238,8 +244,14 @@ public class DialoguePersonScripts : MonoBehaviour
         if (dsa[indexDSAArray].speakerVisual != null)
             lastSpeakerSprite = dsa[indexDSAArray].speakerVisual;
 
-        if (lastSpeakerSprite != null)
+        if (lastSpeakerSprite != null && speakerImage != null)
             speakerImage.sprite = lastSpeakerSprite;
+
+        if (dsa[indexDSAArray].boxVisual != null)
+            lastBoxSprite = dsa[indexDSAArray].boxVisual;
+
+        if (lastBoxSprite != null && boxSpriteRenderer != null)
+            boxSpriteRenderer.sprite = lastBoxSprite;
 
         if (speakerAnimator != null && dsa[indexDSAArray].Speaker != null)
             speakerAnimator.runtimeAnimatorController = dsa[indexDSAArray].Speaker;
@@ -265,6 +277,7 @@ public class DialoguePersonScripts : MonoBehaviour
             AnimatorStateInfo state = boxAnimator.GetCurrentAnimatorStateInfo(0);
 
             yield return null;
+
             state = boxAnimator.GetCurrentAnimatorStateInfo(0);
 
             float animationLength = state.length;
@@ -286,6 +299,7 @@ public class DialoguePersonScripts : MonoBehaviour
             uiCamera
         );
     }
+
     IEnumerator TypeText(string line)
     {
         isTyping = true;
@@ -299,11 +313,13 @@ public class DialoguePersonScripts : MonoBehaviour
 
         isTyping = false;
     }
+
     string ReplaceVariables(string input)
     {
         input = input.Replace("{playerName}", LoginScript.PlayerName);
         return input;
     }
+
     IEnumerator UpdateClock()
     {
         while (hasClock)
@@ -322,7 +338,9 @@ public class DialoguePersonScripts : MonoBehaviour
         for (int i = 0; i < dsa[indexDSAArray].audioClips.Length; i++)
         {
             AudioClip clip = dsa[indexDSAArray].audioClips[i];
-            if (clip == null) continue;
+
+            if (clip == null)
+                continue;
 
             GameObject go = new GameObject("TempDialogueAudio_" + clip.name);
             go.transform.parent = transform;
@@ -335,12 +353,14 @@ public class DialoguePersonScripts : MonoBehaviour
                 i < dsa[indexDSAArray].audioMixerGroups.Length &&
                 dsa[indexDSAArray].audioMixerGroups[i] != null)
             {
-                source.outputAudioMixerGroup = dsa[indexDSAArray].audioMixerGroups[i];
+                source.outputAudioMixerGroup =
+                    dsa[indexDSAArray].audioMixerGroups[i];
             }
 
             source.Play();
 
             dialogueAudioObjects.Add(go);
+
             Destroy(go, clip.length);
         }
     }
@@ -353,7 +373,9 @@ public class DialoguePersonScripts : MonoBehaviour
         for (int i = 0; i < dsa[indexDSAArray].persistentAudioClips.Length; i++)
         {
             AudioClip clip = dsa[indexDSAArray].persistentAudioClips[i];
-            if (clip == null) continue;
+
+            if (clip == null)
+                continue;
 
             GameObject go = new GameObject("PersistentAudio_" + clip.name);
             go.transform.parent = transform;
@@ -366,12 +388,14 @@ public class DialoguePersonScripts : MonoBehaviour
                 i < dsa[indexDSAArray].persistentAudioMixers.Length &&
                 dsa[indexDSAArray].persistentAudioMixers[i] != null)
             {
-                source.outputAudioMixerGroup = dsa[indexDSAArray].persistentAudioMixers[i];
+                source.outputAudioMixerGroup =
+                    dsa[indexDSAArray].persistentAudioMixers[i];
             }
 
             source.Play();
 
             persistentAudioObjects.Add(go);
+
             Destroy(go, clip.length);
         }
     }
@@ -383,6 +407,7 @@ public class DialoguePersonScripts : MonoBehaviour
             if (go != null)
             {
                 AudioSource src = go.GetComponent<AudioSource>();
+
                 if (src != null && src.isPlaying)
                     src.Stop();
 
@@ -400,6 +425,7 @@ public class DialoguePersonScripts : MonoBehaviour
             if (go != null)
             {
                 AudioSource src = go.GetComponent<AudioSource>();
+
                 if (src != null && src.isPlaying)
                     src.Stop();
 
@@ -420,7 +446,10 @@ public class DialoguePersonScripts : MonoBehaviour
         yield return null;
 
         yield return new WaitUntil(() => Mouse.current != null);
-        yield return new WaitUntil(() => Mouse.current.leftButton.wasPressedThisFrame);
+
+        yield return new WaitUntil(() =>
+            Mouse.current.leftButton.wasPressedThisFrame
+        );
 
         lmsa.LoadNextScene();
     }
@@ -432,6 +461,7 @@ public class Dialogue
     [Header("Dialogue and Animation")]
     public string textContents;
     public Sprite speakerVisual;
+    public Sprite boxVisual;
     public GameObject disapearingSpeaker;
     public RuntimeAnimatorController Speaker;
 
