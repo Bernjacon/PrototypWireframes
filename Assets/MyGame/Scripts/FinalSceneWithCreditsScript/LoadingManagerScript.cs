@@ -14,6 +14,11 @@ public class LoadingManagerScript : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
+    public void LoadCutScene()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+    }
+
     public void BlackScreenBrunnen()
     {
         StartCoroutine(FadeBlackScreen());
