@@ -38,6 +38,10 @@ public class DialoguePersonScripts : MonoBehaviour
     private bool isTyping = false;
     private string currentLine = "";
 
+    Coroutine typingCoroutine;
+    Coroutine boxAnimationCoroutine;
+    Coroutine pauseCoroutine;
+
     [Header("Dialogue State")]
     [SerializeField] int indexDSAArray;
     private bool dialogueFinished = false;
@@ -75,7 +79,10 @@ public class DialoguePersonScripts : MonoBehaviour
         if (!gameObject.activeInHierarchy)
             return;
 
-        StartCoroutine(PauseDialogueCoroutine(seconds));
+        if (pauseCoroutine != null)
+            StopCoroutine(pauseCoroutine);
+
+        pauseCoroutine = StartCoroutine(PauseDialogueCoroutine(seconds));
     }
 
     IEnumerator PauseDialogueCoroutine(float seconds)
@@ -83,7 +90,12 @@ public class DialoguePersonScripts : MonoBehaviour
         isPausedTemporarily = true;
         isWaitingForDecision = true;
 
-        StopCoroutine(nameof(TypeText));
+        if (typingCoroutine != null)
+            StopCoroutine(typingCoroutine);
+
+        if (boxAnimationCoroutine != null)
+            StopCoroutine(boxAnimationCoroutine);
+
         isTyping = false;
 
         if (dialogueBoxRoot != null)
@@ -92,7 +104,6 @@ public class DialoguePersonScripts : MonoBehaviour
         yield return new WaitForSeconds(seconds);
 
         indexDSAArray++;
-        UpdateObjects();
 
         if (dialogueBoxRoot != null)
             dialogueBoxRoot.SetActive(true);
@@ -100,7 +111,7 @@ public class DialoguePersonScripts : MonoBehaviour
         isWaitingForDecision = false;
         isPausedTemporarily = false;
 
-        StartCoroutine(TypeText(currentLine));
+        UpdateObjects();
     }
 
     void Start()
@@ -148,7 +159,9 @@ public class DialoguePersonScripts : MonoBehaviour
         {
             if (isTyping)
             {
-                StopAllCoroutines();
+                if (typingCoroutine != null)
+                    StopCoroutine(typingCoroutine);
+
                 dialogueText.text = currentLine;
                 isTyping = false;
             }
@@ -222,6 +235,12 @@ public class DialoguePersonScripts : MonoBehaviour
         if (indexDSAArray >= dsa.Length)
             return;
 
+        if (typingCoroutine != null)
+            StopCoroutine(typingCoroutine);
+
+        if (boxAnimationCoroutine != null)
+            StopCoroutine(boxAnimationCoroutine);
+
         StopAndClearDialogueAudio();
 
         currentLine = ReplaceVariables(dsa[indexDSAArray].textContents);
@@ -259,11 +278,11 @@ public class DialoguePersonScripts : MonoBehaviour
         if (boxAnimator != null && dsa[indexDSAArray].boxAnimation != null)
         {
             boxAnimator.runtimeAnimatorController = dsa[indexDSAArray].boxAnimation;
-            StartCoroutine(StartTypingAfterBoxAnimation());
+            boxAnimationCoroutine = StartCoroutine(StartTypingAfterBoxAnimation());
         }
         else
         {
-            StartCoroutine(TypeText(currentLine));
+            typingCoroutine = StartCoroutine(TypeText(currentLine));
         }
 
         PlayDialogueAudio();
@@ -274,18 +293,20 @@ public class DialoguePersonScripts : MonoBehaviour
     {
         if (boxAnimator != null)
         {
-            AnimatorStateInfo state = boxAnimator.GetCurrentAnimatorStateInfo(0);
+            boxAnimator.Rebind();
+            boxAnimator.Update(0f);
 
             yield return null;
+            yield return null;
 
-            state = boxAnimator.GetCurrentAnimatorStateInfo(0);
-
+            AnimatorStateInfo state = boxAnimator.GetCurrentAnimatorStateInfo(0);
             float animationLength = state.length;
 
-            yield return new WaitForSeconds(animationLength);
+            if (animationLength > 0f)
+                yield return new WaitForSeconds(animationLength);
         }
 
-        StartCoroutine(TypeText(currentLine));
+        typingCoroutine = StartCoroutine(TypeText(currentLine));
     }
 
     bool IsPointerOverMenu()
@@ -444,13 +465,8 @@ public class DialoguePersonScripts : MonoBehaviour
     IEnumerator WaitForClickThenLoad()
     {
         yield return null;
-
         yield return new WaitUntil(() => Mouse.current != null);
-
-        yield return new WaitUntil(() =>
-            Mouse.current.leftButton.wasPressedThisFrame
-        );
-
+        yield return new WaitUntil(() => Mouse.current.leftButton.wasPressedThisFrame);
         lmsa.LoadNextScene();
     }
 }
@@ -458,29 +474,18 @@ public class DialoguePersonScripts : MonoBehaviour
 [Serializable]
 public class Dialogue
 {
-    [Header("Dialogue and Animation")]
     public string textContents;
     public Sprite speakerVisual;
     public Sprite boxVisual;
     public GameObject disapearingSpeaker;
     public RuntimeAnimatorController Speaker;
-
-    [Header("DialogueBoxAnimation")]
     public RuntimeAnimatorController boxAnimation;
-
-    [Header("Audio")]
     public AudioClip[] audioClips;
     public AudioMixerGroup[] audioMixerGroups;
-
-    [Header("Persistent Audio")]
     public AudioClip[] persistentAudioClips;
     public AudioMixerGroup[] persistentAudioMixers;
-
-    [Header("Event")]
     public bool causesEvent;
     public UnityEvent eventVariable;
-
-    [Header("Decision")]
     public string[] decisionButtonTexts;
     public int[] targetIndexAfterDecision;
 }
