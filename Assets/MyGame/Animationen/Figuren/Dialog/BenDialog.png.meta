@@ -340,10 +340,10 @@ TextureImporter:
       name: BenDialog_0
       rect:
         serializedVersion: 2
-        x: 289
-        y: 8695
-        width: 431
-        height: 965
+        x: 0
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: BenDialog_1
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 8695
-        width: 431
-        height: 965
+        x: 1080
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: BenDialog_2
       rect:
         serializedVersion: 2
-        x: 2450
-        y: 8695
-        width: 430
-        height: 965
+        x: 2160
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: BenDialog_3
       rect:
         serializedVersion: 2
-        x: 3530
-        y: 8695
-        width: 429
-        height: 965
+        x: 3240
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: BenDialog_4
       rect:
         serializedVersion: 2
-        x: 4610
-        y: 8695
-        width: 429
-        height: 965
+        x: 4320
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: BenDialog_5
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 8695
-        width: 429
-        height: 965
+        x: 5400
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: BenDialog_6
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 8695
-        width: 429
-        height: 965
+        x: 6480
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: BenDialog_7
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 8695
-        width: 429
-        height: 965
+        x: 7560
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: BenDialog_8
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 8695
-        width: 429
-        height: 965
+        x: 8640
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: BenDialog_9
       rect:
         serializedVersion: 2
-        x: 290
-        y: 7615
-        width: 429
-        height: 965
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: BenDialog_10
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 7615
-        width: 428
-        height: 965
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: BenDialog_11
       rect:
         serializedVersion: 2
-        x: 2451
-        y: 7615
-        width: 427
-        height: 965
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: BenDialog_12
       rect:
         serializedVersion: 2
-        x: 3531
-        y: 7615
-        width: 427
-        height: 965
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +626,10 @@ TextureImporter:
       name: BenDialog_13
       rect:
         serializedVersion: 2
-        x: 4611
-        y: 7615
-        width: 427
-        height: 965
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +648,10 @@ TextureImporter:
       name: BenDialog_14
       rect:
         serializedVersion: 2
-        x: 5691
-        y: 7615
-        width: 427
-        height: 965
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +670,10 @@ TextureImporter:
       name: BenDialog_15
       rect:
         serializedVersion: 2
-        x: 6772
-        y: 7615
-        width: 426
-        height: 965
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,10 +692,10 @@ TextureImporter:
       name: BenDialog_16
       rect:
         serializedVersion: 2
-        x: 7852
-        y: 7615
-        width: 425
-        height: 964
+        x: 7560
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,10 +714,10 @@ TextureImporter:
       name: BenDialog_17
       rect:
         serializedVersion: 2
-        x: 8932
-        y: 7615
-        width: 425
-        height: 964
+        x: 8640
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,10 +736,10 @@ TextureImporter:
       name: BenDialog_18
       rect:
         serializedVersion: 2
-        x: 292
-        y: 6535
-        width: 425
-        height: 964
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +758,10 @@ TextureImporter:
       name: BenDialog_19
       rect:
         serializedVersion: 2
-        x: 1373
-        y: 6535
-        width: 424
-        height: 964
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,10 +780,10 @@ TextureImporter:
       name: BenDialog_20
       rect:
         serializedVersion: 2
-        x: 2453
-        y: 6535
-        width: 424
-        height: 964
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,10 +802,10 @@ TextureImporter:
       name: BenDialog_21
       rect:
         serializedVersion: 2
-        x: 3533
-        y: 6535
-        width: 423
-        height: 964
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -824,10 +824,10 @@ TextureImporter:
       name: BenDialog_22
       rect:
         serializedVersion: 2
-        x: 4613
-        y: 6535
-        width: 423
-        height: 964
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,10 +846,10 @@ TextureImporter:
       name: BenDialog_23
       rect:
         serializedVersion: 2
-        x: 5694
-        y: 6535
-        width: 422
-        height: 963
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,10 +868,10 @@ TextureImporter:
       name: BenDialog_24
       rect:
         serializedVersion: 2
-        x: 6774
-        y: 6535
-        width: 422
-        height: 963
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: BenDialog_25
       rect:
         serializedVersion: 2
-        x: 7854
-        y: 6535
-        width: 421
-        height: 963
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -912,10 +912,10 @@ TextureImporter:
       name: BenDialog_26
       rect:
         serializedVersion: 2
-        x: 8934
-        y: 6535
-        width: 421
-        height: 963
+        x: 8640
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,10 +934,10 @@ TextureImporter:
       name: BenDialog_27
       rect:
         serializedVersion: 2
-        x: 295
-        y: 5455
-        width: 420
-        height: 963
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -956,10 +956,10 @@ TextureImporter:
       name: BenDialog_28
       rect:
         serializedVersion: 2
-        x: 1375
-        y: 5455
-        width: 420
-        height: 963
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -978,10 +978,10 @@ TextureImporter:
       name: BenDialog_29
       rect:
         serializedVersion: 2
-        x: 2455
-        y: 5455
-        width: 420
-        height: 963
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1000,10 +1000,10 @@ TextureImporter:
       name: BenDialog_30
       rect:
         serializedVersion: 2
-        x: 3535
-        y: 5455
-        width: 420
-        height: 962
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1022,10 +1022,10 @@ TextureImporter:
       name: BenDialog_31
       rect:
         serializedVersion: 2
-        x: 4615
-        y: 5455
-        width: 419
-        height: 962
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1044,10 +1044,10 @@ TextureImporter:
       name: BenDialog_32
       rect:
         serializedVersion: 2
-        x: 5696
-        y: 5455
-        width: 418
-        height: 962
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1066,10 +1066,10 @@ TextureImporter:
       name: BenDialog_33
       rect:
         serializedVersion: 2
-        x: 6776
-        y: 5455
-        width: 418
-        height: 962
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1088,10 +1088,10 @@ TextureImporter:
       name: BenDialog_34
       rect:
         serializedVersion: 2
-        x: 7856
-        y: 5455
-        width: 418
-        height: 962
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1110,10 +1110,10 @@ TextureImporter:
       name: BenDialog_35
       rect:
         serializedVersion: 2
-        x: 8936
-        y: 5455
-        width: 418
-        height: 962
+        x: 8640
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1132,10 +1132,10 @@ TextureImporter:
       name: BenDialog_36
       rect:
         serializedVersion: 2
-        x: 296
-        y: 4375
-        width: 418
-        height: 962
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1154,10 +1154,10 @@ TextureImporter:
       name: BenDialog_37
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 4375
-        width: 418
-        height: 962
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1176,10 +1176,10 @@ TextureImporter:
       name: BenDialog_38
       rect:
         serializedVersion: 2
-        x: 2456
-        y: 4375
-        width: 418
-        height: 962
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1198,10 +1198,10 @@ TextureImporter:
       name: BenDialog_39
       rect:
         serializedVersion: 2
-        x: 3536
-        y: 4375
-        width: 418
-        height: 962
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1220,10 +1220,10 @@ TextureImporter:
       name: BenDialog_40
       rect:
         serializedVersion: 2
-        x: 4616
-        y: 4375
-        width: 418
-        height: 962
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1242,10 +1242,10 @@ TextureImporter:
       name: BenDialog_41
       rect:
         serializedVersion: 2
-        x: 5696
-        y: 4375
-        width: 418
-        height: 962
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1264,10 +1264,10 @@ TextureImporter:
       name: BenDialog_42
       rect:
         serializedVersion: 2
-        x: 6776
-        y: 4375
-        width: 418
-        height: 962
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1286,10 +1286,10 @@ TextureImporter:
       name: BenDialog_43
       rect:
         serializedVersion: 2
-        x: 7856
-        y: 4375
-        width: 418
-        height: 962
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,10 +1308,10 @@ TextureImporter:
       name: BenDialog_44
       rect:
         serializedVersion: 2
-        x: 8936
-        y: 4375
-        width: 418
-        height: 962
+        x: 8640
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1330,10 +1330,10 @@ TextureImporter:
       name: BenDialog_45
       rect:
         serializedVersion: 2
-        x: 296
-        y: 3295
-        width: 418
-        height: 962
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,10 +1352,10 @@ TextureImporter:
       name: BenDialog_46
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 3295
-        width: 418
-        height: 962
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1374,10 +1374,10 @@ TextureImporter:
       name: BenDialog_47
       rect:
         serializedVersion: 2
-        x: 2456
-        y: 3295
-        width: 418
-        height: 962
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1396,10 +1396,10 @@ TextureImporter:
       name: BenDialog_48
       rect:
         serializedVersion: 2
-        x: 3535
-        y: 3295
-        width: 419
-        height: 962
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1418,10 +1418,10 @@ TextureImporter:
       name: BenDialog_49
       rect:
         serializedVersion: 2
-        x: 4615
-        y: 3295
-        width: 420
-        height: 962
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1440,10 +1440,10 @@ TextureImporter:
       name: BenDialog_50
       rect:
         serializedVersion: 2
-        x: 5695
-        y: 3295
-        width: 420
-        height: 963
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1462,10 +1462,10 @@ TextureImporter:
       name: BenDialog_51
       rect:
         serializedVersion: 2
-        x: 6775
-        y: 3295
-        width: 420
-        height: 963
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1484,10 +1484,10 @@ TextureImporter:
       name: BenDialog_52
       rect:
         serializedVersion: 2
-        x: 7854
-        y: 3295
-        width: 421
-        height: 963
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1506,10 +1506,10 @@ TextureImporter:
       name: BenDialog_53
       rect:
         serializedVersion: 2
-        x: 8934
-        y: 3295
-        width: 421
-        height: 963
+        x: 8640
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1528,10 +1528,10 @@ TextureImporter:
       name: BenDialog_54
       rect:
         serializedVersion: 2
-        x: 294
-        y: 2215
-        width: 422
-        height: 963
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1550,10 +1550,10 @@ TextureImporter:
       name: BenDialog_55
       rect:
         serializedVersion: 2
-        x: 1374
-        y: 2215
-        width: 422
-        height: 963
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1572,10 +1572,10 @@ TextureImporter:
       name: BenDialog_56
       rect:
         serializedVersion: 2
-        x: 2453
-        y: 2215
-        width: 423
-        height: 964
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1594,10 +1594,10 @@ TextureImporter:
       name: BenDialog_57
       rect:
         serializedVersion: 2
-        x: 3533
-        y: 2215
-        width: 423
-        height: 964
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1616,10 +1616,10 @@ TextureImporter:
       name: BenDialog_58
       rect:
         serializedVersion: 2
-        x: 4613
-        y: 2215
-        width: 424
-        height: 964
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1638,10 +1638,10 @@ TextureImporter:
       name: BenDialog_59
       rect:
         serializedVersion: 2
-        x: 5692
-        y: 2215
-        width: 425
-        height: 964
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1660,10 +1660,10 @@ TextureImporter:
       name: BenDialog_60
       rect:
         serializedVersion: 2
-        x: 6772
-        y: 2215
-        width: 425
-        height: 964
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1682,10 +1682,10 @@ TextureImporter:
       name: BenDialog_61
       rect:
         serializedVersion: 2
-        x: 7852
-        y: 2215
-        width: 425
-        height: 964
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1704,10 +1704,10 @@ TextureImporter:
       name: BenDialog_62
       rect:
         serializedVersion: 2
-        x: 8932
-        y: 2215
-        width: 426
-        height: 965
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1726,10 +1726,10 @@ TextureImporter:
       name: BenDialog_63
       rect:
         serializedVersion: 2
-        x: 291
-        y: 1135
-        width: 427
-        height: 965
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1748,10 +1748,10 @@ TextureImporter:
       name: BenDialog_64
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 1135
-        width: 427
-        height: 965
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1770,10 +1770,10 @@ TextureImporter:
       name: BenDialog_65
       rect:
         serializedVersion: 2
-        x: 2451
-        y: 1135
-        width: 427
-        height: 965
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1792,10 +1792,10 @@ TextureImporter:
       name: BenDialog_66
       rect:
         serializedVersion: 2
-        x: 3531
-        y: 1135
-        width: 428
-        height: 965
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1814,10 +1814,10 @@ TextureImporter:
       name: BenDialog_67
       rect:
         serializedVersion: 2
-        x: 4610
-        y: 1135
-        width: 429
-        height: 965
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1836,10 +1836,10 @@ TextureImporter:
       name: BenDialog_68
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 1135
-        width: 429
-        height: 965
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1858,10 +1858,10 @@ TextureImporter:
       name: BenDialog_69
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 1135
-        width: 429
-        height: 965
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1880,10 +1880,10 @@ TextureImporter:
       name: BenDialog_70
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 1135
-        width: 429
-        height: 965
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1902,10 +1902,10 @@ TextureImporter:
       name: BenDialog_71
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 1135
-        width: 429
-        height: 965
+        x: 8640
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1924,10 +1924,10 @@ TextureImporter:
       name: BenDialog_72
       rect:
         serializedVersion: 2
-        x: 290
-        y: 55
-        width: 429
-        height: 965
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1946,10 +1946,10 @@ TextureImporter:
       name: BenDialog_73
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 55
-        width: 430
-        height: 965
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1968,10 +1968,10 @@ TextureImporter:
       name: BenDialog_74
       rect:
         serializedVersion: 2
-        x: 2449
-        y: 55
-        width: 431
-        height: 965
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1990,10 +1990,10 @@ TextureImporter:
       name: BenDialog_75
       rect:
         serializedVersion: 2
-        x: 3529
-        y: 55
-        width: 431
-        height: 965
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2012,10 +2012,10 @@ TextureImporter:
       name: BenDialog_76
       rect:
         serializedVersion: 2
-        x: 4609
-        y: 55
-        width: 431
-        height: 965
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2034,10 +2034,10 @@ TextureImporter:
       name: BenDialog_77
       rect:
         serializedVersion: 2
-        x: 5689
-        y: 55
-        width: 431
-        height: 965
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2056,10 +2056,10 @@ TextureImporter:
       name: BenDialog_78
       rect:
         serializedVersion: 2
-        x: 6769
-        y: 55
-        width: 431
-        height: 965
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2078,10 +2078,10 @@ TextureImporter:
       name: BenDialog_79
       rect:
         serializedVersion: 2
-        x: 7849
-        y: 55
-        width: 431
-        height: 965
+        x: 7560
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2100,7 +2100,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0b5492d25c7268d47902bfd78790fa0d
     internalID: 0
     vertices: []
     indices: 
@@ -2108,7 +2108,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":9.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       BenDialog_0: 1379471125480659402
       BenDialog_1: -8301775793418097382

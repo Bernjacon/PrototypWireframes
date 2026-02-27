@@ -184,7 +184,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -219,10 +219,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -250,10 +250,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_0
       rect:
         serializedVersion: 2
-        x: 227
-        y: 7577
-        width: 612
-        height: 1054
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_1
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 7577
-        width: 612
-        height: 1053
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_2
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 7577
-        width: 612
-        height: 1053
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_3
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 7577
-        width: 612
-        height: 1053
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_4
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 7577
-        width: 612
-        height: 1051
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_5
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 7577
-        width: 612
-        height: 1051
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_6
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 7577
-        width: 612
-        height: 1050
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_7
       rect:
         serializedVersion: 2
-        x: 227
-        y: 6497
-        width: 612
-        height: 1049
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_8
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 6497
-        width: 612
-        height: 1048
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_9
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 6497
-        width: 612
-        height: 1046
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_10
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 6497
-        width: 612
-        height: 1045
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_11
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 6497
-        width: 612
-        height: 1043
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_12
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 6497
-        width: 612
-        height: 1042
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_13
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 6497
-        width: 612
-        height: 1040
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_14
       rect:
         serializedVersion: 2
-        x: 227
-        y: 5417
-        width: 612
-        height: 1040
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_15
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 5417
-        width: 612
-        height: 1038
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_16
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 5417
-        width: 612
-        height: 1037
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_17
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 5417
-        width: 612
-        height: 1037
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_18
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 5417
-        width: 612
-        height: 1035
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_19
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 5417
-        width: 612
-        height: 1035
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_20
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 5417
-        width: 612
-        height: 1035
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_21
       rect:
         serializedVersion: 2
-        x: 227
-        y: 4337
-        width: 612
-        height: 1035
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_22
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 4337
-        width: 612
-        height: 1035
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_23
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 4337
-        width: 612
-        height: 1035
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_24
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 4337
-        width: 612
-        height: 1035
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +800,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_25
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 4337
-        width: 612
-        height: 1035
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +822,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_26
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 4337
-        width: 612
-        height: 1035
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,10 +844,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_27
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 4337
-        width: 612
-        height: 1035
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_28
       rect:
         serializedVersion: 2
-        x: 227
-        y: 3257
-        width: 612
-        height: 1035
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_29
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 3257
-        width: 612
-        height: 1035
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,10 +910,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_30
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 3257
-        width: 612
-        height: 1035
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_31
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 3257
-        width: 612
-        height: 1035
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -954,10 +954,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_32
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 3257
-        width: 612
-        height: 1035
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,10 +976,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_33
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 3257
-        width: 612
-        height: 1037
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,10 +998,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_34
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 3257
-        width: 612
-        height: 1037
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1020,10 +1020,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_35
       rect:
         serializedVersion: 2
-        x: 227
-        y: 2177
-        width: 612
-        height: 1038
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,10 +1042,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_36
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 2177
-        width: 612
-        height: 1040
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,10 +1064,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_37
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 2177
-        width: 612
-        height: 1040
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,10 +1086,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_38
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 2177
-        width: 612
-        height: 1042
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1108,10 +1108,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_39
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 2177
-        width: 612
-        height: 1043
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1130,10 +1130,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_40
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 2177
-        width: 612
-        height: 1045
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1152,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_41
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 2177
-        width: 612
-        height: 1046
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_42
       rect:
         serializedVersion: 2
-        x: 227
-        y: 1097
-        width: 612
-        height: 1048
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,10 +1196,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_43
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 1097
-        width: 612
-        height: 1049
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_44
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 1097
-        width: 612
-        height: 1050
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,10 +1240,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_45
       rect:
         serializedVersion: 2
-        x: 3467
-        y: 1097
-        width: 612
-        height: 1051
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,10 +1262,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_46
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 1097
-        width: 612
-        height: 1051
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,10 +1284,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_47
       rect:
         serializedVersion: 2
-        x: 5627
-        y: 1097
-        width: 612
-        height: 1053
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,10 +1306,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_48
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 1097
-        width: 612
-        height: 1053
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,10 +1328,10 @@ TextureImporter:
       name: QuinnBackgroundIdle2_49
       rect:
         serializedVersion: 2
-        x: 227
-        y: 17
-        width: 612
-        height: 1053
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,7 +1350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7e1cefc4ccc61a34aa8cbf0f93b0cdf4
     internalID: 0
     vertices: []
     indices: 
@@ -1358,7 +1358,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":8.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       QuinnBackgroundIdle2_0: 4991682222862329991
       QuinnBackgroundIdle2_1: 7154070706040232478

@@ -259,7 +259,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -294,10 +294,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -325,10 +325,10 @@ TextureImporter:
       name: BenFrontIdle_0
       rect:
         serializedVersion: 2
-        x: 289
-        y: 8695
-        width: 431
-        height: 965
+        x: 0
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: BenFrontIdle_1
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 8695
-        width: 431
-        height: 965
+        x: 1080
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +369,10 @@ TextureImporter:
       name: BenFrontIdle_2
       rect:
         serializedVersion: 2
-        x: 2449
-        y: 8695
-        width: 431
-        height: 965
+        x: 2160
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,10 +391,10 @@ TextureImporter:
       name: BenFrontIdle_3
       rect:
         serializedVersion: 2
-        x: 3530
-        y: 8695
-        width: 429
-        height: 965
+        x: 3240
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: BenFrontIdle_4
       rect:
         serializedVersion: 2
-        x: 4610
-        y: 8695
-        width: 429
-        height: 965
+        x: 4320
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +435,10 @@ TextureImporter:
       name: BenFrontIdle_5
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 8695
-        width: 429
-        height: 965
+        x: 5400
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: BenFrontIdle_6
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 8695
-        width: 429
-        height: 964
+        x: 6480
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: BenFrontIdle_7
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 8695
-        width: 429
-        height: 964
+        x: 7560
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +501,10 @@ TextureImporter:
       name: BenFrontIdle_8
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 8695
-        width: 429
-        height: 964
+        x: 8640
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +523,10 @@ TextureImporter:
       name: BenFrontIdle_9
       rect:
         serializedVersion: 2
-        x: 290
-        y: 7615
-        width: 429
-        height: 964
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +545,10 @@ TextureImporter:
       name: BenFrontIdle_10
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 7615
-        width: 428
-        height: 963
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: BenFrontIdle_11
       rect:
         serializedVersion: 2
-        x: 2450
-        y: 7615
-        width: 428
-        height: 963
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +589,10 @@ TextureImporter:
       name: BenFrontIdle_12
       rect:
         serializedVersion: 2
-        x: 3530
-        y: 7616
-        width: 428
-        height: 962
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +611,10 @@ TextureImporter:
       name: BenFrontIdle_13
       rect:
         serializedVersion: 2
-        x: 4610
-        y: 7616
-        width: 428
-        height: 962
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +633,10 @@ TextureImporter:
       name: BenFrontIdle_14
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 7616
-        width: 427
-        height: 961
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +655,10 @@ TextureImporter:
       name: BenFrontIdle_15
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 7616
-        width: 427
-        height: 961
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: BenFrontIdle_16
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 7616
-        width: 427
-        height: 961
+        x: 7560
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: BenFrontIdle_17
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 7616
-        width: 427
-        height: 961
+        x: 8640
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,10 +721,10 @@ TextureImporter:
       name: BenFrontIdle_18
       rect:
         serializedVersion: 2
-        x: 290
-        y: 6536
-        width: 426
-        height: 960
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: BenFrontIdle_19
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 6536
-        width: 426
-        height: 960
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +765,10 @@ TextureImporter:
       name: BenFrontIdle_20
       rect:
         serializedVersion: 2
-        x: 2450
-        y: 6536
-        width: 426
-        height: 960
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +787,10 @@ TextureImporter:
       name: BenFrontIdle_21
       rect:
         serializedVersion: 2
-        x: 3531
-        y: 6536
-        width: 424
-        height: 960
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -809,10 +809,10 @@ TextureImporter:
       name: BenFrontIdle_22
       rect:
         serializedVersion: 2
-        x: 4611
-        y: 6536
-        width: 424
-        height: 959
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -831,10 +831,10 @@ TextureImporter:
       name: BenFrontIdle_23
       rect:
         serializedVersion: 2
-        x: 5691
-        y: 6536
-        width: 424
-        height: 959
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,10 +853,10 @@ TextureImporter:
       name: BenFrontIdle_24
       rect:
         serializedVersion: 2
-        x: 6771
-        y: 6536
-        width: 424
-        height: 959
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,10 +875,10 @@ TextureImporter:
       name: BenFrontIdle_25
       rect:
         serializedVersion: 2
-        x: 7851
-        y: 6536
-        width: 423
-        height: 958
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,10 +897,10 @@ TextureImporter:
       name: BenFrontIdle_26
       rect:
         serializedVersion: 2
-        x: 8931
-        y: 6536
-        width: 423
-        height: 958
+        x: 8640
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,10 +919,10 @@ TextureImporter:
       name: BenFrontIdle_27
       rect:
         serializedVersion: 2
-        x: 291
-        y: 5456
-        width: 423
-        height: 958
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,10 +941,10 @@ TextureImporter:
       name: BenFrontIdle_28
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 5456
-        width: 423
-        height: 958
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -963,10 +963,10 @@ TextureImporter:
       name: BenFrontIdle_29
       rect:
         serializedVersion: 2
-        x: 2451
-        y: 5456
-        width: 423
-        height: 957
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,10 +985,10 @@ TextureImporter:
       name: BenFrontIdle_30
       rect:
         serializedVersion: 2
-        x: 3531
-        y: 5456
-        width: 423
-        height: 957
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,10 +1007,10 @@ TextureImporter:
       name: BenFrontIdle_31
       rect:
         serializedVersion: 2
-        x: 4611
-        y: 5456
-        width: 422
-        height: 957
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,10 +1029,10 @@ TextureImporter:
       name: BenFrontIdle_32
       rect:
         serializedVersion: 2
-        x: 5691
-        y: 5456
-        width: 422
-        height: 957
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1051,10 +1051,10 @@ TextureImporter:
       name: BenFrontIdle_33
       rect:
         serializedVersion: 2
-        x: 6771
-        y: 5456
-        width: 422
-        height: 957
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1073,10 @@ TextureImporter:
       name: BenFrontIdle_34
       rect:
         serializedVersion: 2
-        x: 7851
-        y: 5456
-        width: 422
-        height: 957
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,10 +1095,10 @@ TextureImporter:
       name: BenFrontIdle_35
       rect:
         serializedVersion: 2
-        x: 8931
-        y: 5456
-        width: 422
-        height: 957
+        x: 8640
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1117,10 +1117,10 @@ TextureImporter:
       name: BenFrontIdle_36
       rect:
         serializedVersion: 2
-        x: 291
-        y: 4376
-        width: 422
-        height: 957
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1139,10 +1139,10 @@ TextureImporter:
       name: BenFrontIdle_37
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 4376
-        width: 422
-        height: 957
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,10 +1161,10 @@ TextureImporter:
       name: BenFrontIdle_38
       rect:
         serializedVersion: 2
-        x: 2451
-        y: 4376
-        width: 422
-        height: 957
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,10 +1183,10 @@ TextureImporter:
       name: BenFrontIdle_39
       rect:
         serializedVersion: 2
-        x: 3531
-        y: 4376
-        width: 422
-        height: 957
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: BenFrontIdle_40
       rect:
         serializedVersion: 2
-        x: 4611
-        y: 4376
-        width: 422
-        height: 957
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,10 +1227,10 @@ TextureImporter:
       name: BenFrontIdle_41
       rect:
         serializedVersion: 2
-        x: 5691
-        y: 4376
-        width: 423
-        height: 957
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1249,10 +1249,10 @@ TextureImporter:
       name: BenFrontIdle_42
       rect:
         serializedVersion: 2
-        x: 6771
-        y: 4376
-        width: 423
-        height: 957
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1271,10 +1271,10 @@ TextureImporter:
       name: BenFrontIdle_43
       rect:
         serializedVersion: 2
-        x: 7851
-        y: 4376
-        width: 423
-        height: 958
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1293,10 +1293,10 @@ TextureImporter:
       name: BenFrontIdle_44
       rect:
         serializedVersion: 2
-        x: 8931
-        y: 4376
-        width: 423
-        height: 958
+        x: 8640
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,10 +1315,10 @@ TextureImporter:
       name: BenFrontIdle_45
       rect:
         serializedVersion: 2
-        x: 291
-        y: 3296
-        width: 423
-        height: 958
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,10 +1337,10 @@ TextureImporter:
       name: BenFrontIdle_46
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 3296
-        width: 423
-        height: 958
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1359,10 +1359,10 @@ TextureImporter:
       name: BenFrontIdle_47
       rect:
         serializedVersion: 2
-        x: 2451
-        y: 3296
-        width: 424
-        height: 958
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1381,10 +1381,10 @@ TextureImporter:
       name: BenFrontIdle_48
       rect:
         serializedVersion: 2
-        x: 3531
-        y: 3296
-        width: 424
-        height: 959
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1403,10 +1403,10 @@ TextureImporter:
       name: BenFrontIdle_49
       rect:
         serializedVersion: 2
-        x: 4611
-        y: 3296
-        width: 424
-        height: 959
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,10 +1425,10 @@ TextureImporter:
       name: BenFrontIdle_50
       rect:
         serializedVersion: 2
-        x: 5691
-        y: 3296
-        width: 424
-        height: 959
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,10 +1447,10 @@ TextureImporter:
       name: BenFrontIdle_51
       rect:
         serializedVersion: 2
-        x: 6771
-        y: 3296
-        width: 424
-        height: 960
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1469,10 +1469,10 @@ TextureImporter:
       name: BenFrontIdle_52
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 3296
-        width: 426
-        height: 960
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1491,10 +1491,10 @@ TextureImporter:
       name: BenFrontIdle_53
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 3296
-        width: 426
-        height: 960
+        x: 8640
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1513,10 +1513,10 @@ TextureImporter:
       name: BenFrontIdle_54
       rect:
         serializedVersion: 2
-        x: 290
-        y: 2216
-        width: 426
-        height: 960
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1535,10 +1535,10 @@ TextureImporter:
       name: BenFrontIdle_55
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 2216
-        width: 426
-        height: 961
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1557,10 +1557,10 @@ TextureImporter:
       name: BenFrontIdle_56
       rect:
         serializedVersion: 2
-        x: 2450
-        y: 2216
-        width: 427
-        height: 961
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1579,10 +1579,10 @@ TextureImporter:
       name: BenFrontIdle_57
       rect:
         serializedVersion: 2
-        x: 3530
-        y: 2216
-        width: 427
-        height: 961
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1601,10 +1601,10 @@ TextureImporter:
       name: BenFrontIdle_58
       rect:
         serializedVersion: 2
-        x: 4610
-        y: 2216
-        width: 427
-        height: 961
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,10 +1623,10 @@ TextureImporter:
       name: BenFrontIdle_59
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 2216
-        width: 427
-        height: 961
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1645,10 +1645,10 @@ TextureImporter:
       name: BenFrontIdle_60
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 2216
-        width: 428
-        height: 962
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: BenFrontIdle_61
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 2216
-        width: 428
-        height: 962
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1689,10 +1689,10 @@ TextureImporter:
       name: BenFrontIdle_62
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 2216
-        width: 428
-        height: 962
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1711,10 +1711,10 @@ TextureImporter:
       name: BenFrontIdle_63
       rect:
         serializedVersion: 2
-        x: 290
-        y: 1135
-        width: 428
-        height: 963
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1733,10 +1733,10 @@ TextureImporter:
       name: BenFrontIdle_64
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 1135
-        width: 428
-        height: 963
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1755,10 +1755,10 @@ TextureImporter:
       name: BenFrontIdle_65
       rect:
         serializedVersion: 2
-        x: 2450
-        y: 1135
-        width: 429
-        height: 964
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1777,10 +1777,10 @@ TextureImporter:
       name: BenFrontIdle_66
       rect:
         serializedVersion: 2
-        x: 3530
-        y: 1135
-        width: 429
-        height: 964
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1799,10 +1799,10 @@ TextureImporter:
       name: BenFrontIdle_67
       rect:
         serializedVersion: 2
-        x: 4610
-        y: 1135
-        width: 429
-        height: 964
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1821,10 +1821,10 @@ TextureImporter:
       name: BenFrontIdle_68
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 1135
-        width: 429
-        height: 964
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1843,10 +1843,10 @@ TextureImporter:
       name: BenFrontIdle_69
       rect:
         serializedVersion: 2
-        x: 6770
-        y: 1135
-        width: 429
-        height: 965
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1865,10 +1865,10 @@ TextureImporter:
       name: BenFrontIdle_70
       rect:
         serializedVersion: 2
-        x: 7850
-        y: 1135
-        width: 429
-        height: 965
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1887,10 +1887,10 @@ TextureImporter:
       name: BenFrontIdle_71
       rect:
         serializedVersion: 2
-        x: 8930
-        y: 1135
-        width: 429
-        height: 965
+        x: 8640
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1909,10 +1909,10 @@ TextureImporter:
       name: BenFrontIdle_72
       rect:
         serializedVersion: 2
-        x: 290
-        y: 55
-        width: 429
-        height: 965
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1931,10 +1931,10 @@ TextureImporter:
       name: BenFrontIdle_73
       rect:
         serializedVersion: 2
-        x: 1369
-        y: 55
-        width: 431
-        height: 965
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1953,10 +1953,10 @@ TextureImporter:
       name: BenFrontIdle_74
       rect:
         serializedVersion: 2
-        x: 2449
-        y: 55
-        width: 431
-        height: 965
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1975,7 +1975,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6bee0bd8976b0ef4882a42892ae1de25
     internalID: 0
     vertices: []
     indices: 
@@ -1983,7 +1983,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":9.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       BenFrontIdle_0: 1464776416504813138
       BenFrontIdle_1: 4826504443359276101

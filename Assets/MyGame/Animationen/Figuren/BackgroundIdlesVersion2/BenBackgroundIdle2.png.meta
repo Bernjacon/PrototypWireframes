@@ -184,7 +184,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -219,10 +219,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -250,10 +250,10 @@ TextureImporter:
       name: BenBackgroundIdle2_0
       rect:
         serializedVersion: 2
-        x: 247
-        y: 7611
-        width: 562
-        height: 991
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: BenBackgroundIdle2_1
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 7611
-        width: 561
-        height: 991
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: BenBackgroundIdle2_2
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 7611
-        width: 561
-        height: 991
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: BenBackgroundIdle2_3
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 7611
-        width: 561
-        height: 991
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: BenBackgroundIdle2_4
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 7611
-        width: 559
-        height: 991
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: BenBackgroundIdle2_5
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 7611
-        width: 559
-        height: 991
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: BenBackgroundIdle2_6
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 7611
-        width: 557
-        height: 991
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: BenBackgroundIdle2_7
       rect:
         serializedVersion: 2
-        x: 247
-        y: 6531
-        width: 557
-        height: 991
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: BenBackgroundIdle2_8
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 6531
-        width: 555
-        height: 989
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: BenBackgroundIdle2_9
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 6531
-        width: 554
-        height: 989
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: BenBackgroundIdle2_10
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 6531
-        width: 552
-        height: 989
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: BenBackgroundIdle2_11
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 6531
-        width: 552
-        height: 988
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: BenBackgroundIdle2_12
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 6531
-        width: 550
-        height: 988
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: BenBackgroundIdle2_13
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 6531
-        width: 548
-        height: 987
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: BenBackgroundIdle2_14
       rect:
         serializedVersion: 2
-        x: 247
-        y: 5451
-        width: 547
-        height: 987
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: BenBackgroundIdle2_15
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 5451
-        width: 545
-        height: 986
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: BenBackgroundIdle2_16
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 5451
-        width: 544
-        height: 986
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: BenBackgroundIdle2_17
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 5451
-        width: 543
-        height: 986
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: BenBackgroundIdle2_18
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 5451
-        width: 541
-        height: 984
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: BenBackgroundIdle2_19
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 5451
-        width: 540
-        height: 984
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: BenBackgroundIdle2_20
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 5451
-        width: 540
-        height: 984
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: BenBackgroundIdle2_21
       rect:
         serializedVersion: 2
-        x: 247
-        y: 4371
-        width: 538
-        height: 984
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: BenBackgroundIdle2_22
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 4371
-        width: 538
-        height: 984
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: BenBackgroundIdle2_23
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 4371
-        width: 537
-        height: 984
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: BenBackgroundIdle2_24
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 4371
-        width: 536
-        height: 983
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +800,10 @@ TextureImporter:
       name: BenBackgroundIdle2_25
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 4371
-        width: 536
-        height: 982
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +822,10 @@ TextureImporter:
       name: BenBackgroundIdle2_26
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 4371
-        width: 536
-        height: 983
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,10 +844,10 @@ TextureImporter:
       name: BenBackgroundIdle2_27
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 4371
-        width: 537
-        height: 984
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: BenBackgroundIdle2_28
       rect:
         serializedVersion: 2
-        x: 247
-        y: 3291
-        width: 538
-        height: 984
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: BenBackgroundIdle2_29
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 3291
-        width: 538
-        height: 984
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,10 +910,10 @@ TextureImporter:
       name: BenBackgroundIdle2_30
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 3291
-        width: 540
-        height: 984
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: BenBackgroundIdle2_31
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 3291
-        width: 540
-        height: 984
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -954,10 +954,10 @@ TextureImporter:
       name: BenBackgroundIdle2_32
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 3291
-        width: 541
-        height: 984
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,10 +976,10 @@ TextureImporter:
       name: BenBackgroundIdle2_33
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 3291
-        width: 543
-        height: 986
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,10 +998,10 @@ TextureImporter:
       name: BenBackgroundIdle2_34
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 3291
-        width: 544
-        height: 986
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1020,10 +1020,10 @@ TextureImporter:
       name: BenBackgroundIdle2_35
       rect:
         serializedVersion: 2
-        x: 247
-        y: 2211
-        width: 545
-        height: 986
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,10 +1042,10 @@ TextureImporter:
       name: BenBackgroundIdle2_36
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 2211
-        width: 547
-        height: 987
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,10 +1064,10 @@ TextureImporter:
       name: BenBackgroundIdle2_37
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 2211
-        width: 548
-        height: 987
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,10 +1086,10 @@ TextureImporter:
       name: BenBackgroundIdle2_38
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 2211
-        width: 550
-        height: 988
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1108,10 +1108,10 @@ TextureImporter:
       name: BenBackgroundIdle2_39
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 2211
-        width: 552
-        height: 988
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1130,10 +1130,10 @@ TextureImporter:
       name: BenBackgroundIdle2_40
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 2211
-        width: 552
-        height: 989
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1152,10 @@ TextureImporter:
       name: BenBackgroundIdle2_41
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 2211
-        width: 554
-        height: 989
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: BenBackgroundIdle2_42
       rect:
         serializedVersion: 2
-        x: 247
-        y: 1131
-        width: 555
-        height: 989
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,10 +1196,10 @@ TextureImporter:
       name: BenBackgroundIdle2_43
       rect:
         serializedVersion: 2
-        x: 1327
-        y: 1131
-        width: 557
-        height: 991
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
       name: BenBackgroundIdle2_44
       rect:
         serializedVersion: 2
-        x: 2407
-        y: 1131
-        width: 557
-        height: 991
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,10 +1240,10 @@ TextureImporter:
       name: BenBackgroundIdle2_45
       rect:
         serializedVersion: 2
-        x: 3487
-        y: 1131
-        width: 559
-        height: 991
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,10 +1262,10 @@ TextureImporter:
       name: BenBackgroundIdle2_46
       rect:
         serializedVersion: 2
-        x: 4567
-        y: 1131
-        width: 559
-        height: 991
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,10 +1284,10 @@ TextureImporter:
       name: BenBackgroundIdle2_47
       rect:
         serializedVersion: 2
-        x: 5647
-        y: 1131
-        width: 561
-        height: 991
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,10 +1306,10 @@ TextureImporter:
       name: BenBackgroundIdle2_48
       rect:
         serializedVersion: 2
-        x: 6727
-        y: 1131
-        width: 561
-        height: 991
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,10 +1328,10 @@ TextureImporter:
       name: BenBackgroundIdle2_49
       rect:
         serializedVersion: 2
-        x: 247
-        y: 51
-        width: 561
-        height: 991
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,7 +1350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3221668d437cd5b4b857eb8984ba8cd5
     internalID: 0
     vertices: []
     indices: 
@@ -1358,7 +1358,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":8.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       BenBackgroundIdle2_0: 9066803971172749626
       BenBackgroundIdle2_1: 7114155816468084355

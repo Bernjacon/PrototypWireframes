@@ -184,7 +184,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -219,10 +219,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -250,10 +250,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _0
       rect:
         serializedVersion: 2
-        x: 233
-        y: 7591
-        width: 598
-        height: 994
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _1
       rect:
         serializedVersion: 2
-        x: 1312
-        y: 7591
-        width: 599
-        height: 994
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _2
       rect:
         serializedVersion: 2
-        x: 2391
-        y: 7591
-        width: 600
-        height: 994
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _3
       rect:
         serializedVersion: 2
-        x: 3470
-        y: 7591
-        width: 601
-        height: 993
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _4
       rect:
         serializedVersion: 2
-        x: 4547
-        y: 7591
-        width: 604
-        height: 993
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _5
       rect:
         serializedVersion: 2
-        x: 5628
-        y: 7591
-        width: 603
-        height: 992
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _6
       rect:
         serializedVersion: 2
-        x: 6708
-        y: 7591
-        width: 603
-        height: 991
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _7
       rect:
         serializedVersion: 2
-        x: 228
-        y: 6511
-        width: 603
-        height: 991
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _8
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 6511
-        width: 603
-        height: 990
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _9
       rect:
         serializedVersion: 2
-        x: 2388
-        y: 6511
-        width: 603
-        height: 990
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _10
       rect:
         serializedVersion: 2
-        x: 3468
-        y: 6511
-        width: 603
-        height: 990
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _11
       rect:
         serializedVersion: 2
-        x: 4548
-        y: 6511
-        width: 603
-        height: 990
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _12
       rect:
         serializedVersion: 2
-        x: 5628
-        y: 6511
-        width: 603
-        height: 990
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _13
       rect:
         serializedVersion: 2
-        x: 6708
-        y: 6511
-        width: 603
-        height: 990
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _14
       rect:
         serializedVersion: 2
-        x: 228
-        y: 5431
-        width: 603
-        height: 990
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _15
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 5431
-        width: 603
-        height: 990
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _16
       rect:
         serializedVersion: 2
-        x: 2388
-        y: 5431
-        width: 603
-        height: 990
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _17
       rect:
         serializedVersion: 2
-        x: 3470
-        y: 5431
-        width: 601
-        height: 990
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _18
       rect:
         serializedVersion: 2
-        x: 4551
-        y: 5431
-        width: 600
-        height: 990
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _19
       rect:
         serializedVersion: 2
-        x: 5632
-        y: 5431
-        width: 599
-        height: 990
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _20
       rect:
         serializedVersion: 2
-        x: 6713
-        y: 5431
-        width: 598
-        height: 990
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _21
       rect:
         serializedVersion: 2
-        x: 233
-        y: 4351
-        width: 598
-        height: 990
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _22
       rect:
         serializedVersion: 2
-        x: 1313
-        y: 4351
-        width: 598
-        height: 990
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _23
       rect:
         serializedVersion: 2
-        x: 2393
-        y: 4351
-        width: 598
-        height: 990
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _24
       rect:
         serializedVersion: 2
-        x: 3473
-        y: 4351
-        width: 598
-        height: 990
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +800,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _25
       rect:
         serializedVersion: 2
-        x: 4553
-        y: 4351
-        width: 598
-        height: 990
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +822,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _26
       rect:
         serializedVersion: 2
-        x: 5633
-        y: 4351
-        width: 598
-        height: 990
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,10 +844,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _27
       rect:
         serializedVersion: 2
-        x: 6713
-        y: 4351
-        width: 598
-        height: 990
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _28
       rect:
         serializedVersion: 2
-        x: 233
-        y: 3271
-        width: 598
-        height: 990
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _29
       rect:
         serializedVersion: 2
-        x: 1313
-        y: 3271
-        width: 598
-        height: 990
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,10 +910,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _30
       rect:
         serializedVersion: 2
-        x: 2393
-        y: 3271
-        width: 598
-        height: 990
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _31
       rect:
         serializedVersion: 2
-        x: 3472
-        y: 3271
-        width: 599
-        height: 990
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -954,10 +954,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _32
       rect:
         serializedVersion: 2
-        x: 4551
-        y: 3271
-        width: 600
-        height: 990
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,10 +976,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _33
       rect:
         serializedVersion: 2
-        x: 5630
-        y: 3271
-        width: 601
-        height: 990
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,10 +998,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _34
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 3271
-        width: 604
-        height: 990
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1020,10 +1020,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _35
       rect:
         serializedVersion: 2
-        x: 228
-        y: 2191
-        width: 603
-        height: 990
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,10 +1042,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _36
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 2191
-        width: 603
-        height: 990
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,10 +1064,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _37
       rect:
         serializedVersion: 2
-        x: 2388
-        y: 2191
-        width: 603
-        height: 990
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,10 +1086,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _38
       rect:
         serializedVersion: 2
-        x: 3468
-        y: 2191
-        width: 603
-        height: 990
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1108,10 +1108,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _39
       rect:
         serializedVersion: 2
-        x: 4548
-        y: 2191
-        width: 603
-        height: 990
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1130,10 +1130,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _40
       rect:
         serializedVersion: 2
-        x: 5628
-        y: 2191
-        width: 603
-        height: 990
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1152,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _41
       rect:
         serializedVersion: 2
-        x: 6708
-        y: 2191
-        width: 603
-        height: 990
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _42
       rect:
         serializedVersion: 2
-        x: 228
-        y: 1111
-        width: 603
-        height: 990
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,10 +1196,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _43
       rect:
         serializedVersion: 2
-        x: 1308
-        y: 1111
-        width: 603
-        height: 991
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _44
       rect:
         serializedVersion: 2
-        x: 2388
-        y: 1111
-        width: 603
-        height: 991
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,10 +1240,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _45
       rect:
         serializedVersion: 2
-        x: 3468
-        y: 1111
-        width: 603
-        height: 992
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,10 +1262,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _46
       rect:
         serializedVersion: 2
-        x: 4548
-        y: 1111
-        width: 603
-        height: 993
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,10 +1284,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _47
       rect:
         serializedVersion: 2
-        x: 5630
-        y: 1111
-        width: 601
-        height: 993
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,10 +1306,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _48
       rect:
         serializedVersion: 2
-        x: 6711
-        y: 1111
-        width: 600
-        height: 994
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,10 +1328,10 @@ TextureImporter:
       name: MCBackgroundIdleVer2 _49
       rect:
         serializedVersion: 2
-        x: 232
-        y: 31
-        width: 599
-        height: 994
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,7 +1350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1c34cc1eb3750bf48afe3ff8828c534e
     internalID: 0
     vertices: []
     indices: 
@@ -1358,7 +1358,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":8.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       MCBackgroundIdleVer2 _0: -3402829716218074685
       MCBackgroundIdleVer2 _1: -1260940026042528578

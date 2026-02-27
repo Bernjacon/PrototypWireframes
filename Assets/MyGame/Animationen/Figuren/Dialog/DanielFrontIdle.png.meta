@@ -259,7 +259,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -294,10 +294,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -325,10 +325,10 @@ TextureImporter:
       name: DanielFrontIdle_0
       rect:
         serializedVersion: 2
-        x: 299
-        y: 8666
-        width: 381
-        height: 1009
+        x: 0
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +347,10 @@ TextureImporter:
       name: DanielFrontIdle_1
       rect:
         serializedVersion: 2
-        x: 1379
-        y: 8666
-        width: 381
-        height: 1009
+        x: 1080
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +369,10 @@ TextureImporter:
       name: DanielFrontIdle_2
       rect:
         serializedVersion: 2
-        x: 2459
-        y: 8666
-        width: 381
-        height: 1009
+        x: 2160
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,10 +391,10 @@ TextureImporter:
       name: DanielFrontIdle_3
       rect:
         serializedVersion: 2
-        x: 3540
-        y: 8666
-        width: 380
-        height: 1009
+        x: 3240
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,10 +413,10 @@ TextureImporter:
       name: DanielFrontIdle_4
       rect:
         serializedVersion: 2
-        x: 4620
-        y: 8666
-        width: 380
-        height: 1010
+        x: 4320
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,10 +435,10 @@ TextureImporter:
       name: DanielFrontIdle_5
       rect:
         serializedVersion: 2
-        x: 5700
-        y: 8666
-        width: 380
-        height: 1010
+        x: 5400
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: DanielFrontIdle_6
       rect:
         serializedVersion: 2
-        x: 6780
-        y: 8665
-        width: 380
-        height: 1011
+        x: 6480
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,10 +479,10 @@ TextureImporter:
       name: DanielFrontIdle_7
       rect:
         serializedVersion: 2
-        x: 7860
-        y: 8665
-        width: 380
-        height: 1012
+        x: 7560
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,10 +501,10 @@ TextureImporter:
       name: DanielFrontIdle_8
       rect:
         serializedVersion: 2
-        x: 8940
-        y: 8665
-        width: 380
-        height: 1012
+        x: 8640
+        y: 8640
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,10 +523,10 @@ TextureImporter:
       name: DanielFrontIdle_9
       rect:
         serializedVersion: 2
-        x: 300
-        y: 7585
-        width: 380
-        height: 1013
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,10 +545,10 @@ TextureImporter:
       name: DanielFrontIdle_10
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 7585
-        width: 380
-        height: 1013
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: DanielFrontIdle_11
       rect:
         serializedVersion: 2
-        x: 2461
-        y: 7585
-        width: 379
-        height: 1014
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,10 +589,10 @@ TextureImporter:
       name: DanielFrontIdle_12
       rect:
         serializedVersion: 2
-        x: 3541
-        y: 7585
-        width: 379
-        height: 1014
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +611,10 @@ TextureImporter:
       name: DanielFrontIdle_13
       rect:
         serializedVersion: 2
-        x: 4621
-        y: 7585
-        width: 379
-        height: 1015
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,10 +633,10 @@ TextureImporter:
       name: DanielFrontIdle_14
       rect:
         serializedVersion: 2
-        x: 5701
-        y: 7585
-        width: 379
-        height: 1016
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,10 +655,10 @@ TextureImporter:
       name: DanielFrontIdle_15
       rect:
         serializedVersion: 2
-        x: 6781
-        y: 7585
-        width: 379
-        height: 1016
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,10 +677,10 @@ TextureImporter:
       name: DanielFrontIdle_16
       rect:
         serializedVersion: 2
-        x: 7862
-        y: 7585
-        width: 378
-        height: 1017
+        x: 7560
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,10 +699,10 @@ TextureImporter:
       name: DanielFrontIdle_17
       rect:
         serializedVersion: 2
-        x: 8942
-        y: 7585
-        width: 378
-        height: 1018
+        x: 8640
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -721,10 +721,10 @@ TextureImporter:
       name: DanielFrontIdle_18
       rect:
         serializedVersion: 2
-        x: 302
-        y: 6505
-        width: 378
-        height: 1018
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: DanielFrontIdle_19
       rect:
         serializedVersion: 2
-        x: 1382
-        y: 6505
-        width: 378
-        height: 1019
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,10 +765,10 @@ TextureImporter:
       name: DanielFrontIdle_20
       rect:
         serializedVersion: 2
-        x: 2463
-        y: 6505
-        width: 377
-        height: 1019
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +787,10 @@ TextureImporter:
       name: DanielFrontIdle_21
       rect:
         serializedVersion: 2
-        x: 3543
-        y: 6505
-        width: 377
-        height: 1020
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -809,10 +809,10 @@ TextureImporter:
       name: DanielFrontIdle_22
       rect:
         serializedVersion: 2
-        x: 4623
-        y: 6505
-        width: 377
-        height: 1021
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -831,10 +831,10 @@ TextureImporter:
       name: DanielFrontIdle_23
       rect:
         serializedVersion: 2
-        x: 5703
-        y: 6505
-        width: 377
-        height: 1021
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,10 +853,10 @@ TextureImporter:
       name: DanielFrontIdle_24
       rect:
         serializedVersion: 2
-        x: 6784
-        y: 6505
-        width: 376
-        height: 1022
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,10 +875,10 @@ TextureImporter:
       name: DanielFrontIdle_25
       rect:
         serializedVersion: 2
-        x: 7864
-        y: 6505
-        width: 376
-        height: 1022
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,10 +897,10 @@ TextureImporter:
       name: DanielFrontIdle_26
       rect:
         serializedVersion: 2
-        x: 8944
-        y: 6505
-        width: 376
-        height: 1023
+        x: 8640
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,10 +919,10 @@ TextureImporter:
       name: DanielFrontIdle_27
       rect:
         serializedVersion: 2
-        x: 304
-        y: 5425
-        width: 376
-        height: 1023
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,10 +941,10 @@ TextureImporter:
       name: DanielFrontIdle_28
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 5425
-        width: 376
-        height: 1023
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -963,10 +963,10 @@ TextureImporter:
       name: DanielFrontIdle_29
       rect:
         serializedVersion: 2
-        x: 2464
-        y: 5425
-        width: 376
-        height: 1024
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,10 +985,10 @@ TextureImporter:
       name: DanielFrontIdle_30
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 5425
-        width: 375
-        height: 1024
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,10 +1007,10 @@ TextureImporter:
       name: DanielFrontIdle_31
       rect:
         serializedVersion: 2
-        x: 4625
-        y: 5425
-        width: 375
-        height: 1024
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,10 +1029,10 @@ TextureImporter:
       name: DanielFrontIdle_32
       rect:
         serializedVersion: 2
-        x: 5705
-        y: 5425
-        width: 375
-        height: 1024
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1051,10 +1051,10 @@ TextureImporter:
       name: DanielFrontIdle_33
       rect:
         serializedVersion: 2
-        x: 6785
-        y: 5425
-        width: 375
-        height: 1025
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1073,10 @@ TextureImporter:
       name: DanielFrontIdle_34
       rect:
         serializedVersion: 2
-        x: 7865
-        y: 5425
-        width: 375
-        height: 1025
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,10 +1095,10 @@ TextureImporter:
       name: DanielFrontIdle_35
       rect:
         serializedVersion: 2
-        x: 8945
-        y: 5425
-        width: 375
-        height: 1025
+        x: 8640
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1117,10 +1117,10 @@ TextureImporter:
       name: DanielFrontIdle_36
       rect:
         serializedVersion: 2
-        x: 305
-        y: 4345
-        width: 375
-        height: 1025
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1139,10 +1139,10 @@ TextureImporter:
       name: DanielFrontIdle_37
       rect:
         serializedVersion: 2
-        x: 1385
-        y: 4345
-        width: 375
-        height: 1025
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,10 +1161,10 @@ TextureImporter:
       name: DanielFrontIdle_38
       rect:
         serializedVersion: 2
-        x: 2465
-        y: 4345
-        width: 375
-        height: 1025
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,10 +1183,10 @@ TextureImporter:
       name: DanielFrontIdle_39
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 4345
-        width: 375
-        height: 1025
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: DanielFrontIdle_40
       rect:
         serializedVersion: 2
-        x: 4625
-        y: 4345
-        width: 375
-        height: 1025
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1227,10 +1227,10 @@ TextureImporter:
       name: DanielFrontIdle_41
       rect:
         serializedVersion: 2
-        x: 5705
-        y: 4345
-        width: 375
-        height: 1025
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1249,10 +1249,10 @@ TextureImporter:
       name: DanielFrontIdle_42
       rect:
         serializedVersion: 2
-        x: 6785
-        y: 4345
-        width: 375
-        height: 1025
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1271,10 +1271,10 @@ TextureImporter:
       name: DanielFrontIdle_43
       rect:
         serializedVersion: 2
-        x: 7865
-        y: 4345
-        width: 375
-        height: 1025
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1293,10 +1293,10 @@ TextureImporter:
       name: DanielFrontIdle_44
       rect:
         serializedVersion: 2
-        x: 8945
-        y: 4345
-        width: 375
-        height: 1024
+        x: 8640
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,10 +1315,10 @@ TextureImporter:
       name: DanielFrontIdle_45
       rect:
         serializedVersion: 2
-        x: 305
-        y: 3265
-        width: 375
-        height: 1024
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,10 +1337,10 @@ TextureImporter:
       name: DanielFrontIdle_46
       rect:
         serializedVersion: 2
-        x: 1385
-        y: 3265
-        width: 375
-        height: 1024
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1359,10 +1359,10 @@ TextureImporter:
       name: DanielFrontIdle_47
       rect:
         serializedVersion: 2
-        x: 2464
-        y: 3265
-        width: 376
-        height: 1024
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1381,10 +1381,10 @@ TextureImporter:
       name: DanielFrontIdle_48
       rect:
         serializedVersion: 2
-        x: 3544
-        y: 3265
-        width: 376
-        height: 1023
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1403,10 +1403,10 @@ TextureImporter:
       name: DanielFrontIdle_49
       rect:
         serializedVersion: 2
-        x: 4624
-        y: 3265
-        width: 376
-        height: 1023
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,10 +1425,10 @@ TextureImporter:
       name: DanielFrontIdle_50
       rect:
         serializedVersion: 2
-        x: 5704
-        y: 3265
-        width: 376
-        height: 1022
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,10 +1447,10 @@ TextureImporter:
       name: DanielFrontIdle_51
       rect:
         serializedVersion: 2
-        x: 6784
-        y: 3265
-        width: 376
-        height: 1022
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1469,10 +1469,10 @@ TextureImporter:
       name: DanielFrontIdle_52
       rect:
         serializedVersion: 2
-        x: 7863
-        y: 3265
-        width: 377
-        height: 1021
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1491,10 +1491,10 @@ TextureImporter:
       name: DanielFrontIdle_53
       rect:
         serializedVersion: 2
-        x: 8943
-        y: 3265
-        width: 377
-        height: 1021
+        x: 8640
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1513,10 +1513,10 @@ TextureImporter:
       name: DanielFrontIdle_54
       rect:
         serializedVersion: 2
-        x: 303
-        y: 2185
-        width: 377
-        height: 1020
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1535,10 +1535,10 @@ TextureImporter:
       name: DanielFrontIdle_55
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 2185
-        width: 377
-        height: 1020
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1557,10 +1557,10 @@ TextureImporter:
       name: DanielFrontIdle_56
       rect:
         serializedVersion: 2
-        x: 2462
-        y: 2185
-        width: 378
-        height: 1019
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1579,10 +1579,10 @@ TextureImporter:
       name: DanielFrontIdle_57
       rect:
         serializedVersion: 2
-        x: 3542
-        y: 2185
-        width: 378
-        height: 1018
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1601,10 +1601,10 @@ TextureImporter:
       name: DanielFrontIdle_58
       rect:
         serializedVersion: 2
-        x: 4622
-        y: 2185
-        width: 378
-        height: 1018
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1623,10 +1623,10 @@ TextureImporter:
       name: DanielFrontIdle_59
       rect:
         serializedVersion: 2
-        x: 5702
-        y: 2185
-        width: 378
-        height: 1017
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1645,10 +1645,10 @@ TextureImporter:
       name: DanielFrontIdle_60
       rect:
         serializedVersion: 2
-        x: 6782
-        y: 2185
-        width: 378
-        height: 1017
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: DanielFrontIdle_61
       rect:
         serializedVersion: 2
-        x: 7861
-        y: 2185
-        width: 379
-        height: 1016
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1689,10 +1689,10 @@ TextureImporter:
       name: DanielFrontIdle_62
       rect:
         serializedVersion: 2
-        x: 8941
-        y: 2185
-        width: 379
-        height: 1015
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1711,10 +1711,10 @@ TextureImporter:
       name: DanielFrontIdle_63
       rect:
         serializedVersion: 2
-        x: 301
-        y: 1105
-        width: 379
-        height: 1015
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1733,10 +1733,10 @@ TextureImporter:
       name: DanielFrontIdle_64
       rect:
         serializedVersion: 2
-        x: 1381
-        y: 1105
-        width: 379
-        height: 1014
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1755,10 +1755,10 @@ TextureImporter:
       name: DanielFrontIdle_65
       rect:
         serializedVersion: 2
-        x: 2460
-        y: 1105
-        width: 380
-        height: 1013
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1777,10 +1777,10 @@ TextureImporter:
       name: DanielFrontIdle_66
       rect:
         serializedVersion: 2
-        x: 3540
-        y: 1105
-        width: 380
-        height: 1013
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1799,10 +1799,10 @@ TextureImporter:
       name: DanielFrontIdle_67
       rect:
         serializedVersion: 2
-        x: 4620
-        y: 1105
-        width: 380
-        height: 1012
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1821,10 +1821,10 @@ TextureImporter:
       name: DanielFrontIdle_68
       rect:
         serializedVersion: 2
-        x: 5700
-        y: 1105
-        width: 380
-        height: 1012
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1843,10 +1843,10 @@ TextureImporter:
       name: DanielFrontIdle_69
       rect:
         serializedVersion: 2
-        x: 6780
-        y: 1105
-        width: 380
-        height: 1011
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1865,10 +1865,10 @@ TextureImporter:
       name: DanielFrontIdle_70
       rect:
         serializedVersion: 2
-        x: 7860
-        y: 1106
-        width: 380
-        height: 1010
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1887,10 +1887,10 @@ TextureImporter:
       name: DanielFrontIdle_71
       rect:
         serializedVersion: 2
-        x: 8940
-        y: 1106
-        width: 380
-        height: 1010
+        x: 8640
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1909,10 +1909,10 @@ TextureImporter:
       name: DanielFrontIdle_72
       rect:
         serializedVersion: 2
-        x: 300
-        y: 26
-        width: 380
-        height: 1009
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1931,10 +1931,10 @@ TextureImporter:
       name: DanielFrontIdle_73
       rect:
         serializedVersion: 2
-        x: 1379
-        y: 26
-        width: 381
-        height: 1009
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1953,10 +1953,10 @@ TextureImporter:
       name: DanielFrontIdle_74
       rect:
         serializedVersion: 2
-        x: 2459
-        y: 26
-        width: 381
-        height: 1009
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1975,7 +1975,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ceceaf9f3c304134997ab3577fec9d3d
     internalID: 0
     vertices: []
     indices: 
@@ -1983,7 +1983,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":9.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       DanielFrontIdle_0: 2084144033752099283
       DanielFrontIdle_1: 1612644348896063157

@@ -184,7 +184,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -219,10 +219,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -250,10 +250,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_0
       rect:
         serializedVersion: 2
-        x: 202
-        y: 7602
-        width: 679
-        height: 989
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_1
       rect:
         serializedVersion: 2
-        x: 1282
-        y: 7602
-        width: 679
-        height: 989
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_2
       rect:
         serializedVersion: 2
-        x: 2361
-        y: 7602
-        width: 680
-        height: 989
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_3
       rect:
         serializedVersion: 2
-        x: 3441
-        y: 7601
-        width: 680
-        height: 990
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_4
       rect:
         serializedVersion: 2
-        x: 4519
-        y: 7601
-        width: 682
-        height: 990
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_5
       rect:
         serializedVersion: 2
-        x: 5598
-        y: 7600
-        width: 683
-        height: 989
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_6
       rect:
         serializedVersion: 2
-        x: 6676
-        y: 7600
-        width: 685
-        height: 989
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_7
       rect:
         serializedVersion: 2
-        x: 196
-        y: 6520
-        width: 685
-        height: 988
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,10 +426,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_8
       rect:
         serializedVersion: 2
-        x: 1273
-        y: 6520
-        width: 688
-        height: 987
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_9
       rect:
         serializedVersion: 2
-        x: 2352
-        y: 6520
-        width: 689
-        height: 986
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_10
       rect:
         serializedVersion: 2
-        x: 3430
-        y: 6520
-        width: 691
-        height: 985
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,10 +492,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_11
       rect:
         serializedVersion: 2
-        x: 4509
-        y: 6520
-        width: 692
-        height: 985
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_12
       rect:
         serializedVersion: 2
-        x: 5587
-        y: 6520
-        width: 694
-        height: 983
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -536,10 +536,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_13
       rect:
         serializedVersion: 2
-        x: 6666
-        y: 6520
-        width: 695
-        height: 982
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_14
       rect:
         serializedVersion: 2
-        x: 184
-        y: 5439
-        width: 697
-        height: 983
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,10 +580,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_15
       rect:
         serializedVersion: 2
-        x: 1263
-        y: 5439
-        width: 698
-        height: 981
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,10 +602,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_16
       rect:
         serializedVersion: 2
-        x: 2341
-        y: 5439
-        width: 700
-        height: 981
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -624,10 +624,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_17
       rect:
         serializedVersion: 2
-        x: 3421
-        y: 5439
-        width: 700
-        height: 980
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -646,10 +646,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_18
       rect:
         serializedVersion: 2
-        x: 4500
-        y: 5439
-        width: 701
-        height: 980
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,10 +668,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_19
       rect:
         serializedVersion: 2
-        x: 5580
-        y: 5439
-        width: 701
-        height: 980
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,10 +690,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_20
       rect:
         serializedVersion: 2
-        x: 6659
-        y: 5439
-        width: 702
-        height: 980
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_21
       rect:
         serializedVersion: 2
-        x: 179
-        y: 4359
-        width: 702
-        height: 980
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,10 +734,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_22
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 4359
-        width: 702
-        height: 980
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_23
       rect:
         serializedVersion: 2
-        x: 2339
-        y: 4359
-        width: 702
-        height: 980
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,10 +778,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_24
       rect:
         serializedVersion: 2
-        x: 3419
-        y: 4359
-        width: 702
-        height: 980
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +800,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_25
       rect:
         serializedVersion: 2
-        x: 4499
-        y: 4359
-        width: 702
-        height: 980
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -822,10 +822,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_26
       rect:
         serializedVersion: 2
-        x: 5579
-        y: 4359
-        width: 702
-        height: 980
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,10 +844,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_27
       rect:
         serializedVersion: 2
-        x: 6659
-        y: 4359
-        width: 702
-        height: 980
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -866,10 +866,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_28
       rect:
         serializedVersion: 2
-        x: 179
-        y: 3279
-        width: 702
-        height: 980
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,10 +888,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_29
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 3279
-        width: 702
-        height: 980
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,10 +910,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_30
       rect:
         serializedVersion: 2
-        x: 2339
-        y: 3279
-        width: 702
-        height: 980
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_31
       rect:
         serializedVersion: 2
-        x: 3420
-        y: 3279
-        width: 701
-        height: 980
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -954,10 +954,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_32
       rect:
         serializedVersion: 2
-        x: 4500
-        y: 3279
-        width: 701
-        height: 980
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -976,10 +976,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_33
       rect:
         serializedVersion: 2
-        x: 5581
-        y: 3279
-        width: 700
-        height: 980
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -998,10 +998,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_34
       rect:
         serializedVersion: 2
-        x: 6661
-        y: 3279
-        width: 700
-        height: 981
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1020,10 +1020,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_35
       rect:
         serializedVersion: 2
-        x: 183
-        y: 2199
-        width: 698
-        height: 981
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,10 +1042,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_36
       rect:
         serializedVersion: 2
-        x: 1264
-        y: 2199
-        width: 697
-        height: 983
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,10 +1064,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_37
       rect:
         serializedVersion: 2
-        x: 2346
-        y: 2200
-        width: 695
-        height: 982
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,10 +1086,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_38
       rect:
         serializedVersion: 2
-        x: 3427
-        y: 2200
-        width: 694
-        height: 983
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1108,10 +1108,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_39
       rect:
         serializedVersion: 2
-        x: 4509
-        y: 2200
-        width: 692
-        height: 985
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1130,10 +1130,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_40
       rect:
         serializedVersion: 2
-        x: 5590
-        y: 2200
-        width: 691
-        height: 985
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1152,10 +1152,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_41
       rect:
         serializedVersion: 2
-        x: 6672
-        y: 2200
-        width: 689
-        height: 986
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_42
       rect:
         serializedVersion: 2
-        x: 193
-        y: 1120
-        width: 688
-        height: 987
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,10 +1196,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_43
       rect:
         serializedVersion: 2
-        x: 1276
-        y: 1120
-        width: 685
-        height: 988
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_44
       rect:
         serializedVersion: 2
-        x: 2356
-        y: 1120
-        width: 685
-        height: 989
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,10 +1240,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_45
       rect:
         serializedVersion: 2
-        x: 3438
-        y: 1120
-        width: 683
-        height: 989
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,10 +1262,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_46
       rect:
         serializedVersion: 2
-        x: 4519
-        y: 1121
-        width: 682
-        height: 990
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,10 +1284,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_47
       rect:
         serializedVersion: 2
-        x: 5601
-        y: 1121
-        width: 680
-        height: 990
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,10 +1306,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_48
       rect:
         serializedVersion: 2
-        x: 6681
-        y: 1122
-        width: 680
-        height: 989
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,10 +1328,10 @@ TextureImporter:
       name: DanielBackgroundIdle2_49
       rect:
         serializedVersion: 2
-        x: 202
-        y: 42
-        width: 679
-        height: 989
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,7 +1350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d7d4b6d6405ee854c888ca74e716b841
     internalID: 0
     vertices: []
     indices: 
@@ -1358,7 +1358,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":8.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       DanielBackgroundIdle2_0: 4979923244271074461
       DanielBackgroundIdle2_1: -6182807336482122915
