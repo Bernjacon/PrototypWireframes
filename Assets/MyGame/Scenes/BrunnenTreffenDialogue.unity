@@ -289,6 +289,7 @@ MonoBehaviour:
   timeText: {fileID: 0}
   speakerImage: {fileID: 260204982}
   playerImage: {fileID: 0}
+  boxSpriteRenderer: {fileID: 0}
   playerBackground: {fileID: 0}
   speakerAnimator: {fileID: 260204981}
   playerAnimator: {fileID: 0}
@@ -310,6 +311,7 @@ MonoBehaviour:
   dsa:
   - textContents: So hier sind wir.
     speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
+    boxVisual: {fileID: 2319207104193628300, guid: ddd281e75a579de438d4765d6873f2a2, type: 3}
     disapearingSpeaker: {fileID: 0}
     Speaker: {fileID: 9100000, guid: 51c928bc3f8141c4fa867eeb19248351, type: 2}
     boxAnimation: {fileID: 9100000, guid: 03e38fb84d333304a92459edd51a482f, type: 2}
@@ -326,6 +328,7 @@ MonoBehaviour:
     targetIndexAfterDecision: 
   - textContents: "Ich kn\xFCpfe mir die Lautsprecher da dr\xFCber vor!"
     speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
+    boxVisual: {fileID: 0}
     disapearingSpeaker: {fileID: 0}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 0}
@@ -366,6 +369,7 @@ MonoBehaviour:
     targetIndexAfterDecision: 
   - textContents: "Warte.. H\xF6rst du das??"
     speakerVisual: {fileID: 1379471125480659402, guid: f7901b0373cbd3f4c8f16c2205d825cd, type: 3}
+    boxVisual: {fileID: 2822091987903395634, guid: f12a841ee8d5700449f19c8a9153214c, type: 3}
     disapearingSpeaker: {fileID: 0}
     Speaker: {fileID: 9100000, guid: 0b6d5584f3c06484e9974299a8a1a185, type: 2}
     boxAnimation: {fileID: 9100000, guid: 6439eaf1df7fe044f965d5a1bdf220c4, type: 2}
@@ -383,6 +387,7 @@ MonoBehaviour:
     targetIndexAfterDecision: 
   - textContents: "Schei\xDFe, die Bulln!"
     speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
+    boxVisual: {fileID: 2319207104193628300, guid: ddd281e75a579de438d4765d6873f2a2, type: 3}
     disapearingSpeaker: {fileID: 0}
     Speaker: {fileID: 9100000, guid: 51c928bc3f8141c4fa867eeb19248351, type: 2}
     boxAnimation: {fileID: 9100000, guid: 03e38fb84d333304a92459edd51a482f, type: 2}
@@ -399,6 +404,7 @@ MonoBehaviour:
     targetIndexAfterDecision: 
   - textContents: Lauft!
     speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    boxVisual: {fileID: 0}
     disapearingSpeaker: {fileID: 260204977}
     Speaker: {fileID: 0}
     boxAnimation: {fileID: 0}

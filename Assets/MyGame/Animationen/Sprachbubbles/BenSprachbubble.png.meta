@@ -169,10 +169,10 @@ TextureImporter:
       name: BenSprachbubble_0
       rect:
         serializedVersion: 2
-        x: 2041
-        y: 3760
-        width: 158
-        height: 1168
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: BenSprachbubble_1
       rect:
         serializedVersion: 2
-        x: 3981
-        y: 4913
-        width: 21
-        height: 16
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: BenSprachbubble_2
       rect:
         serializedVersion: 2
-        x: 5895
-        y: 4889
-        width: 41
-        height: 44
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: BenSprachbubble_3
       rect:
         serializedVersion: 2
-        x: 7814
-        y: 4873
-        width: 66
-        height: 65
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: BenSprachbubble_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 3777
-        width: 106
-        height: 98
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: BenSprachbubble_5
       rect:
         serializedVersion: 2
-        x: 3953
-        y: 3721
-        width: 226
-        height: 161
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: BenSprachbubble_6
       rect:
         serializedVersion: 2
-        x: 5869
-        y: 3671
-        width: 367
-        height: 215
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: BenSprachbubble_7
       rect:
         serializedVersion: 2
-        x: 7795
-        y: 3614
-        width: 1066
-        height: 275
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,10 +345,10 @@ TextureImporter:
       name: BenSprachbubble_8
       rect:
         serializedVersion: 2
-        x: 110
-        y: 2512
-        width: 1615
-        height: 315
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: BenSprachbubble_9
       rect:
         serializedVersion: 2
-        x: 2026
-        y: 2527
-        width: 1688
-        height: 341
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,10 +389,10 @@ TextureImporter:
       name: BenSprachbubble_10
       rect:
         serializedVersion: 2
-        x: 3945
-        y: 2535
-        width: 1709
-        height: 347
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,10 +411,10 @@ TextureImporter:
       name: BenSprachbubble_11
       rect:
         serializedVersion: 2
-        x: 5870
-        y: 2517
-        width: 1703
-        height: 364
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,10 +433,10 @@ TextureImporter:
       name: BenSprachbubble_12
       rect:
         serializedVersion: 2
-        x: 7790
-        y: 2509
-        width: 1703
-        height: 372
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,10 +455,10 @@ TextureImporter:
       name: BenSprachbubble_13
       rect:
         serializedVersion: 2
-        x: 110
-        y: 1424
-        width: 1721
-        height: 377
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,10 +477,10 @@ TextureImporter:
       name: BenSprachbubble_14
       rect:
         serializedVersion: 2
-        x: 2030
-        y: 1424
-        width: 1721
-        height: 391
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: BenSprachbubble_15
       rect:
         serializedVersion: 2
-        x: 3950
-        y: 1424
-        width: 1721
-        height: 401
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,10 +521,10 @@ TextureImporter:
       name: BenSprachbubble_16
       rect:
         serializedVersion: 2
-        x: 5870
-        y: 1424
-        width: 1721
-        height: 401
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,10 +543,10 @@ TextureImporter:
       name: BenSprachbubble_17
       rect:
         serializedVersion: 2
-        x: 7790
-        y: 1424
-        width: 1721
-        height: 401
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,10 +565,10 @@ TextureImporter:
       name: BenSprachbubble_18
       rect:
         serializedVersion: 2
-        x: 110
-        y: 344
-        width: 1721
-        height: 401
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,10 +587,10 @@ TextureImporter:
       name: BenSprachbubble_19
       rect:
         serializedVersion: 2
-        x: 2030
-        y: 344
-        width: 1721
-        height: 401
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -609,10 +609,10 @@ TextureImporter:
       name: BenSprachbubble_20
       rect:
         serializedVersion: 2
-        x: 3950
-        y: 344
-        width: 1721
-        height: 401
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -631,10 +631,10 @@ TextureImporter:
       name: BenSprachbubble_21
       rect:
         serializedVersion: 2
-        x: 5870
-        y: 344
-        width: 1721
-        height: 401
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +653,10 @@ TextureImporter:
       name: BenSprachbubble_22
       rect:
         serializedVersion: 2
-        x: 7790
-        y: 344
-        width: 1721
-        height: 401
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,11 +671,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: BenSprachbubble_23
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f7ce7d35b8df74d8f8218886ec399a
+      internalID: 31000020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f0e23757efc221a49a9d50d8f8cdca41
     internalID: 0
     vertices: []
     indices: 
@@ -683,7 +705,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       BenSprachbubble_0: 2822091987903395634
       BenSprachbubble_1: 217082623599207664
@@ -701,6 +725,7 @@ TextureImporter:
       BenSprachbubble_20: -5455621479450266686
       BenSprachbubble_21: -6283583910578853492
       BenSprachbubble_22: -1221565692211433776
+      BenSprachbubble_23: 31000020
       BenSprachbubble_3: 7752383256749120729
       BenSprachbubble_4: -8500957570840536156
       BenSprachbubble_5: 5619567533610767400
