@@ -365,10 +365,10 @@ MonoBehaviour:
     decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Warte.. H\xF6rst du das??"
-    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    speakerVisual: {fileID: 1379471125480659402, guid: f7901b0373cbd3f4c8f16c2205d825cd, type: 3}
     disapearingSpeaker: {fileID: 0}
-    Speaker: {fileID: 0}
-    boxAnimation: {fileID: 0}
+    Speaker: {fileID: 9100000, guid: 0b6d5584f3c06484e9974299a8a1a185, type: 2}
+    boxAnimation: {fileID: 9100000, guid: 6439eaf1df7fe044f965d5a1bdf220c4, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
@@ -382,10 +382,10 @@ MonoBehaviour:
     decisionButtonTexts: []
     targetIndexAfterDecision: 
   - textContents: "Schei\xDFe, die Bulln!"
-    speakerVisual: {fileID: 5110612511535974256, guid: 3c0ca4e678e8d8a41a3a876fc28b6015, type: 3}
+    speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
     disapearingSpeaker: {fileID: 0}
-    Speaker: {fileID: 0}
-    boxAnimation: {fileID: 0}
+    Speaker: {fileID: 9100000, guid: 51c928bc3f8141c4fa867eeb19248351, type: 2}
+    boxAnimation: {fileID: 9100000, guid: 03e38fb84d333304a92459edd51a482f, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
     audioMixerGroups: []
@@ -1181,7 +1181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1577573cf1037db4880a23814329f2fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blackScreenImage: {fileID: 0}
+  blackScreenImage: {fileID: 1049504118}
   fadeDuration: 2
 --- !u!4 &1438984044
 Transform:
@@ -1437,8 +1437,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1475,7 +1475,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: 0, w: 67.87853}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1645,7 +1645,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.05935669, y: -159.3654}
+  m_AnchoredPosition: {x: 1.71, y: -160.76}
   m_SizeDelta: {x: 535.0916, y: 126.52}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8438715170790544585
