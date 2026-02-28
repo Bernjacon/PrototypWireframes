@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
+using UnityEngine.UI;
 
 public class LoginScript : MonoBehaviour
 {
@@ -9,18 +10,17 @@ public class LoginScript : MonoBehaviour
     [SerializeField] private GameObject pcLoginProcessParent;
 
     [SerializeField] private TMP_InputField nameInput;
-    [SerializeField] private TMP_InputField passwordInput;
+    [SerializeField] private Button loginButton;
 
     [SerializeField] private DesktopManager desktopManager;
 
-    [SerializeField] private static string playerName;
-    [SerializeField] public static string PlayerName => playerName = "Test Name";
+    private static string playerName;
+    public static string PlayerName => playerName;
 
     private void Awake()
     {
-        passwordInput.characterLimit = 8;
-        passwordInput.contentType = TMP_InputField.ContentType.Password;
-        passwordInput.ForceLabelUpdate();
+        loginButton.gameObject.SetActive(false);
+        nameInput.onValueChanged.AddListener(OnNameChanged);
     }
 
     private void Update()
@@ -35,12 +35,14 @@ public class LoginScript : MonoBehaviour
         loginParent.SetActive(true);
     }
 
+    private void OnNameChanged(string value)
+    {
+        loginButton.gameObject.SetActive(!string.IsNullOrEmpty(value));
+    }
+
     public void TryLogin()
     {
         if (string.IsNullOrEmpty(nameInput.text))
-            return;
-
-        if (passwordInput.text.Length != 8)
             return;
 
         playerName = nameInput.text;
