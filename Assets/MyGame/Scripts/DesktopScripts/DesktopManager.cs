@@ -150,11 +150,18 @@ public class DesktopManager : MonoBehaviour
         artikelTwoCompleted = true;
         CheckArtikelCompletion();
     }
-
     private void CheckArtikelCompletion()
     {
         if (artikelOneCompleted && artikelTwoCompleted)
+        {
             CallEvent(9);
+
+            ChatBubbleScriptChannelMain chat =
+                FindObjectOfType<ChatBubbleScriptChannelMain>();
+
+            if (chat != null)
+                chat.ReleasePauseAndSwitchToSecondStage();
+        }
     }
 
     public void OpenArtikelOne()

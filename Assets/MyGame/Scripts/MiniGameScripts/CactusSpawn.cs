@@ -38,6 +38,8 @@ public class CactusSpawn : MonoBehaviour
     private bool gameActive = true;
     public bool GameActive => gameActive;
 
+    bool firstTime = true;
+
     private void Start()
     {
         StartGame();
@@ -155,7 +157,15 @@ public class CactusSpawn : MonoBehaviour
     IEnumerator WinDelay()
     {
         yield return new WaitForSeconds(3);
-        dma.CallEvent(5);
+        if (firstTime)
+        {
+            firstTime = !firstTime;
+            dma.CallEvent(5);
+        }
+
+
+        if (!firstTime)
+            dma.CallEvent(7);
     }
 
     public void ReloadSceneManual()

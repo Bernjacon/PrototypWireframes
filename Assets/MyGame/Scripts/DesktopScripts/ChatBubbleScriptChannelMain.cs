@@ -11,6 +11,9 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
     [Header("Prefabs & UI")]
     [SerializeField] private GameObject messagePrefab;
     [SerializeField] private Transform contentParent;
+    [SerializeField] private Transform contentParentSecondStage;
+
+    private bool useSecondStageParent = false;
 
     [Header("Chat Data")]
     [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
@@ -93,12 +96,16 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
         string message = string.IsNullOrEmpty(data.messageText) ? "" : data.messageText;
         Sprite profile = data.profileImage == null ? playerProfileImage : data.profileImage;
 
-        // Choose prefab
         GameObject prefabToUse = (data.useAlternatePrefab && data.alternatePrefab != null)
                                  ? data.alternatePrefab
                                  : messagePrefab;
 
-        GameObject msgObj = Instantiate(prefabToUse, contentParent);
+        Transform targetParent = useSecondStageParent && contentParentSecondStage != null
+                                 ? contentParentSecondStage
+                                 : contentParent;
+
+        GameObject msgObj = Instantiate(prefabToUse, targetParent);
+
         TMP_Text nameTMP = msgObj.transform.Find("Username")?.GetComponent<TMP_Text>();
         TMP_Text messageTMP = msgObj.transform.Find("Txt_Nachricht")?.GetComponent<TMP_Text>();
         TMP_Text timeTMP = msgObj.transform.Find("TimeTMP")?.GetComponent<TMP_Text>();
@@ -108,6 +115,21 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
         if (messageTMP != null) messageTMP.text = message;
         if (timeTMP != null) timeTMP.text = DateTime.Now.ToString("dd.MM.yyyy, HH:mm:ss");
         if (profileImage != null) profileImage.sprite = profile;
+    }
+
+    public void ReleasePauseAndSwitchToSecondStage()
+    {
+        if (currentMessageIndex < messagesChannelMain.Count)
+        {
+            messagesChannelMain[currentMessageIndex].waitUntilReleased = false;
+        }
+
+        useSecondStageParent = true;
+
+        if (conversationRoutine != null)
+            StopCoroutine(conversationRoutine);
+
+        conversationRoutine = StartCoroutine(ContinueConversation());
     }
 
     public void ActivateDecisionCurrent()
