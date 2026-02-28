@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4528704714217940903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3494417964159115832}
+  - component: {fileID: 4457258783478784252}
+  m_Layer: 0
+  m_Name: Cactus Spawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3494417964159115832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4528704714217940903}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.666667, y: -2.7870371, z: 90}
+  m_LocalScale: {x: 0.009259259, y: 0.016363138, z: 0.009259259}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4457258783478784252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4528704714217940903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49cf6933350f949458d8512a565b8d5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cactusPrefabs:
+  - {fileID: 41157287831716222, guid: c2c323d716ebb0244a28bb1bea3da266, type: 3}
+  - {fileID: 651080714233941560, guid: 4775704ae36099e4b9ad13415094f0ff, type: 3}
+  - {fileID: 2008859633167534178, guid: 8247bff31d50d5e4185a1866f6fbd06f, type: 3}
+  canvasTransform: {fileID: 0}
+  spawnPoint: {fileID: 0}
+  startSpeed: 700
+  endSpeed: 2000
+  rampDuration: 20
+  spawnIntervalMin: 3
+  spawnIntervalMax: 5
+  cactusLifetime: 3
+  reloadSceneButton: {fileID: 0}
+  countdown: {fileID: 0}
+  winScreen: {fileID: 0}
+  hasntWonYet: 1

@@ -1,8 +1,5 @@
 using UnityEngine;
 using System.Collections;
-using System.Linq;
-using UnityEngine.InputSystem;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class CactusSpawn : MonoBehaviour
@@ -27,48 +24,68 @@ public class CactusSpawn : MonoBehaviour
     public Slider countdown;
     public GameObject winScreen;
 
-    public bool hasntWonYet = true;
+    [Header("Game Settings")]
+    public float totalTime = 20f;
+
+    public DesktopManager dma;
+    public TRexManager trex;
 
     private float elapsedTime = 0f;
-
-    private Coroutine spawnRoutine;
-    private Coroutine winRoutine;
-
-    private float totalTime = 20f;
     private float timeLeft;
 
-    private bool countdownActive = true;
+    private Coroutine spawnRoutine;
+
+    private bool gameActive = true;
+    public bool GameActive => gameActive;
 
     private void Start()
     {
-        timeLeft = totalTime;
-
-        spawnRoutine = StartCoroutine(SpawnCactusRoutine());
-        winRoutine = StartCoroutine(WinCountdown());
-
-        countdown.maxValue = 1f;
-        countdown.value = 0f;
+        StartGame();
     }
 
     private void Update()
     {
-        elapsedTime += Time.deltaTime;
-
-        if (!countdownActive)
+        if (!gameActive)
             return;
 
-        if (timeLeft > 0f)
-        {
-            timeLeft -= Time.deltaTime;
-            timeLeft = Mathf.Max(timeLeft, 0f);
+        elapsedTime += Time.deltaTime;
 
-            countdown.value = 1f - (timeLeft / totalTime);
+        timeLeft -= Time.deltaTime;
+        timeLeft = Mathf.Max(timeLeft, 0f);
+
+        countdown.value = 1f - (timeLeft / totalTime);
+
+        if (timeLeft <= 0f)
+        {
+            Win();
         }
+    }
+
+    void StartGame()
+    {
+        gameActive = true;
+        elapsedTime = 0f;
+        timeLeft = totalTime;
+
+        countdown.maxValue = 1f;
+        countdown.value = 0f;
+
+        reloadSceneButton.SetActive(false);
+        winScreen.SetActive(false);
+
+        if (trex != null)
+        {
+            trex.enabled = true;
+            trex.dinoAnimator.speed = 1f;
+            trex.dinoAnimator.Play("Run", 0, 0f);
+        }
+
+        spawnRoutine = StartCoroutine(SpawnCactusRoutine());
     }
 
     private IEnumerator SpawnCactusRoutine()
     {
-        while (true)
+        while (gameActive)
         {
             SpawnCactus();
             float interval = Random.Range(spawnIntervalMin, spawnIntervalMax);
@@ -89,23 +106,25 @@ public class CactusSpawn : MonoBehaviour
         float speed = Mathf.Lerp(startSpeed, endSpeed, Mathf.Clamp01(elapsedTime / rampDuration));
 
         var move = cactus.AddComponent<CactusMove>();
-        move.speed = speed;
+        move.Initialize(this, speed);
 
         Destroy(cactus, cactusLifetime);
     }
 
     public void Death()
     {
-        countdownActive = false;
+        if (!gameActive) return;
+
+        gameActive = false;
 
         if (spawnRoutine != null)
             StopCoroutine(spawnRoutine);
 
-        if (winRoutine != null)
-            StopCoroutine(winRoutine);
-
-        FindAnyObjectByType<TRexManager>().dinoAnimator.speed = 0f;
-        FindAnyObjectByType<TRexManager>().enabled = false;
+        if (trex != null)
+        {
+            trex.dinoAnimator.speed = 0f;
+            trex.enabled = false;
+        }
 
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
@@ -113,30 +132,39 @@ public class CactusSpawn : MonoBehaviour
         reloadSceneButton.SetActive(true);
     }
 
-    public void ReloadScene()
+    void Win()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
+        if (!gameActive) return;
 
-    public IEnumerator WinCountdown()
-    {
-        yield return new WaitForSeconds(totalTime);
-
-        countdownActive = false;
-        hasntWonYet = false;
+        gameActive = false;
 
         if (spawnRoutine != null)
             StopCoroutine(spawnRoutine);
 
-        FindAnyObjectByType<TRexManager>().enabled = false;
+        if (trex != null)
+            trex.enabled = false;
 
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
 
         winScreen.SetActive(true);
 
-        yield return new WaitForSeconds(3);
+        StartCoroutine(WinDelay());
+    }
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    IEnumerator WinDelay()
+    {
+        yield return new WaitForSeconds(3);
+        dma.CallEvent(5);
+    }
+
+    public void ReloadSceneManual()
+    {
+        StopAllCoroutines();
+
+        foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
+            Destroy(cactus.gameObject);
+
+        StartGame();
     }
 }

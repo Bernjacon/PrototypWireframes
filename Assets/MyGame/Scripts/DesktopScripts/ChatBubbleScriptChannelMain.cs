@@ -1,0 +1,194 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+using UnityEngine.UI;
+using UnityEngine.Events;
+
+public class ChatBubbleScriptChannelMain : MonoBehaviour
+{
+    [Header("Prefabs & UI")]
+    [SerializeField] private GameObject messagePrefab;
+    [SerializeField] private Transform contentParent;
+
+    [Header("Chat Data")]
+    [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
+
+    [Header("Player Settings")]
+    [SerializeField] private Sprite playerProfileImage;
+    [SerializeField] private GameObject[] decisionButtons; // Buttons for player decisions
+
+    private ChatMessageDataChannelMain currentData;
+    private int currentMessageIndex = 0;
+    private Coroutine conversationRoutine;
+    private bool isPausedForDecision = false;
+    private bool isPausedDueToInactive = false;
+
+    private void Start()
+    {
+        foreach (var btn in decisionButtons)
+            btn.SetActive(false);
+
+        // Start the conversation if active
+        if (gameObject.activeInHierarchy)
+            conversationRoutine = StartCoroutine(ContinueConversation());
+    }
+
+    private void OnDisable()
+    {
+        // Pause the conversation if object is deactivated
+        if (conversationRoutine != null)
+        {
+            StopCoroutine(conversationRoutine);
+            isPausedDueToInactive = true;
+        }
+    }
+
+    private void OnEnable()
+    {
+        // Resume if paused due to being inactive
+        if (isPausedDueToInactive)
+        {
+            conversationRoutine = StartCoroutine(ContinueConversation());
+            isPausedDueToInactive = false;
+        }
+    }
+
+    private IEnumerator ContinueConversation()
+    {
+        while (currentMessageIndex < messagesChannelMain.Count)
+        {
+            var data = messagesChannelMain[currentMessageIndex];
+
+            // Wait before showing the message
+            yield return new WaitForSeconds(data.delayToNextMessage);
+
+            DisplayMessage(data);
+
+            // Trigger the event if active
+            if (data.triggerEvent && data.OnEvent != null)
+            {
+                data.OnEvent.Invoke();
+                if (isPausedForDecision)
+                    yield break;
+            }
+
+            // Wait if message is marked to pause until released
+            while (data.waitUntilReleased)
+            {
+                yield return null; // wait until next frame
+            }
+
+            // Continue normally
+            currentMessageIndex++;
+        }
+    }
+
+    private void DisplayMessage(ChatMessageDataChannelMain data)
+    {
+        currentData = data;
+
+        string speaker = string.IsNullOrEmpty(data.speakerName) ? "NPC" : data.speakerName;
+        string message = string.IsNullOrEmpty(data.messageText) ? "" : data.messageText;
+        Sprite profile = data.profileImage == null ? playerProfileImage : data.profileImage;
+
+        // Choose prefab
+        GameObject prefabToUse = (data.useAlternatePrefab && data.alternatePrefab != null)
+                                 ? data.alternatePrefab
+                                 : messagePrefab;
+
+        GameObject msgObj = Instantiate(prefabToUse, contentParent);
+        TMP_Text nameTMP = msgObj.transform.Find("Username")?.GetComponent<TMP_Text>();
+        TMP_Text messageTMP = msgObj.transform.Find("Txt_Nachricht")?.GetComponent<TMP_Text>();
+        TMP_Text timeTMP = msgObj.transform.Find("TimeTMP")?.GetComponent<TMP_Text>();
+        Image profileImage = msgObj.transform.Find("PH_UserprofilePicture")?.GetComponent<Image>();
+
+        if (nameTMP != null) nameTMP.text = speaker;
+        if (messageTMP != null) messageTMP.text = message;
+        if (timeTMP != null) timeTMP.text = DateTime.Now.ToString("dd.MM.yyyy, HH:mm:ss");
+        if (profileImage != null) profileImage.sprite = profile;
+    }
+
+    public void ActivateDecisionCurrent()
+    {
+        if (currentData != null)
+            ActivateDecision(currentData);
+    }
+
+    public void ActivateDecision(ChatMessageDataChannelMain data)
+    {
+        isPausedForDecision = true;
+
+        int buttonCount = Mathf.Min(
+            data.decisionOptions?.Length ?? 0,
+            data.targetIndexAfterDecision?.Length ?? 0
+        );
+
+        for (int i = 0; i < decisionButtons.Length; i++)
+        {
+            bool active = i < buttonCount;
+            decisionButtons[i].SetActive(active);
+
+            if (active)
+            {
+                TMP_Text buttonText = decisionButtons[i].GetComponentInChildren<TMP_Text>();
+                if (buttonText != null)
+                    buttonText.text = data.decisionOptions[i];
+
+                int capturedIndex = i;
+                Button btn = decisionButtons[i].GetComponent<Button>();
+                btn.onClick.RemoveAllListeners();
+                btn.onClick.AddListener(() => DecisionChosen(capturedIndex, data));
+            }
+        }
+    }
+
+    private void DecisionChosen(int buttonIndex, ChatMessageDataChannelMain data)
+    {
+        isPausedForDecision = false;
+
+        foreach (var btn in decisionButtons)
+            btn.SetActive(false);
+
+        if (data.targetIndexAfterDecision != null &&
+            buttonIndex < data.targetIndexAfterDecision.Length &&
+            data.targetIndexAfterDecision[buttonIndex] >= 0)
+        {
+            currentMessageIndex = data.targetIndexAfterDecision[buttonIndex];
+        }
+        else
+        {
+            currentMessageIndex++;
+        }
+
+        if (conversationRoutine != null)
+            StopCoroutine(conversationRoutine);
+
+        conversationRoutine = StartCoroutine(ContinueConversation());
+    }
+}
+
+[Serializable]
+public class ChatMessageDataChannelMain
+{
+    public string speakerName;
+    public string messageText;
+    public Sprite profileImage;
+    public float delayToNextMessage = 2f;
+
+    [Header("Decision / Event")]
+    public bool triggerEvent = false;
+    public UnityEvent OnEvent;
+
+    [Header("Decision Options")]
+    public string[] decisionOptions;
+    public int[] targetIndexAfterDecision;
+
+    [Header("Prefab Override")]
+    public bool useAlternatePrefab = false;
+    public GameObject alternatePrefab;
+
+    [Header("Wait / Pause Control")]
+    public bool waitUntilReleased = false; // if true, conversation won't continue until externally set to false
+}
