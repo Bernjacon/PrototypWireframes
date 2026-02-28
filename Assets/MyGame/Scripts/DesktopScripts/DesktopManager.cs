@@ -163,19 +163,6 @@ public class DesktopManager : MonoBehaviour
                 chat.ReleasePauseAndSwitchToSecondStage();
         }
     }
-
-    public void OpenArtikelOne()
-    {
-        if (artikel1Parent != null)
-            artikel1Parent.SetActive(true);
-    }
-
-    public void OpenArtikelTwo()
-    {
-        if (artikel2Parent != null)
-            artikel2Parent.SetActive(true);
-    }
-
     public void CallEvent(int index)
     {
         gay[index].GameStateEvent?.Invoke();

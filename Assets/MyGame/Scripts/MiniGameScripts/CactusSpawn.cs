@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.InputSystem;
 
 public class CactusSpawn : MonoBehaviour
 {
@@ -38,7 +39,7 @@ public class CactusSpawn : MonoBehaviour
     private bool gameActive = true;
     public bool GameActive => gameActive;
 
-    bool firstTime = true;
+    public bool firstTime = true;
 
     private void Start()
     {
@@ -47,6 +48,10 @@ public class CactusSpawn : MonoBehaviour
 
     private void Update()
     {
+        if (Keyboard.current.uKey.wasPressedThisFrame)
+        {
+            Win();
+        }
         if (!gameActive)
             return;
 
@@ -83,6 +88,8 @@ public class CactusSpawn : MonoBehaviour
         }
 
         spawnRoutine = StartCoroutine(SpawnCactusRoutine());
+
+
     }
 
     private IEnumerator SpawnCactusRoutine()
