@@ -418,7 +418,7 @@ MonoBehaviour:
         m_Calls: []
     decisionButtonTexts: []
     targetIndexAfterDecision: 
-  - textContents: "Tja Daniel, du f\xFChrst doch was im Schilde, oder"
+  - textContents: "Tja Daniel, du f\xFChrst doch was im Schilde, oder?"
     speakerVisual: {fileID: 0}
     boxVisual: {fileID: 0}
     disapearingSpeaker: {fileID: 2099132686}
@@ -435,7 +435,7 @@ MonoBehaviour:
         m_Calls: []
     decisionButtonTexts: []
     targetIndexAfterDecision: 
-  - textContents: "Sonst h\xE4ttest du uns doch nicht eingeladen.."
+  - textContents: "Sonst h\xE4ttest du uns doch nicht eingeladen..."
     speakerVisual: {fileID: 0}
     boxVisual: {fileID: 0}
     disapearingSpeaker: {fileID: 2099132686}
@@ -555,7 +555,7 @@ MonoBehaviour:
         m_Calls: []
     decisionButtonTexts: []
     targetIndexAfterDecision: 
-  - textContents: "Wie w\xE4rs wenn wir einfach in den Park gehen und ein Paar Lautsprecher
+  - textContents: "Wie w\xE4rs wenn wir einfach in den Park gehen und ein paar Lautsprecher
       dort zerst\xF6ren.."
     speakerVisual: {fileID: 0}
     boxVisual: {fileID: 0}
@@ -591,8 +591,8 @@ MonoBehaviour:
         m_Calls: []
     decisionButtonTexts: []
     targetIndexAfterDecision: 
-  - textContents: "Naja also alle Polizisten werden sicher nicht auf dem Festival
-      sein, um aufzupassen.\u201C"
+  - textContents: Naja also alle Polizisten werden sicher nicht auf dem Festival
+      sein, um aufzupassen.
     speakerVisual: {fileID: 1379471125480659402, guid: f7901b0373cbd3f4c8f16c2205d825cd, type: 3}
     boxVisual: {fileID: 2822091987903395634, guid: f12a841ee8d5700449f19c8a9153214c, type: 3}
     disapearingSpeaker: {fileID: 2099132686}
@@ -815,7 +815,7 @@ MonoBehaviour:
         m_Calls: []
     decisionButtonTexts: []
     targetIndexAfterDecision: 
-  - textContents: "Ja okay, okay\u2026 ich bin dabei.\u201C"
+  - textContents: "Ja okay, okay\u2026 ich bin dabei."
     speakerVisual: {fileID: -5739221114800875406, guid: f7901b0373cbd3f4c8f16c2205d825cd, type: 3}
     boxVisual: {fileID: 2822091987903395634, guid: f12a841ee8d5700449f19c8a9153214c, type: 3}
     disapearingSpeaker: {fileID: 2099132686}
@@ -880,7 +880,7 @@ MonoBehaviour:
     - Hab sowieso nichts besseres zu tun.
     - "Naja.. ich wei\xDF nicht..."
     - Klar, bin dabei.
-    targetIndexAfterDecision: 230000001c00000023000000
+    targetIndexAfterDecision: 220000001c00000022000000
   - textContents: "Ach komm schon, lass uns nicht h\xE4ngen."
     speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
     boxVisual: {fileID: 2319207104193628300, guid: ddd281e75a579de438d4765d6873f2a2, type: 3}
@@ -1219,7 +1219,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 4991682222862329991, guid: f1a3efa29eaba56498d36126bfb9aec9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1343,7 +1343,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1479,7 +1479,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -2
+  m_SortingOrder: -3
   m_Sprite: {fileID: -362999829200941732, guid: 5242b2d20ade4494ba663bf6188a0a8a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1509,7 +1509,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &352736182
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1832,7 +1832,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 9066803971172749626, guid: 88621ba3e7d70eb418eebf560c249b02, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1862,7 +1862,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &493646610
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2134,7 +2134,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 2319207104193628300, guid: ddd281e75a579de438d4765d6873f2a2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2268,7 +2268,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 94.85205, y: 28.455631, z: 173.10484, w: 42.68343}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2398,13 +2398,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 766484508}
-  m_LocalRotation: {x: 0, y: 0, z: 0.06479354, w: 0.9978987}
+  m_LocalRotation: {x: 0, y: 0, z: 0.05704127, w: 0.9983719}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 493646610}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 7.43}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 6.54}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: -5}
@@ -2495,7 +2495,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 88.43286, y: 88.63778, z: 161.93774, w: 77.59584}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2799,7 +2799,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 6108315106629275347, guid: 2a2c3cdda73e4f94dafd4f87371786ef, type: 2}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 2ae720dba08d99b4e8bc0048bd5e8750, type: 3}
+  m_Resource: {fileID: 8300000, guid: 74438c71a20ae5e468c98683e8f6a276, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -2903,7 +2903,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1005824269
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2943,7 +2943,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -3122,6 +3122,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 284653918}
+  - {fileID: 1193212734}
+  - {fileID: 1451770469}
+  - {fileID: 865415452}
   - {fileID: 267446529090776273}
   - {fileID: 1199489636}
   - {fileID: 1808421123}
@@ -3130,9 +3133,6 @@ RectTransform:
   - {fileID: 2099132687}
   - {fileID: 273324039}
   - {fileID: 1412485693}
-  - {fileID: 1193212734}
-  - {fileID: 1451770469}
-  - {fileID: 865415452}
   - {fileID: 2107420862}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3193,7 +3193,7 @@ Canvas:
   m_RenderMode: 1
   m_Camera: {fileID: 171816147}
   m_PlaneDistance: 100
-  m_PixelPerfect: 0
+  m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -3229,17 +3229,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1165606473}
-  m_LocalRotation: {x: 0, y: 0, z: -0.047193572, w: 0.99888575}
+  m_LocalRotation: {x: 0, y: 0, z: -0.12316852, w: 0.9923858}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1005824269}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5.41}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -14.15}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -16, y: -17}
-  m_SizeDelta: {x: -108.22, y: -104.73}
+  m_AnchoredPosition: {x: -76.47, y: -5.1399994}
+  m_SizeDelta: {x: -229.16, y: -128.44}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1165606475
 MonoBehaviour:
@@ -3326,7 +3326,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 53.470016, y: 20.33559, z: -41.736435, w: 17.586414}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -3435,7 +3435,7 @@ RectTransform:
   m_GameObject: {fileID: 1199489635}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 102.2, y: 102.2, z: 102.2}
+  m_LocalScale: {x: 25, y: 25, z: 25}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1064558365}
@@ -3628,7 +3628,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: 4979923244271074461, guid: a5fdf6b31bac5764b9ca39f1b130cdb2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4390,7 +4390,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: -2
   m_Sprite: {fileID: -3402829716218074685, guid: b0e2279f61a5f0441ba2d21447e22e9a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
