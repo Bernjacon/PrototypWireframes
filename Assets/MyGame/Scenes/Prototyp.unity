@@ -27256,7 +27256,7 @@ GameObject:
   - component: {fileID: 1260847587}
   - component: {fileID: 1260847586}
   m_Layer: 5
-  m_Name: ButtonArtikel1
+  m_Name: ButtonOfflineTreffen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
