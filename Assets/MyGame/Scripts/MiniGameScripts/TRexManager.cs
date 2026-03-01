@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.InputSystem;
+using UnityEngine.Audio;
 
 public class TRexManager : MonoBehaviour
 {
@@ -8,11 +9,13 @@ public class TRexManager : MonoBehaviour
     [SerializeField] int jumpforce;
     [SerializeField] bool isGrounded;
     public Animator dinoAnimator;
+    public AudioSource jumpSound;
     public void Update()
     {
         if (Keyboard.current.spaceKey.wasPressedThisFrame && isGrounded)
         {
             player.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jumpforce));
+            jumpSound.Play();
         }
     }
 

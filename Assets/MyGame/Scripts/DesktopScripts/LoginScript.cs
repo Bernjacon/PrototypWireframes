@@ -14,8 +14,8 @@ public class LoginScript : MonoBehaviour
 
     [SerializeField] private DesktopManager desktopManager;
 
-    private static string playerName;
-    public static string PlayerName => playerName;
+    private static string playerName = "Testname";
+    public static string PlayerName;
 
     private void Awake()
     {
@@ -46,6 +46,7 @@ public class LoginScript : MonoBehaviour
             return;
 
         playerName = nameInput.text;
+        PlayerName = playerName;
 
         desktopManager.LoginFinished();
         pcLoginProcessParent.SetActive(false);

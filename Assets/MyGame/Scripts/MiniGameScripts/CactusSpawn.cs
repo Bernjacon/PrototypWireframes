@@ -2,45 +2,46 @@ using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.Audio;
 
 public class CactusSpawn : MonoBehaviour
 {
     [Header("Prefabs & Canvas")]
-    public GameObject[] cactusPrefabs;
-    public Transform canvasTransform;
-    public Transform spawnPoint;
+    [SerializeField] GameObject[] cactusPrefabs;
+    [SerializeField] Transform canvasTransform;
+    [SerializeField] Transform spawnPoint;
 
     [Header("Speed Ramp")]
-    public float startSpeed;
-    public float endSpeed;
-    public float rampDuration;
+    [SerializeField] float startSpeed;
+    [SerializeField] float endSpeed;
+    [SerializeField] float rampDuration;
 
     [Header("Spawn & Lifetime")]
-    public float spawnIntervalMin;
-    public float spawnIntervalMax;
-    public float cactusLifetime;
-    public GameObject reloadSceneButton;
+    [SerializeField] float spawnIntervalMin;
+    [SerializeField] float spawnIntervalMax;
+    [SerializeField] float cactusLifetime;
+    [SerializeField] GameObject reloadSceneButton;
 
     [Header("UI")]
-    public Slider countdown;
-    public GameObject winScreen;
+    [SerializeField] Slider countdown;
+    [SerializeField] GameObject winScreen;
 
     [Header("Game Settings")]
-    public float totalTime = 20f;
+    [SerializeField] float totalTime = 20f;
+    [SerializeField] AudioSource dyingSound;
 
     public DesktopManager dma;
     public TRexManager trex;
 
-    private float elapsedTime = 0f;
-    private float timeLeft;
+    [SerializeField] float elapsedTime = 0f;
+    [SerializeField] float timeLeft;
 
-    private Coroutine spawnRoutine;
+    [SerializeField] Coroutine spawnRoutine;
 
-    private bool gameActive = true;
+    [SerializeField] bool gameActive = true;
     public bool GameActive => gameActive;
 
-    public bool firstTime = true;
-
+    [SerializeField] AudioSource backgroundMusic;
     private void Start()
     {
         StartGame();
@@ -80,16 +81,10 @@ public class CactusSpawn : MonoBehaviour
         reloadSceneButton.SetActive(false);
         winScreen.SetActive(false);
 
-        if (trex != null)
-        {
-            trex.enabled = true;
-            trex.dinoAnimator.speed = 1f;
-            trex.dinoAnimator.Play("Run", 0, 0f);
-        }
+        if (spawnRoutine != null)
+            StopCoroutine(spawnRoutine);
 
         spawnRoutine = StartCoroutine(SpawnCactusRoutine());
-
-
     }
 
     private IEnumerator SpawnCactusRoutine()
@@ -104,6 +99,7 @@ public class CactusSpawn : MonoBehaviour
 
     void SpawnCactus()
     {
+        if (!gameActive) return;
         if (cactusPrefabs.Length == 0) return;
 
         int index = Random.Range(0, cactusPrefabs.Length);
@@ -138,6 +134,7 @@ public class CactusSpawn : MonoBehaviour
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             cactus.enabled = false;
 
+        dyingSound.Play();
         reloadSceneButton.SetActive(true);
     }
 
@@ -164,15 +161,12 @@ public class CactusSpawn : MonoBehaviour
     IEnumerator WinDelay()
     {
         yield return new WaitForSeconds(3);
-        if (firstTime)
-        {
-            firstTime = !firstTime;
-            dma.CallEvent(5);
-        }
-
-
-        if (!firstTime)
-            dma.CallEvent(7);
+        dma.CallEvent(dma.gayIndex);
+        dma.gayIndex++;
+        backgroundMusic.mute = false;
+        canvasTransform.gameObject.SetActive(false);
+        dma.apps[0].SetActive(true);
+        gameObject.SetActive(false);
     }
 
     public void ReloadSceneManual()

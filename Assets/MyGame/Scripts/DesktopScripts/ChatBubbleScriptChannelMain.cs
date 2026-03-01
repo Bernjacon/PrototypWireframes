@@ -5,6 +5,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine.Events;
+using UnityEngine.Audio;
 
 public class ChatBubbleScriptChannelMain : MonoBehaviour
 {
@@ -15,12 +16,15 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
     private bool useSecondStageParent = false;
 
-    [Header("Chat Data")]
-    [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
-
     [Header("Player Settings")]
     [SerializeField] private Sprite playerProfileImage;
-    [SerializeField] private GameObject[] decisionButtons; // Buttons for player decisions
+    [SerializeField] private GameObject[] decisionButtons;
+
+    [Header("Audio")]
+    public AudioSource benachrichtingungSource;
+
+    [Header("Chat Data")]
+    [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
 
     private ChatMessageDataChannelMain currentData;
     private int currentMessageIndex = 0;
@@ -28,19 +32,23 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
     private bool isPausedForDecision = false;
     private bool isPausedDueToInactive = false;
 
+    bool artikel1WasClicked = false;
+    bool artikel2WasClicked = false;
+
+    [SerializeField] GameObject channel2button;
+    [SerializeField] GameObject channel3button;
+
     private void Start()
     {
         foreach (var btn in decisionButtons)
             btn.SetActive(false);
 
-        // Start the conversation if active
         if (gameObject.activeInHierarchy)
             conversationRoutine = StartCoroutine(ContinueConversation());
     }
 
     private void OnDisable()
     {
-        // Pause the conversation if object is deactivated
         if (conversationRoutine != null)
         {
             StopCoroutine(conversationRoutine);
@@ -50,7 +58,6 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
     private void OnEnable()
     {
-        // Resume if paused due to being inactive
         if (isPausedDueToInactive)
         {
             conversationRoutine = StartCoroutine(ContinueConversation());
@@ -64,12 +71,10 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
         {
             var data = messagesChannelMain[currentMessageIndex];
 
-            // Wait before showing the message
             yield return new WaitForSeconds(data.delayToNextMessage);
 
             DisplayMessage(data);
 
-            // Trigger the event if active
             if (data.triggerEvent && data.OnEvent != null)
             {
                 data.OnEvent.Invoke();
@@ -77,19 +82,23 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
                     yield break;
             }
 
-            // Wait if message is marked to pause until released
             while (data.waitUntilReleased)
             {
-                yield return null; // wait until next frame
+                yield return null;
             }
 
-            // Continue normally
             currentMessageIndex++;
         }
     }
 
     private void DisplayMessage(ChatMessageDataChannelMain data)
     {
+        if (data.benachrichtigungsSound != null)
+            benachrichtingungSource.clip = data.benachrichtigungsSound;
+
+        if (benachrichtingungSource.clip != null)
+            benachrichtingungSource.Play();
+
         currentData = data;
 
         string speaker = string.IsNullOrEmpty(data.speakerName) ? "NPC" : data.speakerName;
@@ -189,6 +198,26 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
         conversationRoutine = StartCoroutine(ContinueConversation());
     }
+
+    public void Artikel1WasPressed()
+    {
+        artikel1WasClicked = true;
+        CheckComplition();
+    }
+
+    public void Artikel2WasPressed()
+    {
+        artikel2WasClicked = true;
+        CheckComplition();
+    }
+
+    private void CheckComplition()
+    {
+        if (artikel1WasClicked && artikel2WasClicked)
+            ReleasePauseAndSwitchToSecondStage();
+        channel2button.SetActive(true);
+        channel3button.SetActive(true);
+    }
 }
 
 [Serializable]
@@ -198,6 +227,7 @@ public class ChatMessageDataChannelMain
     public string messageText;
     public Sprite profileImage;
     public float delayToNextMessage = 2f;
+    public AudioClip benachrichtigungsSound;
 
     [Header("Decision / Event")]
     public bool triggerEvent = false;
@@ -212,5 +242,5 @@ public class ChatMessageDataChannelMain
     public GameObject alternatePrefab;
 
     [Header("Wait / Pause Control")]
-    public bool waitUntilReleased = false; // if true, conversation won't continue until externally set to false
+    public bool waitUntilReleased = false;
 }
