@@ -106,12 +106,12 @@ TextureImporter:
       name: Laden_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 213
-        width: 379
-        height: 161
+        x: 0
+        y: 0
+        width: 400
+        height: 374
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -133,7 +133,7 @@ TextureImporter:
         width: 379
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ae0b650e9db608e418ab47dea46a39b2
     internalID: 0
     vertices: []
     indices: 
