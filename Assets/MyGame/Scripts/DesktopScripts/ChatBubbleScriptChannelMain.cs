@@ -23,6 +23,11 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
     [Header("Audio")]
     public AudioSource benachrichtingungSource;
 
+    [SerializeField] GameObject channel2button;
+    [SerializeField] GameObject channel3button;
+
+    [SerializeField] GameObject decsionParent;
+
     [Header("Chat Data")]
     [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
 
@@ -35,8 +40,6 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
     bool artikel1WasClicked = false;
     bool artikel2WasClicked = false;
 
-    [SerializeField] GameObject channel2button;
-    [SerializeField] GameObject channel3button;
 
     private void Start()
     {
@@ -156,6 +159,7 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
             data.targetIndexAfterDecision?.Length ?? 0
         );
 
+        decsionParent.SetActive(true);
         for (int i = 0; i < decisionButtons.Length; i++)
         {
             bool active = i < buttonCount;
@@ -178,7 +182,7 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
     private void DecisionChosen(int buttonIndex, ChatMessageDataChannelMain data)
     {
         isPausedForDecision = false;
-
+        decsionParent.SetActive(false);
         foreach (var btn in decisionButtons)
             btn.SetActive(false);
 
