@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: f80a6584a182c1142ba521d6efb8e1da
+guid: 1f4ae37890a6b0944aa2302d3f236db4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8192802688963405274
-    second: Verkleinern_0
-  - first:
-      213: -2202247177364213868
-    second: Verkleinern_1
-  - first:
-      213: 2707561983112960721
-    second: Verkleinern_2
-  - first:
-      213: -8973978508730503084
-    second: Verkleinern_3
+      213: 954201540912243018
+    second: Outline_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,89 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Verkleinern_0
+      name: Outline_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 113
-        height: 114
+        width: 1864
+        height: 928
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad5678663aea2b170800000000000000
-      internalID: 8192802688963405274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Verkleinern_1
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 71
-        width: 42
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49f69953cdb0071e0800000000000000
-      internalID: -2202247177364213868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Verkleinern_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 41
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1dadcc24741339520800000000000000
-      internalID: 2707561983112960721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Verkleinern_3
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 0
-        width: 42
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 450f02da716067380800000000000000
-      internalID: -8973978508730503084
+      spriteID: a416432fe310e3d00800000000000000
+      internalID: 954201540912243018
       vertices: []
       indices: 
       edges: []
@@ -200,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 36a78924731de4441bb78b34b4ef83ea
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Verkleinern_0: 8192802688963405274
-      Verkleinern_1: -2202247177364213868
-      Verkleinern_2: 2707561983112960721
-      Verkleinern_3: -8973978508730503084
+      Outline_0: 954201540912243018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -104,11 +104,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Das ist eine Test Nachricht.\nWas soll ich hier den noch schreiben, mir
-    f\xE4llt nichts ein..."
+  m_text: Hi, du bist also neugierig? ^^~
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 21c2f35a2efbe7e4fb97dddc3c8b56c9, type: 2}
+  m_sharedMaterial: {fileID: -3792935228230945109, guid: 21c2f35a2efbe7e4fb97dddc3c8b56c9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -241,10 +240,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Username
+  m_text: Qu1nn_j3lly
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 76d891db1561f714483729863c385b81, type: 2}
+  m_sharedMaterial: {fileID: -334714426982176646, guid: 76d891db1561f714483729863c385b81, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -274,7 +273,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -377,7 +376,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8221206650183245328, guid: 26fe284a8fa053a41b151d7b5df2efaa, type: 3}
+  m_Sprite: {fileID: 2252148491271298000, guid: db0211d7f9d51834aaf7314ff64fba57, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
