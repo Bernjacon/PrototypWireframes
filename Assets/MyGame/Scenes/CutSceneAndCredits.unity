@@ -460,6 +460,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7956c7238b759444beafd64453c4fcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  introAnimationObject: {fileID: 0}
+  introAnimationDuration: 3
+  delayAfterAnimation: 2
   creditsObject: {fileID: 1060292722}
   infoText: {fileID: 1430185673}
   holdDuration: 1.5
