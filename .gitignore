@@ -72,8 +72,3 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/MyGame/Font/Montserrat/static/Montserrat-SemiBold SDF.asset
 Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
-Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
-Assets/TextMesh Pro/Font/Montserrat/static/Montserrat-ExtraBold SDF.asset
-Assets/TextMesh Pro/Font/Montserrat/static/Montserrat-SemiBold SDF.asset
-Assets/TextMesh Pro/Font/Roboto/static/Roboto-Light SDF.asset
-Assets/TextMesh Pro/Font/Roboto/static/Roboto-SemiBold SDF.asset
