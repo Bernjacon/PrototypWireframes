@@ -1,0 +1,2788 @@
+fileFormatVersion: 2
+guid: 5dbc41edd5bd24c489711f6cd2e566f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4373196704042068317
+    second: GluckskatzeSpriteSheet_0
+  - first:
+      213: 4564878992894526693
+    second: GluckskatzeSpriteSheet_1
+  - first:
+      213: -7696797948739459876
+    second: GluckskatzeSpriteSheet_2
+  - first:
+      213: -8566711192499327492
+    second: GluckskatzeSpriteSheet_3
+  - first:
+      213: -7445383656335962278
+    second: GluckskatzeSpriteSheet_4
+  - first:
+      213: 1679784192899787636
+    second: GluckskatzeSpriteSheet_5
+  - first:
+      213: -4557153984731205554
+    second: GluckskatzeSpriteSheet_6
+  - first:
+      213: -5078667682511123820
+    second: GluckskatzeSpriteSheet_7
+  - first:
+      213: 8809794597933355148
+    second: GluckskatzeSpriteSheet_8
+  - first:
+      213: 5318741303123288156
+    second: GluckskatzeSpriteSheet_9
+  - first:
+      213: -1694707057541132348
+    second: GluckskatzeSpriteSheet_10
+  - first:
+      213: -4520808103058608067
+    second: GluckskatzeSpriteSheet_11
+  - first:
+      213: -3402553401275470082
+    second: GluckskatzeSpriteSheet_12
+  - first:
+      213: 9109251476525368172
+    second: GluckskatzeSpriteSheet_13
+  - first:
+      213: 8562868796623428898
+    second: GluckskatzeSpriteSheet_14
+  - first:
+      213: -6827470499481399013
+    second: GluckskatzeSpriteSheet_15
+  - first:
+      213: -9052164211674108566
+    second: GluckskatzeSpriteSheet_16
+  - first:
+      213: -9178240282460793648
+    second: GluckskatzeSpriteSheet_17
+  - first:
+      213: 5748582652307908508
+    second: GluckskatzeSpriteSheet_18
+  - first:
+      213: -332286930702792658
+    second: GluckskatzeSpriteSheet_19
+  - first:
+      213: -7244162050243231812
+    second: GluckskatzeSpriteSheet_20
+  - first:
+      213: 7212449155810584414
+    second: GluckskatzeSpriteSheet_21
+  - first:
+      213: 6689584290237352916
+    second: GluckskatzeSpriteSheet_22
+  - first:
+      213: -4728996000873330265
+    second: GluckskatzeSpriteSheet_23
+  - first:
+      213: -2127414563312420119
+    second: GluckskatzeSpriteSheet_24
+  - first:
+      213: -8203392113632799409
+    second: GluckskatzeSpriteSheet_25
+  - first:
+      213: -7535744832827952266
+    second: GluckskatzeSpriteSheet_26
+  - first:
+      213: 3623732003181026756
+    second: GluckskatzeSpriteSheet_27
+  - first:
+      213: -5451125582552216397
+    second: GluckskatzeSpriteSheet_28
+  - first:
+      213: 1573292297159651817
+    second: GluckskatzeSpriteSheet_29
+  - first:
+      213: 2857001286437186106
+    second: GluckskatzeSpriteSheet_30
+  - first:
+      213: 8172482361283519285
+    second: GluckskatzeSpriteSheet_31
+  - first:
+      213: -6197801243491702040
+    second: GluckskatzeSpriteSheet_32
+  - first:
+      213: 1612026986802709250
+    second: GluckskatzeSpriteSheet_33
+  - first:
+      213: -8756599160542253339
+    second: GluckskatzeSpriteSheet_34
+  - first:
+      213: 6770057529616479062
+    second: GluckskatzeSpriteSheet_35
+  - first:
+      213: -8868410120148341428
+    second: GluckskatzeSpriteSheet_36
+  - first:
+      213: 7263091061932224435
+    second: GluckskatzeSpriteSheet_37
+  - first:
+      213: -2011665753413368770
+    second: GluckskatzeSpriteSheet_38
+  - first:
+      213: -7347113755995148863
+    second: GluckskatzeSpriteSheet_39
+  - first:
+      213: -7583782114075599904
+    second: GluckskatzeSpriteSheet_40
+  - first:
+      213: -6724460102177148880
+    second: GluckskatzeSpriteSheet_41
+  - first:
+      213: -8133600517731057825
+    second: GluckskatzeSpriteSheet_42
+  - first:
+      213: 4957776183998360716
+    second: GluckskatzeSpriteSheet_43
+  - first:
+      213: -7051253225738109905
+    second: GluckskatzeSpriteSheet_44
+  - first:
+      213: -5424612956071090445
+    second: GluckskatzeSpriteSheet_45
+  - first:
+      213: -7149056321786862836
+    second: GluckskatzeSpriteSheet_46
+  - first:
+      213: -2404520166643994612
+    second: GluckskatzeSpriteSheet_47
+  - first:
+      213: 1514215494857825136
+    second: GluckskatzeSpriteSheet_48
+  - first:
+      213: -336681677784136562
+    second: GluckskatzeSpriteSheet_49
+  - first:
+      213: 377174182557455072
+    second: GluckskatzeSpriteSheet_50
+  - first:
+      213: -784507285714827923
+    second: GluckskatzeSpriteSheet_51
+  - first:
+      213: 8381920308076252670
+    second: GluckskatzeSpriteSheet_52
+  - first:
+      213: 1449183155219982614
+    second: GluckskatzeSpriteSheet_53
+  - first:
+      213: 2513447328206383074
+    second: GluckskatzeSpriteSheet_54
+  - first:
+      213: 2457223985019961720
+    second: GluckskatzeSpriteSheet_55
+  - first:
+      213: -8347456307104354726
+    second: GluckskatzeSpriteSheet_56
+  - first:
+      213: 2243366634701248550
+    second: GluckskatzeSpriteSheet_57
+  - first:
+      213: -1822478526133159414
+    second: GluckskatzeSpriteSheet_58
+  - first:
+      213: -7101213452657533629
+    second: GluckskatzeSpriteSheet_59
+  - first:
+      213: 4485694618270210176
+    second: GluckskatzeSpriteSheet_60
+  - first:
+      213: -8053732289844466044
+    second: GluckskatzeSpriteSheet_61
+  - first:
+      213: 3549332454605684151
+    second: GluckskatzeSpriteSheet_62
+  - first:
+      213: -4688463709473843613
+    second: GluckskatzeSpriteSheet_63
+  - first:
+      213: -8907402044163539769
+    second: GluckskatzeSpriteSheet_64
+  - first:
+      213: 5783860825069410121
+    second: GluckskatzeSpriteSheet_65
+  - first:
+      213: 6949380703516604808
+    second: GluckskatzeSpriteSheet_66
+  - first:
+      213: -7995270084783419257
+    second: GluckskatzeSpriteSheet_67
+  - first:
+      213: -8638628540269021089
+    second: GluckskatzeSpriteSheet_68
+  - first:
+      213: -6204823673209964065
+    second: GluckskatzeSpriteSheet_69
+  - first:
+      213: -8078076878526348411
+    second: GluckskatzeSpriteSheet_70
+  - first:
+      213: 7385602623740566858
+    second: GluckskatzeSpriteSheet_71
+  - first:
+      213: 2488121121183543663
+    second: GluckskatzeSpriteSheet_72
+  - first:
+      213: 5343628886285858639
+    second: GluckskatzeSpriteSheet_73
+  - first:
+      213: 7394198133573179713
+    second: GluckskatzeSpriteSheet_74
+  - first:
+      213: 1998630635940727995
+    second: GluckskatzeSpriteSheet_75
+  - first:
+      213: 4181272625692355124
+    second: GluckskatzeSpriteSheet_76
+  - first:
+      213: -6597042465849006698
+    second: GluckskatzeSpriteSheet_77
+  - first:
+      213: 5836236679747055007
+    second: GluckskatzeSpriteSheet_78
+  - first:
+      213: -6805874501877008913
+    second: GluckskatzeSpriteSheet_79
+  - first:
+      213: -5557749025134168400
+    second: GluckskatzeSpriteSheet_80
+  - first:
+      213: -4859535318293868422
+    second: GluckskatzeSpriteSheet_81
+  - first:
+      213: -1482059334694494257
+    second: GluckskatzeSpriteSheet_82
+  - first:
+      213: -3429284903648001148
+    second: GluckskatzeSpriteSheet_83
+  - first:
+      213: -5820285942241710777
+    second: GluckskatzeSpriteSheet_84
+  - first:
+      213: 1587238501772613745
+    second: GluckskatzeSpriteSheet_85
+  - first:
+      213: 2425749865325278336
+    second: GluckskatzeSpriteSheet_86
+  - first:
+      213: -6801838106656798716
+    second: GluckskatzeSpriteSheet_87
+  - first:
+      213: 6619344391507855896
+    second: GluckskatzeSpriteSheet_88
+  - first:
+      213: 8592045405912986818
+    second: GluckskatzeSpriteSheet_89
+  - first:
+      213: -8470332838977689124
+    second: GluckskatzeSpriteSheet_90
+  - first:
+      213: 5907317459004977122
+    second: GluckskatzeSpriteSheet_91
+  - first:
+      213: -6594612876835831451
+    second: GluckskatzeSpriteSheet_92
+  - first:
+      213: -8977482786366413664
+    second: GluckskatzeSpriteSheet_93
+  - first:
+      213: -4340046120330027419
+    second: GluckskatzeSpriteSheet_94
+  - first:
+      213: -7622815380359399748
+    second: GluckskatzeSpriteSheet_95
+  - first:
+      213: -4459338580980250157
+    second: GluckskatzeSpriteSheet_96
+  - first:
+      213: -2135765791034876566
+    second: GluckskatzeSpriteSheet_97
+  - first:
+      213: -1128275677698072932
+    second: GluckskatzeSpriteSheet_98
+  - first:
+      213: -7815328879809887467
+    second: GluckskatzeSpriteSheet_99
+  - first:
+      213: -4927592852308792888
+    second: GluckskatzeSpriteSheet_100
+  - first:
+      213: -8768458277134500469
+    second: GluckskatzeSpriteSheet_101
+  - first:
+      213: -5658075124537223101
+    second: GluckskatzeSpriteSheet_102
+  - first:
+      213: -9109495979744036594
+    second: GluckskatzeSpriteSheet_103
+  - first:
+      213: -1384314836916021823
+    second: GluckskatzeSpriteSheet_104
+  - first:
+      213: -245355644914107602
+    second: GluckskatzeSpriteSheet_105
+  - first:
+      213: -6937128901763651987
+    second: GluckskatzeSpriteSheet_106
+  - first:
+      213: 5663169571994683582
+    second: GluckskatzeSpriteSheet_107
+  - first:
+      213: 3645199009675863193
+    second: GluckskatzeSpriteSheet_108
+  - first:
+      213: 852180705944493824
+    second: GluckskatzeSpriteSheet_109
+  - first:
+      213: 3559218860676761275
+    second: GluckskatzeSpriteSheet_110
+  - first:
+      213: 4094806035165518285
+    second: GluckskatzeSpriteSheet_111
+  - first:
+      213: -1003344299277224120
+    second: GluckskatzeSpriteSheet_112
+  - first:
+      213: -1890575437847773752
+    second: GluckskatzeSpriteSheet_113
+  - first:
+      213: -8548484924947598060
+    second: GluckskatzeSpriteSheet_114
+  - first:
+      213: 2240222768181800669
+    second: GluckskatzeSpriteSheet_115
+  - first:
+      213: -8807538953230777856
+    second: GluckskatzeSpriteSheet_116
+  - first:
+      213: 4189013057678693997
+    second: GluckskatzeSpriteSheet_117
+  - first:
+      213: 4558088362526383013
+    second: GluckskatzeSpriteSheet_118
+  - first:
+      213: 1624533055381199450
+    second: GluckskatzeSpriteSheet_119
+  - first:
+      213: 7705265752085544149
+    second: GluckskatzeSpriteSheet_120
+  - first:
+      213: -3343084107358518544
+    second: GluckskatzeSpriteSheet_121
+  - first:
+      213: -6097573772292717341
+    second: GluckskatzeSpriteSheet_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6d9a294c84f43c0800000000000000
+      internalID: -4373196704042068317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e40f1e1245b95f30800000000000000
+      internalID: 4564878992894526693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ed658b0b7f2590800000000000000
+      internalID: -7696797948739459876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfde6bd0f8dec1980800000000000000
+      internalID: -8566711192499327492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f889b030faca890800000000000000
+      internalID: -7445383656335962278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bab15d2dacf4710800000000000000
+      internalID: 1679784192899787636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e403751889cb1c0c0800000000000000
+      internalID: -4557153984731205554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a0ba396a2f489b0800000000000000
+      internalID: -5078667682511123820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8019f1b28da24a70800000000000000
+      internalID: 8809794597933355148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 9720
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50acd80907ffc940800000000000000
+      internalID: 5318741303123288156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc9ecf8e03b78e0800000000000000
+      internalID: -1694707057541132348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30fb778bfcd241c0800000000000000
+      internalID: -4520808103058608067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeada385b3b7c0d0800000000000000
+      internalID: -3402553401275470082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c634ffb74ff8a6e70800000000000000
+      internalID: 9109251476525368172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d14017dcb65d670800000000000000
+      internalID: 8562868796623428898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11d3f311c3ff31a0800000000000000
+      internalID: -6827470499481399013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d29a22c90406280800000000000000
+      internalID: -9052164211674108566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d45ebc671750a080800000000000000
+      internalID: -9178240282460793648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9729c8077117cf40800000000000000
+      internalID: 5748582652307908508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 8640
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2884fb0cca736bf0800000000000000
+      internalID: -332286930702792658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff2eb1ff0977b90800000000000000
+      internalID: -7244162050243231812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57e7a44b44c71460800000000000000
+      internalID: 7212449155810584414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db81a2187d26dc50800000000000000
+      internalID: 6689584290237352916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9c3b7413b3f5eb0800000000000000
+      internalID: -4728996000873330265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea35c7e9b7e972e0800000000000000
+      internalID: -2127414563312420119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f451da90652b72e80800000000000000
+      internalID: -8203392113632799409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673fd492008ab6790800000000000000
+      internalID: -7535744832827952266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd1dabe051a4230800000000000000
+      internalID: 3623732003181026756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc4ee9f926b954b0800000000000000
+      internalID: -5451125582552216397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e13f04320575d510800000000000000
+      internalID: 1573292297159651817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a2ce0788b16a720800000000000000
+      internalID: 2857001286437186106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533237d686d7a6170800000000000000
+      internalID: 8172482361283519285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eae33d3b9cfcf9a0800000000000000
+      internalID: -6197801243491702040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20308bce0021f5610800000000000000
+      internalID: 1612026986802709250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee256b357f4a7680800000000000000
+      internalID: -8756599160542253339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653bfb1347314fd50800000000000000
+      internalID: 6770057529616479062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d241a8bf31de480800000000000000
+      internalID: -8868410120148341428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe8cdd6deabc460800000000000000
+      internalID: 7263091061932224435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e344af0d7a02514e0800000000000000
+      internalID: -2011665753413368770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cde58137fec90a90800000000000000
+      internalID: -7347113755995148863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb109c095ef0c690800000000000000
+      internalID: -7583782114075599904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030b17f2a2beda2a0800000000000000
+      internalID: -6724460102177148880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff4bb3c65af1f80800000000000000
+      internalID: -8133600517731057825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c2d130c2f8dc440800000000000000
+      internalID: 4957776183998360716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c7d82ec8ae42e90800000000000000
+      internalID: -7051253225738109905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6a66dd147e7b4b0800000000000000
+      internalID: -5424612956071090445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0322a4172379cc90800000000000000
+      internalID: -7149056321786862836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00fbebe5ad61aed0800000000000000
+      internalID: -2404520166643994612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b946c48f2930510800000000000000
+      internalID: 1514215494857825136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e844b414ccdd35bf0800000000000000
+      internalID: -336681677784136562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e219c1bbedfb3500800000000000000
+      internalID: 377174182557455072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d650347b7cedc15f0800000000000000
+      internalID: -784507285714827923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd84826c10925470800000000000000
+      internalID: 8381920308076252670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ed5dc6688c1410800000000000000
+      internalID: 1449183155219982614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76567370f81e220800000000000000
+      internalID: 2513447328206383074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8714fa80230d91220800000000000000
+      internalID: 2457223985019961720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e63f427b0e72c80800000000000000
+      internalID: -8347456307104354726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d452811a022f10800000000000000
+      internalID: 2243366634701248550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3e07bf6145b6e0800000000000000
+      internalID: -1822478526133159414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d5f181dfb637d90800000000000000
+      internalID: -7101213452657533629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08890e43d73604e30800000000000000
+      internalID: 4485694618270210176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2ab327256b3090800000000000000
+      internalID: -8053732289844466044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd7982ff03c14130800000000000000
+      internalID: 3549332454605684151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3665086c81b3feeb0800000000000000
+      internalID: -4688463709473843613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3b06c80d826480800000000000000
+      internalID: -8907402044163539769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475f84b6c6644050800000000000000
+      internalID: 5783860825069410121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889bf023ee8217060800000000000000
+      internalID: 6949380703516604808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7805d29f7381b0190800000000000000
+      internalID: -7995270084783419257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b6beac1d6d1880800000000000000
+      internalID: -8638628540269021089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b2686eb904e9a0800000000000000
+      internalID: -6204823673209964065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5830423e0e7e4ef80800000000000000
+      internalID: -8078076878526348411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ddf38a47eee7660800000000000000
+      internalID: 7385602623740566858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ba422af4978220800000000000000
+      internalID: 2488121121183543663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b59a0922682a40800000000000000
+      internalID: 5343628886285858639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495c7eb6087d9660800000000000000
+      internalID: 7394198133573179713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcc57469ff8cbb10800000000000000
+      internalID: 1998630635940727995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a257bbc4dd60a30800000000000000
+      internalID: 4181272625692355124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69527e674d89274a0800000000000000
+      internalID: -6597042465849006698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dad69a65a7ef050800000000000000
+      internalID: 5836236679747055007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57bb9133dac81a0800000000000000
+      internalID: -6805874501877008913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ba1635b8eed2b0800000000000000
+      internalID: -5557749025134168400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7011abff567f8cb0800000000000000
+      internalID: -4859535318293868422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9b7b23eaae6be0800000000000000
+      internalID: -1482059334694494257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483837c9c8bb860d0800000000000000
+      internalID: -3429284903648001148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dab71d5c03a3fa0800000000000000
+      internalID: -5820285942241710777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178dafff101070610800000000000000
+      internalID: 1587238501772613745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843aac76aef9a120800000000000000
+      internalID: 2425749865325278336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408810997440b91a0800000000000000
+      internalID: -6801838106656798716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81acccd37a2acdb50800000000000000
+      internalID: 6619344391507855896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4787926c31d3770800000000000000
+      internalID: 8592045405912986818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9a8632925537a80800000000000000
+      internalID: -8470332838977689124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef647f3ee10bf150800000000000000
+      internalID: 5907317459004977122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561cbfc378a3b74a0800000000000000
+      internalID: -6594612876835831451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4227578f2996380800000000000000
+      internalID: -8977482786366413664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9ae05c0f05c3c0800000000000000
+      internalID: -4340046120330027419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63b498cc1563690800000000000000
+      internalID: -7622815380359399748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94a7bef2f3d12c0800000000000000
+      internalID: -4459338580980250157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d5fed245c3c52e0800000000000000
+      internalID: -2135765791034876566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed71ebf3f8750f0800000000000000
+      internalID: -1128275677698072932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GluckskatzeSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513841c8acf5a8390800000000000000
+      internalID: -7815328879809887467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c4090f5f9900eba4d90cf5f3105f0dac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":10.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GluckskatzeSpriteSheet_0: -4373196704042068317
+      GluckskatzeSpriteSheet_1: 4564878992894526693
+      GluckskatzeSpriteSheet_10: -1694707057541132348
+      GluckskatzeSpriteSheet_11: -4520808103058608067
+      GluckskatzeSpriteSheet_12: -3402553401275470082
+      GluckskatzeSpriteSheet_13: 9109251476525368172
+      GluckskatzeSpriteSheet_14: 8562868796623428898
+      GluckskatzeSpriteSheet_15: -6827470499481399013
+      GluckskatzeSpriteSheet_16: -9052164211674108566
+      GluckskatzeSpriteSheet_17: -9178240282460793648
+      GluckskatzeSpriteSheet_18: 5748582652307908508
+      GluckskatzeSpriteSheet_19: -332286930702792658
+      GluckskatzeSpriteSheet_2: -7696797948739459876
+      GluckskatzeSpriteSheet_20: -7244162050243231812
+      GluckskatzeSpriteSheet_21: 7212449155810584414
+      GluckskatzeSpriteSheet_22: 6689584290237352916
+      GluckskatzeSpriteSheet_23: -4728996000873330265
+      GluckskatzeSpriteSheet_24: -2127414563312420119
+      GluckskatzeSpriteSheet_25: -8203392113632799409
+      GluckskatzeSpriteSheet_26: -7535744832827952266
+      GluckskatzeSpriteSheet_27: 3623732003181026756
+      GluckskatzeSpriteSheet_28: -5451125582552216397
+      GluckskatzeSpriteSheet_29: 1573292297159651817
+      GluckskatzeSpriteSheet_3: -8566711192499327492
+      GluckskatzeSpriteSheet_30: 2857001286437186106
+      GluckskatzeSpriteSheet_31: 8172482361283519285
+      GluckskatzeSpriteSheet_32: -6197801243491702040
+      GluckskatzeSpriteSheet_33: 1612026986802709250
+      GluckskatzeSpriteSheet_34: -8756599160542253339
+      GluckskatzeSpriteSheet_35: 6770057529616479062
+      GluckskatzeSpriteSheet_36: -8868410120148341428
+      GluckskatzeSpriteSheet_37: 7263091061932224435
+      GluckskatzeSpriteSheet_38: -2011665753413368770
+      GluckskatzeSpriteSheet_39: -7347113755995148863
+      GluckskatzeSpriteSheet_4: -7445383656335962278
+      GluckskatzeSpriteSheet_40: -7583782114075599904
+      GluckskatzeSpriteSheet_41: -6724460102177148880
+      GluckskatzeSpriteSheet_42: -8133600517731057825
+      GluckskatzeSpriteSheet_43: 4957776183998360716
+      GluckskatzeSpriteSheet_44: -7051253225738109905
+      GluckskatzeSpriteSheet_45: -5424612956071090445
+      GluckskatzeSpriteSheet_46: -7149056321786862836
+      GluckskatzeSpriteSheet_47: -2404520166643994612
+      GluckskatzeSpriteSheet_48: 1514215494857825136
+      GluckskatzeSpriteSheet_49: -336681677784136562
+      GluckskatzeSpriteSheet_5: 1679784192899787636
+      GluckskatzeSpriteSheet_50: 377174182557455072
+      GluckskatzeSpriteSheet_51: -784507285714827923
+      GluckskatzeSpriteSheet_52: 8381920308076252670
+      GluckskatzeSpriteSheet_53: 1449183155219982614
+      GluckskatzeSpriteSheet_54: 2513447328206383074
+      GluckskatzeSpriteSheet_55: 2457223985019961720
+      GluckskatzeSpriteSheet_56: -8347456307104354726
+      GluckskatzeSpriteSheet_57: 2243366634701248550
+      GluckskatzeSpriteSheet_58: -1822478526133159414
+      GluckskatzeSpriteSheet_59: -7101213452657533629
+      GluckskatzeSpriteSheet_6: -4557153984731205554
+      GluckskatzeSpriteSheet_60: 4485694618270210176
+      GluckskatzeSpriteSheet_61: -8053732289844466044
+      GluckskatzeSpriteSheet_62: 3549332454605684151
+      GluckskatzeSpriteSheet_63: -4688463709473843613
+      GluckskatzeSpriteSheet_64: -8907402044163539769
+      GluckskatzeSpriteSheet_65: 5783860825069410121
+      GluckskatzeSpriteSheet_66: 6949380703516604808
+      GluckskatzeSpriteSheet_67: -7995270084783419257
+      GluckskatzeSpriteSheet_68: -8638628540269021089
+      GluckskatzeSpriteSheet_69: -6204823673209964065
+      GluckskatzeSpriteSheet_7: -5078667682511123820
+      GluckskatzeSpriteSheet_70: -8078076878526348411
+      GluckskatzeSpriteSheet_71: 7385602623740566858
+      GluckskatzeSpriteSheet_72: 2488121121183543663
+      GluckskatzeSpriteSheet_73: 5343628886285858639
+      GluckskatzeSpriteSheet_74: 7394198133573179713
+      GluckskatzeSpriteSheet_75: 1998630635940727995
+      GluckskatzeSpriteSheet_76: 4181272625692355124
+      GluckskatzeSpriteSheet_77: -6597042465849006698
+      GluckskatzeSpriteSheet_78: 5836236679747055007
+      GluckskatzeSpriteSheet_79: -6805874501877008913
+      GluckskatzeSpriteSheet_8: 8809794597933355148
+      GluckskatzeSpriteSheet_80: -5557749025134168400
+      GluckskatzeSpriteSheet_81: -4859535318293868422
+      GluckskatzeSpriteSheet_82: -1482059334694494257
+      GluckskatzeSpriteSheet_83: -3429284903648001148
+      GluckskatzeSpriteSheet_84: -5820285942241710777
+      GluckskatzeSpriteSheet_85: 1587238501772613745
+      GluckskatzeSpriteSheet_86: 2425749865325278336
+      GluckskatzeSpriteSheet_87: -6801838106656798716
+      GluckskatzeSpriteSheet_88: 6619344391507855896
+      GluckskatzeSpriteSheet_89: 8592045405912986818
+      GluckskatzeSpriteSheet_9: 5318741303123288156
+      GluckskatzeSpriteSheet_90: -8470332838977689124
+      GluckskatzeSpriteSheet_91: 5907317459004977122
+      GluckskatzeSpriteSheet_92: -6594612876835831451
+      GluckskatzeSpriteSheet_93: -8977482786366413664
+      GluckskatzeSpriteSheet_94: -4340046120330027419
+      GluckskatzeSpriteSheet_95: -7622815380359399748
+      GluckskatzeSpriteSheet_96: -4459338580980250157
+      GluckskatzeSpriteSheet_97: -2135765791034876566
+      GluckskatzeSpriteSheet_98: -1128275677698072932
+      GluckskatzeSpriteSheet_99: -7815328879809887467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

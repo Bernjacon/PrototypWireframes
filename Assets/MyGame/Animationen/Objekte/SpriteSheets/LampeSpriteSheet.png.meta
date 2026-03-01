@@ -1,0 +1,2012 @@
+fileFormatVersion: 2
+guid: f4567ca5fe434d54a893656c45bcc8a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1693070298690712146
+    second: LampeSpriteSheet_0
+  - first:
+      213: -4812049387313784179
+    second: LampeSpriteSheet_1
+  - first:
+      213: 3526826917860078892
+    second: LampeSpriteSheet_2
+  - first:
+      213: -5585208308618655135
+    second: LampeSpriteSheet_3
+  - first:
+      213: -684250756401817835
+    second: LampeSpriteSheet_4
+  - first:
+      213: -933458245557477823
+    second: LampeSpriteSheet_5
+  - first:
+      213: 5583611454222919004
+    second: LampeSpriteSheet_6
+  - first:
+      213: -3765577710882740439
+    second: LampeSpriteSheet_7
+  - first:
+      213: 7821840622677791953
+    second: LampeSpriteSheet_8
+  - first:
+      213: -3820036684701843571
+    second: LampeSpriteSheet_9
+  - first:
+      213: 1200601619346327906
+    second: LampeSpriteSheet_10
+  - first:
+      213: -4409662499813595479
+    second: LampeSpriteSheet_11
+  - first:
+      213: -6930937647091135051
+    second: LampeSpriteSheet_12
+  - first:
+      213: -3093617485993614315
+    second: LampeSpriteSheet_13
+  - first:
+      213: 7258350110449145808
+    second: LampeSpriteSheet_14
+  - first:
+      213: -7094238075710407290
+    second: LampeSpriteSheet_15
+  - first:
+      213: -3003214461988590979
+    second: LampeSpriteSheet_16
+  - first:
+      213: 5363411133653418702
+    second: LampeSpriteSheet_17
+  - first:
+      213: -8732076718379687143
+    second: LampeSpriteSheet_18
+  - first:
+      213: 2492739280485876160
+    second: LampeSpriteSheet_19
+  - first:
+      213: -1450455410475220988
+    second: LampeSpriteSheet_20
+  - first:
+      213: 7127524537383608904
+    second: LampeSpriteSheet_21
+  - first:
+      213: -303220526212289155
+    second: LampeSpriteSheet_22
+  - first:
+      213: 6893756424910470601
+    second: LampeSpriteSheet_23
+  - first:
+      213: 355074096556084660
+    second: LampeSpriteSheet_24
+  - first:
+      213: -5998539869339675092
+    second: LampeSpriteSheet_25
+  - first:
+      213: 8982252445354514611
+    second: LampeSpriteSheet_26
+  - first:
+      213: 3661385579702674528
+    second: LampeSpriteSheet_27
+  - first:
+      213: -8417509502129740193
+    second: LampeSpriteSheet_28
+  - first:
+      213: -9043019392490519747
+    second: LampeSpriteSheet_29
+  - first:
+      213: 8148550545392470983
+    second: LampeSpriteSheet_30
+  - first:
+      213: 4570431856477508403
+    second: LampeSpriteSheet_31
+  - first:
+      213: 3914853868564962488
+    second: LampeSpriteSheet_32
+  - first:
+      213: -4833625485250422472
+    second: LampeSpriteSheet_33
+  - first:
+      213: -5622774738447377325
+    second: LampeSpriteSheet_34
+  - first:
+      213: -4087018400723992443
+    second: LampeSpriteSheet_35
+  - first:
+      213: 5105737667428953909
+    second: LampeSpriteSheet_36
+  - first:
+      213: 1737337549242365655
+    second: LampeSpriteSheet_37
+  - first:
+      213: 3615032924551395087
+    second: LampeSpriteSheet_38
+  - first:
+      213: 8127466649102988781
+    second: LampeSpriteSheet_39
+  - first:
+      213: 7574632776394171806
+    second: LampeSpriteSheet_40
+  - first:
+      213: -6617438504551072685
+    second: LampeSpriteSheet_41
+  - first:
+      213: 3256096138696812907
+    second: LampeSpriteSheet_42
+  - first:
+      213: -5059196535333549294
+    second: LampeSpriteSheet_43
+  - first:
+      213: 7231295617401108705
+    second: LampeSpriteSheet_44
+  - first:
+      213: 1980898713909323699
+    second: LampeSpriteSheet_45
+  - first:
+      213: 6714529930755998345
+    second: LampeSpriteSheet_46
+  - first:
+      213: -2164413665161904348
+    second: LampeSpriteSheet_47
+  - first:
+      213: -2452856275452840165
+    second: LampeSpriteSheet_48
+  - first:
+      213: 4159169654615260167
+    second: LampeSpriteSheet_49
+  - first:
+      213: 3267061304822435103
+    second: LampeSpriteSheet_50
+  - first:
+      213: -2799037834315637307
+    second: LampeSpriteSheet_51
+  - first:
+      213: -5579696691103909036
+    second: LampeSpriteSheet_52
+  - first:
+      213: 996580804042008159
+    second: LampeSpriteSheet_53
+  - first:
+      213: 4221071035991469446
+    second: LampeSpriteSheet_54
+  - first:
+      213: 5030627995891063744
+    second: LampeSpriteSheet_55
+  - first:
+      213: 3799793425055343490
+    second: LampeSpriteSheet_56
+  - first:
+      213: 276371827950287001
+    second: LampeSpriteSheet_57
+  - first:
+      213: -3478153239420693019
+    second: LampeSpriteSheet_58
+  - first:
+      213: -7691389771630327938
+    second: LampeSpriteSheet_59
+  - first:
+      213: -5662817226237044383
+    second: LampeSpriteSheet_60
+  - first:
+      213: -1771798887596240830
+    second: LampeSpriteSheet_61
+  - first:
+      213: 4149146818438605731
+    second: LampeSpriteSheet_62
+  - first:
+      213: -5450936311667870937
+    second: LampeSpriteSheet_63
+  - first:
+      213: 476273767005912213
+    second: LampeSpriteSheet_64
+  - first:
+      213: -3096261810701137207
+    second: LampeSpriteSheet_65
+  - first:
+      213: 5285574922879619879
+    second: LampeSpriteSheet_66
+  - first:
+      213: -6529423548560493866
+    second: LampeSpriteSheet_67
+  - first:
+      213: -3067612846378425200
+    second: LampeSpriteSheet_68
+  - first:
+      213: 2689312941363283432
+    second: LampeSpriteSheet_69
+  - first:
+      213: 7950654517051208732
+    second: LampeSpriteSheet_70
+  - first:
+      213: 8817812480749738177
+    second: LampeSpriteSheet_71
+  - first:
+      213: 3743917614766481764
+    second: LampeSpriteSheet_72
+  - first:
+      213: 4296041186459631944
+    second: LampeSpriteSheet_73
+  - first:
+      213: -3483404565833749058
+    second: LampeSpriteSheet_74
+  - first:
+      213: -6997063124559093960
+    second: LampeSpriteSheet_75
+  - first:
+      213: 6600670269697073980
+    second: LampeSpriteSheet_76
+  - first:
+      213: -5253191905696581019
+    second: LampeSpriteSheet_77
+  - first:
+      213: 6479779203040662090
+    second: LampeSpriteSheet_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LampeSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead86ca98810188e0800000000000000
+      internalID: -1693070298690712146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a968bd39a283db0800000000000000
+      internalID: -4812049387313784179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f557556ec1f030800000000000000
+      internalID: 3526826917860078892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a893092aa5d72b0800000000000000
+      internalID: -5585208308618655135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179067ff8d0186f0800000000000000
+      internalID: -684250756401817835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e13ecdba0bb03f0800000000000000
+      internalID: -933458245557477823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5562ccc809fc7d40800000000000000
+      internalID: 5583611454222919004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927a4b8d50bfdbbc0800000000000000
+      internalID: -3765577710882740439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 7560
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d41e6cba92cc8c60800000000000000
+      internalID: 7821840622677791953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fb26befd08cfac0800000000000000
+      internalID: -3820036684701843571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26985edcfc469a010800000000000000
+      internalID: 1200601619346327906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ef3fd15bbdc2c0800000000000000
+      internalID: -4409662499813595479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd40c08eec50df90800000000000000
+      internalID: -6930937647091135051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e96489434115d0800000000000000
+      internalID: -3093617485993614315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71db418f6dab460800000000000000
+      internalID: 7258350110449145808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dfa399e043c8d90800000000000000
+      internalID: -7094238075710407290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aaad8cb507256d0800000000000000
+      internalID: -3003214461988590979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec289cd620aae6a40800000000000000
+      internalID: 5363411133653418702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91325893d7e61d680800000000000000
+      internalID: -8732076718379687143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c106032b2df79220800000000000000
+      internalID: 2492739280485876160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400c4103d72fedbe0800000000000000
+      internalID: -1450455410475220988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84261a2bdcd0ae260800000000000000
+      internalID: 7127524537383608904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6286b98ebacbf0800000000000000
+      internalID: -303220526212289155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdfada91fa8baf50800000000000000
+      internalID: 6893756424910470601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd0b22720a7de400800000000000000
+      internalID: 355074096556084660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269dfc35c7e0cca0800000000000000
+      internalID: -5998539869339675092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b85d30520f57ac70800000000000000
+      internalID: 8982252445354514611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0646aef29cadfc230800000000000000
+      internalID: 3661385579702674528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56e418a4bffe2b80800000000000000
+      internalID: -8417509502129740193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3342a546cdb08280800000000000000
+      internalID: -9043019392490519747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0f645c87751170800000000000000
+      internalID: 8148550545392470983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333987bee8f6d6f30800000000000000
+      internalID: 4570431856477508403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd0670ada545630800000000000000
+      internalID: 3914853868564962488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8399f561b338becb0800000000000000
+      internalID: -4833625485250422472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cddc68a24e7f1b0800000000000000
+      internalID: -5622774738447377325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5808c522b6ef747c0800000000000000
+      internalID: -4087018400723992443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2f6f6b593bd640800000000000000
+      internalID: 5105737667428953909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6f985db434c1810800000000000000
+      internalID: 1737337549242365655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073a37aa4d2b2230800000000000000
+      internalID: 3615032924551395087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de53e9f2bdf8ac070800000000000000
+      internalID: 8127466649102988781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e956105c0608e1960800000000000000
+      internalID: 7574632776394171806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cbd35adb22a24a0800000000000000
+      internalID: -6617438504551072685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696b85cf2aff2d20800000000000000
+      internalID: 3256096138696812907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b8e8e4e8f1ac9b0800000000000000
+      internalID: -5059196535333549294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8380d0d09ba5460800000000000000
+      internalID: 7231295617401108705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e79292e09d7b10800000000000000
+      internalID: 1980898713909323699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982807c956dce2d50800000000000000
+      internalID: 6714529930755998345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff5053d3576f1e0800000000000000
+      internalID: -2164413665161904348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17bb889634b5fdd0800000000000000
+      internalID: -2452856275452840165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c3defb3c658b930800000000000000
+      internalID: 4159169654615260167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8d5572fee65d20800000000000000
+      internalID: 3267061304822435103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cddcbc6be1d729d0800000000000000
+      internalID: -2799037834315637307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b34540c6fe092b0800000000000000
+      internalID: -5579696691103909036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a5ee06f094dd00800000000000000
+      internalID: 996580804042008159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d26f73eb1449a30800000000000000
+      internalID: 4221071035991469446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd834428160d540800000000000000
+      internalID: 5030627995891063744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283e948ecf39bb430800000000000000
+      internalID: 3799793425055343490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998f6e696bed5d300800000000000000
+      internalID: 276371827950287001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e594f98e0e1bbfc0800000000000000
+      internalID: -3478153239420693019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77c6e0e0c1b24590800000000000000
+      internalID: -7691389771630327938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1699d225cb1a961b0800000000000000
+      internalID: -5662817226237044383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d4639c4e4967e0800000000000000
+      internalID: -1771798887596240830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aba9f95c0bb49930800000000000000
+      internalID: 4149146818438605731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72332c90e426a54b0800000000000000
+      internalID: -5450936311667870937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c793ab7701c9600800000000000000
+      internalID: 476273767005912213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0d81b94ed705d0800000000000000
+      internalID: -3096261810701137207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d3ff53622a5940800000000000000
+      internalID: 5285574922879619879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23bff70e3d265a0800000000000000
+      internalID: -6529423548560493866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094603f7e56ad65d0800000000000000
+      internalID: -3067612846378425200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5c1df1fdb525520800000000000000
+      internalID: 2689312941363283432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1431bca826665e60800000000000000
+      internalID: 7950654517051208732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LampeSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c818138bb92f5a70800000000000000
+      internalID: 8817812480749738177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3ef852fcf1d7f0468c4b7d2e11c9fa4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":8.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LampeSpriteSheet_0: -1693070298690712146
+      LampeSpriteSheet_1: -4812049387313784179
+      LampeSpriteSheet_10: 1200601619346327906
+      LampeSpriteSheet_11: -4409662499813595479
+      LampeSpriteSheet_12: -6930937647091135051
+      LampeSpriteSheet_13: -3093617485993614315
+      LampeSpriteSheet_14: 7258350110449145808
+      LampeSpriteSheet_15: -7094238075710407290
+      LampeSpriteSheet_16: -3003214461988590979
+      LampeSpriteSheet_17: 5363411133653418702
+      LampeSpriteSheet_18: -8732076718379687143
+      LampeSpriteSheet_19: 2492739280485876160
+      LampeSpriteSheet_2: 3526826917860078892
+      LampeSpriteSheet_20: -1450455410475220988
+      LampeSpriteSheet_21: 7127524537383608904
+      LampeSpriteSheet_22: -303220526212289155
+      LampeSpriteSheet_23: 6893756424910470601
+      LampeSpriteSheet_24: 355074096556084660
+      LampeSpriteSheet_25: -5998539869339675092
+      LampeSpriteSheet_26: 8982252445354514611
+      LampeSpriteSheet_27: 3661385579702674528
+      LampeSpriteSheet_28: -8417509502129740193
+      LampeSpriteSheet_29: -9043019392490519747
+      LampeSpriteSheet_3: -5585208308618655135
+      LampeSpriteSheet_30: 8148550545392470983
+      LampeSpriteSheet_31: 4570431856477508403
+      LampeSpriteSheet_32: 3914853868564962488
+      LampeSpriteSheet_33: -4833625485250422472
+      LampeSpriteSheet_34: -5622774738447377325
+      LampeSpriteSheet_35: -4087018400723992443
+      LampeSpriteSheet_36: 5105737667428953909
+      LampeSpriteSheet_37: 1737337549242365655
+      LampeSpriteSheet_38: 3615032924551395087
+      LampeSpriteSheet_39: 8127466649102988781
+      LampeSpriteSheet_4: -684250756401817835
+      LampeSpriteSheet_40: 7574632776394171806
+      LampeSpriteSheet_41: -6617438504551072685
+      LampeSpriteSheet_42: 3256096138696812907
+      LampeSpriteSheet_43: -5059196535333549294
+      LampeSpriteSheet_44: 7231295617401108705
+      LampeSpriteSheet_45: 1980898713909323699
+      LampeSpriteSheet_46: 6714529930755998345
+      LampeSpriteSheet_47: -2164413665161904348
+      LampeSpriteSheet_48: -2452856275452840165
+      LampeSpriteSheet_49: 4159169654615260167
+      LampeSpriteSheet_5: -933458245557477823
+      LampeSpriteSheet_50: 3267061304822435103
+      LampeSpriteSheet_51: -2799037834315637307
+      LampeSpriteSheet_52: -5579696691103909036
+      LampeSpriteSheet_53: 996580804042008159
+      LampeSpriteSheet_54: 4221071035991469446
+      LampeSpriteSheet_55: 5030627995891063744
+      LampeSpriteSheet_56: 3799793425055343490
+      LampeSpriteSheet_57: 276371827950287001
+      LampeSpriteSheet_58: -3478153239420693019
+      LampeSpriteSheet_59: -7691389771630327938
+      LampeSpriteSheet_6: 5583611454222919004
+      LampeSpriteSheet_60: -5662817226237044383
+      LampeSpriteSheet_61: -1771798887596240830
+      LampeSpriteSheet_62: 4149146818438605731
+      LampeSpriteSheet_63: -5450936311667870937
+      LampeSpriteSheet_64: 476273767005912213
+      LampeSpriteSheet_65: -3096261810701137207
+      LampeSpriteSheet_66: 5285574922879619879
+      LampeSpriteSheet_67: -6529423548560493866
+      LampeSpriteSheet_68: -3067612846378425200
+      LampeSpriteSheet_69: 2689312941363283432
+      LampeSpriteSheet_7: -3765577710882740439
+      LampeSpriteSheet_70: 7950654517051208732
+      LampeSpriteSheet_71: 8817812480749738177
+      LampeSpriteSheet_8: 7821840622677791953
+      LampeSpriteSheet_9: -3820036684701843571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
