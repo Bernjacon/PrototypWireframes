@@ -2,9 +2,15 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 using UnityEngine.InputSystem;
+using System.Collections;
 
 public class EndgameScript : MonoBehaviour
 {
+    [Header("Intro Animation")]
+    [SerializeField] GameObject introAnimationObject;
+    [SerializeField] float introAnimationDuration = 3f;
+    [SerializeField] float delayAfterAnimation = 2f;
+
     [Header("Credits")]
     [SerializeField] GameObject creditsObject;
     [SerializeField] TMP_Text infoText;
@@ -20,14 +26,35 @@ public class EndgameScript : MonoBehaviour
 
     void Start()
     {
-        articleParent.SetActive(true);
-
+        // Hide everything first
+        articleParent.SetActive(false);
         creditsObject.SetActive(false);
         infoText.gameObject.SetActive(false);
+
+        // Show intro animation
+        introAnimationObject.SetActive(true);
 
         creditsStarted = false;
         cutsceneFinished = false;
         holdTimer = 0f;
+
+        // Start intro sequence
+        StartCoroutine(IntroSequence());
+    }
+
+    IEnumerator IntroSequence()
+    {
+        // Wait until sprite sheet animation finishes
+        yield return new WaitForSeconds(introAnimationDuration);
+
+        // Wait additional 2 seconds
+        yield return new WaitForSeconds(delayAfterAnimation);
+
+        // Hide animation
+        introAnimationObject.SetActive(false);
+
+        // Show article
+        articleParent.SetActive(true);
     }
 
     void Update()
@@ -38,18 +65,16 @@ public class EndgameScript : MonoBehaviour
 
     void HandleMouseStart()
     {
-        if (creditsStarted)
+        if (creditsStarted || !articleParent.activeSelf)
             return;
 
         if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
         {
             creditsStarted = true;
 
-            // Switch from article to credits
             articleParent.SetActive(false);
             creditsObject.SetActive(true);
 
-            // Show info text
             infoText.gameObject.SetActive(true);
 
             cutsceneFinished = true;
