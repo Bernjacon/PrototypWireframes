@@ -6037,9 +6037,9 @@ MonoBehaviour:
         m_Calls: []
     decisionOptions: []
     targetIndexAfterDecision: 
-    useAlternatePrefab: 1
-    alternatePrefab: {fileID: 6499118121882332158}
-    waitUntilReleased: 1
+    useAlternatePrefab: 0
+    alternatePrefab: {fileID: 0}
+    waitUntilReleased: 0
   - speakerName: BennyB0y
     messageText: Willkommen! Freut uns das du hier bist.
     profileImage: {fileID: 1637383507485689528, guid: 510ff1588da59e142972d550ff5f3e67, type: 3}
@@ -31582,6 +31582,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4749518480774093713, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: rb
+      value: 
+      objectReference: {fileID: 1528421446}
+    - target: {fileID: 4749518480774093713, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
       propertyPath: jumpSound
       value: 
       objectReference: {fileID: 1528421444}
@@ -31607,6 +31611,30 @@ PrefabInstance:
       objectReference: {fileID: 1907391011}
     - target: {fileID: 6507899927544303004, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
       propertyPath: m_VertexColorAlwaysGammaSpace
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6993336928589546087, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7469028047534126299, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 7469028047534126299, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 7469028047534126299, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 7469028047534126299, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -25.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7469028047534126299, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+      propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8169730607478058386, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
@@ -31721,6 +31749,11 @@ MonoBehaviour:
 --- !u!82 &1528421444 stripped
 AudioSource:
   m_CorrespondingSourceObject: {fileID: 5109395246750924960, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
+  m_PrefabInstance: {fileID: 1528421442}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &1528421446 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 5038017782846104544, guid: 2b4ec7ff910297d419c2d128fa858b14, type: 3}
   m_PrefabInstance: {fileID: 1528421442}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1534231230
