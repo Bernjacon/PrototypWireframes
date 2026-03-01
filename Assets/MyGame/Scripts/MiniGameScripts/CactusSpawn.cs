@@ -30,29 +30,30 @@ public class CactusSpawn : MonoBehaviour
     [SerializeField] float totalTime = 20f;
     [SerializeField] AudioSource dyingSound;
 
+    [Header("References")]
     public DesktopManager dma;
     public TRexManager trex;
 
+    [Header("Runtime")]
     [SerializeField] float elapsedTime = 0f;
     [SerializeField] float timeLeft;
-
-    [SerializeField] Coroutine spawnRoutine;
+    Coroutine spawnRoutine;
 
     [SerializeField] bool gameActive = true;
     public bool GameActive => gameActive;
 
     [SerializeField] AudioSource backgroundMusic;
-    private void Start()
+
+    void Start()
     {
         StartGame();
     }
 
-    private void Update()
+    void Update()
     {
         if (Keyboard.current.uKey.wasPressedThisFrame)
-        {
             Win();
-        }
+
         if (!gameActive)
             return;
 
@@ -64,14 +65,13 @@ public class CactusSpawn : MonoBehaviour
         countdown.value = 1f - (timeLeft / totalTime);
 
         if (timeLeft <= 0f)
-        {
             Win();
-        }
     }
 
     void StartGame()
     {
         gameActive = true;
+
         elapsedTime = 0f;
         timeLeft = totalTime;
 
@@ -81,13 +81,19 @@ public class CactusSpawn : MonoBehaviour
         reloadSceneButton.SetActive(false);
         winScreen.SetActive(false);
 
+        if (trex != null)
+        {
+            trex.enabled = true;
+            trex.ResetTRex();
+        }
+
         if (spawnRoutine != null)
             StopCoroutine(spawnRoutine);
 
         spawnRoutine = StartCoroutine(SpawnCactusRoutine());
     }
 
-    private IEnumerator SpawnCactusRoutine()
+    IEnumerator SpawnCactusRoutine()
     {
         while (gameActive)
         {
@@ -103,6 +109,7 @@ public class CactusSpawn : MonoBehaviour
         if (cactusPrefabs.Length == 0) return;
 
         int index = Random.Range(0, cactusPrefabs.Length);
+
         GameObject cactus = Instantiate(cactusPrefabs[index], canvasTransform);
 
         RectTransform rt = cactus.GetComponent<RectTransform>();
@@ -161,11 +168,15 @@ public class CactusSpawn : MonoBehaviour
     IEnumerator WinDelay()
     {
         yield return new WaitForSeconds(3);
+
         dma.CallEvent(dma.gayIndex);
         dma.gayIndex++;
+
         backgroundMusic.mute = false;
+
         canvasTransform.gameObject.SetActive(false);
         dma.apps[0].SetActive(true);
+
         gameObject.SetActive(false);
     }
 
@@ -175,6 +186,12 @@ public class CactusSpawn : MonoBehaviour
 
         foreach (var cactus in FindObjectsByType<CactusMove>(FindObjectsSortMode.None))
             Destroy(cactus.gameObject);
+
+        if (trex != null)
+        {
+            trex.enabled = true;
+            trex.ResetTRex();
+        }
 
         StartGame();
     }

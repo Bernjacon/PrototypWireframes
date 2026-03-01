@@ -24,11 +24,11 @@ public class ChatBubbleScriptLogin : MonoBehaviour
         nameInput.ForceLabelUpdate();
 
         passwordInput.contentType = TMP_InputField.ContentType.Password;
-        passwordInput.characterLimit = 8;
+        passwordInput.characterLimit = 1000;
         passwordInput.ForceLabelUpdate();
 
         checkPasswordInput.contentType = TMP_InputField.ContentType.Password;
-        checkPasswordInput.characterLimit = 8;
+        checkPasswordInput.characterLimit = 1000;
         checkPasswordInput.ForceLabelUpdate();
 
         registerButton.SetActive(false);
@@ -50,8 +50,8 @@ public class ChatBubbleScriptLogin : MonoBehaviour
     {
         bool allValid =
             !string.IsNullOrEmpty(nameInput.text) &&
-            passwordInput.text.Length == 8 &&
-            checkPasswordInput.text.Length == 8;
+            passwordInput.text.Length >= 1 &&
+            checkPasswordInput.text.Length >= 1;
 
         registerButton.SetActive(allValid);
     }
