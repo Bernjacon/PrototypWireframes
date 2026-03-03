@@ -372,6 +372,8 @@ MonoBehaviour:
   menuBlocker: {fileID: 2107420862}
   uiCamera: {fileID: 171816147}
   hasClock: 1
+  specialSpeakerObject: {fileID: 2099132686}
+  offsetY: -100
   playerVisual: {fileID: 3804419739914296938, guid: 6a99576fba367c041a4a60454c4624a0, type: 3}
   playerAnimation: {fileID: 9100000, guid: 0e3ee25783c39c94cbdce03a22a8dcd4, type: 2}
   typeSpeed: 0.01
@@ -2071,7 +2073,7 @@ Animator:
   m_GameObject: {fileID: 496772882}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6439eaf1df7fe044f965d5a1bdf220c4, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -4012,6 +4014,7 @@ MonoBehaviour:
   - {fileID: 1199489635}
   - {fileID: 1199489635}
   - {fileID: 1808421122}
+  - {fileID: 1794917717}
 --- !u!1 &1566439783
 GameObject:
   m_ObjectHideFlags: 0
@@ -4108,7 +4111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1794917718
 RectTransform:
   m_ObjectHideFlags: 0

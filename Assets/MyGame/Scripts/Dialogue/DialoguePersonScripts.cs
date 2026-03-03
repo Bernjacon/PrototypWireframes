@@ -21,6 +21,7 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] SpriteRenderer boxSpriteRenderer;
     [SerializeField] GameObject playerBackground;
 
+
     [SerializeField] Animator speakerAnimator;
     [SerializeField] Animator playerAnimator;
     [SerializeField] Animator boxAnimator;
@@ -28,6 +29,12 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] RectTransform menuBlocker;
     [SerializeField] Camera uiCamera;
     [SerializeField] bool hasClock = true;
+
+    [Header("Special Speaker Settings")]
+    [SerializeField] GameObject specialSpeakerObject;
+    [SerializeField] float offsetY = 300f;
+    GameObject lastSpecialSpeaker = null;
+    float baseYPosition = 0f;
 
     [Header("Player Settings")]
     [SerializeField] Sprite playerVisual;
@@ -137,7 +144,7 @@ public class DialoguePersonScripts : MonoBehaviour
 
         UpdateObjects();
 
-        simulatedTime = DateTime.Today.AddHours(15);
+        simulatedTime = DateTime.Today.AddHours(15).AddMinutes(53);
         StartCoroutine(UpdateClock());
     }
 
@@ -283,6 +290,29 @@ public class DialoguePersonScripts : MonoBehaviour
         else
         {
             typingCoroutine = StartCoroutine(TypeText(currentLine));
+        }
+
+        if (baseYPosition == 0f && speakerImage != null)
+            baseYPosition = speakerImage.transform.localPosition.y;
+
+        if (lastDisappearingSpeaker == specialSpeakerObject)
+        {
+            if (lastSpecialSpeaker != specialSpeakerObject)
+            {
+                Vector3 pos = speakerImage.transform.localPosition;
+                pos.y = baseYPosition + offsetY;
+                speakerImage.transform.localPosition = pos;
+            }
+
+            lastSpecialSpeaker = specialSpeakerObject;
+        }
+        else
+        {
+            Vector3 pos = speakerImage.transform.localPosition;
+            pos.y = baseYPosition;
+            speakerImage.transform.localPosition = pos;
+
+            lastSpecialSpeaker = null;
         }
 
         PlayDialogueAudio();
