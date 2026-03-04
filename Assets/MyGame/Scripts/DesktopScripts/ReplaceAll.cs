@@ -10,7 +10,7 @@ public class ReplaceAll : MonoBehaviour
 
     public static void ReplaceAllNames()
     {
-        TMP_Text[] texts = FindObjectsOfType<TMP_Text>(true);
+        TMP_Text[] texts = Resources.FindObjectsOfTypeAll<TMP_Text>();
 
         foreach (TMP_Text text in texts)
         {

@@ -1,0 +1,47 @@
+Read Me: Implementierung ChatBubbleScriptLogin Anleitung
+1. Setup
+
+GameObject erstellen:
+
+ChatBubbleLoginManager
+
+Script hinzufügen:
+
+ChatBubbleScriptLogin.cs
+
+2. UI erstellen
+
+TMP InputField
+Name: NameInput
+
+TMP InputField
+Name: PasswordInput
+
+TMP InputField
+Name: CheckPasswordInput
+
+GameObject
+Name: LoadingScreen
+
+GameObject
+Name: LoginScreen
+
+Button
+Name: RegisterButton
+
+3. Inspector Setup
+
+Name Input → NameInput
+Password Input → PasswordInput
+Check Password Input → CheckPasswordInput
+Loading Screen → LoadingScreen
+Login Screen → LoginScreen
+Register Button → RegisterButton
+Loading Time → gewünschte Sekunden
+
+4. Verhalten
+
+• Name wird automatisch von LoginScript übernommen
+• Passwortfelder sind maskiert
+• RegisterButton wird nur aktiv wenn alle Felder gefüllt
+• Nach loadingTime verschwindet LoadingScreen

@@ -1,0 +1,71 @@
+Read Me: Implementierung LoginScript Anleitung
+1. Setup
+
+Erstelle in deiner Scene ein leeres GameObject.
+
+Name z.B.:
+
+LoginManager
+
+Ziehe das Script darauf:
+
+LoginScript.cs
+
+2. UI erstellen
+
+Du brauchst folgende UI-Elemente:
+
+GameObject
+Name: StartPcParent
+→ Startscreen (z.B. schwarzer Bildschirm mit PC Icon)
+
+GameObject
+Name: LoginParent
+→ Login UI Container
+
+GameObject
+Name: PcLoginProcessParent
+→ Gesamter Login Prozess Container
+
+TMP InputField
+Name: NameInput
+→ Spielername Eingabe
+
+Button
+Name: LoginButton
+→ Login bestätigen
+→ Startet deaktiviert
+
+3. Referenzen im Inspector setzen
+
+LoginManager auswählen.
+
+Folgende Felder belegen:
+
+Start Pc Parent → StartPcParent
+Login Parent → LoginParent
+Pc Login Process Parent → PcLoginProcessParent
+Name Input → NameInput
+Login Button → LoginButton
+Desktop Manager → DesktopManager Objekt
+
+4. Button Setup
+
+LoginButton → OnClick()
+
+Event hinzufügen:
+
+LoginManager
+TryLogin()
+
+5. Ablauf
+
+• Linksklick → Login öffnet sich
+• Name eingeben → Button wird aktiv
+• TryLogin():
+
+Name wird gespeichert (static PlayerName)
+
+DesktopManager.LoginFinished() wird aufgerufen
+
+Login UI wird deaktiviert

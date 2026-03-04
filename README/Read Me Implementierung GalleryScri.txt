@@ -1,0 +1,50 @@
+Read Me: Implementierung GalleryScript Anleitung
+1. Setup
+
+GameObject erstellen:
+
+GalleryManager
+
+Script hinzufügen:
+
+GalleryScript.cs
+
+2. UI erstellen
+
+Image
+Name: ImageToShow
+
+Sprite Array
+Name: ImageCollection
+
+Button Array
+Name: ButtonsImage
+
+GameObject
+Name: ParentGalleryOverview
+
+GameObject
+Name: ParentViewImage
+
+3. Button Setup
+
+Thumbnail Buttons:
+
+OnClick()
+GalleryManager
+OpenThisImage(int)
+
+Next Button:
+GoNextOrPrevious(true)
+
+Previous Button:
+GoNextOrPrevious(false)
+
+Close Button:
+CloseDetailView()
+
+4. Verhalten
+
+• Start: Thumbnails werden gesetzt
+• Klick → DetailView öffnet
+• Navigation looped automatisch

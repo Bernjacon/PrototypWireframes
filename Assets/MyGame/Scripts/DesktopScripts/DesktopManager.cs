@@ -22,6 +22,8 @@ public class DesktopManager : MonoBehaviour
     [SerializeField] GameObject chatBubbleDownloadFinished;
     [SerializeField] int downloadTime;
 
+    [SerializeField] TMP_Text clockTMP;
+
     public GameObject[] apps;
     [SerializeField] GameflowActionYield[] gay;
 
@@ -29,6 +31,11 @@ public class DesktopManager : MonoBehaviour
     {
         gay[index].GameStateEvent?.Invoke();
         gayIndex++;
+    }
+
+    public void Start()
+    {
+        StartCoroutine(UpdateClock());
     }
 
     public void LoginFinished()
@@ -107,6 +114,15 @@ public class DesktopManager : MonoBehaviour
 
         if (!isAlreadyOpen)
             apps[index].SetActive(true);
+    }
+
+    IEnumerator UpdateClock()
+    {
+        while (true)
+        {
+            clockTMP.text = DateTime.Now.ToString("HH:mm");
+            yield return new WaitForSeconds(60f);
+        }
     }
 }
 

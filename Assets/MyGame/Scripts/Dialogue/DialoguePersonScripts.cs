@@ -1,38 +1,31 @@
-﻿using System.Collections;
-using System;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using UnityEngine.Events;
-using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
-using UnityEngine.Animations;
 
 public class DialoguePersonScripts : MonoBehaviour
 {
     [Header("UI - Dialogue")]
     [SerializeField] TMP_Text dialogueText;
     [SerializeField] TMP_Text timeText;
-
     [SerializeField] SpriteRenderer speakerImage;
     [SerializeField] SpriteRenderer playerImage;
     [SerializeField] SpriteRenderer boxSpriteRenderer;
     [SerializeField] GameObject playerBackground;
-
-
     [SerializeField] Animator speakerAnimator;
     [SerializeField] Animator playerAnimator;
     [SerializeField] Animator boxAnimator;
-
     [SerializeField] RectTransform menuBlocker;
     [SerializeField] Camera uiCamera;
     [SerializeField] bool hasClock = true;
 
     [Header("Special Speaker Settings")]
     [SerializeField] GameObject specialSpeakerObject;
-    [SerializeField] float offsetY = 300f;
+    [SerializeField] float offsetY = -100;
     GameObject lastSpecialSpeaker = null;
     float baseYPosition = 0f;
 
@@ -44,7 +37,6 @@ public class DialoguePersonScripts : MonoBehaviour
     [SerializeField] float typeSpeed = 0.03f;
     private bool isTyping = false;
     private string currentLine = "";
-
     Coroutine typingCoroutine;
     Coroutine boxAnimationCoroutine;
     Coroutine pauseCoroutine;
@@ -52,7 +44,6 @@ public class DialoguePersonScripts : MonoBehaviour
     [Header("Dialogue State")]
     [SerializeField] int indexDSAArray;
     private bool dialogueFinished = false;
-
     private Sprite lastSpeakerSprite;
     private Sprite lastBoxSprite;
     private GameObject lastDisappearingSpeaker;
@@ -83,12 +74,9 @@ public class DialoguePersonScripts : MonoBehaviour
 
     public void PauseDialogueForSeconds(float seconds)
     {
-        if (!gameObject.activeInHierarchy)
-            return;
+        if (!gameObject.activeInHierarchy) return;
 
-        if (pauseCoroutine != null)
-            StopCoroutine(pauseCoroutine);
-
+        if (pauseCoroutine != null) StopCoroutine(pauseCoroutine);
         pauseCoroutine = StartCoroutine(PauseDialogueCoroutine(seconds));
     }
 
@@ -97,23 +85,17 @@ public class DialoguePersonScripts : MonoBehaviour
         isPausedTemporarily = true;
         isWaitingForDecision = true;
 
-        if (typingCoroutine != null)
-            StopCoroutine(typingCoroutine);
-
-        if (boxAnimationCoroutine != null)
-            StopCoroutine(boxAnimationCoroutine);
-
+        if (typingCoroutine != null) StopCoroutine(typingCoroutine);
+        if (boxAnimationCoroutine != null) StopCoroutine(boxAnimationCoroutine);
         isTyping = false;
 
-        if (dialogueBoxRoot != null)
-            dialogueBoxRoot.SetActive(false);
+        if (dialogueBoxRoot != null) dialogueBoxRoot.SetActive(false);
 
         yield return new WaitForSeconds(seconds);
 
         indexDSAArray++;
 
-        if (dialogueBoxRoot != null)
-            dialogueBoxRoot.SetActive(true);
+        if (dialogueBoxRoot != null) dialogueBoxRoot.SetActive(true);
 
         isWaitingForDecision = false;
         isPausedTemporarily = false;
@@ -124,68 +106,48 @@ public class DialoguePersonScripts : MonoBehaviour
     void Start()
     {
         foreach (GameObject btn in showDecisionButtons)
-            if (btn != null)
-                btn.SetActive(false);
+            if (btn != null) btn.SetActive(false);
 
-        if (playerImage != null)
-            playerImage.gameObject.SetActive(false);
-
+        if (playerImage != null) playerImage.gameObject.SetActive(false);
         if (playerAnimator != null && playerAnimation != null)
             playerAnimator.runtimeAnimatorController = playerAnimation;
 
         if (playerImage != null && playerVisual != null)
             playerImage.sprite = playerVisual;
 
-        if (speakerImage != null)
-            lastSpeakerSprite = speakerImage.sprite;
+        if (speakerImage != null) lastSpeakerSprite = speakerImage.sprite;
+        if (boxSpriteRenderer != null) lastBoxSprite = boxSpriteRenderer.sprite;
 
-        if (boxSpriteRenderer != null)
-            lastBoxSprite = boxSpriteRenderer.sprite;
+        simulatedTime = DateTime.Today.AddHours(15).AddMinutes(53);
 
         UpdateObjects();
 
-        simulatedTime = DateTime.Today.AddHours(15).AddMinutes(53);
-        StartCoroutine(UpdateClock());
+        if (hasClock) StartCoroutine(UpdateClock());
     }
 
     void Update()
     {
-        if (MenuScript.SuppressClick)
-            return;
+        if (MenuScript.SuppressClick) return;
+        if (dialogueFinished || isPausedTemporarily) return;
+        if (indexDSAArray >= dsa.Length) { dialogueFinished = true; return; }
 
-        if (dialogueFinished || isPausedTemporarily)
-            return;
-
-        if (indexDSAArray >= dsa.Length)
-        {
-            dialogueFinished = true;
-            return;
-        }
-
-        if (Mouse.current.leftButton.wasPressedThisFrame && !isWaitingForDecision && !IsPointerOverMenu())
+        if ((Mouse.current?.leftButton.wasPressedThisFrame ?? false) && !isWaitingForDecision && !IsPointerOverMenu())
         {
             if (isTyping)
             {
-                if (typingCoroutine != null)
-                    StopCoroutine(typingCoroutine);
-
+                if (typingCoroutine != null) StopCoroutine(typingCoroutine);
                 dialogueText.text = currentLine;
                 isTyping = false;
             }
             else
             {
                 if (dsa[indexDSAArray].causesEvent)
-                {
                     dsa[indexDSAArray].eventVariable?.Invoke();
-                }
                 else
                 {
                     indexDSAArray++;
-
-                    if (indexDSAArray < dsa.Length)
-                        UpdateObjects();
-                    else
-                        dialogueFinished = true;
+                    if (indexDSAArray < dsa.Length) UpdateObjects();
+                    else dialogueFinished = true;
                 }
             }
         }
@@ -209,15 +171,10 @@ public class DialoguePersonScripts : MonoBehaviour
             bool active = i < buttonCount;
             showDecisionButtons[i].SetActive(active);
 
-            if (active &&
-                currentDialogue.decisionButtonTexts != null &&
-                i < currentDialogue.decisionButtonTexts.Length)
+            if (active && currentDialogue.decisionButtonTexts != null && i < currentDialogue.decisionButtonTexts.Length)
             {
-                TMP_Text textComponent =
-                    showDecisionButtons[i].GetComponentInChildren<TMP_Text>();
-
-                if (textComponent != null)
-                    textComponent.text = currentDialogue.decisionButtonTexts[i];
+                TMP_Text textComponent = showDecisionButtons[i].GetComponentInChildren<TMP_Text>();
+                if (textComponent != null) textComponent.text = currentDialogue.decisionButtonTexts[i];
             }
         }
     }
@@ -225,59 +182,42 @@ public class DialoguePersonScripts : MonoBehaviour
     public void DecisionWasChosen(int decisionIntInput)
     {
         isWaitingForDecision = false;
-        playerBackground.gameObject.SetActive(true);
 
-        if (playerImage != null)
-            playerImage.gameObject.SetActive(false);
+        if (playerBackground != null) playerBackground.SetActive(true);
+        if (playerImage != null) playerImage.gameObject.SetActive(false);
 
         for (int i = 0; i < showDecisionButtons.Length; i++)
             showDecisionButtons[i].SetActive(false);
 
         indexDSAArray = dsa[indexDSAArray].targetIndexAfterDecision[decisionIntInput];
+
         UpdateObjects();
     }
 
     void UpdateObjects()
     {
-        if (indexDSAArray >= dsa.Length)
-            return;
+        if (indexDSAArray >= dsa.Length) return;
 
-        if (typingCoroutine != null)
-            StopCoroutine(typingCoroutine);
-
-        if (boxAnimationCoroutine != null)
-            StopCoroutine(boxAnimationCoroutine);
+        if (typingCoroutine != null) StopCoroutine(typingCoroutine);
+        if (boxAnimationCoroutine != null) StopCoroutine(boxAnimationCoroutine);
 
         StopAndClearDialogueAudio();
 
         currentLine = ReplaceVariables(dsa[indexDSAArray].textContents);
-
         dialogueText.text = "";
 
-        GameObject newDisappearObj = dsa[indexDSAArray].disapearingSpeaker;
-
-        if (newDisappearObj == null)
-            newDisappearObj = lastDisappearingSpeaker;
-
-        if (lastDisappearingSpeaker != null)
+        GameObject newDisappearObj = dsa[indexDSAArray].disapearingSpeaker ?? lastDisappearingSpeaker;
+        if (lastDisappearingSpeaker != null && lastDisappearingSpeaker != newDisappearObj)
             lastDisappearingSpeaker.SetActive(true);
 
-        if (newDisappearObj != null)
-            newDisappearObj.SetActive(false);
-
+        if (newDisappearObj != null) newDisappearObj.SetActive(false);
         lastDisappearingSpeaker = newDisappearObj;
 
-        if (dsa[indexDSAArray].speakerVisual != null)
-            lastSpeakerSprite = dsa[indexDSAArray].speakerVisual;
+        if (dsa[indexDSAArray].speakerVisual != null) lastSpeakerSprite = dsa[indexDSAArray].speakerVisual;
+        if (speakerImage != null && lastSpeakerSprite != null) speakerImage.sprite = lastSpeakerSprite;
 
-        if (lastSpeakerSprite != null && speakerImage != null)
-            speakerImage.sprite = lastSpeakerSprite;
-
-        if (dsa[indexDSAArray].boxVisual != null)
-            lastBoxSprite = dsa[indexDSAArray].boxVisual;
-
-        if (lastBoxSprite != null && boxSpriteRenderer != null)
-            boxSpriteRenderer.sprite = lastBoxSprite;
+        if (dsa[indexDSAArray].boxVisual != null) lastBoxSprite = dsa[indexDSAArray].boxVisual;
+        if (boxSpriteRenderer != null && lastBoxSprite != null) boxSpriteRenderer.sprite = lastBoxSprite;
 
         if (speakerAnimator != null && dsa[indexDSAArray].Speaker != null)
             speakerAnimator.runtimeAnimatorController = dsa[indexDSAArray].Speaker;
@@ -285,15 +225,16 @@ public class DialoguePersonScripts : MonoBehaviour
         if (boxAnimator != null && dsa[indexDSAArray].boxAnimation != null)
         {
             boxAnimator.runtimeAnimatorController = dsa[indexDSAArray].boxAnimation;
-            boxAnimationCoroutine = StartCoroutine(StartTypingAfterBoxAnimation());
+            boxAnimationCoroutine = StartCoroutine(StartTypingAndAudioAfterBoxAnimation(dsa[indexDSAArray]));
         }
         else
         {
             typingCoroutine = StartCoroutine(TypeText(currentLine));
+            PlayDialogueAudio(dsa[indexDSAArray]);
+            PlayPersistentAudio(dsa[indexDSAArray]);
         }
 
-        if (baseYPosition == 0f && speakerImage != null)
-            baseYPosition = speakerImage.transform.localPosition.y;
+        if (baseYPosition == 0f && speakerImage != null) baseYPosition = speakerImage.transform.localPosition.y;
 
         if (lastDisappearingSpeaker == specialSpeakerObject)
         {
@@ -303,7 +244,6 @@ public class DialoguePersonScripts : MonoBehaviour
                 pos.y = baseYPosition + offsetY;
                 speakerImage.transform.localPosition = pos;
             }
-
             lastSpecialSpeaker = specialSpeakerObject;
         }
         else
@@ -311,87 +251,70 @@ public class DialoguePersonScripts : MonoBehaviour
             Vector3 pos = speakerImage.transform.localPosition;
             pos.y = baseYPosition;
             speakerImage.transform.localPosition = pos;
-
             lastSpecialSpeaker = null;
         }
-
-        PlayDialogueAudio();
-        PlayPersistentAudio();
     }
 
-    IEnumerator StartTypingAfterBoxAnimation()
+    IEnumerator StartTypingAndAudioAfterBoxAnimation(Dialogue current)
     {
         if (boxAnimator != null)
         {
             boxAnimator.Rebind();
             boxAnimator.Update(0f);
-
             yield return null;
             yield return null;
 
             AnimatorStateInfo state = boxAnimator.GetCurrentAnimatorStateInfo(0);
             float animationLength = state.length;
-
-            if (animationLength > 0f)
-                yield return new WaitForSeconds(animationLength);
+            if (animationLength > 0f) yield return new WaitForSeconds(animationLength);
         }
 
         typingCoroutine = StartCoroutine(TypeText(currentLine));
+        PlayDialogueAudio(current);
+        PlayPersistentAudio(current);
     }
 
     bool IsPointerOverMenu()
     {
-        if (menuBlocker == null || Mouse.current == null)
-            return false;
-
-        return RectTransformUtility.RectangleContainsScreenPoint(
-            menuBlocker,
-            Mouse.current.position.ReadValue(),
-            uiCamera
-        );
+        if (menuBlocker == null || Mouse.current == null) return false;
+        return RectTransformUtility.RectangleContainsScreenPoint(menuBlocker, Mouse.current.position.ReadValue(), uiCamera);
     }
 
     IEnumerator TypeText(string line)
     {
         isTyping = true;
         dialogueText.text = "";
-
         foreach (char c in line)
         {
             dialogueText.text += c;
-            yield return new WaitForSeconds(typeSpeed);
+            yield return new WaitForSecondsRealtime(typeSpeed);
         }
-
         isTyping = false;
     }
 
     string ReplaceVariables(string input)
     {
-        input = input.Replace("{playerName}", LoginScript.PlayerName);
-        return input;
+        return input.Replace("{playerName}", LoginScript.PlayerName ?? "Player");
     }
 
     IEnumerator UpdateClock()
     {
-        while (hasClock)
+        while (hasClock && gameObject.activeInHierarchy)
         {
             timeText.text = simulatedTime.ToString("HH:mm");
-            simulatedTime = simulatedTime.AddSeconds(1);
-            yield return new WaitForSeconds(1f);
+            simulatedTime = simulatedTime.AddSeconds(Time.deltaTime);
+            yield return null;
         }
     }
 
-    void PlayDialogueAudio()
+    void PlayDialogueAudio(Dialogue current)
     {
-        if (dsa[indexDSAArray].audioClips == null)
-            return;
+        if (current.audioClips == null) return;
 
-        for (int i = 0; i < dsa[indexDSAArray].audioClips.Length; i++)
+        for (int i = 0; i < current.audioClips.Length; i++)
         {
-            AudioClip clip = dsa[indexDSAArray].audioClips[i];
-
-            if (clip == null)
-                continue;
+            AudioClip clip = current.audioClips[i];
+            if (clip == null) continue;
 
             GameObject go = new GameObject("TempDialogueAudio_" + clip.name);
             go.transform.parent = transform;
@@ -400,33 +323,23 @@ public class DialoguePersonScripts : MonoBehaviour
             source.clip = clip;
             source.loop = false;
 
-            if (dsa[indexDSAArray].audioMixerGroups != null &&
-                i < dsa[indexDSAArray].audioMixerGroups.Length &&
-                dsa[indexDSAArray].audioMixerGroups[i] != null)
-            {
-                source.outputAudioMixerGroup =
-                    dsa[indexDSAArray].audioMixerGroups[i];
-            }
+            if (current.audioMixerGroups != null && i < current.audioMixerGroups.Length && current.audioMixerGroups[i] != null)
+                source.outputAudioMixerGroup = current.audioMixerGroups[i];
 
             source.Play();
-
             dialogueAudioObjects.Add(go);
-
             Destroy(go, clip.length);
         }
     }
 
-    void PlayPersistentAudio()
+    void PlayPersistentAudio(Dialogue current)
     {
-        if (dsa[indexDSAArray].persistentAudioClips == null)
-            return;
+        if (current.persistentAudioClips == null) return;
 
-        for (int i = 0; i < dsa[indexDSAArray].persistentAudioClips.Length; i++)
+        for (int i = 0; i < current.persistentAudioClips.Length; i++)
         {
-            AudioClip clip = dsa[indexDSAArray].persistentAudioClips[i];
-
-            if (clip == null)
-                continue;
+            AudioClip clip = current.persistentAudioClips[i];
+            if (clip == null) continue;
 
             GameObject go = new GameObject("PersistentAudio_" + clip.name);
             go.transform.parent = transform;
@@ -435,18 +348,11 @@ public class DialoguePersonScripts : MonoBehaviour
             source.clip = clip;
             source.loop = false;
 
-            if (dsa[indexDSAArray].persistentAudioMixers != null &&
-                i < dsa[indexDSAArray].persistentAudioMixers.Length &&
-                dsa[indexDSAArray].persistentAudioMixers[i] != null)
-            {
-                source.outputAudioMixerGroup =
-                    dsa[indexDSAArray].persistentAudioMixers[i];
-            }
+            if (current.persistentAudioMixers != null && i < current.persistentAudioMixers.Length && current.persistentAudioMixers[i] != null)
+                source.outputAudioMixerGroup = current.persistentAudioMixers[i];
 
             source.Play();
-
             persistentAudioObjects.Add(go);
-
             Destroy(go, clip.length);
         }
     }
@@ -458,14 +364,10 @@ public class DialoguePersonScripts : MonoBehaviour
             if (go != null)
             {
                 AudioSource src = go.GetComponent<AudioSource>();
-
-                if (src != null && src.isPlaying)
-                    src.Stop();
-
+                if (src != null && src.isPlaying) src.Stop();
                 Destroy(go);
             }
         }
-
         dialogueAudioObjects.Clear();
     }
 
@@ -476,14 +378,10 @@ public class DialoguePersonScripts : MonoBehaviour
             if (go != null)
             {
                 AudioSource src = go.GetComponent<AudioSource>();
-
-                if (src != null && src.isPlaying)
-                    src.Stop();
-
+                if (src != null && src.isPlaying) src.Stop();
                 Destroy(go);
             }
         }
-
         persistentAudioObjects.Clear();
     }
 

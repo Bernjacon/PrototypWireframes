@@ -26,34 +26,24 @@ public class EndgameScript : MonoBehaviour
 
     void Start()
     {
-        // Hide everything first
         articleParent.SetActive(false);
         creditsObject.SetActive(false);
         infoText.gameObject.SetActive(false);
 
-        // Show intro animation
         introAnimationObject.SetActive(true);
 
         creditsStarted = false;
         cutsceneFinished = false;
         holdTimer = 0f;
 
-        // Start intro sequence
         StartCoroutine(IntroSequence());
     }
 
     IEnumerator IntroSequence()
     {
-        // Wait until sprite sheet animation finishes
         yield return new WaitForSeconds(introAnimationDuration);
-
-        // Wait additional 2 seconds
         yield return new WaitForSeconds(delayAfterAnimation);
-
-        // Hide animation
         introAnimationObject.SetActive(false);
-
-        // Show article
         articleParent.SetActive(true);
     }
 

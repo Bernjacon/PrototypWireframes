@@ -1,0 +1,76 @@
+Read Me: Implementierung DesktopManager Anleitung
+1. Setup
+
+Erstelle ein leeres GameObject.
+
+Name:
+
+DesktopManager
+
+Script hinzufügen:
+
+DesktopManager.cs
+
+2. Grundstruktur
+
+Dieses Script ist der zentrale Story-Controller.
+
+Es arbeitet mit:
+
+gayIndex
+GameflowActionYield[] gay
+
+Jeder Story-Schritt ist ein UnityEvent.
+
+3. UI Struktur
+
+Du brauchst:
+
+GameObject
+Name: DesktopRootParent
+→ Gesamter Desktop
+
+GameObject Array
+Name: Apps
+→ Reihenfolge ist wichtig
+
+Beispiel:
+
+Index 0 → Browser
+Index 1 → ChatBubble
+Index 2 → VideoBox
+Index 3 → etc.
+
+4. Gameflow Setup
+
+Im Inspector:
+
+gay → Size erhöhen
+
+Jedes Element enthält ein UnityEvent.
+
+Dort kannst du Story-Events verbinden.
+
+CallEvent(index) → feuert Event
+gayIndex wird danach erhöht
+
+5. ChatBubble Download Setup
+
+Benötigt:
+
+InternetzMainScreenParent
+ChatBubbleDownloadParent
+InternetzSuchleiste (TMP InputField)
+ChatBubbleDownloadWindow
+ChatBubbleDownloadFinished
+DownloadTime setzen
+
+Download wird per Coroutine simuliert.
+
+6. Clock
+
+ClockTMP setzen.
+
+Das Script aktualisiert automatisch alle 60 Sekunden:
+
+Format: HH:mm

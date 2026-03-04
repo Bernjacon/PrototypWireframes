@@ -50,5 +50,6 @@ public class LoginScript : MonoBehaviour
 
         desktopManager.LoginFinished();
         pcLoginProcessParent.SetActive(false);
+        gameObject.SetActive(false);
     }
 }

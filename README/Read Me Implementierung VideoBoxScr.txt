@@ -1,0 +1,50 @@
+Read Me: Implementierung VideoBoxScript Anleitung
+1. Setup
+
+GameObject erstellen:
+
+VideoBoxManager
+
+Script hinzufügen:
+
+VideoBoxScript.cs
+
+2. UI erstellen
+
+TMP InputField
+Name: InputField
+
+TMP Text
+Name: SendComment
+
+GameObject Array
+Name: CommentsTill
+
+GameObject Array
+Name: CommentsAfter
+
+3. Inspector Setup
+
+Input Field → InputField
+Send Comment → SendComment
+Target Word → z.B. "apple"
+
+4. InputField Setup
+
+OnValueChanged() hinzufügen:
+
+VideoBoxManager
+OnInputChanged(string)
+
+5. Ablauf
+
+• Spieler tippt
+• Script überschreibt Input automatisch
+• Wort wird Buchstabe für Buchstabe aufgebaut
+• Wenn vollständig:
+
+Input deaktiviert
+
+Kommentar angezeigt
+
+CommentsAfter aktiviert

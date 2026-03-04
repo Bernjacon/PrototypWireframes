@@ -39,6 +39,7 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
     bool artikel1WasClicked = false;
     bool artikel2WasClicked = false;
+    int miniGameWin;
 
 
     private void Start()
@@ -215,10 +216,21 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
         CheckComplition();
     }
 
+    public void RegisterMiniGameWin()
+    {
+        miniGameWin++;
+        CheckComplition();
+    }
+
     private void CheckComplition()
     {
-        if (artikel1WasClicked && artikel2WasClicked)
+        if (artikel1WasClicked
+            && artikel2WasClicked
+            && miniGameWin >= 2)
+        {
             ReleasePauseAndSwitchToSecondStage();
+        }
+
         channel2button.SetActive(true);
         channel3button.SetActive(true);
     }

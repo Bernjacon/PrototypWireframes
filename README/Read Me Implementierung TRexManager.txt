@@ -1,0 +1,40 @@
+Read Me: Implementierung TRexManager Anleitung
+1. Setup
+
+GameObject erstellen:
+
+TRexManager
+
+Script hinzufügen:
+
+TRexManager.cs
+
+2. Player Setup
+
+Player GameObject benötigt:
+
+Rigidbody2D
+Collider2D
+Animator
+
+Boden benötigt Tag:
+
+GroundCollider
+
+3. Inspector Setup
+
+Player → Player Objekt
+Jumpforce setzen
+Dino Animator → Animator
+Jump Sound → AudioSource
+
+4. Steuerung
+
+Space → Springen
+Nur wenn isGrounded = true
+
+ResetTRex() setzt:
+
+• Velocity = 0
+• Animation zurück
+• isGrounded = true

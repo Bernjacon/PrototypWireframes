@@ -43,6 +43,7 @@ public class CactusSpawn : MonoBehaviour
     public bool GameActive => gameActive;
 
     [SerializeField] AudioSource backgroundMusic;
+    [SerializeField] public ChatBubbleScriptChannelMain cbscma;
 
     void Start()
     {
@@ -168,7 +169,7 @@ public class CactusSpawn : MonoBehaviour
     IEnumerator WinDelay()
     {
         yield return new WaitForSeconds(3);
-
+        cbscma.RegisterMiniGameWin();
         dma.CallEvent(dma.gayIndex);
         dma.gayIndex++;
 

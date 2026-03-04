@@ -1,0 +1,62 @@
+Read Me: Implementierung CactusSpawn Anleitung
+1. Setup
+
+GameObject erstellen:
+
+CactusManager
+
+Script hinzufügen:
+
+CactusSpawn.cs
+
+2. Benötigte Objekte
+
+Cactus Prefabs → Array
+Canvas Transform
+Spawn Point (RectTransform)
+
+ReloadSceneButton
+WinScreen
+Countdown Slider
+
+AudioSource
+BackgroundMusic
+
+Referenzen:
+
+DesktopManager
+TRexManager
+ChatBubbleScriptChannelMain
+
+3. Inspector Werte
+
+StartSpeed
+EndSpeed
+RampDuration
+SpawnIntervalMin
+SpawnIntervalMax
+CactusLifetime
+TotalTime
+
+4. Gameplay Ablauf
+
+StartGame() wird automatisch gestartet.
+
+• Cactus spawnen zufällig
+• Geschwindigkeit steigt mit Zeit
+• Countdown läuft
+• Bei 0 → Win()
+• Bei Kollision → Death()
+
+5. Story Integration
+
+Bei Win:
+
+RegisterMiniGameWin()
+DesktopManager.CallEvent()
+gayIndex++
+
+Nach 3 Sekunden:
+
+• Canvas deaktiviert
+• Desktop wieder sichtbar

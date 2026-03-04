@@ -15,8 +15,8 @@ public class MenuScriptPC : MonoBehaviour
     [SerializeField] Sprite[] bttnvisual;
 
     [Header("Scripts/Objects to Pause")]
-    [SerializeField] GameObject[] deactivateGameManagers; // GameObjects to pause
-    private bool[] originalActiveStates; // store their original states
+    [SerializeField] GameObject[] deactivateGameManagers;
+    private bool[] originalActiveStates;
 
     [Header("Audio Sliders")]
     [SerializeField] Slider masterSlider;
@@ -35,7 +35,6 @@ public class MenuScriptPC : MonoBehaviour
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
 
-        // save original active states
         originalActiveStates = new bool[deactivateGameManagers.Length];
         for (int i = 0; i < deactivateGameManagers.Length; i++)
             originalActiveStates[i] = deactivateGameManagers[i].activeSelf;
@@ -52,13 +51,14 @@ public class MenuScriptPC : MonoBehaviour
     public void OpenMenu()
     {
         SuppressClickForOneFrame();
-
+        originalActiveStates = new bool[deactivateGameManagers.Length];
+        for (int i = 0; i < deactivateGameManagers.Length; i++)
+            originalActiveStates[i] = deactivateGameManagers[i].activeSelf;
         menu.SetActive(true);
         settingsGraphic.SetActive(true);
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
 
-        // disable only the objects in deactivateGameManagers
         for (int i = 0; i < deactivateGameManagers.Length; i++)
         {
             if (deactivateGameManagers[i] != null)
@@ -78,7 +78,6 @@ public class MenuScriptPC : MonoBehaviour
 
         if (audioSettings.activeSelf)
         {
-            // closing audio settings panel
             audioSettings.SetActive(false);
             menuGraphics.SetActive(false);
 
@@ -86,18 +85,17 @@ public class MenuScriptPC : MonoBehaviour
             {
                 Image img = audioBTTN.GetComponent<Image>();
                 if (img != null)
-                    img.sprite = bttnvisual[0]; // reset to normal sprite
+                    img.sprite = bttnvisual[0];
             }
         }
         else
         {
-            // closing main menu
             menu.SetActive(false);
             settingsGraphic.SetActive(false);
             menuGraphics.SetActive(false);
             audioSettings.SetActive(false);
 
-            // restore original active states
+
             for (int i = 0; i < deactivateGameManagers.Length; i++)
             {
                 if (deactivateGameManagers[i] != null)
@@ -106,13 +104,12 @@ public class MenuScriptPC : MonoBehaviour
 
                     var dialogue = deactivateGameManagers[i].GetComponent<DialoguePersonScripts>();
                     if (dialogue != null)
-                        dialogue.enabled = originalActiveStates[i]; // enable only if originally active
+                        dialogue.enabled = originalActiveStates[i];
                 }
             }
         }
     }
 
-    // --- New OpenAudioSettings method ---
     public void OpenAudioSettings()
     {
         SuppressClickForOneFrame();
@@ -125,11 +122,10 @@ public class MenuScriptPC : MonoBehaviour
         {
             Image img = audioBTTN.GetComponent<Image>();
             if (img != null)
-                img.sprite = bttnvisual[1]; // show active sprite
+                img.sprite = bttnvisual[1];
         }
     }
 
-    // --- Audio control methods ---
     public void SetMasterVolume(float value)
     {
         audioMixer.SetFloat("MasterVolume", value);
@@ -148,7 +144,6 @@ public class MenuScriptPC : MonoBehaviour
         PlayerPrefs.SetFloat("SfxVolume", value);
     }
 
-    // --- Helpers ---
     void SuppressClickForOneFrame()
     {
         SuppressClick = true;
