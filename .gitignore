@@ -70,9 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-# Ignore TMP font folders entirely
-Assets/TextMesh Pro/Font/Montserrat/static/
-Assets/TextMesh Pro/Font/Roboto/static/
-Assets/TextMesh Pro/Resources/Fonts & Materials/
-Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/
