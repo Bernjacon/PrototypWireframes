@@ -297,6 +297,8 @@ MonoBehaviour:
   menuBlocker: {fileID: 0}
   uiCamera: {fileID: 171816147}
   hasClock: 0
+  specialSpeakerObject: {fileID: 0}
+  offsetY: -100
   playerVisual: {fileID: 0}
   playerAnimation: {fileID: 0}
   typeSpeed: 0.03
