@@ -116,11 +116,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 10
-        width: 251
-        height: 315
+        y: 0
+        width: 515
+        height: 449
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -137,12 +137,12 @@ TextureImporter:
       name: Lautstaerke aus_1
       rect:
         serializedVersion: 2
-        x: 8
+        x: 7
         y: 0
         width: 423
         height: 423
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,7 +164,7 @@ TextureImporter:
         width: 136
         height: 219
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -186,7 +186,7 @@ TextureImporter:
         width: 68
         height: 290
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,7 +208,7 @@ TextureImporter:
         width: 86
         height: 401
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: aebbaeb0d5e4c8145ac659170c3b91d5
     internalID: 0
     vertices: []
     indices: 
