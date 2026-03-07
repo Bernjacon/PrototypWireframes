@@ -129,12 +129,12 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
         if (timeTMP != null) timeTMP.text = DateTime.Now.ToString("dd.MM.yyyy, HH:mm:ss");
         if (profileImage != null) profileImage.sprite = profile;
     }
-
     public void ReleasePauseAndSwitchToSecondStage()
     {
         if (currentMessageIndex < messagesChannelMain.Count)
         {
             messagesChannelMain[currentMessageIndex].waitUntilReleased = false;
+            currentMessageIndex++;
         }
 
         useSecondStageParent = true;
@@ -154,11 +154,16 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
     public void ActivateDecision(ChatMessageDataChannelMain data)
     {
         isPausedForDecision = true;
+        StartCoroutine(ActivateDecisionTimer(data));
 
+    }
+
+    public IEnumerator ActivateDecisionTimer(ChatMessageDataChannelMain data)
+    {
+        yield return new WaitForSeconds(data.delayToNextMessage);
         int buttonCount = Mathf.Min(
-            data.decisionOptions?.Length ?? 0,
-            data.targetIndexAfterDecision?.Length ?? 0
-        );
+        data.decisionOptions?.Length ?? 0,
+        data.targetIndexAfterDecision?.Length ?? 0);
 
         decsionParent.SetActive(true);
         for (int i = 0; i < decisionButtons.Length; i++)
@@ -179,13 +184,25 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
             }
         }
     }
-
     private void DecisionChosen(int buttonIndex, ChatMessageDataChannelMain data)
     {
         isPausedForDecision = false;
         decsionParent.SetActive(false);
+
         foreach (var btn in decisionButtons)
             btn.SetActive(false);
+
+        if (data.decisionOptions != null && buttonIndex < data.decisionOptions.Length)
+        {
+            ChatMessageDataChannelMain playerMessage = new ChatMessageDataChannelMain();
+
+            playerMessage.speakerName = LoginScript.PlayerName;
+            playerMessage.messageText = data.decisionOptions[buttonIndex];
+            playerMessage.profileImage = playerProfileImage;
+            playerMessage.delayToNextMessage = 0f;
+
+            DisplayMessage(playerMessage);
+        }
 
         if (data.targetIndexAfterDecision != null &&
             buttonIndex < data.targetIndexAfterDecision.Length &&
@@ -203,7 +220,6 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
         conversationRoutine = StartCoroutine(ContinueConversation());
     }
-
     public void Artikel1WasPressed()
     {
         artikel1WasClicked = true;

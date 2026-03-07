@@ -49,7 +49,7 @@ public class TRexManager : MonoBehaviour
 
         isGrounded = true;
 
-        if (dinoAnimator != null)
+        if (dinoAnimator != null && dinoAnimator.gameObject.activeInHierarchy)
         {
             dinoAnimator.Rebind();
             dinoAnimator.Update(0f);
