@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 49e1167e1b61af442b93f04ecd433c66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8355145263025487812
+    second: Lautsprecher_1_Render_0
+  - first:
+      213: -9041119630810579186
+    second: Lautsprecher_1_Render_1
+  - first:
+      213: -3250928511062552462
+    second: Lautsprecher_1_Render_2
+  - first:
+      213: 7865641338146331691
+    second: Lautsprecher_1_Render_3
+  - first:
+      213: 2215584151950761710
+    second: Lautsprecher_1_Render_4
+  - first:
+      213: 5462567413935184008
+    second: Lautsprecher_1_Render_5
+  - first:
+      213: 775391797136610667
+    second: Lautsprecher_1_Render_6
+  - first:
+      213: -938512775548119004
+    second: Lautsprecher_1_Render_7
+  - first:
+      213: 7208979303691146352
+    second: Lautsprecher_1_Render_8
+  - first:
+      213: -4618289757025446527
+    second: Lautsprecher_1_Render_9
+  - first:
+      213: -6505914901626441649
+    second: Lautsprecher_1_Render_10
+  - first:
+      213: 2391449550761202764
+    second: Lautsprecher_1_Render_11
+  - first:
+      213: -8925077616553619355
+    second: Lautsprecher_1_Render_12
+  - first:
+      213: 1295102988863091388
+    second: Lautsprecher_1_Render_13
+  - first:
+      213: 7872802023924910690
+    second: Lautsprecher_1_Render_14
+  - first:
+      213: -4840533432977189691
+    second: Lautsprecher_1_Render_15
+  - first:
+      213: -4295960058530639823
+    second: Lautsprecher_1_Render_16
+  - first:
+      213: 1063616567901501464
+    second: Lautsprecher_1_Render_17
+  - first:
+      213: 6069195189092238828
+    second: Lautsprecher_1_Render_18
+  - first:
+      213: 2145132187804165287
+    second: Lautsprecher_1_Render_19
+  - first:
+      213: -6179964257087918101
+    second: Lautsprecher_1_Render_20
+  - first:
+      213: 775261808181964785
+    second: Lautsprecher_1_Render_21
+  - first:
+      213: 3989683569963737831
+    second: Lautsprecher_1_Render_22
+  - first:
+      213: -8937041712144783208
+    second: Lautsprecher_1_Render_23
+  - first:
+      213: -4462460144155276395
+    second: Lautsprecher_1_Render_24
+  - first:
+      213: 1713937339119966613
+    second: Lautsprecher_1_Render_25
+  - first:
+      213: -778701201322514552
+    second: Lautsprecher_1_Render_26
+  - first:
+      213: 556030365409637918
+    second: Lautsprecher_1_Render_27
+  - first:
+      213: 8628283469591110250
+    second: Lautsprecher_1_Render_28
+  - first:
+      213: -185812966030254173
+    second: Lautsprecher_1_Render_29
+  - first:
+      213: 578968572505193680
+    second: Lautsprecher_1_Render_30
+  - first:
+      213: -2955281369974116227
+    second: Lautsprecher_1_Render_31
+  - first:
+      213: -1053349157377970791
+    second: Lautsprecher_1_Render_32
+  - first:
+      213: 6815767456483505620
+    second: Lautsprecher_1_Render_33
+  - first:
+      213: 3429386425825680953
+    second: Lautsprecher_1_Render_34
+  - first:
+      213: 2851922129719297973
+    second: Lautsprecher_1_Render_35
+  - first:
+      213: -1621047956287916683
+    second: Lautsprecher_1_Render_36
+  - first:
+      213: -64388981353561567
+    second: Lautsprecher_1_Render_37
+  - first:
+      213: -6404615313217281462
+    second: Lautsprecher_1_Render_38
+  - first:
+      213: -6468014305465284339
+    second: Lautsprecher_1_Render_39
+  - first:
+      213: 425056655186974998
+    second: Lautsprecher_1_Render_40
+  - first:
+      213: -943601358531575231
+    second: Lautsprecher_1_Render_41
+  - first:
+      213: 151536071055315608
+    second: Lautsprecher_1_Render_42
+  - first:
+      213: 6071095603244626659
+    second: Lautsprecher_1_Render_43
+  - first:
+      213: -4846813162015569584
+    second: Lautsprecher_1_Render_44
+  - first:
+      213: -799454942998124169
+    second: Lautsprecher_1_Render_45
+  - first:
+      213: -372386511873370958
+    second: Lautsprecher_1_Render_46
+  - first:
+      213: -6045503083181667581
+    second: Lautsprecher_1_Render_47
+  - first:
+      213: -1168836027770928475
+    second: Lautsprecher_1_Render_48
+  - first:
+      213: 3510414793226281211
+    second: Lautsprecher_1_Render_49
+  - first:
+      213: -2780388814510500756
+    second: Lautsprecher_1_Render_50
+  - first:
+      213: 5124840552895456085
+    second: Lautsprecher_1_Render_51
+  - first:
+      213: 8529347243265389160
+    second: Lautsprecher_1_Render_52
+  - first:
+      213: -3349361618378161872
+    second: Lautsprecher_1_Render_53
+  - first:
+      213: -3783727029961306429
+    second: Lautsprecher_1_Render_54
+  - first:
+      213: -8998107786313132788
+    second: Lautsprecher_1_Render_55
+  - first:
+      213: -1865428497471401821
+    second: Lautsprecher_1_Render_56
+  - first:
+      213: 653833329966234036
+    second: Lautsprecher_1_Render_57
+  - first:
+      213: -7547539805699288617
+    second: Lautsprecher_1_Render_58
+  - first:
+      213: -7945025944842540403
+    second: Lautsprecher_1_Render_59
+  - first:
+      213: 4196747177615166524
+    second: Lautsprecher_1_Render_60
+  - first:
+      213: -7866760985488100881
+    second: Lautsprecher_1_Render_61
+  - first:
+      213: -4577704509820834438
+    second: Lautsprecher_1_Render_62
+  - first:
+      213: 1412866783809565616
+    second: Lautsprecher_1_Render_63
+  - first:
+      213: 168905002314633310
+    second: Lautsprecher_1_Render_64
+  - first:
+      213: -4017896712888943096
+    second: Lautsprecher_1_Render_65
+  - first:
+      213: 1793370706687581752
+    second: Lautsprecher_1_Render_66
+  - first:
+      213: -6971035249484780904
+    second: Lautsprecher_1_Render_67
+  - first:
+      213: 6803674676893995626
+    second: Lautsprecher_1_Render_68
+  - first:
+      213: -5911066812469458452
+    second: Lautsprecher_1_Render_69
+  - first:
+      213: 4889928797320244638
+    second: Lautsprecher_1_Render_70
+  - first:
+      213: 429047313405245449
+    second: Lautsprecher_1_Render_71
+  - first:
+      213: -8824231658759440088
+    second: Lautsprecher_1_Render_72
+  - first:
+      213: -8730112971730906158
+    second: Lautsprecher_1_Render_73
+  - first:
+      213: 3748616646768196919
+    second: Lautsprecher_1_Render_74
+  - first:
+      213: -7701725765226848250
+    second: Lautsprecher_1_Render_75
+  - first:
+      213: 1769879562677932672
+    second: Lautsprecher_1_Render_76
+  - first:
+      213: -1877921342386414198
+    second: Lautsprecher_1_Render_77
+  - first:
+      213: 2957541633341586391
+    second: Lautsprecher_1_Render_78
+  - first:
+      213: -5587679817175523456
+    second: Lautsprecher_1_Render_79
+  - first:
+      213: -3132026261803668650
+    second: Lautsprecher_1_Render_80
+  - first:
+      213: -4112356251541942988
+    second: Lautsprecher_1_Render_81
+  - first:
+      213: 1710985226575895568
+    second: Lautsprecher_1_Render_82
+  - first:
+      213: -168987484780312651
+    second: Lautsprecher_1_Render_83
+  - first:
+      213: -2608154964875379091
+    second: Lautsprecher_1_Render_84
+  - first:
+      213: -4452126098758943394
+    second: Lautsprecher_1_Render_85
+  - first:
+      213: -146494691379636334
+    second: Lautsprecher_1_Render_86
+  - first:
+      213: -1633955925861801837
+    second: Lautsprecher_1_Render_87
+  - first:
+      213: 8167557576407286345
+    second: Lautsprecher_1_Render_88
+  - first:
+      213: -5484875475888931040
+    second: Lautsprecher_1_Render_89
+  - first:
+      213: 2189851257950671544
+    second: Lautsprecher_1_Render_90
+  - first:
+      213: 487820215002344903
+    second: Lautsprecher_1_Render_91
+  - first:
+      213: -9079414389372138482
+    second: Lautsprecher_1_Render_92
+  - first:
+      213: 3735472615031271924
+    second: Lautsprecher_1_Render_93
+  - first:
+      213: 8935349614507256215
+    second: Lautsprecher_1_Render_94
+  - first:
+      213: 75447735904715936
+    second: Lautsprecher_1_Render_95
+  - first:
+      213: 6454508443494822590
+    second: Lautsprecher_1_Render_96
+  - first:
+      213: -1277145077379540343
+    second: Lautsprecher_1_Render_97
+  - first:
+      213: 2690171756256636843
+    second: Lautsprecher_1_Render_98
+  - first:
+      213: -7156166058532228816
+    second: Lautsprecher_1_Render_99
+  - first:
+      213: -551800149608773922
+    second: Lautsprecher_1_Render_100
+  - first:
+      213: 4452826419029784561
+    second: Lautsprecher_1_Render_101
+  - first:
+      213: -7141445265049326341
+    second: Lautsprecher_1_Render_102
+  - first:
+      213: 8171141941652551388
+    second: Lautsprecher_1_Render_103
+  - first:
+      213: -6813611423558838464
+    second: Lautsprecher_1_Render_104
+  - first:
+      213: -5349764425505903965
+    second: Lautsprecher_1_Render_105
+  - first:
+      213: 6126257597069993549
+    second: Lautsprecher_1_Render_106
+  - first:
+      213: -8096847052520748068
+    second: Lautsprecher_1_Render_107
+  - first:
+      213: -5304061746304394136
+    second: Lautsprecher_1_Render_108
+  - first:
+      213: -6818702275120095705
+    second: Lautsprecher_1_Render_109
+  - first:
+      213: 1821706145773306633
+    second: Lautsprecher_1_Render_110
+  - first:
+      213: -4137316260029454424
+    second: Lautsprecher_1_Render_111
+  - first:
+      213: -4961345535326846898
+    second: Lautsprecher_1_Render_112
+  - first:
+      213: -5351187282596481733
+    second: Lautsprecher_1_Render_113
+  - first:
+      213: 179917358652963527
+    second: Lautsprecher_1_Render_114
+  - first:
+      213: 6254513113963253463
+    second: Lautsprecher_1_Render_115
+  - first:
+      213: 6109322133031795083
+    second: Lautsprecher_1_Render_116
+  - first:
+      213: 1017605325772959031
+    second: Lautsprecher_1_Render_117
+  - first:
+      213: -6911313732158181016
+    second: Lautsprecher_1_Render_118
+  - first:
+      213: 4724481248997177604
+    second: Lautsprecher_1_Render_119
+  - first:
+      213: 8362184609741786539
+    second: Lautsprecher_1_Render_120
+  - first:
+      213: 8123911625824787479
+    second: Lautsprecher_1_Render_121
+  - first:
+      213: 44873913478466472
+    second: Lautsprecher_1_Render_122
+  - first:
+      213: 2720064997077722947
+    second: Lautsprecher_1_Render_123
+  - first:
+      213: -4611074722977263173
+    second: Lautsprecher_1_Render_124
+  - first:
+      213: 8310224894921446451
+    second: Lautsprecher_1_Render_125
+  - first:
+      213: 1559727318406650385
+    second: Lautsprecher_1_Render_126
+  - first:
+      213: -6848654256915115177
+    second: Lautsprecher_1_Render_127
+  - first:
+      213: 724133949129323177
+    second: Lautsprecher_1_Render_128
+  - first:
+      213: 410310500708210552
+    second: Lautsprecher_1_Render_129
+  - first:
+      213: 7547356321190879894
+    second: Lautsprecher_1_Render_130
+  - first:
+      213: -3800655460449826690
+    second: Lautsprecher_1_Render_131
+  - first:
+      213: 8932626842927706295
+    second: Lautsprecher_1_Render_132
+  - first:
+      213: 4290700305174786607
+    second: Lautsprecher_1_Render_133
+  - first:
+      213: -8512651243073760040
+    second: Lautsprecher_1_Render_134
+  - first:
+      213: 6909636232621652225
+    second: Lautsprecher_1_Render_135
+  - first:
+      213: -2688482393438800379
+    second: Lautsprecher_1_Render_136
+  - first:
+      213: 4837830831057411054
+    second: Lautsprecher_1_Render_137
+  - first:
+      213: 242658369729727577
+    second: Lautsprecher_1_Render_138
+  - first:
+      213: 9091213702856021594
+    second: Lautsprecher_1_Render_139
+  - first:
+      213: -8733619282451879288
+    second: Lautsprecher_1_Render_140
+  - first:
+      213: 7323768455446601956
+    second: Lautsprecher_1_Render_141
+  - first:
+      213: -9158356645593732511
+    second: Lautsprecher_1_Render_142
+  - first:
+      213: -7905507356419246258
+    second: Lautsprecher_1_Render_143
+  - first:
+      213: -5789395355741453042
+    second: Lautsprecher_1_Render_144
+  - first:
+      213: 61877614697467258
+    second: Lautsprecher_1_Render_145
+  - first:
+      213: 8791689630307345937
+    second: Lautsprecher_1_Render_146
+  - first:
+      213: 5341777066651776074
+    second: Lautsprecher_1_Render_147
+  - first:
+      213: -4780613559496298531
+    second: Lautsprecher_1_Render_148
+  - first:
+      213: 933746899166674654
+    second: Lautsprecher_1_Render_149
+  - first:
+      213: 6821514286566616307
+    second: Lautsprecher_1_Render_150
+  - first:
+      213: 5934224040668927477
+    second: Lautsprecher_1_Render_151
+  - first:
+      213: 3087961374244166643
+    second: Lautsprecher_1_Render_152
+  - first:
+      213: -3656157290282526576
+    second: Lautsprecher_1_Render_153
+  - first:
+      213: 8941815324811123958
+    second: Lautsprecher_1_Render_154
+  - first:
+      213: -8510589921903572922
+    second: Lautsprecher_1_Render_155
+  - first:
+      213: 1247636155053467884
+    second: Lautsprecher_1_Render_156
+  - first:
+      213: -7051056399805870768
+    second: Lautsprecher_1_Render_157
+  - first:
+      213: 5214258843721938799
+    second: Lautsprecher_1_Render_158
+  - first:
+      213: 1109783282936063823
+    second: Lautsprecher_1_Render_159
+  - first:
+      213: -9054249011133916330
+    second: Lautsprecher_1_Render_160
+  - first:
+      213: 6901181593705355680
+    second: Lautsprecher_1_Render_161
+  - first:
+      213: -5617474579288391159
+    second: Lautsprecher_1_Render_162
+  - first:
+      213: -879065010533481411
+    second: Lautsprecher_1_Render_163
+  - first:
+      213: 3579965643372196860
+    second: Lautsprecher_1_Render_164
+  - first:
+      213: -7460760918517482058
+    second: Lautsprecher_1_Render_165
+  - first:
+      213: -5459215737505820146
+    second: Lautsprecher_1_Render_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cffb69695073f370800000000000000
+      internalID: 8355145263025487812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f79b1099d778280800000000000000
+      internalID: -9041119630810579186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705deb4eb162e2d0800000000000000
+      internalID: -3250928511062552462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c17d28f1f582d60800000000000000
+      internalID: 7865641338146331691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee920b2c065fbe10800000000000000
+      internalID: 2215584151950761710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8881b3dfe10fecb40800000000000000
+      internalID: 5462567413935184008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6554163bbeb2ca00800000000000000
+      internalID: 775391797136610667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428d9446a9bb9f2f0800000000000000
+      internalID: -938512775548119004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07457ad5b707b0460800000000000000
+      internalID: 7208979303691146352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_9
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1855caa4fe988efb0800000000000000
+      internalID: -4618289757025446527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_10
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b2a5edd856b5a0800000000000000
+      internalID: -6505914901626441649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_11
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44936b22b2203120800000000000000
+      internalID: 2391449550761202764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_12
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5601880e131c32480800000000000000
+      internalID: -8925077616553619355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_13
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb23bbe7e4129f110800000000000000
+      internalID: 1295102988863091388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a45079abfc14d60800000000000000
+      internalID: 7872802023924910690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c41efb2d78f2dcb0800000000000000
+      internalID: -4840533432977189691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d306761fa164c0800000000000000
+      internalID: -4295960058530639823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8183dfa12a9b2ce00800000000000000
+      internalID: 1063616567901501464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce54a565edc1a3450800000000000000
+      internalID: 6069195189092238828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_19
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e2520c5a05cd10800000000000000
+      internalID: 2145132187804165287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_20
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe9a3404b5c3aa0800000000000000
+      internalID: -6179964257087918101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffec9cc18842ca00800000000000000
+      internalID: 775261808181964785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2a6e191143e5730800000000000000
+      internalID: 3989683569963737831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e2ccc9ef39f380800000000000000
+      internalID: -8937041712144783208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_24
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b494b54282212c0800000000000000
+      internalID: -4462460144155276395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_25
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991689dde029c710800000000000000
+      internalID: 1713937339119966613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_26
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8876005126f7135f0800000000000000
+      internalID: -778701201322514552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_27
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16729edbaa67b700800000000000000
+      internalID: 556030365409637918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626a5ad912ddb770800000000000000
+      internalID: 8628283469591110250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afda15871cdb6df0800000000000000
+      internalID: -185812966030254173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc794469d8e80800800000000000000
+      internalID: 578968572505193680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70fc53704bbcf6d0800000000000000
+      internalID: -2955281369974116227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_32
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d6702b580c161f0800000000000000
+      internalID: -1053349157377970791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_33
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fd53e368769e50800000000000000
+      internalID: 6815767456483505620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_34
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ed2ecd8c0a79f20800000000000000
+      internalID: 3429386425825680953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78efc1110149720800000000000000
+      internalID: 2851922129719297973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f591f871e089e0800000000000000
+      internalID: -1621047956287916683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_37
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122c8f6009e3b1ff0800000000000000
+      internalID: -64388981353561567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4228a44e4c3e17a0800000000000000
+      internalID: -6404615313217281462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_39
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09c898124ffc36a0800000000000000
+      internalID: -6468014305465284339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_40
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d5dd96ca16e500800000000000000
+      internalID: 425056655186974998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lautsprecher_1_Render_41
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14246275097a7e2f0800000000000000
+      internalID: -943601358531575231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3ae9613ff7e76554a9d8255c2eb3150a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":6.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Lautsprecher_1_Render_0: 8355145263025487812
+      Lautsprecher_1_Render_1: -9041119630810579186
+      Lautsprecher_1_Render_10: -6505914901626441649
+      Lautsprecher_1_Render_11: 2391449550761202764
+      Lautsprecher_1_Render_12: -8925077616553619355
+      Lautsprecher_1_Render_13: 1295102988863091388
+      Lautsprecher_1_Render_14: 7872802023924910690
+      Lautsprecher_1_Render_15: -4840533432977189691
+      Lautsprecher_1_Render_16: -4295960058530639823
+      Lautsprecher_1_Render_17: 1063616567901501464
+      Lautsprecher_1_Render_18: 6069195189092238828
+      Lautsprecher_1_Render_19: 2145132187804165287
+      Lautsprecher_1_Render_2: -3250928511062552462
+      Lautsprecher_1_Render_20: -6179964257087918101
+      Lautsprecher_1_Render_21: 775261808181964785
+      Lautsprecher_1_Render_22: 3989683569963737831
+      Lautsprecher_1_Render_23: -8937041712144783208
+      Lautsprecher_1_Render_24: -4462460144155276395
+      Lautsprecher_1_Render_25: 1713937339119966613
+      Lautsprecher_1_Render_26: -778701201322514552
+      Lautsprecher_1_Render_27: 556030365409637918
+      Lautsprecher_1_Render_28: 8628283469591110250
+      Lautsprecher_1_Render_29: -185812966030254173
+      Lautsprecher_1_Render_3: 7865641338146331691
+      Lautsprecher_1_Render_30: 578968572505193680
+      Lautsprecher_1_Render_31: -2955281369974116227
+      Lautsprecher_1_Render_32: -1053349157377970791
+      Lautsprecher_1_Render_33: 6815767456483505620
+      Lautsprecher_1_Render_34: 3429386425825680953
+      Lautsprecher_1_Render_35: 2851922129719297973
+      Lautsprecher_1_Render_36: -1621047956287916683
+      Lautsprecher_1_Render_37: -64388981353561567
+      Lautsprecher_1_Render_38: -6404615313217281462
+      Lautsprecher_1_Render_39: -6468014305465284339
+      Lautsprecher_1_Render_4: 2215584151950761710
+      Lautsprecher_1_Render_40: 425056655186974998
+      Lautsprecher_1_Render_41: -943601358531575231
+      Lautsprecher_1_Render_5: 5462567413935184008
+      Lautsprecher_1_Render_6: 775391797136610667
+      Lautsprecher_1_Render_7: -938512775548119004
+      Lautsprecher_1_Render_8: 7208979303691146352
+      Lautsprecher_1_Render_9: -4618289757025446527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: ce82fd0b11c65b0428a93c0cab1aa80d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5703826886021708049
+    second: MCBackgroundIdleRender_0
+  - first:
+      213: 6144616573805723202
+    second: MCBackgroundIdleRender_1
+  - first:
+      213: -7695983666033863487
+    second: MCBackgroundIdleRender_2
+  - first:
+      213: 2420136660298775738
+    second: MCBackgroundIdleRender_3
+  - first:
+      213: -7508004902300742813
+    second: MCBackgroundIdleRender_4
+  - first:
+      213: -5898270207961692072
+    second: MCBackgroundIdleRender_5
+  - first:
+      213: 3026236057165856308
+    second: MCBackgroundIdleRender_6
+  - first:
+      213: 3270537631276913462
+    second: MCBackgroundIdleRender_7
+  - first:
+      213: -5948828029849932379
+    second: MCBackgroundIdleRender_8
+  - first:
+      213: -6003042581687454008
+    second: MCBackgroundIdleRender_9
+  - first:
+      213: -7549956930981615480
+    second: MCBackgroundIdleRender_10
+  - first:
+      213: 1165937400129025229
+    second: MCBackgroundIdleRender_11
+  - first:
+      213: 3269912332021147318
+    second: MCBackgroundIdleRender_12
+  - first:
+      213: 5237602618565905854
+    second: MCBackgroundIdleRender_13
+  - first:
+      213: -8198452267347710170
+    second: MCBackgroundIdleRender_14
+  - first:
+      213: 6644574223095148608
+    second: MCBackgroundIdleRender_15
+  - first:
+      213: -8568902817111319689
+    second: MCBackgroundIdleRender_16
+  - first:
+      213: -441420130978010112
+    second: MCBackgroundIdleRender_17
+  - first:
+      213: 7845193154683702850
+    second: MCBackgroundIdleRender_18
+  - first:
+      213: -1668300345607610607
+    second: MCBackgroundIdleRender_19
+  - first:
+      213: -3890676418270089230
+    second: MCBackgroundIdleRender_20
+  - first:
+      213: -7922777655015287545
+    second: MCBackgroundIdleRender_21
+  - first:
+      213: -8802146951921898010
+    second: MCBackgroundIdleRender_22
+  - first:
+      213: -2139175107939598037
+    second: MCBackgroundIdleRender_23
+  - first:
+      213: 928627811962668380
+    second: MCBackgroundIdleRender_24
+  - first:
+      213: -3073795625616908620
+    second: MCBackgroundIdleRender_25
+  - first:
+      213: -3791145461609574910
+    second: MCBackgroundIdleRender_26
+  - first:
+      213: 7372817373915076812
+    second: MCBackgroundIdleRender_27
+  - first:
+      213: -8313133838019412754
+    second: MCBackgroundIdleRender_28
+  - first:
+      213: -80661430841347559
+    second: MCBackgroundIdleRender_29
+  - first:
+      213: -5715126961772404778
+    second: MCBackgroundIdleRender_30
+  - first:
+      213: 3684008182796218042
+    second: MCBackgroundIdleRender_31
+  - first:
+      213: -7240129979528057160
+    second: MCBackgroundIdleRender_32
+  - first:
+      213: 8663457086620461938
+    second: MCBackgroundIdleRender_33
+  - first:
+      213: 199815911238853117
+    second: MCBackgroundIdleRender_34
+  - first:
+      213: -6175729783067703673
+    second: MCBackgroundIdleRender_35
+  - first:
+      213: -4906273262005738563
+    second: MCBackgroundIdleRender_36
+  - first:
+      213: -2542457951848470461
+    second: MCBackgroundIdleRender_37
+  - first:
+      213: 8440221859976142437
+    second: MCBackgroundIdleRender_38
+  - first:
+      213: 688600073461106926
+    second: MCBackgroundIdleRender_39
+  - first:
+      213: -3959490455563644731
+    second: MCBackgroundIdleRender_40
+  - first:
+      213: 7999183619965098344
+    second: MCBackgroundIdleRender_41
+  - first:
+      213: 4079618648608393129
+    second: MCBackgroundIdleRender_42
+  - first:
+      213: 8004636765442534800
+    second: MCBackgroundIdleRender_43
+  - first:
+      213: -657167475921979350
+    second: MCBackgroundIdleRender_44
+  - first:
+      213: -6620108176303798105
+    second: MCBackgroundIdleRender_45
+  - first:
+      213: -2652464508119911217
+    second: MCBackgroundIdleRender_46
+  - first:
+      213: -4305481688192766812
+    second: MCBackgroundIdleRender_47
+  - first:
+      213: 5835203469367066279
+    second: MCBackgroundIdleRender_48
+  - first:
+      213: 2853536149861586149
+    second: MCBackgroundIdleRender_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11975a92550182f40800000000000000
+      internalID: 5703826886021708049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24efaa2e730164550800000000000000
+      internalID: 6144616573805723202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d7dc71af523590800000000000000
+      internalID: -7695983666033863487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc3209587d069120800000000000000
+      internalID: 2420136660298775738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b097a02553ec790800000000000000
+      internalID: -7508004902300742813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588c290f72252ea0800000000000000
+      internalID: -5898270207961692072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e79d909a95ff920800000000000000
+      internalID: 3026236057165856308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 6480
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633dec8c5a8436d20800000000000000
+      internalID: 3270537631276913462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad68e2dc64817da0800000000000000
+      internalID: -5948828029849932379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6b9f2d398e0bca0800000000000000
+      internalID: -6003042581687454008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a7533c2a293790800000000000000
+      internalID: -7549956930981615480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_11
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4780553ed3e2010800000000000000
+      internalID: 1165937400129025229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_12
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b62ac4f0ff016d20800000000000000
+      internalID: 3269912332021147318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_13
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc642e4d3bfa840800000000000000
+      internalID: 5237602618565905854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_14
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f6eb0a91f393e80800000000000000
+      internalID: -8198452267347710170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_15
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 5400
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040bd4b2d05463c50800000000000000
+      internalID: 6644574223095148608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b5c3fa944251980800000000000000
+      internalID: -8568902817111319689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_17
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c6958cab2cfd9f0800000000000000
+      internalID: -441420130978010112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e8f3bcb99bfdc60800000000000000
+      internalID: 7845193154683702850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_19
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9569bca109d8e0800000000000000
+      internalID: -1668300345607610607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_20
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffa509496a810ac0800000000000000
+      internalID: -3890676418270089230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_21
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705596e03b3ac0290800000000000000
+      internalID: -7922777655015287545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_22
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed68e5abfd78d580800000000000000
+      internalID: -8802146951921898010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_23
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 4320
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2107eab29f1052e0800000000000000
+      internalID: -2139175107939598037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55459c231623ec00800000000000000
+      internalID: 928627811962668380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be54f60a2fa755d0800000000000000
+      internalID: -3073795625616908620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e4decf945236bc0800000000000000
+      internalID: -3791145461609574910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_27
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85906b652815660800000000000000
+      internalID: 7372817373915076812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_28
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb296b1d0d1ac80800000000000000
+      internalID: -8313133838019412754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_29
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91270a32bde61eef0800000000000000
+      internalID: -80661430841347559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_30
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df5c4dee4acfa0b0800000000000000
+      internalID: -5715126961772404778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_31
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3240
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe633d6ce9302330800000000000000
+      internalID: 3684008182796218042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bee29ab424e58b90800000000000000
+      internalID: -7240129979528057160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_33
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b6adeb158ca3870800000000000000
+      internalID: 8663457086620461938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_34
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1ecd93383e5c200800000000000000
+      internalID: 199815911238853117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_35
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78603739b766b4aa0800000000000000
+      internalID: -6175729783067703673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_36
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a627767a69ebb0800000000000000
+      internalID: -4906273262005738563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_37
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34864bb96ff57bcd0800000000000000
+      internalID: -2542457951848470461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_38
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e5d5d3011b12570800000000000000
+      internalID: 8440221859976142437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_39
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee805f25e166e8900800000000000000
+      internalID: 688600073461106926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c05490b8601d09c0800000000000000
+      internalID: -3959490455563644731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_41
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8699421fe1fc20f60800000000000000
+      internalID: 7999183619965098344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_42
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7cc51db87bd9830800000000000000
+      internalID: 4079618648608393129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_43
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09deb305abe261f60800000000000000
+      internalID: 8004636765442534800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_44
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fab799a541e6f0800000000000000
+      internalID: -657167475921979350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_45
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c0c040b6a024a0800000000000000
+      internalID: -6620108176303798105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_46
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47e2e459d803bd0800000000000000
+      internalID: -2652464508119911217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_47
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1080
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac225c473bdf34c0800000000000000
+      internalID: -4305481688192766812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae30cf93aecaf050800000000000000
+      internalID: 5835203469367066279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCBackgroundIdleRender_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e45c36720cc99720800000000000000
+      internalID: 2853536149861586149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe1c875f8a9221f489e8617d92a0f6ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":7.0},"gridSpriteSize":{"x":1080.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MCBackgroundIdleRender_0: 5703826886021708049
+      MCBackgroundIdleRender_1: 6144616573805723202
+      MCBackgroundIdleRender_10: -7549956930981615480
+      MCBackgroundIdleRender_11: 1165937400129025229
+      MCBackgroundIdleRender_12: 3269912332021147318
+      MCBackgroundIdleRender_13: 5237602618565905854
+      MCBackgroundIdleRender_14: -8198452267347710170
+      MCBackgroundIdleRender_15: 6644574223095148608
+      MCBackgroundIdleRender_16: -8568902817111319689
+      MCBackgroundIdleRender_17: -441420130978010112
+      MCBackgroundIdleRender_18: 7845193154683702850
+      MCBackgroundIdleRender_19: -1668300345607610607
+      MCBackgroundIdleRender_2: -7695983666033863487
+      MCBackgroundIdleRender_20: -3890676418270089230
+      MCBackgroundIdleRender_21: -7922777655015287545
+      MCBackgroundIdleRender_22: -8802146951921898010
+      MCBackgroundIdleRender_23: -2139175107939598037
+      MCBackgroundIdleRender_24: 928627811962668380
+      MCBackgroundIdleRender_25: -3073795625616908620
+      MCBackgroundIdleRender_26: -3791145461609574910
+      MCBackgroundIdleRender_27: 7372817373915076812
+      MCBackgroundIdleRender_28: -8313133838019412754
+      MCBackgroundIdleRender_29: -80661430841347559
+      MCBackgroundIdleRender_3: 2420136660298775738
+      MCBackgroundIdleRender_30: -5715126961772404778
+      MCBackgroundIdleRender_31: 3684008182796218042
+      MCBackgroundIdleRender_32: -7240129979528057160
+      MCBackgroundIdleRender_33: 8663457086620461938
+      MCBackgroundIdleRender_34: 199815911238853117
+      MCBackgroundIdleRender_35: -6175729783067703673
+      MCBackgroundIdleRender_36: -4906273262005738563
+      MCBackgroundIdleRender_37: -2542457951848470461
+      MCBackgroundIdleRender_38: 8440221859976142437
+      MCBackgroundIdleRender_39: 688600073461106926
+      MCBackgroundIdleRender_4: -7508004902300742813
+      MCBackgroundIdleRender_40: -3959490455563644731
+      MCBackgroundIdleRender_41: 7999183619965098344
+      MCBackgroundIdleRender_42: 4079618648608393129
+      MCBackgroundIdleRender_43: 8004636765442534800
+      MCBackgroundIdleRender_44: -657167475921979350
+      MCBackgroundIdleRender_45: -6620108176303798105
+      MCBackgroundIdleRender_46: -2652464508119911217
+      MCBackgroundIdleRender_47: -4305481688192766812
+      MCBackgroundIdleRender_48: 5835203469367066279
+      MCBackgroundIdleRender_49: 2853536149861586149
+      MCBackgroundIdleRender_5: -5898270207961692072
+      MCBackgroundIdleRender_6: 3026236057165856308
+      MCBackgroundIdleRender_7: 3270537631276913462
+      MCBackgroundIdleRender_8: -5948828029849932379
+      MCBackgroundIdleRender_9: -6003042581687454008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -544,7 +544,7 @@ MonoBehaviour:
     speakerVisual: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
     boxVisual: {fileID: 2084144033752099283, guid: 14f4748260e0ff4489f5237d2d809a16, type: 3}
     disapearingSpeaker: {fileID: 494288756}
-    Speaker: {fileID: 9100000, guid: 9b66ded11a8633f40af0e665d24a25af, type: 2}
+    Speaker: {fileID: 9100000, guid: 51c928bc3f8141c4fa867eeb19248351, type: 2}
     boxAnimation: {fileID: 9100000, guid: 03e38fb84d333304a92459edd51a482f, type: 2}
     audioClips:
     - {fileID: 8300000, guid: f6dbbd8527bd09a488e6d0009b3d8ce9, type: 3}
@@ -1346,7 +1346,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: -6392322190737342348, guid: 9619ba2fa58a6fa40b23219d436ef445, type: 3}
+  m_Sprite: {fileID: -7344073663773882307, guid: 39f7ded52ccf53945b7d8e4b9c642793, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3499,14 +3499,14 @@ RectTransform:
   m_GameObject: {fileID: 1199489635}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 25, y: 25, z: 25}
+  m_LocalScale: {x: 95.71, y: 95.71, z: 95.71}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 1064558365}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 711, y: -189}
+  m_AnchoredPosition: {x: 711, y: -178}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1199489637
@@ -3990,7 +3990,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 8.772141, y: 10.53}
+  m_Size: {x: 10.8, y: 10.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
