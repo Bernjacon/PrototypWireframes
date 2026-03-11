@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 4bb75a77554e1b64894124515204ea74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1066359890091197933
+    second: nachrichten-port-discuss-musik-kommentare-2_0
+  - first:
+      213: 3035145231408765984
+    second: nachrichten-port-discuss-musik-kommentare-2_1
+  - first:
+      213: -8308157278136947304
+    second: nachrichten-port-discuss-musik-kommentare-2_2
+  - first:
+      213: 5052930936202878781
+    second: nachrichten-port-discuss-musik-kommentare-2_3
+  - first:
+      213: 1059157372191840332
+    second: nachrichten-port-discuss-musik-kommentare-2_4
+  - first:
+      213: -2749037131055364340
+    second: nachrichten-port-discuss-musik-kommentare-2_5
+  - first:
+      213: -411349243786036108
+    second: nachrichten-port-discuss-musik-kommentare-2_6
+  - first:
+      213: -4439925296337156069
+    second: nachrichten-port-discuss-musik-kommentare-2_7
+  - first:
+      213: -1457945215428517069
+    second: nachrichten-port-discuss-musik-kommentare-2_8
+  - first:
+      213: 8243264437572830963
+    second: nachrichten-port-discuss-musik-kommentare-2_9
+  - first:
+      213: -4750220921844754084
+    second: nachrichten-port-discuss-musik-kommentare-2_10
+  - first:
+      213: 7508101596321810704
+    second: nachrichten-port-discuss-musik-kommentare-2_11
+  - first:
+      213: -8805395958495919922
+    second: nachrichten-port-discuss-musik-kommentare-2_12
+  - first:
+      213: -3748344670383180270
+    second: nachrichten-port-discuss-musik-kommentare-2_13
+  - first:
+      213: -6691228280203820711
+    second: nachrichten-port-discuss-musik-kommentare-2_14
+  - first:
+      213: 7634013959636103814
+    second: nachrichten-port-discuss-musik-kommentare-2_15
+  - first:
+      213: -11995462251282769
+    second: nachrichten-port-discuss-musik-kommentare-2_16
+  - first:
+      213: -8696250688573714703
+    second: nachrichten-port-discuss-musik-kommentare-2_17
+  - first:
+      213: -1725561887976368773
+    second: nachrichten-port-discuss-musik-kommentare-2_18
+  - first:
+      213: 369336279627618412
+    second: nachrichten-port-discuss-musik-kommentare-2_19
+  - first:
+      213: 5446855591600536568
+    second: nachrichten-port-discuss-musik-kommentare-2_20
+  - first:
+      213: -6436008400137251511
+    second: nachrichten-port-discuss-musik-kommentare-2_21
+  - first:
+      213: -4127657822424825267
+    second: nachrichten-port-discuss-musik-kommentare-2_22
+  - first:
+      213: 5210110918082587097
+    second: nachrichten-port-discuss-musik-kommentare-2_23
+  - first:
+      213: 9127637804006852169
+    second: nachrichten-port-discuss-musik-kommentare-2_24
+  - first:
+      213: 4834378965897870680
+    second: nachrichten-port-discuss-musik-kommentare-2_25
+  - first:
+      213: 5591328706601674798
+    second: nachrichten-port-discuss-musik-kommentare-2_26
+  - first:
+      213: -4679059365660069822
+    second: nachrichten-port-discuss-musik-kommentare-2_27
+  - first:
+      213: -2268766306782836414
+    second: nachrichten-port-discuss-musik-kommentare-2_28
+  - first:
+      213: -4406155673521822380
+    second: nachrichten-port-discuss-musik-kommentare-2_29
+  - first:
+      213: 6519888124756048690
+    second: nachrichten-port-discuss-musik-kommentare-2_30
+  - first:
+      213: -4311414637395263388
+    second: nachrichten-port-discuss-musik-kommentare-2_31
+  - first:
+      213: 2182706966934387695
+    second: nachrichten-port-discuss-musik-kommentare-2_32
+  - first:
+      213: -5886262823284219866
+    second: nachrichten-port-discuss-musik-kommentare-2_33
+  - first:
+      213: -8673199044446406157
+    second: nachrichten-port-discuss-musik-kommentare-2_34
+  - first:
+      213: 396928040584195486
+    second: nachrichten-port-discuss-musik-kommentare-2_35
+  - first:
+      213: 1616600092383198972
+    second: nachrichten-port-discuss-musik-kommentare-2_36
+  - first:
+      213: -8274627700307720413
+    second: nachrichten-port-discuss-musik-kommentare-2_37
+  - first:
+      213: 3826495613870729542
+    second: nachrichten-port-discuss-musik-kommentare-2_38
+  - first:
+      213: 7486582082436760017
+    second: nachrichten-port-discuss-musik-kommentare-2_39
+  - first:
+      213: -2541763634657831063
+    second: nachrichten-port-discuss-musik-kommentare-2_40
+  - first:
+      213: 3278643346088858731
+    second: nachrichten-port-discuss-musik-kommentare-2_41
+  - first:
+      213: -2393872286242653980
+    second: nachrichten-port-discuss-musik-kommentare-2_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de54c939ba87cce00800000000000000
+      internalID: 1066359890091197933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c17dfc1800f1a20800000000000000
+      internalID: 3035145231408765984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d229a59fe73bc80800000000000000
+      internalID: -8308157278136947304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f54f63aed9f1640800000000000000
+      internalID: 5052930936202878781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c481bb2b402e2be00800000000000000
+      internalID: 1059157372191840332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0706195b4579d9d0800000000000000
+      internalID: -2749037131055364340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf18dca089a4af0800000000000000
+      internalID: -411349243786036108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b188d8a77773262c0800000000000000
+      internalID: -4439925296337156069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33327641d8654cbe0800000000000000
+      internalID: -1457945215428517069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6832fc455f56270800000000000000
+      internalID: 8243264437572830963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5990d44d33d31eb0800000000000000
+      internalID: -4750220921844754084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0190e4a4f92223860800000000000000
+      internalID: 7508101596321810704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0c03b5703fcc580800000000000000
+      internalID: -8805395958495919922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f412c1643bfbc0800000000000000
+      internalID: -3748344670383180270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951476fa45bf323a0800000000000000
+      internalID: -6691228280203820711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682bb72ef3771f960800000000000000
+      internalID: 7634013959636103814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae789dc03265dff0800000000000000
+      internalID: -11995462251282769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe41ddc216b05780800000000000000
+      internalID: -8696250688573714703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b755735fa929d08e0800000000000000
+      internalID: -1725561887976368773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c685ed5b365202500800000000000000
+      internalID: 369336279627618412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb33384d4e179b40800000000000000
+      internalID: 5446855591600536568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 10
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459362a574bea6a0800000000000000
+      internalID: -6436008400137251511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42810c641d97b6c0800000000000000
+      internalID: -4127657822424825267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d962b096480e4840800000000000000
+      internalID: 5210110918082587097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_24
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9464142f832ebae70800000000000000
+      internalID: 9127637804006852169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_25
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 10
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d76fb4e0a271340800000000000000
+      internalID: 4834378965897870680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_26
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 14
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ef63a5d3689d40800000000000000
+      internalID: 5591328706601674798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_27
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240fdd23c44a01fb0800000000000000
+      internalID: -4679059365660069822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24985dd7019b380e0800000000000000
+      internalID: -2268766306782836414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_29
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455e8ae72c03ad2c0800000000000000
+      internalID: -4406155673521822380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b3f53a4bb4b7a50800000000000000
+      internalID: 6519888124756048690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_31
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c2aaea37ca24c0800000000000000
+      internalID: -4311414637395263388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_32
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 13
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febf4e40c688a4e10800000000000000
+      internalID: 2182706966934387695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206e83262bcf4ea0800000000000000
+      internalID: -5886262823284219866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_34
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b381fb6b92a780800000000000000
+      internalID: -8673199044446406157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_35
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9da96c23fb228500800000000000000
+      internalID: 396928040584195486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe3d5a08315f6610800000000000000
+      internalID: 1616600092383198972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3270d8a82fd9a2d80800000000000000
+      internalID: -8274627700307720413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ea57bc717a1530800000000000000
+      internalID: 3826495613870729542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d182750dbea5e760800000000000000
+      internalID: 7486582082436760017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967d63de077d9bcd0800000000000000
+      internalID: -2541763634657831063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_41
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6413d490c4108d20800000000000000
+      internalID: 3278643346088858731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-musik-kommentare-2_42
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8bad4c6d147ced0800000000000000
+      internalID: -2393872286242653980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nachrichten-port-discuss-musik-kommentare-2_0: 1066359890091197933
+      nachrichten-port-discuss-musik-kommentare-2_1: 3035145231408765984
+      nachrichten-port-discuss-musik-kommentare-2_10: -4750220921844754084
+      nachrichten-port-discuss-musik-kommentare-2_11: 7508101596321810704
+      nachrichten-port-discuss-musik-kommentare-2_12: -8805395958495919922
+      nachrichten-port-discuss-musik-kommentare-2_13: -3748344670383180270
+      nachrichten-port-discuss-musik-kommentare-2_14: -6691228280203820711
+      nachrichten-port-discuss-musik-kommentare-2_15: 7634013959636103814
+      nachrichten-port-discuss-musik-kommentare-2_16: -11995462251282769
+      nachrichten-port-discuss-musik-kommentare-2_17: -8696250688573714703
+      nachrichten-port-discuss-musik-kommentare-2_18: -1725561887976368773
+      nachrichten-port-discuss-musik-kommentare-2_19: 369336279627618412
+      nachrichten-port-discuss-musik-kommentare-2_2: -8308157278136947304
+      nachrichten-port-discuss-musik-kommentare-2_20: 5446855591600536568
+      nachrichten-port-discuss-musik-kommentare-2_21: -6436008400137251511
+      nachrichten-port-discuss-musik-kommentare-2_22: -4127657822424825267
+      nachrichten-port-discuss-musik-kommentare-2_23: 5210110918082587097
+      nachrichten-port-discuss-musik-kommentare-2_24: 9127637804006852169
+      nachrichten-port-discuss-musik-kommentare-2_25: 4834378965897870680
+      nachrichten-port-discuss-musik-kommentare-2_26: 5591328706601674798
+      nachrichten-port-discuss-musik-kommentare-2_27: -4679059365660069822
+      nachrichten-port-discuss-musik-kommentare-2_28: -2268766306782836414
+      nachrichten-port-discuss-musik-kommentare-2_29: -4406155673521822380
+      nachrichten-port-discuss-musik-kommentare-2_3: 5052930936202878781
+      nachrichten-port-discuss-musik-kommentare-2_30: 6519888124756048690
+      nachrichten-port-discuss-musik-kommentare-2_31: -4311414637395263388
+      nachrichten-port-discuss-musik-kommentare-2_32: 2182706966934387695
+      nachrichten-port-discuss-musik-kommentare-2_33: -5886262823284219866
+      nachrichten-port-discuss-musik-kommentare-2_34: -8673199044446406157
+      nachrichten-port-discuss-musik-kommentare-2_35: 396928040584195486
+      nachrichten-port-discuss-musik-kommentare-2_36: 1616600092383198972
+      nachrichten-port-discuss-musik-kommentare-2_37: -8274627700307720413
+      nachrichten-port-discuss-musik-kommentare-2_38: 3826495613870729542
+      nachrichten-port-discuss-musik-kommentare-2_39: 7486582082436760017
+      nachrichten-port-discuss-musik-kommentare-2_4: 1059157372191840332
+      nachrichten-port-discuss-musik-kommentare-2_40: -2541763634657831063
+      nachrichten-port-discuss-musik-kommentare-2_41: 3278643346088858731
+      nachrichten-port-discuss-musik-kommentare-2_42: -2393872286242653980
+      nachrichten-port-discuss-musik-kommentare-2_5: -2749037131055364340
+      nachrichten-port-discuss-musik-kommentare-2_6: -411349243786036108
+      nachrichten-port-discuss-musik-kommentare-2_7: -4439925296337156069
+      nachrichten-port-discuss-musik-kommentare-2_8: -1457945215428517069
+      nachrichten-port-discuss-musik-kommentare-2_9: 8243264437572830963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 2602021d423009d4fad64d2f8058cc3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4988520828915833751
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_0
+  - first:
+      213: -1801348294298228480
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_1
+  - first:
+      213: 4225392731640261301
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_2
+  - first:
+      213: 7940819496753826628
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_3
+  - first:
+      213: -5974955639636806824
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_4
+  - first:
+      213: 1982423072529621268
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_5
+  - first:
+      213: 1596111249291995389
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_6
+  - first:
+      213: 5574395346878847914
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_7
+  - first:
+      213: -9080499040297198523
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_8
+  - first:
+      213: -1777184812718559625
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_9
+  - first:
+      213: -9164421224150475172
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_10
+  - first:
+      213: 5117061940733682731
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_11
+  - first:
+      213: -1495477644209637051
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_12
+  - first:
+      213: -2787899227477427888
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_13
+  - first:
+      213: -521043789467022118
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_14
+  - first:
+      213: -1794887073506950443
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_15
+  - first:
+      213: -1335391654447766747
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_16
+  - first:
+      213: 8493847768732492369
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_17
+  - first:
+      213: -7491853195003382089
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_18
+  - first:
+      213: -1289504926048122753
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_19
+  - first:
+      213: -3787190687302618028
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_20
+  - first:
+      213: -7000316493025374552
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_21
+  - first:
+      213: 2047065270762923387
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_22
+  - first:
+      213: -4025342314360538509
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_23
+  - first:
+      213: -6802806784659171598
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_24
+  - first:
+      213: -8422981042435309192
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_25
+  - first:
+      213: 3413096922321066638
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_26
+  - first:
+      213: -519629195274680740
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_27
+  - first:
+      213: 1075707439564957932
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_28
+  - first:
+      213: -4981603581591123781
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_29
+  - first:
+      213: -9027262084107693759
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_30
+  - first:
+      213: 2706109330398828126
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_31
+  - first:
+      213: 2069098008208056994
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_32
+  - first:
+      213: -5216349048015680487
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_33
+  - first:
+      213: 1158230772416246404
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_34
+  - first:
+      213: 8339208997446065385
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_35
+  - first:
+      213: -905948335483351745
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_36
+  - first:
+      213: -2106927307834614696
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_37
+  - first:
+      213: 3024849252488517959
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_38
+  - first:
+      213: 2177866219293318605
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_39
+  - first:
+      213: 409947577946684719
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_40
+  - first:
+      213: -4486810331327444081
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_41
+  - first:
+      213: 7354431903615711832
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_42
+  - first:
+      213: -6178874546100613843
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_43
+  - first:
+      213: 8953347041455725252
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_44
+  - first:
+      213: -6074620111225492209
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_45
+  - first:
+      213: 1866283845158815913
+    second: nachrichten-port-discuss-supermarkt-kommentare-2_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a5d58cb635cab0800000000000000
+      internalID: -4988520828915833751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009299135435007e0800000000000000
+      internalID: -1801348294298228480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba6fe56d4c93aa30800000000000000
+      internalID: 4225392731640261301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b02819245733e60800000000000000
+      internalID: 7940819496753826628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8533bbe9081b41da0800000000000000
+      internalID: -5974955639636806824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411aaa8f74bf28b10800000000000000
+      internalID: 1982423072529621268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8ed0489b6862610800000000000000
+      internalID: 1596111249291995389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabdd48980b3c5d40800000000000000
+      internalID: 5574395346878847914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5fcfbb369bf180800000000000000
+      internalID: -9080499040297198523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee0b924db2657e0800000000000000
+      internalID: -1777184812718559625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ed57aa37f61d080800000000000000
+      internalID: -9164421224150475172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b242a1749b4730740800000000000000
+      internalID: 5117061940733682731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b857810ffe3be0800000000000000
+      internalID: -1495477644209637051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593f9c6c646f49d0800000000000000
+      internalID: -2787899227477427888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc05602f61e4c8f0800000000000000
+      internalID: -521043789467022118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28da367b74717e0800000000000000
+      internalID: -1794887073506950443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ae909d5cb77de0800000000000000
+      internalID: -1335391654447766747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526b871b8530e570800000000000000
+      internalID: 8493847768732492369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b2727637970890800000000000000
+      internalID: -7491853195003382089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7809c21a12ca1ee0800000000000000
+      internalID: -1289504926048122753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f8a2a222317bc0800000000000000
+      internalID: -3787190687302618028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 10
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0ae52d31e9de90800000000000000
+      internalID: -7000316493025374552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ecd79403a86c10800000000000000
+      internalID: 2047065270762923387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_23
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af0350e7c1328c0800000000000000
+      internalID: -4025342314360538509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6d5cca5439791a0800000000000000
+      internalID: -6802806784659171598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_25
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8714bc76e5f8b1b80800000000000000
+      internalID: -8422981042435309192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a1de64191cd5f20800000000000000
+      internalID: 3413096922321066638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_27
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c560bb00008e9c8f0800000000000000
+      internalID: -519629195274680740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_28
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8a389873eadee00800000000000000
+      internalID: 1075707439564957932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_29
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 13
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8827bafe9cddab0800000000000000
+      internalID: -4981603581591123781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_30
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 10
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141986686f8b8b280800000000000000
+      internalID: -9027262084107693759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_31
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 14
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56dac139180e8520800000000000000
+      internalID: 2706109330398828126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_32
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2a5b80da9e6bc10800000000000000
+      internalID: 2069098008208056994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_33
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c0490ad2ecb97b0800000000000000
+      internalID: -5216349048015680487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_34
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482fbcd30ccd21010800000000000000
+      internalID: 1158230772416246404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_35
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec93807662dab370800000000000000
+      internalID: 8339208997446065385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_36
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 14
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d88aee9cc6d63f0800000000000000
+      internalID: -905948335483351745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_37
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c92f8c6c0b2c2e0800000000000000
+      internalID: -2106927307834614696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_38
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7491fa96e5c6af920800000000000000
+      internalID: 3024849252488517959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 14
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1d41a9c5593e10800000000000000
+      internalID: 2177866219293318605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_40
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d3b00762d60b500800000000000000
+      internalID: 409947577946684719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bccaa96c5abb1c0800000000000000
+      internalID: -4486810331327444081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a70d3d9d0301660800000000000000
+      internalID: 7354431903615711832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_43
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d48ff565a304aa0800000000000000
+      internalID: -6178874546100613843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca53c482bda04c70800000000000000
+      internalID: 8953347041455725252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de5fc813d92bba0800000000000000
+      internalID: -6074620111225492209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nachrichten-port-discuss-supermarkt-kommentare-2_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8cdb8e44f56e910800000000000000
+      internalID: 1866283845158815913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nachrichten-port-discuss-supermarkt-kommentare-2_0: -4988520828915833751
+      nachrichten-port-discuss-supermarkt-kommentare-2_1: -1801348294298228480
+      nachrichten-port-discuss-supermarkt-kommentare-2_10: -9164421224150475172
+      nachrichten-port-discuss-supermarkt-kommentare-2_11: 5117061940733682731
+      nachrichten-port-discuss-supermarkt-kommentare-2_12: -1495477644209637051
+      nachrichten-port-discuss-supermarkt-kommentare-2_13: -2787899227477427888
+      nachrichten-port-discuss-supermarkt-kommentare-2_14: -521043789467022118
+      nachrichten-port-discuss-supermarkt-kommentare-2_15: -1794887073506950443
+      nachrichten-port-discuss-supermarkt-kommentare-2_16: -1335391654447766747
+      nachrichten-port-discuss-supermarkt-kommentare-2_17: 8493847768732492369
+      nachrichten-port-discuss-supermarkt-kommentare-2_18: -7491853195003382089
+      nachrichten-port-discuss-supermarkt-kommentare-2_19: -1289504926048122753
+      nachrichten-port-discuss-supermarkt-kommentare-2_2: 4225392731640261301
+      nachrichten-port-discuss-supermarkt-kommentare-2_20: -3787190687302618028
+      nachrichten-port-discuss-supermarkt-kommentare-2_21: -7000316493025374552
+      nachrichten-port-discuss-supermarkt-kommentare-2_22: 2047065270762923387
+      nachrichten-port-discuss-supermarkt-kommentare-2_23: -4025342314360538509
+      nachrichten-port-discuss-supermarkt-kommentare-2_24: -6802806784659171598
+      nachrichten-port-discuss-supermarkt-kommentare-2_25: -8422981042435309192
+      nachrichten-port-discuss-supermarkt-kommentare-2_26: 3413096922321066638
+      nachrichten-port-discuss-supermarkt-kommentare-2_27: -519629195274680740
+      nachrichten-port-discuss-supermarkt-kommentare-2_28: 1075707439564957932
+      nachrichten-port-discuss-supermarkt-kommentare-2_29: -4981603581591123781
+      nachrichten-port-discuss-supermarkt-kommentare-2_3: 7940819496753826628
+      nachrichten-port-discuss-supermarkt-kommentare-2_30: -9027262084107693759
+      nachrichten-port-discuss-supermarkt-kommentare-2_31: 2706109330398828126
+      nachrichten-port-discuss-supermarkt-kommentare-2_32: 2069098008208056994
+      nachrichten-port-discuss-supermarkt-kommentare-2_33: -5216349048015680487
+      nachrichten-port-discuss-supermarkt-kommentare-2_34: 1158230772416246404
+      nachrichten-port-discuss-supermarkt-kommentare-2_35: 8339208997446065385
+      nachrichten-port-discuss-supermarkt-kommentare-2_36: -905948335483351745
+      nachrichten-port-discuss-supermarkt-kommentare-2_37: -2106927307834614696
+      nachrichten-port-discuss-supermarkt-kommentare-2_38: 3024849252488517959
+      nachrichten-port-discuss-supermarkt-kommentare-2_39: 2177866219293318605
+      nachrichten-port-discuss-supermarkt-kommentare-2_4: -5974955639636806824
+      nachrichten-port-discuss-supermarkt-kommentare-2_40: 409947577946684719
+      nachrichten-port-discuss-supermarkt-kommentare-2_41: -4486810331327444081
+      nachrichten-port-discuss-supermarkt-kommentare-2_42: 7354431903615711832
+      nachrichten-port-discuss-supermarkt-kommentare-2_43: -6178874546100613843
+      nachrichten-port-discuss-supermarkt-kommentare-2_44: 8953347041455725252
+      nachrichten-port-discuss-supermarkt-kommentare-2_45: -6074620111225492209
+      nachrichten-port-discuss-supermarkt-kommentare-2_46: 1866283845158815913
+      nachrichten-port-discuss-supermarkt-kommentare-2_5: 1982423072529621268
+      nachrichten-port-discuss-supermarkt-kommentare-2_6: 1596111249291995389
+      nachrichten-port-discuss-supermarkt-kommentare-2_7: 5574395346878847914
+      nachrichten-port-discuss-supermarkt-kommentare-2_8: -9080499040297198523
+      nachrichten-port-discuss-supermarkt-kommentare-2_9: -1777184812718559625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
