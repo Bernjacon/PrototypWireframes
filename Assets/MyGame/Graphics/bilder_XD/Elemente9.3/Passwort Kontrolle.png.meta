@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: bd91f71fe1be302448b18cf1df942510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1536387674559156096
+    second: Passwort Kontrolle_0
+  - first:
+      213: 4048087021762402050
+    second: Passwort Kontrolle_1
+  - first:
+      213: 3522900437789997337
+    second: Passwort Kontrolle_2
+  - first:
+      213: -7766180669232339634
+    second: Passwort Kontrolle_3
+  - first:
+      213: -479208477589771936
+    second: Passwort Kontrolle_4
+  - first:
+      213: 7134385531978108769
+    second: Passwort Kontrolle_5
+  - first:
+      213: 458021650085413812
+    second: Passwort Kontrolle_6
+  - first:
+      213: 7365509742897388852
+    second: Passwort Kontrolle_7
+  - first:
+      213: -2083475595998626230
+    second: Passwort Kontrolle_8
+  - first:
+      213: 3962181263115268971
+    second: Passwort Kontrolle_9
+  - first:
+      213: 7780318119030974617
+    second: Passwort Kontrolle_10
+  - first:
+      213: -7798066739582737294
+    second: Passwort Kontrolle_11
+  - first:
+      213: -144756977928192572
+    second: Passwort Kontrolle_12
+  - first:
+      213: 1234410292648054241
+    second: Passwort Kontrolle_13
+  - first:
+      213: -7347758405038362790
+    second: Passwort Kontrolle_14
+  - first:
+      213: 3206378349054322349
+    second: Passwort Kontrolle_15
+  - first:
+      213: 7993887274252447834
+    second: Passwort Kontrolle_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Passwort Kontrolle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f036b2378525510800000000000000
+      internalID: 1536387674559156096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2075408d2b1bd2830800000000000000
+      internalID: 4048087021762402050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9197a85784bd3e030800000000000000
+      internalID: 3522900437789997337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a6ec04dbf83490800000000000000
+      internalID: -7766180669232339634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 14
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069e7e7bd628959f0800000000000000
+      internalID: -479208477589771936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 13
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fcd3c77dd620360800000000000000
+      internalID: 7134385531978108769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b387c893483b5600800000000000000
+      internalID: 458021650085413812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 13
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd317461c873660800000000000000
+      internalID: 7365509742897388852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 14
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e7e42fbf10613e0800000000000000
+      internalID: -2083475595998626230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 13
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b1b3cdde7cf630800000000000000
+      internalID: 3962181263115268971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998606c7b1e39fb60800000000000000
+      internalID: 7780318119030974617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 13
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274e164cd93b7c390800000000000000
+      internalID: -7798066739582737294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdb4d7ab48bdfdf0800000000000000
+      internalID: -144756977928192572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 13
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed8f58fe91812110800000000000000
+      internalID: 1234410292648054241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 14
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f2c4429a4870a90800000000000000
+      internalID: -7347758405038362790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 14
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e2eece185f7c20800000000000000
+      internalID: 3206378349054322349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passwort Kontrolle_16
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50355c5f1effee60800000000000000
+      internalID: 7993887274252447834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Passwort Kontrolle_0: 1536387674559156096
+      Passwort Kontrolle_1: 4048087021762402050
+      Passwort Kontrolle_10: 7780318119030974617
+      Passwort Kontrolle_11: -7798066739582737294
+      Passwort Kontrolle_12: -144756977928192572
+      Passwort Kontrolle_13: 1234410292648054241
+      Passwort Kontrolle_14: -7347758405038362790
+      Passwort Kontrolle_15: 3206378349054322349
+      Passwort Kontrolle_16: 7993887274252447834
+      Passwort Kontrolle_2: 3522900437789997337
+      Passwort Kontrolle_3: -7766180669232339634
+      Passwort Kontrolle_4: -479208477589771936
+      Passwort Kontrolle_5: 7134385531978108769
+      Passwort Kontrolle_6: 458021650085413812
+      Passwort Kontrolle_7: 7365509742897388852
+      Passwort Kontrolle_8: -2083475595998626230
+      Passwort Kontrolle_9: 3962181263115268971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

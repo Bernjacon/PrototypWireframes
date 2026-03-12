@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: b68bae7cd387df94ba9f90f7b412d1c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4218563791895183712
+    second: Antworten (Hover-Zustand)_0
+  - first:
+      213: 430392591375570338
+    second: Antworten (Hover-Zustand)_1
+  - first:
+      213: 6407895709643878603
+    second: Antworten (Hover-Zustand)_2
+  - first:
+      213: -356143299745599261
+    second: Antworten (Hover-Zustand)_3
+  - first:
+      213: 229970568594112473
+    second: Antworten (Hover-Zustand)_4
+  - first:
+      213: 2356078789490799664
+    second: Antworten (Hover-Zustand)_5
+  - first:
+      213: -3600805872456825215
+    second: Antworten (Hover-Zustand)_6
+  - first:
+      213: 2107072562877051548
+    second: Antworten (Hover-Zustand)_7
+  - first:
+      213: -5599732561087589178
+    second: Antworten (Hover-Zustand)_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061cc36fa695b8a30800000000000000
+      internalID: 4218563791895183712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 11
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a596e218cf09f500800000000000000
+      internalID: 430392591375570338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 10
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b21b823b6de850800000000000000
+      internalID: 6407895709643878603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e037894e89be0bf0800000000000000
+      internalID: -356143299745599261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb8d18305013300800000000000000
+      internalID: 229970568594112473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347e6e0d2972b020800000000000000
+      internalID: 2356078789490799664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186021b032e570ec0800000000000000
+      internalID: -3600805872456825215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92324a0553dd3d10800000000000000
+      internalID: 2107072562877051548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antworten (Hover-Zustand)_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 11
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c49f2387e0c942b0800000000000000
+      internalID: -5599732561087589178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Antworten (Hover-Zustand)_0: 4218563791895183712
+      Antworten (Hover-Zustand)_1: 430392591375570338
+      Antworten (Hover-Zustand)_2: 6407895709643878603
+      Antworten (Hover-Zustand)_3: -356143299745599261
+      Antworten (Hover-Zustand)_4: 229970568594112473
+      Antworten (Hover-Zustand)_5: 2356078789490799664
+      Antworten (Hover-Zustand)_6: -3600805872456825215
+      Antworten (Hover-Zustand)_7: 2107072562877051548
+      Antworten (Hover-Zustand)_8: -5599732561087589178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

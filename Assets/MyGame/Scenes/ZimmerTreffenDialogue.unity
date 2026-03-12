@@ -4059,8 +4059,6 @@ MonoBehaviour:
   toActivate:
   - {fileID: 3749513939269074051}
   - {fileID: 175533792}
-  - {fileID: 1199489635}
-  - {fileID: 1199489635}
   - {fileID: 1808421122}
   - {fileID: 1794917717}
 --- !u!1 &1566439783

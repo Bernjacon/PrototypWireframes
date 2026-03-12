@@ -682,7 +682,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 20
   m_WholeNumbers: 0
-  m_Value: 0
+  m_Value: 20
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -720,8 +720,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -4.699951, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 4.025056, y: 0}
+  m_SizeDelta: {x: 17.45001, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2383939452711806288
 CanvasRenderer:
@@ -1495,6 +1495,7 @@ MonoBehaviour:
   isGrounded: 0
   dinoAnimator: {fileID: 7207617416828882937}
   jumpSound: {fileID: 5109395246750924960}
+  rb: {fileID: 0}
 --- !u!50 &5038017782846104544
 Rigidbody2D:
   serializedVersion: 5

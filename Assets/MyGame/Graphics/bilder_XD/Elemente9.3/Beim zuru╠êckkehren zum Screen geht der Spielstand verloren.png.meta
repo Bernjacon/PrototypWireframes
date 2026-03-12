@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 4d846484a7b894d4fa7dbb1e12076ed2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2116873753565810743
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_0"
+  - first:
+      213: 8154225044314443093
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_1"
+  - first:
+      213: 8605967135284019770
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_2"
+  - first:
+      213: -4429955196865603233
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_3"
+  - first:
+      213: 2639025819622208710
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_4"
+  - first:
+      213: -5018793057501381610
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_5"
+  - first:
+      213: 5865994674425990023
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_6"
+  - first:
+      213: -3851454739756799609
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_7"
+  - first:
+      213: -9108566599385340969
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_8"
+  - first:
+      213: 259409165493041526
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_9"
+  - first:
+      213: 3595007697185271830
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_10"
+  - first:
+      213: 8185687117947082535
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_11"
+  - first:
+      213: -2786710598492447009
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_12"
+  - first:
+      213: -815213981298977654
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_13"
+  - first:
+      213: -3005731493079254713
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_14"
+  - first:
+      213: 7614871777054240073
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_15"
+  - first:
+      213: -638755451513224516
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_16"
+  - first:
+      213: 5855298811947216241
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_17"
+  - first:
+      213: 1212083120552950818
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_18"
+  - first:
+      213: 708726472224810182
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_19"
+  - first:
+      213: 4802031002455674912
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_20"
+  - first:
+      213: -5076359669308785220
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_21"
+  - first:
+      213: -5507238208195578039
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_22"
+  - first:
+      213: 7845301620551906428
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_23"
+  - first:
+      213: -3454148109898927653
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_24"
+  - first:
+      213: 1876283385299358648
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_25"
+  - first:
+      213: 2535168230371247521
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_26"
+  - first:
+      213: -2166339270689839802
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_27"
+  - first:
+      213: 3008026244193649317
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_28"
+  - first:
+      213: -4564664085015598883
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_29"
+  - first:
+      213: 6654917843154641172
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_30"
+  - first:
+      213: 8549765877879575274
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_31"
+  - first:
+      213: 4926679235571555451
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_32"
+  - first:
+      213: 8420228563611844838
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_33"
+  - first:
+      213: 2970912895385013872
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_34"
+  - first:
+      213: -8267101170433649956
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_35"
+  - first:
+      213: 1719794454062221366
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_36"
+  - first:
+      213: -2505667559041696963
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_37"
+  - first:
+      213: -6786578867725601728
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_38"
+  - first:
+      213: -6935305632612100369
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_39"
+  - first:
+      213: -6448068632363178345
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_40"
+  - first:
+      213: -2754206078797482674
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_41"
+  - first:
+      213: -7820988679227466952
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_42"
+  - first:
+      213: -7802067757769101134
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_43"
+  - first:
+      213: 4464407519497705139
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_44"
+  - first:
+      213: -2208890727819673560
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_45"
+  - first:
+      213: 4693629903617658827
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_46"
+  - first:
+      213: 6292906471598972312
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_47"
+  - first:
+      213: -8431463451911151520
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_48"
+  - first:
+      213: 6797743479054355130
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_49"
+  - first:
+      213: 4589768545273670685
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_50"
+  - first:
+      213: -8841926417659898316
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_51"
+  - first:
+      213: 7205261434807456959
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_52"
+  - first:
+      213: 8855134852440092407
+    second: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_53"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_0"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 323
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73053a39675a06d10800000000000000
+      internalID: 2116873753565810743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_1"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 395
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc4f09970a92170800000000000000
+      internalID: 8154225044314443093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_2"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a324a4f53898e6770800000000000000
+      internalID: 8605967135284019770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_3"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 395
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f591ee72833a582c0800000000000000
+      internalID: -4429955196865603233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_4"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 323
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c47aa33004bf9420800000000000000
+      internalID: 2639025819622208710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_5"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 323
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cfe6e0e4aa95ab0800000000000000
+      internalID: -5018793057501381610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_6"
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 323
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b8e77b313386150800000000000000
+      internalID: 5865994674425990023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_7"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7892d40f152ec8ac0800000000000000
+      internalID: -3851454739756799609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_8"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 323
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d326a6efeed79180800000000000000
+      internalID: -9108566599385340969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_9"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 323
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67971b8f24b999300800000000000000
+      internalID: 259409165493041526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_10"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 323
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610f583147804e130800000000000000
+      internalID: 3595007697185271830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_11"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 321
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271abb6017699170800000000000000
+      internalID: 8185687117947082535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_12"
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 323
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde9a0da97d9359d0800000000000000
+      internalID: -2786710598492447009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_13"
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 321
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a841eb40437cfa4f0800000000000000
+      internalID: -815213981298977654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_14"
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 321
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497ec0d12f7946d0800000000000000
+      internalID: -3005731493079254713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_15"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 321
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d277139857da960800000000000000
+      internalID: 7614871777054240073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_16"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 323
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2c5361d4fa227f0800000000000000
+      internalID: -638755451513224516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_17"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 321
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d61eb2f33324150800000000000000
+      internalID: 5855298811947216241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_18"
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 323
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3ece1d2f22d010800000000000000
+      internalID: 1212083120552950818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_19"
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 323
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c420e3b8f6e5d900800000000000000
+      internalID: 708726472224810182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_20"
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 321
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02098c521cd34a240800000000000000
+      internalID: 4802031002455674912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_21"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 323
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdfab6c6c52d89b0800000000000000
+      internalID: -5076359669308785220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_22"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 174
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473b0b370c5293b0800000000000000
+      internalID: -5507238208195578039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_23"
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 176
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74fac8f14c10ec60800000000000000
+      internalID: 7845301620551906428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_24"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 174
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd133eb48966010d0800000000000000
+      internalID: -3454148109898927653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_25"
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 174
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b35cb64cc5e90a10800000000000000
+      internalID: 1876283385299358648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_26"
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 174
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54229d21abe2320800000000000000
+      internalID: 2535168230371247521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_27"
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 248
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ad8b39ed9fe1e0800000000000000
+      internalID: -2166339270689839802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_28"
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 176
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a207309ee7aeb920800000000000000
+      internalID: 3008026244193649317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_29"
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 174
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd869a5033e07a0c0800000000000000
+      internalID: -4564664085015598883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_30"
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 174
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41124a2e4840b5c50800000000000000
+      internalID: 6654917843154641172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_31"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 174
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae294cf64ced6a670800000000000000
+      internalID: 8549765877879575274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_32"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 176
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c198e79a41f5440800000000000000
+      internalID: 4926679235571555451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_33"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 174
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e08ead2449aad470800000000000000
+      internalID: 8420228563611844838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_34"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 174
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e0d0ca98dca3920800000000000000
+      internalID: 2970912895385013872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_35"
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 176
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd21616594b554d80800000000000000
+      internalID: -8267101170433649956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_36"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 151
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c011b1ffedd710800000000000000
+      internalID: 1719794454062221366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_37"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 174
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b791271a41a3dd0800000000000000
+      internalID: -2505667559041696963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_38"
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 174
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044fa050a7a31d1a0800000000000000
+      internalID: -6786578867725601728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_39"
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 176
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6d36f9548d0cf90800000000000000
+      internalID: -6935305632612100369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_40"
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 152
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79667a00ebbd386a0800000000000000
+      internalID: -6448068632363178345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_41"
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 176
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45fd0be92817c9d0800000000000000
+      internalID: -2754206078797482674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_42"
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 174
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b9b4ecb34467390800000000000000
+      internalID: -7820988679227466952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_43"
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 174
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f4a026bc79b390800000000000000
+      internalID: -7802067757769101134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_44"
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 174
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b65e3c4cf2c4fd30800000000000000
+      internalID: 4464407519497705139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_45"
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 176
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82087a416917851e0800000000000000
+      internalID: -2208890727819673560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_46"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf0848878f132140800000000000000
+      internalID: 4693629903617658827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_47"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 27
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd96c3815e45750800000000000000
+      internalID: 6292906471598972312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_48"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 29
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a52c89ac6dfa80800000000000000
+      internalID: -8431463451911151520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_49"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 29
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba434f9daf665e50800000000000000
+      internalID: 6797743479054355130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_50"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 27
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c6c4e9c2222bf30800000000000000
+      internalID: 4589768545273670685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_51"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 29
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365d3905ca2b4580800000000000000
+      internalID: -8841926417659898316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_52"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 27
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4158f891b3ef360800000000000000
+      internalID: 7205261434807456959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_53"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 29
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6fd55b32c3ea70800000000000000
+      internalID: 8855134852440092407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_0": 2116873753565810743
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_1": 8154225044314443093
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_10": 3595007697185271830
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_11": 8185687117947082535
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_12": -2786710598492447009
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_13": -815213981298977654
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_14": -3005731493079254713
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_15": 7614871777054240073
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_16": -638755451513224516
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_17": 5855298811947216241
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_18": 1212083120552950818
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_19": 708726472224810182
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_2": 8605967135284019770
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_20": 4802031002455674912
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_21": -5076359669308785220
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_22": -5507238208195578039
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_23": 7845301620551906428
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_24": -3454148109898927653
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_25": 1876283385299358648
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_26": 2535168230371247521
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_27": -2166339270689839802
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_28": 3008026244193649317
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_29": -4564664085015598883
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_3": -4429955196865603233
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_30": 6654917843154641172
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_31": 8549765877879575274
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_32": 4926679235571555451
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_33": 8420228563611844838
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_34": 2970912895385013872
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_35": -8267101170433649956
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_36": 1719794454062221366
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_37": -2505667559041696963
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_38": -6786578867725601728
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_39": -6935305632612100369
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_4": 2639025819622208710
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_40": -6448068632363178345
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_41": -2754206078797482674
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_42": -7820988679227466952
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_43": -7802067757769101134
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_44": 4464407519497705139
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_45": -2208890727819673560
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_46": 4693629903617658827
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_47": 6292906471598972312
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_48": -8431463451911151520
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_49": 6797743479054355130
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_5": -5018793057501381610
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_50": 4589768545273670685
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_51": -8841926417659898316
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_52": 7205261434807456959
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_53": 8855134852440092407
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_6": 5865994674425990023
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_7": -3851454739756799609
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_8": -9108566599385340969
+      "Beim zuru\u2560\xEAckkehren zum Screen geht der Spielstand verloren_9": 259409165493041526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
