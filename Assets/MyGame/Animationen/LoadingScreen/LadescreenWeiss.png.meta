@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: f161482858ed05348b7a49b716e2983c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3451536281185434475
+    second: LadescreenWeiss_0
+  - first:
+      213: 6808567691293139244
+    second: LadescreenWeiss_1
+  - first:
+      213: 4087273209139468397
+    second: LadescreenWeiss_2
+  - first:
+      213: 6774315237174856141
+    second: LadescreenWeiss_3
+  - first:
+      213: 6391573256210379938
+    second: LadescreenWeiss_4
+  - first:
+      213: 482224900652302494
+    second: LadescreenWeiss_5
+  - first:
+      213: -119418306432847247
+    second: LadescreenWeiss_6
+  - first:
+      213: 1538708008905888039
+    second: LadescreenWeiss_7
+  - first:
+      213: -1921816982856066152
+    second: LadescreenWeiss_8
+  - first:
+      213: 7684238516813357751
+    second: LadescreenWeiss_9
+  - first:
+      213: -3603399650769592791
+    second: LadescreenWeiss_10
+  - first:
+      213: 9059868848954971484
+    second: LadescreenWeiss_11
+  - first:
+      213: -1148868373160131560
+    second: LadescreenWeiss_12
+  - first:
+      213: 4844589762805801336
+    second: LadescreenWeiss_13
+  - first:
+      213: -842186723144883601
+    second: LadescreenWeiss_14
+  - first:
+      213: -2210811955482530108
+    second: LadescreenWeiss_15
+  - first:
+      213: -3204979873571828311
+    second: LadescreenWeiss_16
+  - first:
+      213: 2914495644148458310
+    second: LadescreenWeiss_17
+  - first:
+      213: 8394812597533735059
+    second: LadescreenWeiss_18
+  - first:
+      213: -1427801741669625143
+    second: LadescreenWeiss_19
+  - first:
+      213: -6439834760992227426
+    second: LadescreenWeiss_20
+  - first:
+      213: -758283365149991208
+    second: LadescreenWeiss_21
+  - first:
+      213: -8468515637050602514
+    second: LadescreenWeiss_22
+  - first:
+      213: 8412262551769636762
+    second: LadescreenWeiss_23
+  - first:
+      213: -2320218860736275203
+    second: LadescreenWeiss_24
+  - first:
+      213: 7454178600750275708
+    second: LadescreenWeiss_25
+  - first:
+      213: 2542424816890560398
+    second: LadescreenWeiss_26
+  - first:
+      213: 4221547108287154726
+    second: LadescreenWeiss_27
+  - first:
+      213: 5333786260889643219
+    second: LadescreenWeiss_28
+  - first:
+      213: -2787546315623419445
+    second: LadescreenWeiss_29
+  - first:
+      213: 1187546357296104049
+    second: LadescreenWeiss_30
+  - first:
+      213: 2637583952037111994
+    second: LadescreenWeiss_31
+  - first:
+      213: -7306757172582481327
+    second: LadescreenWeiss_32
+  - first:
+      213: -3916988477095861923
+    second: LadescreenWeiss_33
+  - first:
+      213: -8895005328216010646
+    second: LadescreenWeiss_34
+  - first:
+      213: 304581637468244162
+    second: LadescreenWeiss_35
+  - first:
+      213: 6892672092979706723
+    second: LadescreenWeiss_36
+  - first:
+      213: 1419984595867071312
+    second: LadescreenWeiss_37
+  - first:
+      213: -8103203191972143658
+    second: LadescreenWeiss_38
+  - first:
+      213: -5131489032361699870
+    second: LadescreenWeiss_39
+  - first:
+      213: -5005963854418347644
+    second: LadescreenWeiss_40
+  - first:
+      213: 2947370202003299303
+    second: LadescreenWeiss_41
+  - first:
+      213: -269164144242037889
+    second: LadescreenWeiss_42
+  - first:
+      213: -1174545200402114228
+    second: LadescreenWeiss_43
+  - first:
+      213: -933893354339311064
+    second: LadescreenWeiss_44
+  - first:
+      213: 6070415444948010824
+    second: LadescreenWeiss_45
+  - first:
+      213: 4490823558760194547
+    second: LadescreenWeiss_46
+  - first:
+      213: -1182860214012484301
+    second: LadescreenWeiss_47
+  - first:
+      213: -8807154040247690274
+    second: LadescreenWeiss_48
+  - first:
+      213: 2019566148165659631
+    second: LadescreenWeiss_49
+  - first:
+      213: 1238927853665056806
+    second: LadescreenWeiss_50
+  - first:
+      213: 2129800762879314960
+    second: LadescreenWeiss_51
+  - first:
+      213: 6669558349948887703
+    second: LadescreenWeiss_52
+  - first:
+      213: 8203379208317500623
+    second: LadescreenWeiss_53
+  - first:
+      213: 4959034608981386943
+    second: LadescreenWeiss_54
+  - first:
+      213: 7097470787217947620
+    second: LadescreenWeiss_55
+  - first:
+      213: -190758746108736841
+    second: LadescreenWeiss_56
+  - first:
+      213: -5128404629966077690
+    second: LadescreenWeiss_57
+  - first:
+      213: 1919586237284849436
+    second: LadescreenWeiss_58
+  - first:
+      213: 7304804405535785401
+    second: LadescreenWeiss_59
+  - first:
+      213: -7823121493446620972
+    second: LadescreenWeiss_60
+  - first:
+      213: 1224599999886474070
+    second: LadescreenWeiss_61
+  - first:
+      213: -5847771320276058820
+    second: LadescreenWeiss_62
+  - first:
+      213: 8248813490316257293
+    second: LadescreenWeiss_63
+  - first:
+      213: -3002081548825826897
+    second: LadescreenWeiss_64
+  - first:
+      213: -2098827811840287951
+    second: LadescreenWeiss_65
+  - first:
+      213: -6892060534084248836
+    second: LadescreenWeiss_66
+  - first:
+      213: 1428279243080501529
+    second: LadescreenWeiss_67
+  - first:
+      213: -1446388388659263292
+    second: LadescreenWeiss_68
+  - first:
+      213: 7632245583157668961
+    second: LadescreenWeiss_69
+  - first:
+      213: -4723715243148191705
+    second: LadescreenWeiss_70
+  - first:
+      213: 8847280525026401907
+    second: LadescreenWeiss_71
+  - first:
+      213: -5840403276001161582
+    second: LadescreenWeiss_72
+  - first:
+      213: 4638444553875641346
+    second: LadescreenWeiss_73
+  - first:
+      213: 3529638777901002241
+    second: LadescreenWeiss_74
+  - first:
+      213: 6615279577497083701
+    second: LadescreenWeiss_75
+  - first:
+      213: -4660863331363679670
+    second: LadescreenWeiss_76
+  - first:
+      213: 8864703785727506438
+    second: LadescreenWeiss_77
+  - first:
+      213: -6566948221178227599
+    second: LadescreenWeiss_78
+  - first:
+      213: -9065946444253631449
+    second: LadescreenWeiss_79
+  - first:
+      213: 6384988735895976347
+    second: LadescreenWeiss_80
+  - first:
+      213: 4365276638579815973
+    second: LadescreenWeiss_81
+  - first:
+      213: -3134190638739037171
+    second: LadescreenWeiss_82
+  - first:
+      213: 5245880414694320838
+    second: LadescreenWeiss_83
+  - first:
+      213: -3115530607085426771
+    second: LadescreenWeiss_84
+  - first:
+      213: 7723065620312005389
+    second: LadescreenWeiss_85
+  - first:
+      213: -2892247886933470615
+    second: LadescreenWeiss_86
+  - first:
+      213: 7462783225187816311
+    second: LadescreenWeiss_87
+  - first:
+      213: -4918156511587528226
+    second: LadescreenWeiss_88
+  - first:
+      213: 1474640657967250932
+    second: LadescreenWeiss_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LadescreenWeiss_0
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2760
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c19e0a0ea910d0800000000000000
+      internalID: -3451536281185434475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21aabced34ec7e50800000000000000
+      internalID: 6808567691293139244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d689ab21459e8b830800000000000000
+      internalID: 4087273209139468397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9c25cf0d3330e50800000000000000
+      internalID: 6774315237174856141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47e44330e63b850800000000000000
+      internalID: 6391573256210379938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_5
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e908a310ef431b600800000000000000
+      internalID: 482224900652302494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_6
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723469deadb75ef0800000000000000
+      internalID: -119418306432847247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_7
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72152eb18c69a5510800000000000000
+      internalID: 1538708008905888039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b1d85e2a55455e0800000000000000
+      internalID: -1921816982856066152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e80cd736e3aa60800000000000000
+      internalID: 7684238516813357751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e9c18fb172efdc0800000000000000
+      internalID: -3603399650769592791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_11
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55969587be1bbd70800000000000000
+      internalID: 9059868848954971484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_12
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8140c143d466e00f0800000000000000
+      internalID: -1148868373160131560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_13
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871a886b8b07b3340800000000000000
+      internalID: 4844589762805801336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_14
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62266c23a3ff44f0800000000000000
+      internalID: -842186723144883601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cee6486d3e9151e0800000000000000
+      internalID: -2210811955482530108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad897329cf9583d0800000000000000
+      internalID: -3204979873571828311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64364e0c85e527820800000000000000
+      internalID: 2914495644148458310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398f8ff649d508470800000000000000
+      internalID: 8394812597533735059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2191a71ed6f2ce0800000000000000
+      internalID: -1427801741669625143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_20
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f78d2976c11a6a0800000000000000
+      internalID: -6439834760992227426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_21
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de95250c490a75f0800000000000000
+      internalID: -758283365149991208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb02ce65e9c97a80800000000000000
+      internalID: -8468515637050602514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fdc83883c5eb470800000000000000
+      internalID: 8412262551769636762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc17ac3d3deccfd0800000000000000
+      internalID: -2320218860736275203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_25
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd90681ff827760800000000000000
+      internalID: 7454178600750275708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_26
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f36ee86e1884320800000000000000
+      internalID: 2542424816890560398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_27
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a88007ab2f59a30800000000000000
+      internalID: 4221547108287154726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_28
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8af2c385a650a40800000000000000
+      internalID: 5333786260889643219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1315e1565a059d0800000000000000
+      internalID: -2787546315623419445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17281fcbe130b7010800000000000000
+      internalID: 1187546357296104049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_31
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8617e31a49a9420800000000000000
+      internalID: 2637583952037111994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_32
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1520f2c701f299a90800000000000000
+      internalID: -7306757172582481327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_33
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d512761bbbf04a9c0800000000000000
+      internalID: -3916988477095861923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_34
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605a7028c79e8480800000000000000
+      internalID: -8895005328216010646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_35
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8c662b2671a3400800000000000000
+      internalID: 304581637468244162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bbd47efb0b7af50800000000000000
+      internalID: 6892672092979706723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053fe2f677cc4b310800000000000000
+      internalID: 1419984595867071312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd50b721a3ab8f80800000000000000
+      internalID: -8103203191972143658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenWeiss_39
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59441b9e949c8b0800000000000000
+      internalID: -5131489032361699870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b6b238fa9cdecd54cb4d724a5681e89c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":7.0},"gridSpriteSize":{"x":1920.0,"y":460.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LadescreenWeiss_0: -3451536281185434475
+      LadescreenWeiss_1: 6808567691293139244
+      LadescreenWeiss_10: -3603399650769592791
+      LadescreenWeiss_11: 9059868848954971484
+      LadescreenWeiss_12: -1148868373160131560
+      LadescreenWeiss_13: 4844589762805801336
+      LadescreenWeiss_14: -842186723144883601
+      LadescreenWeiss_15: -2210811955482530108
+      LadescreenWeiss_16: -3204979873571828311
+      LadescreenWeiss_17: 2914495644148458310
+      LadescreenWeiss_18: 8394812597533735059
+      LadescreenWeiss_19: -1427801741669625143
+      LadescreenWeiss_2: 4087273209139468397
+      LadescreenWeiss_20: -6439834760992227426
+      LadescreenWeiss_21: -758283365149991208
+      LadescreenWeiss_22: -8468515637050602514
+      LadescreenWeiss_23: 8412262551769636762
+      LadescreenWeiss_24: -2320218860736275203
+      LadescreenWeiss_25: 7454178600750275708
+      LadescreenWeiss_26: 2542424816890560398
+      LadescreenWeiss_27: 4221547108287154726
+      LadescreenWeiss_28: 5333786260889643219
+      LadescreenWeiss_29: -2787546315623419445
+      LadescreenWeiss_3: 6774315237174856141
+      LadescreenWeiss_30: 1187546357296104049
+      LadescreenWeiss_31: 2637583952037111994
+      LadescreenWeiss_32: -7306757172582481327
+      LadescreenWeiss_33: -3916988477095861923
+      LadescreenWeiss_34: -8895005328216010646
+      LadescreenWeiss_35: 304581637468244162
+      LadescreenWeiss_36: 6892672092979706723
+      LadescreenWeiss_37: 1419984595867071312
+      LadescreenWeiss_38: -8103203191972143658
+      LadescreenWeiss_39: -5131489032361699870
+      LadescreenWeiss_4: 6391573256210379938
+      LadescreenWeiss_5: 482224900652302494
+      LadescreenWeiss_6: -119418306432847247
+      LadescreenWeiss_7: 1538708008905888039
+      LadescreenWeiss_8: -1921816982856066152
+      LadescreenWeiss_9: 7684238516813357751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

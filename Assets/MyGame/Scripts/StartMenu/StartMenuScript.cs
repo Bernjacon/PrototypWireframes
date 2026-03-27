@@ -74,13 +74,14 @@ public class StartMenuScript : MonoBehaviour
         {
             audioSettings.SetActive(false);
             menuGraphics.SetActive(false);
+            settingsGraphic.SetActive(true);
 
-    if (audioBTTN != null && bttnvisual.Length > 0)
-    {
-        Image img = audioBTTN.GetComponent<Image>();
-        if (img != null)
-            img.sprite = bttnvisual[0];
-    }
+            if (audioBTTN != null && bttnvisual.Length > 0)
+            {
+                Image img = audioBTTN.GetComponent<Image>();
+                if (img != null)
+                    img.sprite = bttnvisual[0];
+            }
         }
         else
         {

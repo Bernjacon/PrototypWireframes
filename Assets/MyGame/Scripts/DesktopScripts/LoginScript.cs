@@ -13,10 +13,11 @@ public class LoginScript : MonoBehaviour
     [SerializeField] private Button loginButton;
 
     [SerializeField] private DesktopManager desktopManager;
+    [SerializeField] private GameObject replaceAllManager;
+
 
     private static string playerName = "Testname";
     public static string PlayerName;
-
     private void Awake()
     {
         loginButton.gameObject.SetActive(false);
@@ -47,7 +48,7 @@ public class LoginScript : MonoBehaviour
 
         playerName = nameInput.text;
         PlayerName = playerName;
-
+        replaceAllManager.SetActive(true);
         desktopManager.LoginFinished();
         pcLoginProcessParent.SetActive(false);
         gameObject.SetActive(false);

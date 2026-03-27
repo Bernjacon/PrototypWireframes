@@ -28,6 +28,13 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
     [SerializeField] GameObject decsionParent;
 
+    [Header("ArtikelLinks")]
+    [SerializeField] string linkInternetzzURL;
+    [SerializeField] string tabInternetzzname;
+    [SerializeField] TextMeshProUGUI linkInternetzz;
+    [SerializeField] TextMeshProUGUI tabInternetzz;
+
+
     [Header("Chat Data")]
     [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
 
@@ -234,6 +241,8 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
     public void RegisterMiniGameWin()
     {
+        tabInternetzz.text = tabInternetzzname;
+        linkInternetzz.text = linkInternetzzURL;
         miniGameWin++;
         CheckComplition();
     }

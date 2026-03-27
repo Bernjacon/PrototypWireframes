@@ -118,7 +118,7 @@ public class DialoguePersonScripts : MonoBehaviour
         if (speakerImage != null) lastSpeakerSprite = speakerImage.sprite;
         if (boxSpriteRenderer != null) lastBoxSprite = boxSpriteRenderer.sprite;
 
-        simulatedTime = DateTime.Today.AddHours(15).AddMinutes(53);
+        simulatedTime = DateTime.Today.AddHours(19).AddMinutes(30);
 
         UpdateObjects();
 

@@ -1,25 +1,27 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using TMPro;
+
 public class GalleryScript : MonoBehaviour
 {
-    [SerializeField] Image imageToShow;
-    [SerializeField] Sprite[] imageCollection;
-    [SerializeField] Button[] buttonsImage;
-    [SerializeField] int index;
-    [SerializeField] GameObject parentGalleryOverview;
-    [SerializeField] GameObject parentViewImage;
-    void Start()
+    [SerializeField] private Image imageToShow;
+    [SerializeField] private Sprite[] imageCollection;
+    [SerializeField] private Button[] buttonsImage;
+    [SerializeField] private int index;
+    [SerializeField] private GameObject parentGalleryOverview;
+    [SerializeField] private GameObject parentViewImage;
+
+    private void Start()
     {
         for (int i = 0; i < buttonsImage.Length; i++)
         {
-            if (i < imageCollection.Length)
+            if (i < imageCollection.Length && buttonsImage[i] != null)
             {
                 Image img = buttonsImage[i].GetComponent<Image>();
-                img.sprite = imageCollection[i];
+                if (img != null)
+                {
+                    img.sprite = imageCollection[i];
+                    img.preserveAspect = true;
+                }
             }
         }
     }
@@ -32,28 +34,28 @@ public class GalleryScript : MonoBehaviour
 
     public void GoNextOrPrevious(bool goToNext)
     {
+        if (imageCollection == null || imageCollection.Length == 0) return;
+
         if (goToNext)
         {
             index++;
-            if (index > imageCollection.Length - 1)
-            {
+            if (index >= imageCollection.Length)
                 index = 0;
-            }
-            UpdateImage();
         }
         else
         {
             index--;
             if (index < 0)
-            {
-                index = imageCollection.Length -1;
-            }
-            UpdateImage();
+                index = imageCollection.Length - 1;
         }
 
+        UpdateImage();
     }
+
     public void OpenThisImage(int x)
     {
+        if (x < 0 || x >= imageCollection.Length) return;
+
         parentViewImage.SetActive(true);
         parentGalleryOverview.SetActive(false);
         index = x;
@@ -62,6 +64,25 @@ public class GalleryScript : MonoBehaviour
 
     void UpdateImage()
     {
-        imageToShow.sprite = imageCollection[index];
+        if (imageToShow == null) return;
+        if (imageCollection == null || imageCollection.Length == 0) return;
+        if (index < 0 || index >= imageCollection.Length) return;
+
+        Sprite sprite = imageCollection[index];
+        imageToShow.sprite = sprite;
+
+        if (parentViewImage != null && parentViewImage.activeSelf)
+        {
+            RectTransform imageRect = imageToShow.rectTransform;
+            RectTransform parentRect = imageToShow.transform.parent.GetComponent<RectTransform>();
+
+            if (sprite == null || imageRect == null || parentRect == null) return;
+
+            float targetHeight = parentRect.rect.height;
+            float aspect = sprite.rect.width / sprite.rect.height;
+            float targetWidth = targetHeight * aspect;
+
+            imageRect.sizeDelta = new Vector2(targetWidth, targetHeight);
+        }
     }
 }

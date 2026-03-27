@@ -11,6 +11,7 @@ public class MenuScriptPC : MonoBehaviour
     [SerializeField] GameObject settingsGraphic;
     [SerializeField] GameObject menuGraphics;
     [SerializeField] GameObject audioSettings;
+    [SerializeField] GameObject startScreenMenu;
     [SerializeField] GameObject audioBTTN;
     [SerializeField] Sprite[] bttnvisual;
 
@@ -35,6 +36,9 @@ public class MenuScriptPC : MonoBehaviour
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
 
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(false);
+
         originalActiveStates = new bool[deactivateGameManagers.Length];
         for (int i = 0; i < deactivateGameManagers.Length; i++)
             originalActiveStates[i] = deactivateGameManagers[i].activeSelf;
@@ -51,13 +55,18 @@ public class MenuScriptPC : MonoBehaviour
     public void OpenMenu()
     {
         SuppressClickForOneFrame();
+
         originalActiveStates = new bool[deactivateGameManagers.Length];
         for (int i = 0; i < deactivateGameManagers.Length; i++)
             originalActiveStates[i] = deactivateGameManagers[i].activeSelf;
+
         menu.SetActive(true);
         settingsGraphic.SetActive(true);
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
+
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(false);
 
         for (int i = 0; i < deactivateGameManagers.Length; i++)
         {
@@ -76,10 +85,15 @@ public class MenuScriptPC : MonoBehaviour
     {
         SuppressClickForOneFrame();
 
-        if (audioSettings.activeSelf)
+        if (audioSettings.activeSelf || (startScreenMenu != null && startScreenMenu.activeSelf))
         {
             audioSettings.SetActive(false);
+
+            if (startScreenMenu != null)
+                startScreenMenu.SetActive(false);
+
             menuGraphics.SetActive(false);
+            settingsGraphic.SetActive(true);
 
             if (audioBTTN != null && bttnvisual.Length > 0)
             {
@@ -95,6 +109,8 @@ public class MenuScriptPC : MonoBehaviour
             menuGraphics.SetActive(false);
             audioSettings.SetActive(false);
 
+            if (startScreenMenu != null)
+                startScreenMenu.SetActive(false);
 
             for (int i = 0; i < deactivateGameManagers.Length; i++)
             {
@@ -118,11 +134,33 @@ public class MenuScriptPC : MonoBehaviour
         menuGraphics.SetActive(true);
         audioSettings.SetActive(true);
 
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(false);
+
         if (audioBTTN != null && bttnvisual.Length > 1)
         {
             Image img = audioBTTN.GetComponent<Image>();
             if (img != null)
                 img.sprite = bttnvisual[1];
+        }
+    }
+
+    public void OpenStartScreenMenu()
+    {
+        SuppressClickForOneFrame();
+
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(true);
+        audioSettings.SetActive(false);
+
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(true);
+
+        if (audioBTTN != null && bttnvisual.Length > 0)
+        {
+            Image img = audioBTTN.GetComponent<Image>();
+            if (img != null)
+                img.sprite = bttnvisual[0];
         }
     }
 

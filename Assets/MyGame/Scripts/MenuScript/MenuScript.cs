@@ -7,13 +7,14 @@ using System.Collections;
 
 public class MenuScript : MonoBehaviour
 {
-    [SerializeField] public static bool SuppressClick;
+    public static bool SuppressClick;
 
     [Header("Panels")]
     [SerializeField] GameObject menu;
     [SerializeField] GameObject settingsGraphic;
     [SerializeField] GameObject menuGraphics;
     [SerializeField] GameObject audioSettings;
+    [SerializeField] GameObject startScreenMenu;
     [SerializeField] GameObject audioBTTN;
     [SerializeField] Sprite[] bttnvisual;
     [SerializeField] GameObject[] deactivateGameManagers;
@@ -32,6 +33,9 @@ public class MenuScript : MonoBehaviour
         settingsGraphic.SetActive(false);
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
+
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(false);
 
         masterSlider.value = PlayerPrefs.GetFloat("MasterVolume", 0f);
         musicSlider.value = PlayerPrefs.GetFloat("MusicVolume", 0f);
@@ -69,6 +73,9 @@ public class MenuScript : MonoBehaviour
         menuGraphics.SetActive(false);
         audioSettings.SetActive(false);
 
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(false);
+
         deactivateGameManagers[0].SetActive(false);
         deactivateGameManagers[1].GetComponent<DialoguePersonScripts>().enabled = false;
     }
@@ -77,10 +84,15 @@ public class MenuScript : MonoBehaviour
     {
         SuppressClickForOneFrame();
 
-        if (audioSettings.activeSelf)
+        if (audioSettings.activeSelf || (startScreenMenu != null && startScreenMenu.activeSelf))
         {
             audioSettings.SetActive(false);
+
+            if (startScreenMenu != null)
+                startScreenMenu.SetActive(false);
+
             menuGraphics.SetActive(false);
+            settingsGraphic.SetActive(true);
 
             if (audioBTTN != null && bttnvisual.Length > 0)
             {
@@ -96,6 +108,9 @@ public class MenuScript : MonoBehaviour
             menuGraphics.SetActive(false);
             audioSettings.SetActive(false);
 
+            if (startScreenMenu != null)
+                startScreenMenu.SetActive(false);
+
             deactivateGameManagers[0].SetActive(true);
             deactivateGameManagers[1].GetComponent<DialoguePersonScripts>().enabled = true;
         }
@@ -109,11 +124,33 @@ public class MenuScript : MonoBehaviour
         menuGraphics.SetActive(true);
         audioSettings.SetActive(true);
 
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(false);
+
         if (audioBTTN != null && bttnvisual.Length > 1)
         {
             Image img = audioBTTN.GetComponent<Image>();
             if (img != null)
                 img.sprite = bttnvisual[1];
+        }
+    }
+
+    public void OpenStartScreenMenu()
+    {
+        SuppressClickForOneFrame();
+
+        settingsGraphic.SetActive(false);
+        menuGraphics.SetActive(true);
+        audioSettings.SetActive(false);
+
+        if (startScreenMenu != null)
+            startScreenMenu.SetActive(true);
+
+        if (audioBTTN != null && bttnvisual.Length > 0)
+        {
+            Image img = audioBTTN.GetComponent<Image>();
+            if (img != null)
+                img.sprite = bttnvisual[0];
         }
     }
 

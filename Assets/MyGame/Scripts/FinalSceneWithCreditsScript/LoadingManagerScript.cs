@@ -8,12 +8,22 @@ public class LoadingManagerScript : MonoBehaviour
     [Header("Black Screen")]
     public SpriteRenderer blackScreenImage;
     public float fadeDuration = 2f;
+    public GameObject loadingScreen;
 
     public void LoadNextScene()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        StartCoroutine(LoadWithDelay());
     }
 
+    IEnumerator LoadWithDelay()
+    {
+        if (loadingScreen != null)
+            loadingScreen.SetActive(true);
+
+        yield return null;
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
     public void LoadCutScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);

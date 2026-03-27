@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: a726eb0cf45ee654dbc29f994b91042c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5893981592734701615
+    second: LadescreenSchwarz_0
+  - first:
+      213: -6548589582680996224
+    second: LadescreenSchwarz_1
+  - first:
+      213: 2676966483081145221
+    second: LadescreenSchwarz_2
+  - first:
+      213: -5125407857480301989
+    second: LadescreenSchwarz_3
+  - first:
+      213: -3256456114893778285
+    second: LadescreenSchwarz_4
+  - first:
+      213: -7791283417019378839
+    second: LadescreenSchwarz_5
+  - first:
+      213: 7166351876870826345
+    second: LadescreenSchwarz_6
+  - first:
+      213: 732926245119831626
+    second: LadescreenSchwarz_7
+  - first:
+      213: -1968460931651731628
+    second: LadescreenSchwarz_8
+  - first:
+      213: 3482259994782424861
+    second: LadescreenSchwarz_9
+  - first:
+      213: -6143565050926196128
+    second: LadescreenSchwarz_10
+  - first:
+      213: -2324643587212698789
+    second: LadescreenSchwarz_11
+  - first:
+      213: -8992055482142661079
+    second: LadescreenSchwarz_12
+  - first:
+      213: -3145854693435328454
+    second: LadescreenSchwarz_13
+  - first:
+      213: 3495674595859754990
+    second: LadescreenSchwarz_14
+  - first:
+      213: 8566312946962320925
+    second: LadescreenSchwarz_15
+  - first:
+      213: -7157640572259114015
+    second: LadescreenSchwarz_16
+  - first:
+      213: -8323953990453847827
+    second: LadescreenSchwarz_17
+  - first:
+      213: 2074133072185863479
+    second: LadescreenSchwarz_18
+  - first:
+      213: 4029116751514258389
+    second: LadescreenSchwarz_19
+  - first:
+      213: 1362462745998110692
+    second: LadescreenSchwarz_20
+  - first:
+      213: -6694617815796464777
+    second: LadescreenSchwarz_21
+  - first:
+      213: -7686382274496660128
+    second: LadescreenSchwarz_22
+  - first:
+      213: -335693716698887578
+    second: LadescreenSchwarz_23
+  - first:
+      213: 7857457906518956584
+    second: LadescreenSchwarz_24
+  - first:
+      213: -6479706627090255145
+    second: LadescreenSchwarz_25
+  - first:
+      213: -194105865737025128
+    second: LadescreenSchwarz_26
+  - first:
+      213: -7170894503245571718
+    second: LadescreenSchwarz_27
+  - first:
+      213: 7422223571099570598
+    second: LadescreenSchwarz_28
+  - first:
+      213: -5681562625137461280
+    second: LadescreenSchwarz_29
+  - first:
+      213: 1357781444723623051
+    second: LadescreenSchwarz_30
+  - first:
+      213: 5837456051325585522
+    second: LadescreenSchwarz_31
+  - first:
+      213: -2568551961484182504
+    second: LadescreenSchwarz_32
+  - first:
+      213: 4065923393383076336
+    second: LadescreenSchwarz_33
+  - first:
+      213: 1432628552162557264
+    second: LadescreenSchwarz_34
+  - first:
+      213: -6195982339126372710
+    second: LadescreenSchwarz_35
+  - first:
+      213: 3300663147864841190
+    second: LadescreenSchwarz_36
+  - first:
+      213: 2073510147919068342
+    second: LadescreenSchwarz_37
+  - first:
+      213: 1466380447074019872
+    second: LadescreenSchwarz_38
+  - first:
+      213: 3930832581921682044
+    second: LadescreenSchwarz_39
+  - first:
+      213: 5550331511856063618
+    second: LadescreenSchwarz_40
+  - first:
+      213: -1136524357804275570
+    second: LadescreenSchwarz_41
+  - first:
+      213: -5542696028698693379
+    second: LadescreenSchwarz_42
+  - first:
+      213: 237031043712014807
+    second: LadescreenSchwarz_43
+  - first:
+      213: -9092263019901750496
+    second: LadescreenSchwarz_44
+  - first:
+      213: -287332254163003483
+    second: LadescreenSchwarz_45
+  - first:
+      213: 1052730243191291360
+    second: LadescreenSchwarz_46
+  - first:
+      213: 2398129499058765692
+    second: LadescreenSchwarz_47
+  - first:
+      213: -3160699598002334660
+    second: LadescreenSchwarz_48
+  - first:
+      213: 8188565550233274987
+    second: LadescreenSchwarz_49
+  - first:
+      213: -5962439035617673578
+    second: LadescreenSchwarz_50
+  - first:
+      213: -6895872005495683004
+    second: LadescreenSchwarz_51
+  - first:
+      213: 7260902184746369781
+    second: LadescreenSchwarz_52
+  - first:
+      213: -2515217299185209409
+    second: LadescreenSchwarz_53
+  - first:
+      213: -7807235754374985518
+    second: LadescreenSchwarz_54
+  - first:
+      213: -4623782611014109742
+    second: LadescreenSchwarz_55
+  - first:
+      213: 8918524516408078933
+    second: LadescreenSchwarz_56
+  - first:
+      213: 8020464859761377215
+    second: LadescreenSchwarz_57
+  - first:
+      213: -4060615194373480532
+    second: LadescreenSchwarz_58
+  - first:
+      213: 5052539658345429491
+    second: LadescreenSchwarz_59
+  - first:
+      213: 8338583035861616912
+    second: LadescreenSchwarz_60
+  - first:
+      213: -934448820702675808
+    second: LadescreenSchwarz_61
+  - first:
+      213: 6454314480622222998
+    second: LadescreenSchwarz_62
+  - first:
+      213: 7706175522682904178
+    second: LadescreenSchwarz_63
+  - first:
+      213: 5902309961261620189
+    second: LadescreenSchwarz_64
+  - first:
+      213: 8313802005565495406
+    second: LadescreenSchwarz_65
+  - first:
+      213: -3752610860107321611
+    second: LadescreenSchwarz_66
+  - first:
+      213: 6942946132446966141
+    second: LadescreenSchwarz_67
+  - first:
+      213: -5912874313595009981
+    second: LadescreenSchwarz_68
+  - first:
+      213: 8131721577196446994
+    second: LadescreenSchwarz_69
+  - first:
+      213: -7484547219466190481
+    second: LadescreenSchwarz_70
+  - first:
+      213: 2683556348155716962
+    second: LadescreenSchwarz_71
+  - first:
+      213: -1343745334311291660
+    second: LadescreenSchwarz_72
+  - first:
+      213: 8048542732390819518
+    second: LadescreenSchwarz_73
+  - first:
+      213: -8790186971789933708
+    second: LadescreenSchwarz_74
+  - first:
+      213: -1949623445239185382
+    second: LadescreenSchwarz_75
+  - first:
+      213: -7445641954292749882
+    second: LadescreenSchwarz_76
+  - first:
+      213: -5965550516077503748
+    second: LadescreenSchwarz_77
+  - first:
+      213: 3618565783430529015
+    second: LadescreenSchwarz_78
+  - first:
+      213: -5678095758876231095
+    second: LadescreenSchwarz_79
+  - first:
+      213: -195904719335984402
+    second: LadescreenSchwarz_80
+  - first:
+      213: -7006938464130473487
+    second: LadescreenSchwarz_81
+  - first:
+      213: 2804045292171787997
+    second: LadescreenSchwarz_82
+  - first:
+      213: -2007447494325470667
+    second: LadescreenSchwarz_83
+  - first:
+      213: -4227839696311210358
+    second: LadescreenSchwarz_84
+  - first:
+      213: -1429781998750863081
+    second: LadescreenSchwarz_85
+  - first:
+      213: -746600029473401803
+    second: LadescreenSchwarz_86
+  - first:
+      213: 6004102039701439285
+    second: LadescreenSchwarz_87
+  - first:
+      213: 7494342827715133914
+    second: LadescreenSchwarz_88
+  - first:
+      213: -6345628761045758903
+    second: LadescreenSchwarz_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LadescreenSchwarz_0
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2760
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76b5418fe543ea0800000000000000
+      internalID: -5893981592734701615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086c970787cbe15a0800000000000000
+      internalID: -6548589582680996224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58badab45de762520800000000000000
+      internalID: 2676966483081145221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5204ed85b4eed8b0800000000000000
+      internalID: -5125407857480301989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3929b1dba6ebec2d0800000000000000
+      internalID: -3256456114893778285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_5
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9631b20230dcfd390800000000000000
+      internalID: -7791283417019378839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_6
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969e654201ff37360800000000000000
+      internalID: 7166351876870826345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_7
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2300
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eade66980eb2a00800000000000000
+      internalID: 732926245119831626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff9a6463f9ea4e0800000000000000
+      internalID: -1968460931651731628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5f84f309735030800000000000000
+      internalID: 3482259994782424861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1a0dd22cadbaa0800000000000000
+      internalID: -6143565050926196128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_11
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b1cc259f43dbfd0800000000000000
+      internalID: -2324643587212698789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_12
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92668425e2dc53380800000000000000
+      internalID: -8992055482142661079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_13
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38bac2e2dda754d0800000000000000
+      internalID: -3145854693435328454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_14
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1840
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe3982681238030800000000000000
+      internalID: 3495674595859754990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec48e2d38a1e670800000000000000
+      internalID: 8566312946962320925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3629482d3faac90800000000000000
+      internalID: -7157640572259114015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de89d48a2ff5b7c80800000000000000
+      internalID: -8323953990453847827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d27883a0dc8cc10800000000000000
+      internalID: 2074133072185863479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db459c965c4ae730800000000000000
+      internalID: 4029116751514258389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_20
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efabea16a078e210800000000000000
+      internalID: 1362462745998110692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_21
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1380
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773437ee090f713a0800000000000000
+      internalID: -6694617815796464777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d74c8ab0c745590800000000000000
+      internalID: -7686382274496660128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a05ded750675bf0800000000000000
+      internalID: -335693716698887578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_24
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a95abd55c4b0d60800000000000000
+      internalID: 7857457906518956584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_25
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d27a8357257316a0800000000000000
+      internalID: -6479706627090255145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_26
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899cce75eb56e4df0800000000000000
+      internalID: -194105865737025128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_27
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a791f3c317ddb7c90800000000000000
+      internalID: -7170894503245571718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_28
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 920
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1dbe66309010760800000000000000
+      internalID: 7422223571099570598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7bb8705e80721b0800000000000000
+      internalID: -5681562625137461280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b844e57b70fc7d210800000000000000
+      internalID: 1357781444723623051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_31
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278473bb95fc20150800000000000000
+      internalID: 5837456051325585522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_32
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c3a9c899baa5cd0800000000000000
+      internalID: -2568551961484182504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_33
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19c8ab8cf0d6830800000000000000
+      internalID: 4065923393383076336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_34
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3bbae318b1e310800000000000000
+      internalID: 1432628552162557264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_35
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 460
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9657c9e3e2730aa0800000000000000
+      internalID: -6195982339126372710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebd4b335af4ecd20800000000000000
+      internalID: 3300663147864841190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc32ec5e7696cc10800000000000000
+      internalID: 2073510147919068342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aec655f31a95410800000000000000
+      internalID: 1466380447074019872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadescreenSchwarz_39
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7239f4286f1d8630800000000000000
+      internalID: 3930832581921682044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0866716a730f29346b7c9a75c26e3afd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":7.0},"gridSpriteSize":{"x":1920.0,"y":460.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LadescreenSchwarz_0: -5893981592734701615
+      LadescreenSchwarz_1: -6548589582680996224
+      LadescreenSchwarz_10: -6143565050926196128
+      LadescreenSchwarz_11: -2324643587212698789
+      LadescreenSchwarz_12: -8992055482142661079
+      LadescreenSchwarz_13: -3145854693435328454
+      LadescreenSchwarz_14: 3495674595859754990
+      LadescreenSchwarz_15: 8566312946962320925
+      LadescreenSchwarz_16: -7157640572259114015
+      LadescreenSchwarz_17: -8323953990453847827
+      LadescreenSchwarz_18: 2074133072185863479
+      LadescreenSchwarz_19: 4029116751514258389
+      LadescreenSchwarz_2: 2676966483081145221
+      LadescreenSchwarz_20: 1362462745998110692
+      LadescreenSchwarz_21: -6694617815796464777
+      LadescreenSchwarz_22: -7686382274496660128
+      LadescreenSchwarz_23: -335693716698887578
+      LadescreenSchwarz_24: 7857457906518956584
+      LadescreenSchwarz_25: -6479706627090255145
+      LadescreenSchwarz_26: -194105865737025128
+      LadescreenSchwarz_27: -7170894503245571718
+      LadescreenSchwarz_28: 7422223571099570598
+      LadescreenSchwarz_29: -5681562625137461280
+      LadescreenSchwarz_3: -5125407857480301989
+      LadescreenSchwarz_30: 1357781444723623051
+      LadescreenSchwarz_31: 5837456051325585522
+      LadescreenSchwarz_32: -2568551961484182504
+      LadescreenSchwarz_33: 4065923393383076336
+      LadescreenSchwarz_34: 1432628552162557264
+      LadescreenSchwarz_35: -6195982339126372710
+      LadescreenSchwarz_36: 3300663147864841190
+      LadescreenSchwarz_37: 2073510147919068342
+      LadescreenSchwarz_38: 1466380447074019872
+      LadescreenSchwarz_39: 3930832581921682044
+      LadescreenSchwarz_4: -3256456114893778285
+      LadescreenSchwarz_5: -7791283417019378839
+      LadescreenSchwarz_6: 7166351876870826345
+      LadescreenSchwarz_7: 732926245119831626
+      LadescreenSchwarz_8: -1968460931651731628
+      LadescreenSchwarz_9: 3482259994782424861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
