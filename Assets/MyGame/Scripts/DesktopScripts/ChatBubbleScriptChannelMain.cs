@@ -36,6 +36,7 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
 
     [Header("Chat Data")]
+    public HintingScript hsa;
     [SerializeField] private List<ChatMessageDataChannelMain> messagesChannelMain;
 
     private ChatMessageDataChannelMain currentData;
@@ -112,7 +113,7 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
 
         currentData = data;
 
-        string speaker = string.IsNullOrEmpty(data.speakerName) ? "NPC" : data.speakerName;
+        string speaker = string.IsNullOrEmpty(data.speakerName) ? LoginScript.PlayerName : data.speakerName;
         string message = string.IsNullOrEmpty(data.messageText) ? "" : data.messageText;
         Sprite profile = data.profileImage == null ? playerProfileImage : data.profileImage;
 
@@ -144,6 +145,7 @@ public class ChatBubbleScriptChannelMain : MonoBehaviour
             currentMessageIndex++;
         }
 
+        hsa.ActivateBlinkingTimer();
         useSecondStageParent = true;
 
         if (conversationRoutine != null)

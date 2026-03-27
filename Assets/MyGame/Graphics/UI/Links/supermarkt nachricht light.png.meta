@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 61410c679ab68364c9d901b48073c041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -514517301122414012
+    second: supermarkt nachricht light_0
+  - first:
+      213: -7780634073844590527
+    second: supermarkt nachricht light_1
+  - first:
+      213: -5144083014528847366
+    second: supermarkt nachricht light_2
+  - first:
+      213: 3367542332744632777
+    second: supermarkt nachricht light_3
+  - first:
+      213: -5765593768535019853
+    second: supermarkt nachricht light_4
+  - first:
+      213: -7891539386526153513
+    second: supermarkt nachricht light_5
+  - first:
+      213: -1721647287398083613
+    second: supermarkt nachricht light_6
+  - first:
+      213: 4093953036908641011
+    second: supermarkt nachricht light_7
+  - first:
+      213: 674222938231077915
+    second: supermarkt nachricht light_8
+  - first:
+      213: -9188158413391857522
+    second: supermarkt nachricht light_9
+  - first:
+      213: -225237958682552205
+    second: supermarkt nachricht light_10
+  - first:
+      213: -713735299296266716
+    second: supermarkt nachricht light_11
+  - first:
+      213: -7358912888527506894
+    second: supermarkt nachricht light_12
+  - first:
+      213: -3760923821174568301
+    second: supermarkt nachricht light_13
+  - first:
+      213: 8846346965557343510
+    second: supermarkt nachricht light_14
+  - first:
+      213: 4491331327469754773
+    second: supermarkt nachricht light_15
+  - first:
+      213: 9047699558838570237
+    second: supermarkt nachricht light_16
+  - first:
+      213: -6734342725195672941
+    second: supermarkt nachricht light_17
+  - first:
+      213: -2325702560364227257
+    second: supermarkt nachricht light_18
+  - first:
+      213: 4401406562556156966
+    second: supermarkt nachricht light_19
+  - first:
+      213: -6555107880290419170
+    second: supermarkt nachricht light_20
+  - first:
+      213: 8857181065550799587
+    second: supermarkt nachricht light_21
+  - first:
+      213: -5792416268142161523
+    second: supermarkt nachricht light_22
+  - first:
+      213: 255620999715220356
+    second: supermarkt nachricht light_23
+  - first:
+      213: -6911998871951526800
+    second: supermarkt nachricht light_24
+  - first:
+      213: -6742130224086592864
+    second: supermarkt nachricht light_25
+  - first:
+      213: 2728495825022719267
+    second: supermarkt nachricht light_26
+  - first:
+      213: 7088157986924744346
+    second: supermarkt nachricht light_27
+  - first:
+      213: -9018358523043268485
+    second: supermarkt nachricht light_28
+  - first:
+      213: -8588838914174923403
+    second: supermarkt nachricht light_29
+  - first:
+      213: 6621765701215024952
+    second: supermarkt nachricht light_30
+  - first:
+      213: -3853226578538470210
+    second: supermarkt nachricht light_31
+  - first:
+      213: -4480503780769261595
+    second: supermarkt nachricht light_32
+  - first:
+      213: 4733589554856006100
+    second: supermarkt nachricht light_33
+  - first:
+      213: 1211589842078645414
+    second: supermarkt nachricht light_34
+  - first:
+      213: -7871364059702950519
+    second: supermarkt nachricht light_35
+  - first:
+      213: -2887326526572686217
+    second: supermarkt nachricht light_36
+  - first:
+      213: -2516142462798377355
+    second: supermarkt nachricht light_37
+  - first:
+      213: -8763056052347514533
+    second: supermarkt nachricht light_38
+  - first:
+      213: -7778702171743652650
+    second: supermarkt nachricht light_39
+  - first:
+      213: -7826196965959926020
+    second: supermarkt nachricht light_40
+  - first:
+      213: -4899239785746291373
+    second: supermarkt nachricht light_41
+  - first:
+      213: 8272359385124998373
+    second: supermarkt nachricht light_42
+  - first:
+      213: 1014856453868635767
+    second: supermarkt nachricht light_43
+  - first:
+      213: 4195067021296903765
+    second: supermarkt nachricht light_44
+  - first:
+      213: 8576622034401656813
+    second: supermarkt nachricht light_45
+  - first:
+      213: -7581281076816045632
+    second: supermarkt nachricht light_46
+  - first:
+      213: 2603438114839288099
+    second: supermarkt nachricht light_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermarkt nachricht light_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a4ecb9d311cd8f0800000000000000
+      internalID: -514517301122414012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148513d8882a50490800000000000000
+      internalID: -7780634073844590527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 14
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af133e7b0cb8c98b0800000000000000
+      internalID: -5144083014528847366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9855dd8e9ebbe20800000000000000
+      internalID: 3367542332744632777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 13
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea343d30f7cffa0800000000000000
+      internalID: -5765593768535019853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 13
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4ca173dbe9b7290800000000000000
+      internalID: -7891539386526153513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35f1ee9ea7b18e0800000000000000
+      internalID: -1721647287398083613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 10
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa321ca894a0d830800000000000000
+      internalID: 4093953036908641011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 14
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cfeaca0325b5900800000000000000
+      internalID: 674222938231077915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_9
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 13
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f2cd9a9a1d7080800000000000000
+      internalID: -9188158413391857522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_10
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 10
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378daca154bcfdcf0800000000000000
+      internalID: -225237958682552205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_11
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 14
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426f9cdd68d4816f0800000000000000
+      internalID: -713735299296266716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_12
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 13
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232364297b3efd990800000000000000
+      internalID: -7358912888527506894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac59bf5b38ecbc0800000000000000
+      internalID: -3760923821174568301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61576e9f1b984ca70800000000000000
+      internalID: 8846346965557343510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991b66db0a645e30800000000000000
+      internalID: 4491331327469754773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc080fdfc2ef8d70800000000000000
+      internalID: 9047699558838570237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 14
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392d9f4b8feca82a0800000000000000
+      internalID: -6734342725195672941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745164ce7d179bfd0800000000000000
+      internalID: -2325702560364227257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c9b31f2ffe41d30800000000000000
+      internalID: 4401406562556156966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 14
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1efce20d149705a0800000000000000
+      internalID: -6555107880290419170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 29
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a87370470bea70800000000000000
+      internalID: 8857181065550799587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81513af7143d9fa0800000000000000
+      internalID: -5792416268142161523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be725e1f52c8300800000000000000
+      internalID: 255620999715220356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074bd65b5a5a310a0800000000000000
+      internalID: -6911998871951526800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 29
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2d4e358442f62a0800000000000000
+      internalID: -6742130224086592864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 14
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3259d952f709dd520800000000000000
+      internalID: 2728495825022719267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e4f7a62223e5260800000000000000
+      internalID: 7088157986924744346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b3e064ba58d280800000000000000
+      internalID: -9018358523043268485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4d8f53805ec880800000000000000
+      internalID: -8588838914174923403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 13
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83779c652dc35eb50800000000000000
+      internalID: 6621765701215024952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ee1397d6968ac0800000000000000
+      internalID: -3853226578538470210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_32
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71474dc8d02d1c0800000000000000
+      internalID: -4480503780769261595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 13
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d111b9de9611b140800000000000000
+      internalID: 4733589554856006100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_34
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb196ca8e60d010800000000000000
+      internalID: 1211589842078645414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_35
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98501ab871c43c290800000000000000
+      internalID: -7871364059702950519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_36
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774921162d72ee7d0800000000000000
+      internalID: -2887326526572686217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_37
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e40acd2cdd41dd0800000000000000
+      internalID: -2516142462798377355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_38
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515df4f2fe536680800000000000000
+      internalID: -8763056052347514533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_39
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4f8af869f7c0490800000000000000
+      internalID: -7778702171743652650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_40
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef7bd0353c36390800000000000000
+      internalID: -7826196965959926020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_41
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355a1254f57620cb0800000000000000
+      internalID: -4899239785746291373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_42
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec8ebc28035dc270800000000000000
+      internalID: 8272359385124998373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_43
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7764ade519e751e00800000000000000
+      internalID: 1014856453868635767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_44
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 14
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556ab5dba3fd73a30800000000000000
+      internalID: 4195067021296903765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_45
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7c45ac48460770800000000000000
+      internalID: 8576622034401656813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_46
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c91df92701e9c690800000000000000
+      internalID: -7581281076816045632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht light_47
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32955bdfb25412420800000000000000
+      internalID: 2603438114839288099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      supermarkt nachricht light_0: -514517301122414012
+      supermarkt nachricht light_1: -7780634073844590527
+      supermarkt nachricht light_10: -225237958682552205
+      supermarkt nachricht light_11: -713735299296266716
+      supermarkt nachricht light_12: -7358912888527506894
+      supermarkt nachricht light_13: -3760923821174568301
+      supermarkt nachricht light_14: 8846346965557343510
+      supermarkt nachricht light_15: 4491331327469754773
+      supermarkt nachricht light_16: 9047699558838570237
+      supermarkt nachricht light_17: -6734342725195672941
+      supermarkt nachricht light_18: -2325702560364227257
+      supermarkt nachricht light_19: 4401406562556156966
+      supermarkt nachricht light_2: -5144083014528847366
+      supermarkt nachricht light_20: -6555107880290419170
+      supermarkt nachricht light_21: 8857181065550799587
+      supermarkt nachricht light_22: -5792416268142161523
+      supermarkt nachricht light_23: 255620999715220356
+      supermarkt nachricht light_24: -6911998871951526800
+      supermarkt nachricht light_25: -6742130224086592864
+      supermarkt nachricht light_26: 2728495825022719267
+      supermarkt nachricht light_27: 7088157986924744346
+      supermarkt nachricht light_28: -9018358523043268485
+      supermarkt nachricht light_29: -8588838914174923403
+      supermarkt nachricht light_3: 3367542332744632777
+      supermarkt nachricht light_30: 6621765701215024952
+      supermarkt nachricht light_31: -3853226578538470210
+      supermarkt nachricht light_32: -4480503780769261595
+      supermarkt nachricht light_33: 4733589554856006100
+      supermarkt nachricht light_34: 1211589842078645414
+      supermarkt nachricht light_35: -7871364059702950519
+      supermarkt nachricht light_36: -2887326526572686217
+      supermarkt nachricht light_37: -2516142462798377355
+      supermarkt nachricht light_38: -8763056052347514533
+      supermarkt nachricht light_39: -7778702171743652650
+      supermarkt nachricht light_4: -5765593768535019853
+      supermarkt nachricht light_40: -7826196965959926020
+      supermarkt nachricht light_41: -4899239785746291373
+      supermarkt nachricht light_42: 8272359385124998373
+      supermarkt nachricht light_43: 1014856453868635767
+      supermarkt nachricht light_44: 4195067021296903765
+      supermarkt nachricht light_45: 8576622034401656813
+      supermarkt nachricht light_46: -7581281076816045632
+      supermarkt nachricht light_47: 2603438114839288099
+      supermarkt nachricht light_5: -7891539386526153513
+      supermarkt nachricht light_6: -1721647287398083613
+      supermarkt nachricht light_7: 4093953036908641011
+      supermarkt nachricht light_8: 674222938231077915
+      supermarkt nachricht light_9: -9188158413391857522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

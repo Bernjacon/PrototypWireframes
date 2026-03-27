@@ -22,6 +22,9 @@ public class DesktopManager : MonoBehaviour
     [SerializeField] GameObject chatBubbleDownloadFinished;
     [SerializeField] int downloadTime;
 
+    [Header("Blinking")]
+    public HintingScript[] hsa;
+
     [SerializeField] TMP_Text clockTMP;
 
     public GameObject[] apps;
@@ -44,6 +47,13 @@ public class DesktopManager : MonoBehaviour
         gay[gayIndex].GameStateEvent?.Invoke();
         gayIndex++;
         gay[gayIndex].GameStateEvent?.Invoke();
+        foreach (HintingScript hs in hsa)
+        {
+            if (hs != null)
+            {
+                hs.ActivateBlinkingTimer();
+            }
+        }
     }
 
     public void ChatBubbleDownloadWindow()

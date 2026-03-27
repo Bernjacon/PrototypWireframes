@@ -9,6 +9,8 @@ public class VideoBoxScript : MonoBehaviour
     [SerializeField] int currentIndex = 0;
     [SerializeField] GameObject[] commentsTill;
     [SerializeField] GameObject[] commentsAfter;
+    [SerializeField] GameObject abbruch;
+    [SerializeField] GameObject senden;
 
     void Start()
     {
@@ -25,10 +27,12 @@ public class VideoBoxScript : MonoBehaviour
 
     public void ActivateCommentsAfter()
     {
-        foreach(GameObject com in commentsAfter)
+        foreach (GameObject com in commentsAfter)
         {
             com.SetActive(true);
         }
+        abbruch.SetActive(false);
+        senden.SetActive(false);
     }
     public void OnInputChanged(string userInput)
     {

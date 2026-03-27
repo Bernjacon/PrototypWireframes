@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 9b1190cd15b4f4c4c98f3f04c3b6444e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3488641800313582621
+    second: supermarkt nachricht medium_0
+  - first:
+      213: 8748628002872529934
+    second: supermarkt nachricht medium_1
+  - first:
+      213: 2326016596900345614
+    second: supermarkt nachricht medium_2
+  - first:
+      213: 8907711951627331283
+    second: supermarkt nachricht medium_3
+  - first:
+      213: 9031898222823537319
+    second: supermarkt nachricht medium_4
+  - first:
+      213: 7556515250457955288
+    second: supermarkt nachricht medium_5
+  - first:
+      213: 5470073159564955490
+    second: supermarkt nachricht medium_6
+  - first:
+      213: 1906911722078429530
+    second: supermarkt nachricht medium_7
+  - first:
+      213: 3504534226185313448
+    second: supermarkt nachricht medium_8
+  - first:
+      213: -4214512834410990416
+    second: supermarkt nachricht medium_9
+  - first:
+      213: -5201632149293125680
+    second: supermarkt nachricht medium_10
+  - first:
+      213: 7445668984108323134
+    second: supermarkt nachricht medium_11
+  - first:
+      213: 1899344974745899558
+    second: supermarkt nachricht medium_12
+  - first:
+      213: -2287785765144159269
+    second: supermarkt nachricht medium_13
+  - first:
+      213: -2368904077444150063
+    second: supermarkt nachricht medium_14
+  - first:
+      213: -1153275217694760146
+    second: supermarkt nachricht medium_15
+  - first:
+      213: -1204542012392170108
+    second: supermarkt nachricht medium_16
+  - first:
+      213: -7750624218790610619
+    second: supermarkt nachricht medium_17
+  - first:
+      213: -5012989866459726978
+    second: supermarkt nachricht medium_18
+  - first:
+      213: -5687570027265339165
+    second: supermarkt nachricht medium_19
+  - first:
+      213: -8286385185157888863
+    second: supermarkt nachricht medium_20
+  - first:
+      213: 2613616928489207157
+    second: supermarkt nachricht medium_21
+  - first:
+      213: -7805291483560520710
+    second: supermarkt nachricht medium_22
+  - first:
+      213: 1695293473541823627
+    second: supermarkt nachricht medium_23
+  - first:
+      213: 7067476125436475395
+    second: supermarkt nachricht medium_24
+  - first:
+      213: 4271511114397665504
+    second: supermarkt nachricht medium_25
+  - first:
+      213: 6804687370355778217
+    second: supermarkt nachricht medium_26
+  - first:
+      213: -3456277642983631603
+    second: supermarkt nachricht medium_27
+  - first:
+      213: 3762171348651362713
+    second: supermarkt nachricht medium_28
+  - first:
+      213: -1899424629024902404
+    second: supermarkt nachricht medium_29
+  - first:
+      213: 5818919812251095805
+    second: supermarkt nachricht medium_30
+  - first:
+      213: -4684622262544307750
+    second: supermarkt nachricht medium_31
+  - first:
+      213: -5757973118573098331
+    second: supermarkt nachricht medium_32
+  - first:
+      213: -957255993277808542
+    second: supermarkt nachricht medium_33
+  - first:
+      213: 9164201979970252517
+    second: supermarkt nachricht medium_34
+  - first:
+      213: -4804075260337572153
+    second: supermarkt nachricht medium_35
+  - first:
+      213: -6807233221526571209
+    second: supermarkt nachricht medium_36
+  - first:
+      213: 2432175039926462648
+    second: supermarkt nachricht medium_37
+  - first:
+      213: 8206516232616840918
+    second: supermarkt nachricht medium_38
+  - first:
+      213: -6096316434633436278
+    second: supermarkt nachricht medium_39
+  - first:
+      213: 1519703604566994826
+    second: supermarkt nachricht medium_40
+  - first:
+      213: -581122551297716214
+    second: supermarkt nachricht medium_41
+  - first:
+      213: -50180225566753457
+    second: supermarkt nachricht medium_42
+  - first:
+      213: 7164503572291535844
+    second: supermarkt nachricht medium_43
+  - first:
+      213: -7114555267254413514
+    second: supermarkt nachricht medium_44
+  - first:
+      213: 1753911494435152217
+    second: supermarkt nachricht medium_45
+  - first:
+      213: 3877988225612090314
+    second: supermarkt nachricht medium_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebcab724cad59fc0800000000000000
+      internalID: -3488641800313582621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04904ff0de596970800000000000000
+      internalID: 8748628002872529934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0778e765cba74020800000000000000
+      internalID: 2326016596900345614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6af3e23dc8e9b70800000000000000
+      internalID: 8907711951627331283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf0e2a49fb75d70800000000000000
+      internalID: 9031898222823537319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db4e5b85922ed860800000000000000
+      internalID: 7556515250457955288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f84439e8a99eb40800000000000000
+      internalID: 5470073159564955490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a516384ab16b67a10800000000000000
+      internalID: 1906911722078429530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac59f69f4b92a030800000000000000
+      internalID: 3504534226185313448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4bb9318ea0385c0800000000000000
+      internalID: -4214512834410990416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa121ae1710d7b0800000000000000
+      internalID: -5201632149293125680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319be00e74545760800000000000000
+      internalID: 7445668984108323134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62217adf034db5a10800000000000000
+      internalID: 1899344974745899558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb1362c7f62040e0800000000000000
+      internalID: -2287785765144159269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc87f4ea46ff1fd0800000000000000
+      internalID: -2368904077444150063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23ea01cc4ebeffe0800000000000000
+      internalID: -1153275217694760146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d9452fb6b984fe0800000000000000
+      internalID: -1204542012392170108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549327b6650407490800000000000000
+      internalID: -7750624218790610619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bf803c6484e6ab0800000000000000
+      internalID: -5012989866459726978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d0b9b131b111b0800000000000000
+      internalID: -5687570027265339165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4ca96c398d00d80800000000000000
+      internalID: -8286385185157888863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 10
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575fb89bfbe654420800000000000000
+      internalID: 2613616928489207157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_22
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35ef9ffb80ea390800000000000000
+      internalID: -7805291483560520710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_23
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9f70ae64e68710800000000000000
+      internalID: 1695293473541823627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f13b4718b41260800000000000000
+      internalID: 7067476125436475395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_25
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e84ec32ab4774b30800000000000000
+      internalID: 4271511114397665504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2a4ad4c1b1f6e50800000000000000
+      internalID: 6804687370355778217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_27
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0516dcbbc5d800d0800000000000000
+      internalID: -3456277642983631603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_28
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9994484a8eae53430800000000000000
+      internalID: 3762171348651362713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_29
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 13
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b75d0d53e3a5e0800000000000000
+      internalID: -1899424629024902404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_30
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 10
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df295b14db4f0c050800000000000000
+      internalID: 5818919812251095805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_31
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 14
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9e8265fd0ecfeb0800000000000000
+      internalID: -4684622262544307750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_32
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac339a4f19710b0800000000000000
+      internalID: -5757973118573098331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_33
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2600091feb427b2f0800000000000000
+      internalID: -957255993277808542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_34
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeee029529cd2f70800000000000000
+      internalID: 9164201979970252517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_35
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c63659f00f745db0800000000000000
+      internalID: -4804075260337572153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_36
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 14
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737bba78379d781a0800000000000000
+      internalID: -6807233221526571209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_37
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b863660052d0c120800000000000000
+      internalID: 2432175039926462648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_38
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de8a98980763e170800000000000000
+      internalID: 8206516232616840918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_39
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 14
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a835c4b9088856ba0800000000000000
+      internalID: -6096316434633436278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_40
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa81a6062171510800000000000000
+      internalID: 1519703604566994826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a005ee65e107fe7f0800000000000000
+      internalID: -581122551297716214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3858c959bd4ff0800000000000000
+      internalID: -50180225566753457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_43
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e344723a0e6d6360800000000000000
+      internalID: 7164503572291535844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6379a60dda5044d90800000000000000
+      internalID: -7114555267254413514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95128492635275810800000000000000
+      internalID: 1753911494435152217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt nachricht medium_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb81c6aeb161d530800000000000000
+      internalID: 3877988225612090314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      supermarkt nachricht medium_0: -3488641800313582621
+      supermarkt nachricht medium_1: 8748628002872529934
+      supermarkt nachricht medium_10: -5201632149293125680
+      supermarkt nachricht medium_11: 7445668984108323134
+      supermarkt nachricht medium_12: 1899344974745899558
+      supermarkt nachricht medium_13: -2287785765144159269
+      supermarkt nachricht medium_14: -2368904077444150063
+      supermarkt nachricht medium_15: -1153275217694760146
+      supermarkt nachricht medium_16: -1204542012392170108
+      supermarkt nachricht medium_17: -7750624218790610619
+      supermarkt nachricht medium_18: -5012989866459726978
+      supermarkt nachricht medium_19: -5687570027265339165
+      supermarkt nachricht medium_2: 2326016596900345614
+      supermarkt nachricht medium_20: -8286385185157888863
+      supermarkt nachricht medium_21: 2613616928489207157
+      supermarkt nachricht medium_22: -7805291483560520710
+      supermarkt nachricht medium_23: 1695293473541823627
+      supermarkt nachricht medium_24: 7067476125436475395
+      supermarkt nachricht medium_25: 4271511114397665504
+      supermarkt nachricht medium_26: 6804687370355778217
+      supermarkt nachricht medium_27: -3456277642983631603
+      supermarkt nachricht medium_28: 3762171348651362713
+      supermarkt nachricht medium_29: -1899424629024902404
+      supermarkt nachricht medium_3: 8907711951627331283
+      supermarkt nachricht medium_30: 5818919812251095805
+      supermarkt nachricht medium_31: -4684622262544307750
+      supermarkt nachricht medium_32: -5757973118573098331
+      supermarkt nachricht medium_33: -957255993277808542
+      supermarkt nachricht medium_34: 9164201979970252517
+      supermarkt nachricht medium_35: -4804075260337572153
+      supermarkt nachricht medium_36: -6807233221526571209
+      supermarkt nachricht medium_37: 2432175039926462648
+      supermarkt nachricht medium_38: 8206516232616840918
+      supermarkt nachricht medium_39: -6096316434633436278
+      supermarkt nachricht medium_4: 9031898222823537319
+      supermarkt nachricht medium_40: 1519703604566994826
+      supermarkt nachricht medium_41: -581122551297716214
+      supermarkt nachricht medium_42: -50180225566753457
+      supermarkt nachricht medium_43: 7164503572291535844
+      supermarkt nachricht medium_44: -7114555267254413514
+      supermarkt nachricht medium_45: 1753911494435152217
+      supermarkt nachricht medium_46: 3877988225612090314
+      supermarkt nachricht medium_5: 7556515250457955288
+      supermarkt nachricht medium_6: 5470073159564955490
+      supermarkt nachricht medium_7: 1906911722078429530
+      supermarkt nachricht medium_8: 3504534226185313448
+      supermarkt nachricht medium_9: -4214512834410990416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

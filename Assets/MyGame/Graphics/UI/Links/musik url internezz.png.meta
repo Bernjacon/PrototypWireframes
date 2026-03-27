@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 50efe847a4b0bb34386a9039aed66e5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -360651563789678475
+    second: musik url internezz_0
+  - first:
+      213: -7858810048311230104
+    second: musik url internezz_1
+  - first:
+      213: 3693698892255666373
+    second: musik url internezz_2
+  - first:
+      213: 5916445523184777559
+    second: musik url internezz_3
+  - first:
+      213: 6760335448998953114
+    second: musik url internezz_4
+  - first:
+      213: -8708965760756671667
+    second: musik url internezz_5
+  - first:
+      213: 291383077747560930
+    second: musik url internezz_6
+  - first:
+      213: 2498239109309859098
+    second: musik url internezz_7
+  - first:
+      213: -23151606026871764
+    second: musik url internezz_8
+  - first:
+      213: -6803911753599953152
+    second: musik url internezz_9
+  - first:
+      213: -8875517064634938144
+    second: musik url internezz_10
+  - first:
+      213: 6274519515218741182
+    second: musik url internezz_11
+  - first:
+      213: -2814320538156493716
+    second: musik url internezz_12
+  - first:
+      213: -7307830035991894527
+    second: musik url internezz_13
+  - first:
+      213: 7700366613234586445
+    second: musik url internezz_14
+  - first:
+      213: 2541140607076106330
+    second: musik url internezz_15
+  - first:
+      213: 5919286224370061187
+    second: musik url internezz_16
+  - first:
+      213: -5763541452844341232
+    second: musik url internezz_17
+  - first:
+      213: -6657009077195914931
+    second: musik url internezz_18
+  - first:
+      213: -1147659402957404322
+    second: musik url internezz_19
+  - first:
+      213: 8457964124028385020
+    second: musik url internezz_20
+  - first:
+      213: -6060761402521895759
+    second: musik url internezz_21
+  - first:
+      213: -1536351551803133137
+    second: musik url internezz_22
+  - first:
+      213: -5189435393329723744
+    second: musik url internezz_23
+  - first:
+      213: -3345394153138405833
+    second: musik url internezz_24
+  - first:
+      213: -2425465551268006012
+    second: musik url internezz_25
+  - first:
+      213: -7792445089798668959
+    second: musik url internezz_26
+  - first:
+      213: -5483440627428094264
+    second: musik url internezz_27
+  - first:
+      213: -3109340226980088737
+    second: musik url internezz_28
+  - first:
+      213: 303564837263444120
+    second: musik url internezz_29
+  - first:
+      213: -5659274984983499084
+    second: musik url internezz_30
+  - first:
+      213: 8703346121277232004
+    second: musik url internezz_31
+  - first:
+      213: 3990279956238927471
+    second: musik url internezz_32
+  - first:
+      213: -8502253314883917701
+    second: musik url internezz_33
+  - first:
+      213: 427190337391362375
+    second: musik url internezz_34
+  - first:
+      213: 3438745062107608522
+    second: musik url internezz_35
+  - first:
+      213: -6455917296590796301
+    second: musik url internezz_36
+  - first:
+      213: -8270361269442628176
+    second: musik url internezz_37
+  - first:
+      213: -8234256498091585618
+    second: musik url internezz_38
+  - first:
+      213: 2305075046068919942
+    second: musik url internezz_39
+  - first:
+      213: 6395763390100248687
+    second: musik url internezz_40
+  - first:
+      213: -2125629420924083923
+    second: musik url internezz_41
+  - first:
+      213: 2093785022737394811
+    second: musik url internezz_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: musik url internezz_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57880a44055befaf0800000000000000
+      internalID: -360651563789678475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861832916e5efe290800000000000000
+      internalID: -7858810048311230104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 14
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0272c8297a24330800000000000000
+      internalID: 3693698892255666373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 13
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f06e4bdf6b1250800000000000000
+      internalID: 5916445523184777559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 13
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a904018e54981dd50800000000000000
+      internalID: 6760335448998953114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1f0d58c9832780800000000000000
+      internalID: -8708965760756671667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 50
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e114ba8d533b0400800000000000000
+      internalID: 291383077747560930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a150762db378ba220800000000000000
+      internalID: 2498239109309859098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 50
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd9caacbfbdaff0800000000000000
+      internalID: -23151606026871764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 10
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d19b0f46a391a0800000000000000
+      internalID: -6803911753599953152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 14
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec44841144d3d480800000000000000
+      internalID: -8875517064634938144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 13
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78ed85142931750800000000000000
+      internalID: 6274519515218741182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c649817a16681f8d0800000000000000
+      internalID: -2814320538156493716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e5c10d4f559a90800000000000000
+      internalID: -7307830035991894527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43102ee2a23dda60800000000000000
+      internalID: 7700366613234586445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 14
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5087192be1f34320800000000000000
+      internalID: 2541140607076106330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 14
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fc0779577852250800000000000000
+      internalID: 5919286224370061187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01869fec599c300b0800000000000000
+      internalID: -5763541452844341232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41cf2fb38d8d93a0800000000000000
+      internalID: -6657009077195914931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5746938ad1b210f0800000000000000
+      internalID: -1147659402957404322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 29
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6b5bffe89b06570800000000000000
+      internalID: 8457964124028385020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb84e9d99d3eba0800000000000000
+      internalID: -6060761402521895759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 13
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2377a05768cdaae0800000000000000
+      internalID: -1536351551803133137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a60ebb210c6bf7b0800000000000000
+      internalID: -5189435393329723744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 29
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e348c0eb5c291d0800000000000000
+      internalID: -3345394153138405833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 14
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48739b98ee3075ed0800000000000000
+      internalID: -2425465551268006012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_26
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d30da1a7cabd390800000000000000
+      internalID: -7792445089798668959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_27
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce04374dc7e6e3b0800000000000000
+      internalID: -5483440627428094264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 13
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f40d998769d4d0800000000000000
+      internalID: -3109340226980088737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89803637c9a763400800000000000000
+      internalID: 303564837263444120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_30
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beedc1a2673671b0800000000000000
+      internalID: -5659274984983499084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 14
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483d00c5f2f78c870800000000000000
+      internalID: 8703346121277232004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_32
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 13
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f668bf19a72506730800000000000000
+      internalID: 3990279956238927471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_33
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e4ff28ade10a80800000000000000
+      internalID: -8502253314883917701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_34
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74101b7395fade500800000000000000
+      internalID: 427190337391362375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_35
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 13
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57d0c2a60e8bf20800000000000000
+      internalID: 3438745062107608522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_36
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 14
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9c7657c69f766a0800000000000000
+      internalID: -6455917296590796301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_37
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 14
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b539b26e36c93d80800000000000000
+      internalID: -8270361269442628176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_38
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf8cc9875b0abd80800000000000000
+      internalID: -8234256498091585618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_39
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1e85aa854dff10800000000000000
+      internalID: 2305075046068919942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_40
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689f56cae052c850800000000000000
+      internalID: 6395763390100248687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_41
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2163b1cd4f3082e0800000000000000
+      internalID: -2125629420924083923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik url internezz_42
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cab44826e9e0d10800000000000000
+      internalID: 2093785022737394811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      musik url internezz_0: -360651563789678475
+      musik url internezz_1: -7858810048311230104
+      musik url internezz_10: -8875517064634938144
+      musik url internezz_11: 6274519515218741182
+      musik url internezz_12: -2814320538156493716
+      musik url internezz_13: -7307830035991894527
+      musik url internezz_14: 7700366613234586445
+      musik url internezz_15: 2541140607076106330
+      musik url internezz_16: 5919286224370061187
+      musik url internezz_17: -5763541452844341232
+      musik url internezz_18: -6657009077195914931
+      musik url internezz_19: -1147659402957404322
+      musik url internezz_2: 3693698892255666373
+      musik url internezz_20: 8457964124028385020
+      musik url internezz_21: -6060761402521895759
+      musik url internezz_22: -1536351551803133137
+      musik url internezz_23: -5189435393329723744
+      musik url internezz_24: -3345394153138405833
+      musik url internezz_25: -2425465551268006012
+      musik url internezz_26: -7792445089798668959
+      musik url internezz_27: -5483440627428094264
+      musik url internezz_28: -3109340226980088737
+      musik url internezz_29: 303564837263444120
+      musik url internezz_3: 5916445523184777559
+      musik url internezz_30: -5659274984983499084
+      musik url internezz_31: 8703346121277232004
+      musik url internezz_32: 3990279956238927471
+      musik url internezz_33: -8502253314883917701
+      musik url internezz_34: 427190337391362375
+      musik url internezz_35: 3438745062107608522
+      musik url internezz_36: -6455917296590796301
+      musik url internezz_37: -8270361269442628176
+      musik url internezz_38: -8234256498091585618
+      musik url internezz_39: 2305075046068919942
+      musik url internezz_4: 6760335448998953114
+      musik url internezz_40: 6395763390100248687
+      musik url internezz_41: -2125629420924083923
+      musik url internezz_42: 2093785022737394811
+      musik url internezz_5: -8708965760756671667
+      musik url internezz_6: 291383077747560930
+      musik url internezz_7: 2498239109309859098
+      musik url internezz_8: -23151606026871764
+      musik url internezz_9: -6803911753599953152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

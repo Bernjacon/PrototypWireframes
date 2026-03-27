@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 1633859b130ebcd45add65fd4c032225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8034448869426868854
+    second: musik nachrichr light_0
+  - first:
+      213: -6730168375073645800
+    second: musik nachrichr light_1
+  - first:
+      213: -7901089598557046632
+    second: musik nachrichr light_2
+  - first:
+      213: -6788227189029012223
+    second: musik nachrichr light_3
+  - first:
+      213: 8675052392045879281
+    second: musik nachrichr light_4
+  - first:
+      213: 2738401189500557294
+    second: musik nachrichr light_5
+  - first:
+      213: 2388171839231482750
+    second: musik nachrichr light_6
+  - first:
+      213: -1053467803139154626
+    second: musik nachrichr light_7
+  - first:
+      213: 129876322992021554
+    second: musik nachrichr light_8
+  - first:
+      213: -6550407222778711730
+    second: musik nachrichr light_9
+  - first:
+      213: 6430222590582049446
+    second: musik nachrichr light_10
+  - first:
+      213: -6937482800302570407
+    second: musik nachrichr light_11
+  - first:
+      213: 8217000080113856906
+    second: musik nachrichr light_12
+  - first:
+      213: -8678684521167215358
+    second: musik nachrichr light_13
+  - first:
+      213: -41315721604505027
+    second: musik nachrichr light_14
+  - first:
+      213: 7110038657842439471
+    second: musik nachrichr light_15
+  - first:
+      213: -2950183205567604877
+    second: musik nachrichr light_16
+  - first:
+      213: -575372836611622842
+    second: musik nachrichr light_17
+  - first:
+      213: 8793653342103048227
+    second: musik nachrichr light_18
+  - first:
+      213: 8819420770504154564
+    second: musik nachrichr light_19
+  - first:
+      213: -3001604614262646572
+    second: musik nachrichr light_20
+  - first:
+      213: 8969753846119726545
+    second: musik nachrichr light_21
+  - first:
+      213: 8030455154957328738
+    second: musik nachrichr light_22
+  - first:
+      213: -6532979391562256973
+    second: musik nachrichr light_23
+  - first:
+      213: -2898650105657902704
+    second: musik nachrichr light_24
+  - first:
+      213: 6721408241244685075
+    second: musik nachrichr light_25
+  - first:
+      213: -8058946117219939803
+    second: musik nachrichr light_26
+  - first:
+      213: 6865628427951536822
+    second: musik nachrichr light_27
+  - first:
+      213: -1862294037334004773
+    second: musik nachrichr light_28
+  - first:
+      213: 330221560980687058
+    second: musik nachrichr light_29
+  - first:
+      213: 8649295920502003645
+    second: musik nachrichr light_30
+  - first:
+      213: -2046700113313146825
+    second: musik nachrichr light_31
+  - first:
+      213: -2675094885789384287
+    second: musik nachrichr light_32
+  - first:
+      213: 5685891995906727247
+    second: musik nachrichr light_33
+  - first:
+      213: -2492988780523562291
+    second: musik nachrichr light_34
+  - first:
+      213: -2633872127271432120
+    second: musik nachrichr light_35
+  - first:
+      213: 8244711492073960220
+    second: musik nachrichr light_36
+  - first:
+      213: -3957145787180956157
+    second: musik nachrichr light_37
+  - first:
+      213: -2407492682879656243
+    second: musik nachrichr light_38
+  - first:
+      213: -8612927167624734475
+    second: musik nachrichr light_39
+  - first:
+      213: 3257649284249793365
+    second: musik nachrichr light_40
+  - first:
+      213: 338257818333341311
+    second: musik nachrichr light_41
+  - first:
+      213: 3063735100848692615
+    second: musik nachrichr light_42
+  - first:
+      213: -9143083793601553230
+    second: musik nachrichr light_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: musik nachrichr light_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dc5c35257ef7090800000000000000
+      internalID: -8034448869426868854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bda255583a992a0800000000000000
+      internalID: -6730168375073645800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 14
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89839733fd0b95290800000000000000
+      internalID: -7901089598557046632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10df64f465f5bc1a0800000000000000
+      internalID: -6788227189029012223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 13
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff1ccb203af36870800000000000000
+      internalID: 8675052392045879281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 13
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee710b88f51c00620800000000000000
+      internalID: 2738401189500557294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdbfb72ad742120800000000000000
+      internalID: 2388171839231482750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 10
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d54935d945161f0800000000000000
+      internalID: -1053467803139154626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2306ca0e3d96dc100800000000000000
+      internalID: 129876322992021554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 14
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e413f1026574815a0800000000000000
+      internalID: -6550407222778711730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 10
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac55a906dbc3950800000000000000
+      internalID: 6430222590582049446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 14
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9544594462c19bf90800000000000000
+      internalID: -6937482800302570407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 13
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81fa8e8906a80270800000000000000
+      internalID: 8217000080113856906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a52ed86e1f8780800000000000000
+      internalID: -8678684521167215358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ef12f1973d6ff0800000000000000
+      internalID: -41315721604505027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f256efb1d7eeba260800000000000000
+      internalID: 7110038657842439471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d1d95108de07d0800000000000000
+      internalID: -2950183205567604877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 14
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fa5c147dd308f0800000000000000
+      internalID: -575372836611622842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3209af5bf15590a70800000000000000
+      internalID: 8793653342103048227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd1a96a670e46a70800000000000000
+      internalID: 8819420770504154564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 14
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d893baa1882856d0800000000000000
+      internalID: -3001604614262646572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 29
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf8a86997fa7c70800000000000000
+      internalID: 8969753846119726545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261afef8a68e17f60800000000000000
+      internalID: 8030455154957328738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdebf84bd13655a0800000000000000
+      internalID: -6532979391562256973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 14
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099bc1c261de5c7d0800000000000000
+      internalID: -2898650105657902704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 29
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313c5c11f2d374d50800000000000000
+      internalID: 6721408241244685075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 14
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a871b543fd82090800000000000000
+      internalID: -8058946117219939803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baffd7fdac974f50800000000000000
+      internalID: 6865628427951536822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe06d907dc726e0800000000000000
+      internalID: -1862294037334004773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8cd6792ce259400800000000000000
+      internalID: 330221560980687058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 13
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d1c250d8780870800000000000000
+      internalID: 8649295920502003645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d7304719a893e0800000000000000
+      internalID: -2046700113313146825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_32
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14f08ef5720ead0800000000000000
+      internalID: -2675094885789384287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 13
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dd14725a858ee40800000000000000
+      internalID: 5685891995906727247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_34
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 13
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcadbdb99ef176dd0800000000000000
+      internalID: -2492988780523562291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_35
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 14
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8401f2e414b927bd0800000000000000
+      internalID: -2633872127271432120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_36
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1336a07b691b6270800000000000000
+      internalID: 8244711492073960220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_37
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30645a65fd46519c0800000000000000
+      internalID: -3957145787180956157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_38
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1b9d092ed69ed0800000000000000
+      internalID: -2407492682879656243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f89a61df5cb87880800000000000000
+      internalID: -8612927167624734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_40
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 14
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553b386a3ce753d20800000000000000
+      internalID: 3257649284249793365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_41
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e14091bbb1b400800000000000000
+      internalID: 338257818333341311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_42
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 14
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5bf387d2948a20800000000000000
+      internalID: 3063735100848692615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr light_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 13
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc9fba5bbd3d1180800000000000000
+      internalID: -9143083793601553230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      musik nachrichr light_0: -8034448869426868854
+      musik nachrichr light_1: -6730168375073645800
+      musik nachrichr light_10: 6430222590582049446
+      musik nachrichr light_11: -6937482800302570407
+      musik nachrichr light_12: 8217000080113856906
+      musik nachrichr light_13: -8678684521167215358
+      musik nachrichr light_14: -41315721604505027
+      musik nachrichr light_15: 7110038657842439471
+      musik nachrichr light_16: -2950183205567604877
+      musik nachrichr light_17: -575372836611622842
+      musik nachrichr light_18: 8793653342103048227
+      musik nachrichr light_19: 8819420770504154564
+      musik nachrichr light_2: -7901089598557046632
+      musik nachrichr light_20: -3001604614262646572
+      musik nachrichr light_21: 8969753846119726545
+      musik nachrichr light_22: 8030455154957328738
+      musik nachrichr light_23: -6532979391562256973
+      musik nachrichr light_24: -2898650105657902704
+      musik nachrichr light_25: 6721408241244685075
+      musik nachrichr light_26: -8058946117219939803
+      musik nachrichr light_27: 6865628427951536822
+      musik nachrichr light_28: -1862294037334004773
+      musik nachrichr light_29: 330221560980687058
+      musik nachrichr light_3: -6788227189029012223
+      musik nachrichr light_30: 8649295920502003645
+      musik nachrichr light_31: -2046700113313146825
+      musik nachrichr light_32: -2675094885789384287
+      musik nachrichr light_33: 5685891995906727247
+      musik nachrichr light_34: -2492988780523562291
+      musik nachrichr light_35: -2633872127271432120
+      musik nachrichr light_36: 8244711492073960220
+      musik nachrichr light_37: -3957145787180956157
+      musik nachrichr light_38: -2407492682879656243
+      musik nachrichr light_39: -8612927167624734475
+      musik nachrichr light_4: 8675052392045879281
+      musik nachrichr light_40: 3257649284249793365
+      musik nachrichr light_41: 338257818333341311
+      musik nachrichr light_42: 3063735100848692615
+      musik nachrichr light_43: -9143083793601553230
+      musik nachrichr light_5: 2738401189500557294
+      musik nachrichr light_6: 2388171839231482750
+      musik nachrichr light_7: -1053467803139154626
+      musik nachrichr light_8: 129876322992021554
+      musik nachrichr light_9: -6550407222778711730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

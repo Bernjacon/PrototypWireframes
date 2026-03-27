@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 3717357a35d2a294da61dfa285dd3832
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3036958367053689931
+    second: musik nachrichr medium_0
+  - first:
+      213: 4163940076952704409
+    second: musik nachrichr medium_1
+  - first:
+      213: -3200632249812211369
+    second: musik nachrichr medium_2
+  - first:
+      213: 4717693819346579643
+    second: musik nachrichr medium_3
+  - first:
+      213: -8332446667009918333
+    second: musik nachrichr medium_4
+  - first:
+      213: -4358880108654932422
+    second: musik nachrichr medium_5
+  - first:
+      213: -3779631971438745342
+    second: musik nachrichr medium_6
+  - first:
+      213: -1427159820852971809
+    second: musik nachrichr medium_7
+  - first:
+      213: 5713260470134355083
+    second: musik nachrichr medium_8
+  - first:
+      213: -2148420326035616657
+    second: musik nachrichr medium_9
+  - first:
+      213: 3360199569714900605
+    second: musik nachrichr medium_10
+  - first:
+      213: 6785473786202972000
+    second: musik nachrichr medium_11
+  - first:
+      213: 8667051649443009520
+    second: musik nachrichr medium_12
+  - first:
+      213: -4315716221609471669
+    second: musik nachrichr medium_13
+  - first:
+      213: -1272952479555154432
+    second: musik nachrichr medium_14
+  - first:
+      213: 4463180667158654127
+    second: musik nachrichr medium_15
+  - first:
+      213: 1876082217092866549
+    second: musik nachrichr medium_16
+  - first:
+      213: -6362119917263949519
+    second: musik nachrichr medium_17
+  - first:
+      213: -4562286105451460667
+    second: musik nachrichr medium_18
+  - first:
+      213: -7797783489747216942
+    second: musik nachrichr medium_19
+  - first:
+      213: 7366503407160761218
+    second: musik nachrichr medium_20
+  - first:
+      213: 8026670887933361149
+    second: musik nachrichr medium_21
+  - first:
+      213: 777694560251333927
+    second: musik nachrichr medium_22
+  - first:
+      213: -3852415378781027780
+    second: musik nachrichr medium_23
+  - first:
+      213: 5413827911390926570
+    second: musik nachrichr medium_24
+  - first:
+      213: -815271604474881509
+    second: musik nachrichr medium_25
+  - first:
+      213: 6346060542574632020
+    second: musik nachrichr medium_26
+  - first:
+      213: -3639775458595256730
+    second: musik nachrichr medium_27
+  - first:
+      213: 2470492022549911003
+    second: musik nachrichr medium_28
+  - first:
+      213: -422354632910490101
+    second: musik nachrichr medium_29
+  - first:
+      213: 4852556780241772012
+    second: musik nachrichr medium_30
+  - first:
+      213: -3987150818137651338
+    second: musik nachrichr medium_31
+  - first:
+      213: -302745015181877877
+    second: musik nachrichr medium_32
+  - first:
+      213: -3962960123720711010
+    second: musik nachrichr medium_33
+  - first:
+      213: -1168594556239887115
+    second: musik nachrichr medium_34
+  - first:
+      213: 9094969421712389599
+    second: musik nachrichr medium_35
+  - first:
+      213: 4621586177145501987
+    second: musik nachrichr medium_36
+  - first:
+      213: -8764435209654853049
+    second: musik nachrichr medium_37
+  - first:
+      213: 8814596262267957929
+    second: musik nachrichr medium_38
+  - first:
+      213: -7395016081977749228
+    second: musik nachrichr medium_39
+  - first:
+      213: -6345460004892464529
+    second: musik nachrichr medium_40
+  - first:
+      213: -5945539647362435048
+    second: musik nachrichr medium_41
+  - first:
+      213: -3242946337199024138
+    second: musik nachrichr medium_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: musik nachrichr medium_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb4d16a47e8ad5d0800000000000000
+      internalID: -3036958367053689931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99557c0407949c930800000000000000
+      internalID: 4163940076952704409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759a84d2de11593d0800000000000000
+      internalID: -3200632249812211369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb07535888d987140800000000000000
+      internalID: 4717693819346579643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a7cfe47e33d5c80800000000000000
+      internalID: -8332446667009918333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e4b11b2a52283c0800000000000000
+      internalID: -4358880108654932422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092fa05fbc0c8bc0800000000000000
+      internalID: -3779631971438745342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6395054b5b13ce0800000000000000
+      internalID: -1427159820852971809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84b3af9024994f40800000000000000
+      internalID: 5713260470134355083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c0b66a8174f22e0800000000000000
+      internalID: -2148420326035616657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee64f94b3d1ae20800000000000000
+      internalID: 3360199569714900605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f5a532578da2e50800000000000000
+      internalID: 6785473786202972000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3930f1e8d874870800000000000000
+      internalID: 8667051649443009520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41939b46fe7b14c0800000000000000
+      internalID: -4315716221609471669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e8928d670955ee0800000000000000
+      internalID: -1272952479555154432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 13
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: face16a7b2760fd30800000000000000
+      internalID: 4463180667158654127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16f3726de290a10800000000000000
+      internalID: 1876082217092866549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1317b09a4a535b7a0800000000000000
+      internalID: -6362119917263949519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c78dd885f08fa0c0800000000000000
+      internalID: -4562286105451460667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d516320b35b8c390800000000000000
+      internalID: -7797783489747216942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b9584c1d31b3660800000000000000
+      internalID: 7366503407160761218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_21
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 10
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbbc3c35a6746f60800000000000000
+      internalID: 8026670887933361149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc887051deaca00800000000000000
+      internalID: 777694560251333927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32418cbf98798ac0800000000000000
+      internalID: -3852415378781027780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_24
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae61d8d3dc7c12b40800000000000000
+      internalID: 5413827911390926570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_25
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 10
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1adfc39bc29fa4f0800000000000000
+      internalID: -815271604474881509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_26
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 14
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c984bc07cb11850800000000000000
+      internalID: 6346060542574632020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_27
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 13
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666ce38318bec7dc0800000000000000
+      internalID: -3639775458595256730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51680c763f84220800000000000000
+      internalID: 2470492022549911003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_29
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 14
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b063128f2be732af0800000000000000
+      internalID: -422354632910490101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced59b28eaeb75340800000000000000
+      internalID: 4852556780241772012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_31
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774ffaa47bcaa8c0800000000000000
+      internalID: -3987150818137651338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_32
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 13
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d5090430f6ccbf0800000000000000
+      internalID: -302745015181877877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 13
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94c69e93ccb009c0800000000000000
+      internalID: -3962960123720711010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_34
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 14
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4cddc417158cfe0800000000000000
+      internalID: -1168594556239887115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_35
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 13
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5f4387082d73e70800000000000000
+      internalID: 9094969421712389599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329fc93542c232040800000000000000
+      internalID: 4621586177145501987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a89fdc987e5680800000000000000
+      internalID: -8764435209654853049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 27
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2b7fa499cb35a70800000000000000
+      internalID: 8814596262267957929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4115a6dcd00af5990800000000000000
+      internalID: -7395016081977749228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aafe7ceb560f7a0800000000000000
+      internalID: -6345460004892464529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_41
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 13
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f5f801333d7da0800000000000000
+      internalID: -5945539647362435048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musik nachrichr medium_42
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 14
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f71999fc7dbef2d0800000000000000
+      internalID: -3242946337199024138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      musik nachrichr medium_0: -3036958367053689931
+      musik nachrichr medium_1: 4163940076952704409
+      musik nachrichr medium_10: 3360199569714900605
+      musik nachrichr medium_11: 6785473786202972000
+      musik nachrichr medium_12: 8667051649443009520
+      musik nachrichr medium_13: -4315716221609471669
+      musik nachrichr medium_14: -1272952479555154432
+      musik nachrichr medium_15: 4463180667158654127
+      musik nachrichr medium_16: 1876082217092866549
+      musik nachrichr medium_17: -6362119917263949519
+      musik nachrichr medium_18: -4562286105451460667
+      musik nachrichr medium_19: -7797783489747216942
+      musik nachrichr medium_2: -3200632249812211369
+      musik nachrichr medium_20: 7366503407160761218
+      musik nachrichr medium_21: 8026670887933361149
+      musik nachrichr medium_22: 777694560251333927
+      musik nachrichr medium_23: -3852415378781027780
+      musik nachrichr medium_24: 5413827911390926570
+      musik nachrichr medium_25: -815271604474881509
+      musik nachrichr medium_26: 6346060542574632020
+      musik nachrichr medium_27: -3639775458595256730
+      musik nachrichr medium_28: 2470492022549911003
+      musik nachrichr medium_29: -422354632910490101
+      musik nachrichr medium_3: 4717693819346579643
+      musik nachrichr medium_30: 4852556780241772012
+      musik nachrichr medium_31: -3987150818137651338
+      musik nachrichr medium_32: -302745015181877877
+      musik nachrichr medium_33: -3962960123720711010
+      musik nachrichr medium_34: -1168594556239887115
+      musik nachrichr medium_35: 9094969421712389599
+      musik nachrichr medium_36: 4621586177145501987
+      musik nachrichr medium_37: -8764435209654853049
+      musik nachrichr medium_38: 8814596262267957929
+      musik nachrichr medium_39: -7395016081977749228
+      musik nachrichr medium_4: -8332446667009918333
+      musik nachrichr medium_40: -6345460004892464529
+      musik nachrichr medium_41: -5945539647362435048
+      musik nachrichr medium_42: -3242946337199024138
+      musik nachrichr medium_5: -4358880108654932422
+      musik nachrichr medium_6: -3779631971438745342
+      musik nachrichr medium_7: -1427159820852971809
+      musik nachrichr medium_8: 5713260470134355083
+      musik nachrichr medium_9: -2148420326035616657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

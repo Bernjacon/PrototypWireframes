@@ -17,7 +17,7 @@ public class LoginScript : MonoBehaviour
 
 
     private static string playerName = "Testname";
-    public static string PlayerName;
+    public static string PlayerName = "Testname2";
     private void Awake()
     {
         loginButton.gameObject.SetActive(false);

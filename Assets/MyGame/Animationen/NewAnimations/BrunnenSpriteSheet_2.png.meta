@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: ec266c377171ae44ca108df7aa3d2e72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2492677306722611115
+    second: BrunnenSpriteSheet_2_0
+  - first:
+      213: 8322440692837037961
+    second: BrunnenSpriteSheet_2_1
+  - first:
+      213: -5405020807499021580
+    second: BrunnenSpriteSheet_2_2
+  - first:
+      213: -8657908048842713127
+    second: BrunnenSpriteSheet_2_3
+  - first:
+      213: -4343672960857062518
+    second: BrunnenSpriteSheet_2_4
+  - first:
+      213: 2682361088265155432
+    second: BrunnenSpriteSheet_2_5
+  - first:
+      213: 4859192445955816739
+    second: BrunnenSpriteSheet_2_6
+  - first:
+      213: -3408422566307172968
+    second: BrunnenSpriteSheet_2_7
+  - first:
+      213: 1855976992256951855
+    second: BrunnenSpriteSheet_2_8
+  - first:
+      213: 1158239223619961319
+    second: BrunnenSpriteSheet_2_9
+  - first:
+      213: -8893809742840889463
+    second: BrunnenSpriteSheet_2_10
+  - first:
+      213: 1627532398734123157
+    second: BrunnenSpriteSheet_2_11
+  - first:
+      213: 4839162497113064060
+    second: BrunnenSpriteSheet_2_12
+  - first:
+      213: -4137875830303700190
+    second: BrunnenSpriteSheet_2_13
+  - first:
+      213: 2379065056790340032
+    second: BrunnenSpriteSheet_2_14
+  - first:
+      213: 8485574609677518658
+    second: BrunnenSpriteSheet_2_15
+  - first:
+      213: -8738637770042405244
+    second: BrunnenSpriteSheet_2_16
+  - first:
+      213: -776888032886925612
+    second: BrunnenSpriteSheet_2_17
+  - first:
+      213: -5419982408912399313
+    second: BrunnenSpriteSheet_2_18
+  - first:
+      213: -5650055171959685086
+    second: BrunnenSpriteSheet_2_19
+  - first:
+      213: -3881289309319473393
+    second: BrunnenSpriteSheet_2_20
+  - first:
+      213: -2194046974978514479
+    second: BrunnenSpriteSheet_2_21
+  - first:
+      213: 175876610473914256
+    second: BrunnenSpriteSheet_2_22
+  - first:
+      213: 5235420543001136928
+    second: BrunnenSpriteSheet_2_23
+  - first:
+      213: -3686933395774310165
+    second: BrunnenSpriteSheet_2_24
+  - first:
+      213: -811521323256844532
+    second: BrunnenSpriteSheet_2_25
+  - first:
+      213: 92844892978152961
+    second: BrunnenSpriteSheet_2_26
+  - first:
+      213: -877409976636813622
+    second: BrunnenSpriteSheet_2_27
+  - first:
+      213: -4411591325219999116
+    second: BrunnenSpriteSheet_2_28
+  - first:
+      213: -2695985105559222392
+    second: BrunnenSpriteSheet_2_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe0eebdc4c79220800000000000000
+      internalID: 2492677306722611115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 4320
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987bec847bf3f7370800000000000000
+      internalID: 8322440692837037961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_2
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 4320
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f20d6d66328df4b0800000000000000
+      internalID: -5405020807499021580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 4320
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d71cba408ee8d780800000000000000
+      internalID: -8657908048842713127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 4320
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8345a3b47c28b3c0800000000000000
+      internalID: -4343672960857062518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_5
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 4320
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863ff51b239a93520800000000000000
+      internalID: 2682361088265155432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d3574d8c15f6340800000000000000
+      internalID: 4859192445955816739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3240
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de5da0cb9d2b0d0800000000000000
+      internalID: -3408422566307172968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_8
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3240
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2606c6bd31c1c910800000000000000
+      internalID: 1855976992256951855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_9
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 3240
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1cac0ff64e21010800000000000000
+      internalID: 1158239223619961319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_10
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 3240
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7f0a0927d29480800000000000000
+      internalID: -8893809742840889463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_11
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 3240
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590acf6f718269610800000000000000
+      internalID: 1627532398734123157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7201d2f6a8282340800000000000000
+      internalID: 4839162497113064060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2160
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc2121bdf4396c0800000000000000
+      internalID: -4137875830303700190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_14
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2160
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c168877013240120800000000000000
+      internalID: 2379065056790340032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_15
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2160
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24707e42621d2c570800000000000000
+      internalID: 8485574609677518658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_16
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 2160
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8fc75f3f1ab680800000000000000
+      internalID: -8738637770042405244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_17
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 2160
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d5814370f735f0800000000000000
+      internalID: -776888032886925612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2419e327ba58c4b0800000000000000
+      internalID: -5419982408912399313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_19
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1080
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2200cf1a1c8f691b0800000000000000
+      internalID: -5650055171959685086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_20
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1080
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07dd77efe3e22ac0800000000000000
+      internalID: -3881289309319473393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_21
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1080
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1a2eb96ed2d81e0800000000000000
+      internalID: -2194046974978514479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_22
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 1080
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fe89b68d6d07200800000000000000
+      internalID: 175876610473914256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_23
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 1080
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f8d53de33f7a840800000000000000
+      internalID: 5235420543001136928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f85a5c9165dcc0800000000000000
+      internalID: -3686933395774310165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fee97f7a5ecb4f0800000000000000
+      internalID: -811521323256844532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_26
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 0
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1060c2130f9d94100800000000000000
+      internalID: 92844892978152961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_27
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 0
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acecd246640d2d3f0800000000000000
+      internalID: -877409976636813622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_28
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 0
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47231163011e6c2c0800000000000000
+      internalID: -4411591325219999116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrunnenSpriteSheet_2_29
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 0
+        width: 970
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887066794dfe59ad0800000000000000
+      internalID: -2695985105559222392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d02e39bc12b3e304f84a03b0b9b6d4a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":5.0},"gridSpriteSize":{"x":970.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BrunnenSpriteSheet_2_0: 2492677306722611115
+      BrunnenSpriteSheet_2_1: 8322440692837037961
+      BrunnenSpriteSheet_2_10: -8893809742840889463
+      BrunnenSpriteSheet_2_11: 1627532398734123157
+      BrunnenSpriteSheet_2_12: 4839162497113064060
+      BrunnenSpriteSheet_2_13: -4137875830303700190
+      BrunnenSpriteSheet_2_14: 2379065056790340032
+      BrunnenSpriteSheet_2_15: 8485574609677518658
+      BrunnenSpriteSheet_2_16: -8738637770042405244
+      BrunnenSpriteSheet_2_17: -776888032886925612
+      BrunnenSpriteSheet_2_18: -5419982408912399313
+      BrunnenSpriteSheet_2_19: -5650055171959685086
+      BrunnenSpriteSheet_2_2: -5405020807499021580
+      BrunnenSpriteSheet_2_20: -3881289309319473393
+      BrunnenSpriteSheet_2_21: -2194046974978514479
+      BrunnenSpriteSheet_2_22: 175876610473914256
+      BrunnenSpriteSheet_2_23: 5235420543001136928
+      BrunnenSpriteSheet_2_24: -3686933395774310165
+      BrunnenSpriteSheet_2_25: -811521323256844532
+      BrunnenSpriteSheet_2_26: 92844892978152961
+      BrunnenSpriteSheet_2_27: -877409976636813622
+      BrunnenSpriteSheet_2_28: -4411591325219999116
+      BrunnenSpriteSheet_2_29: -2695985105559222392
+      BrunnenSpriteSheet_2_3: -8657908048842713127
+      BrunnenSpriteSheet_2_4: -4343672960857062518
+      BrunnenSpriteSheet_2_5: 2682361088265155432
+      BrunnenSpriteSheet_2_6: 4859192445955816739
+      BrunnenSpriteSheet_2_7: -3408422566307172968
+      BrunnenSpriteSheet_2_8: 1855976992256951855
+      BrunnenSpriteSheet_2_9: 1158239223619961319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

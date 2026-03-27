@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: bc90c7d27c6e0b44cb8d268921106fdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 417542531332786730
+    second: supermarkt url internezz_0
+  - first:
+      213: -7919047203103024474
+    second: supermarkt url internezz_1
+  - first:
+      213: -3479007343341399371
+    second: supermarkt url internezz_2
+  - first:
+      213: -4104191941653431607
+    second: supermarkt url internezz_3
+  - first:
+      213: 3210754022705685569
+    second: supermarkt url internezz_4
+  - first:
+      213: 8430918495532824963
+    second: supermarkt url internezz_5
+  - first:
+      213: 5900693001738218538
+    second: supermarkt url internezz_6
+  - first:
+      213: 2360304157552376357
+    second: supermarkt url internezz_7
+  - first:
+      213: -7963302066582916185
+    second: supermarkt url internezz_8
+  - first:
+      213: -2965697710737246256
+    second: supermarkt url internezz_9
+  - first:
+      213: -7982334221556426893
+    second: supermarkt url internezz_10
+  - first:
+      213: 5172808980525868865
+    second: supermarkt url internezz_11
+  - first:
+      213: -7190220639653742157
+    second: supermarkt url internezz_12
+  - first:
+      213: 4243756047482440057
+    second: supermarkt url internezz_13
+  - first:
+      213: 6530355697997319375
+    second: supermarkt url internezz_14
+  - first:
+      213: 4644932480866311656
+    second: supermarkt url internezz_15
+  - first:
+      213: -6234272833683894539
+    second: supermarkt url internezz_16
+  - first:
+      213: -8361727716659420254
+    second: supermarkt url internezz_17
+  - first:
+      213: 8157594369252614993
+    second: supermarkt url internezz_18
+  - first:
+      213: -5543648224137625922
+    second: supermarkt url internezz_19
+  - first:
+      213: 8199018777969079704
+    second: supermarkt url internezz_20
+  - first:
+      213: -5358407778980076811
+    second: supermarkt url internezz_21
+  - first:
+      213: -6982649622996566199
+    second: supermarkt url internezz_22
+  - first:
+      213: -6054709076295162132
+    second: supermarkt url internezz_23
+  - first:
+      213: 2929356312131782262
+    second: supermarkt url internezz_24
+  - first:
+      213: 6337999958854531290
+    second: supermarkt url internezz_25
+  - first:
+      213: 3536096178406135239
+    second: supermarkt url internezz_26
+  - first:
+      213: 5758087026760952542
+    second: supermarkt url internezz_27
+  - first:
+      213: -888704326382237311
+    second: supermarkt url internezz_28
+  - first:
+      213: -6965627107855922383
+    second: supermarkt url internezz_29
+  - first:
+      213: 7262783797678862296
+    second: supermarkt url internezz_30
+  - first:
+      213: -279466894551215172
+    second: supermarkt url internezz_31
+  - first:
+      213: 8696325088765091754
+    second: supermarkt url internezz_32
+  - first:
+      213: -5218249531334265572
+    second: supermarkt url internezz_33
+  - first:
+      213: 1390096293889595543
+    second: supermarkt url internezz_34
+  - first:
+      213: -4856550893582141919
+    second: supermarkt url internezz_35
+  - first:
+      213: 4676283712474347891
+    second: supermarkt url internezz_36
+  - first:
+      213: -2068587668154267614
+    second: supermarkt url internezz_37
+  - first:
+      213: -1220309163203695821
+    second: supermarkt url internezz_38
+  - first:
+      213: -6087622493136543129
+    second: supermarkt url internezz_39
+  - first:
+      213: 5410184849464968727
+    second: supermarkt url internezz_40
+  - first:
+      213: 445029939305134877
+    second: supermarkt url internezz_41
+  - first:
+      213: 6409707467770960534
+    second: supermarkt url internezz_42
+  - first:
+      213: -5594265218521949966
+    second: supermarkt url internezz_43
+  - first:
+      213: 4609240798155734157
+    second: supermarkt url internezz_44
+  - first:
+      213: -7569430721257073347
+    second: supermarkt url internezz_45
+  - first:
+      213: -6217835993401885865
+    second: supermarkt url internezz_46
+  - first:
+      213: 788311958257117614
+    second: supermarkt url internezz_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermarkt url internezz_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a45b258b86bc500800000000000000
+      internalID: 417542531332786730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5e739684e91290800000000000000
+      internalID: -7919047203103024474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 14
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b21929f04518bfc0800000000000000
+      internalID: -3479007343341399371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 13
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf9bb8c2bfa07c0800000000000000
+      internalID: -4104191941653431607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 13
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446788b5c3ee8c20800000000000000
+      internalID: 3210754022705685569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893188e3b3a00570800000000000000
+      internalID: 8430918495532824963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 50
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6d39950973e150800000000000000
+      internalID: 5900693001738218538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a79c8302c71c020800000000000000
+      internalID: 2360304157552376357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_8
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 14
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f03a36faac7190800000000000000
+      internalID: -7963302066582916185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_9
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 13
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7315025a9b7d6d0800000000000000
+      internalID: -2965697710737246256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_10
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 10
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775fa5515d093190800000000000000
+      internalID: -7982334221556426893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_11
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 14
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147e13f6c5289c740800000000000000
+      internalID: 5172808980525868865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 13
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9b1c47c64373c90800000000000000
+      internalID: -7190220639653742157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794b9b04a9d4ea30800000000000000
+      internalID: 4243756047482440057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc041478eb70aa50800000000000000
+      internalID: 6530355697997319375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd5bf3b7d167040800000000000000
+      internalID: 4644932480866311656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 14
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe476b63e96b79a0800000000000000
+      internalID: -6234272833683894539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 14
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a32afba1fc25fb80800000000000000
+      internalID: -8361727716659420254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536709abd8953170800000000000000
+      internalID: 8157594369252614993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe3d88cf410113b0800000000000000
+      internalID: -5543648224137625922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ba976324c8c170800000000000000
+      internalID: 8199018777969079704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 29
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e33cd38c13a5b0800000000000000
+      internalID: -5358407778980076811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f364ed925a81f90800000000000000
+      internalID: -6982649622996566199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 13
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6e711ac2a59fba0800000000000000
+      internalID: -6054709076295162132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c925ab0a27a820800000000000000
+      internalID: 2929356312131782262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 29
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f6f5e16915f750800000000000000
+      internalID: 6337999958854531290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_26
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 14
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5938d3dbcb21130800000000000000
+      internalID: 3536096178406135239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda2fd7a4a5d8ef40800000000000000
+      internalID: 5758087026760952542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18942abaf10baa3f0800000000000000
+      internalID: -888704326382237311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 13
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b8a660d0f155f90800000000000000
+      internalID: -6965627107855922383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_30
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df6c1552679ac460800000000000000
+      internalID: 7262783797678862296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_31
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb31bcf07522f1cf0800000000000000
+      internalID: -279466894551215172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_32
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 13
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf1927d79d8fa870800000000000000
+      internalID: 8696325088765091754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 13
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15f87fd2bd0597b0800000000000000
+      internalID: -5218249531334265572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_34
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79850e8d63d9a4310800000000000000
+      internalID: 1390096293889595543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263e6281b01a9cb0800000000000000
+      internalID: -4856550893582141919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_36
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797afea24f75e040800000000000000
+      internalID: 4676283712474347891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 14
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22849e4c976ea43e0800000000000000
+      internalID: -2068587668154267614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_38
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be6131847901fe0800000000000000
+      internalID: -1220309163203695821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_39
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 14
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7622be9989b648ba0800000000000000
+      internalID: -6087622493136543129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_40
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 13
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164f89c476d41b40800000000000000
+      internalID: 5410184849464968727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_41
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 14
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b32b63f501d2600800000000000000
+      internalID: 445029939305134877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_42
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 14
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a18aa5bfad3f850800000000000000
+      internalID: 6409707467770960534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f81da66c6d2d52b0800000000000000
+      internalID: -5594265218521949966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_44
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 14
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7f4ac51057ff30800000000000000
+      internalID: 4609240798155734157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_45
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d351b831ddaf3f690800000000000000
+      internalID: -7569430721257073347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_46
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 14
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b74a58b1fc5b9a0800000000000000
+      internalID: -6217835993401885865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermarkt url internezz_47
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 13
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ab14ac85a0fa00800000000000000
+      internalID: 788311958257117614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      supermarkt url internezz_0: 417542531332786730
+      supermarkt url internezz_1: -7919047203103024474
+      supermarkt url internezz_10: -7982334221556426893
+      supermarkt url internezz_11: 5172808980525868865
+      supermarkt url internezz_12: -7190220639653742157
+      supermarkt url internezz_13: 4243756047482440057
+      supermarkt url internezz_14: 6530355697997319375
+      supermarkt url internezz_15: 4644932480866311656
+      supermarkt url internezz_16: -6234272833683894539
+      supermarkt url internezz_17: -8361727716659420254
+      supermarkt url internezz_18: 8157594369252614993
+      supermarkt url internezz_19: -5543648224137625922
+      supermarkt url internezz_2: -3479007343341399371
+      supermarkt url internezz_20: 8199018777969079704
+      supermarkt url internezz_21: -5358407778980076811
+      supermarkt url internezz_22: -6982649622996566199
+      supermarkt url internezz_23: -6054709076295162132
+      supermarkt url internezz_24: 2929356312131782262
+      supermarkt url internezz_25: 6337999958854531290
+      supermarkt url internezz_26: 3536096178406135239
+      supermarkt url internezz_27: 5758087026760952542
+      supermarkt url internezz_28: -888704326382237311
+      supermarkt url internezz_29: -6965627107855922383
+      supermarkt url internezz_3: -4104191941653431607
+      supermarkt url internezz_30: 7262783797678862296
+      supermarkt url internezz_31: -279466894551215172
+      supermarkt url internezz_32: 8696325088765091754
+      supermarkt url internezz_33: -5218249531334265572
+      supermarkt url internezz_34: 1390096293889595543
+      supermarkt url internezz_35: -4856550893582141919
+      supermarkt url internezz_36: 4676283712474347891
+      supermarkt url internezz_37: -2068587668154267614
+      supermarkt url internezz_38: -1220309163203695821
+      supermarkt url internezz_39: -6087622493136543129
+      supermarkt url internezz_4: 3210754022705685569
+      supermarkt url internezz_40: 5410184849464968727
+      supermarkt url internezz_41: 445029939305134877
+      supermarkt url internezz_42: 6409707467770960534
+      supermarkt url internezz_43: -5594265218521949966
+      supermarkt url internezz_44: 4609240798155734157
+      supermarkt url internezz_45: -7569430721257073347
+      supermarkt url internezz_46: -6217835993401885865
+      supermarkt url internezz_47: 788311958257117614
+      supermarkt url internezz_5: 8430918495532824963
+      supermarkt url internezz_6: 5900693001738218538
+      supermarkt url internezz_7: 2360304157552376357
+      supermarkt url internezz_8: -7963302066582916185
+      supermarkt url internezz_9: -2965697710737246256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

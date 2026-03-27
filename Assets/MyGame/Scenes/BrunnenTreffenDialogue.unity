@@ -2048,6 +2048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   blackScreenImage: {fileID: 1049504118}
   fadeDuration: 2
+  loadingScreen: {fileID: 0}
 --- !u!4 &1438984044
 Transform:
   m_ObjectHideFlags: 0
